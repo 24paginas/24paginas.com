@@ -1,21 +1,49 @@
-.header-logo a
-  padding 0 8px
+header
+  height 100%
+  border-bottom 1px solid #ddd
+  font-family  Montserrat
+  
+.navbar .menu
+  width 100%
+  text-align right
 
-.navbar .menu a
-  padding 0 8px
-
+.navbar .menu .menu-item
+  margin 0 5px
 
 .navbar .menu .active
   font-weight 900
-  color $light-navbar-active-color
-  .dark-theme &
-    color $dark-navbar-active-color
+  color $navbar-active-color
 
+.header-logo
+  position absolute
+  top 10px
+  height 94px
+  width 94px
 
-.navbar-header a:hover, .navbar .menu a:hover
-  background-color transparent
-
-header label
-  margin-left 15px
-  position relative
-  -webkit-transform translateY(.1em) translateX(.5em)
+.header-logo a
+  display inline-block
+  height 94px
+  width 94px
+  
+.header-logo img
+  height 94px
+  width 94px
+  -webkit-border-radius 100%
+  border-radius 100%
+  -webkit-box-shadow 0 0 0 1px #ddd
+  box-shadow 0 0 0 1px #ddd
+  margin 0 auto
+  -webkit-transition all ease 0.4s
+  -moz-transition all ease 0.4s
+  -o-transition all ease 0.4s
+  transition all ease 0.4s
+  cursor pointer
+  background-color white
+  &:hover
+    position relative
+    -webkit-transform rotate(-20deg)
+    -moz-transform rotate(-20deg)
+    -ms-transform rotate(-20deg)
+    -o-transform rotate(-20deg)
+    transform rotate(-20deg)
+    cursor pointer

@@ -1,8 +1,11 @@
 <header>
     <nav class="navbar">
         <div class="container">
-            <div class="navbar-header header-logo"><a href="<%- url_for('') %>"><%= theme.navname %></a></div>
-            <div class="menu navbar-right">
+            <div class="header-logo">
+                <a href="<%= config.url %>" rel="home">
+                    <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>" width="94" height="94"></a>
+            </div>
+            <div class="menu">
                 <% for (var i in theme.nav){ %>
                     <a class="menu-item" href="<%- url_for(theme.nav[i].url) %>"><%= __(theme.nav[i].name) %></a>
                 <% } %>
@@ -16,7 +19,8 @@
         <div class="container">
             <div class="navbar-header">
                 <div>
-                    <a href="<%- config.root %>"><%= theme.navname %></a>
+                <a href="<%= config.url %>" rel="home">
+                    <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>" width="75" height="75"></a>
                 </div>
                 <div class="menu-toggle" onclick="mobileBtn()">&#9776; <%- __('menu') %></div>
             </div>
