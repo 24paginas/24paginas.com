@@ -1,5 +1,5 @@
 {
-  "name": "hexo-site",
+  "name": "24paginas.com",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,11 @@
     "version": "6.0.0"
   },
   "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
     "hexo": "^6.0.0",
+    "hexo-fontawesome": "^2.2.1",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",

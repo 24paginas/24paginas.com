@@ -4,8 +4,8 @@
 
 # Site
 title: 24 páginas
-subtitle: 'Tebeos y otras cosas chachis.'
-description: 'Leer tebeos es de lo bueno lo mejor, de lo mejor lo superior.'
+subtitle: 'Tebeos y otras cosas chachis'
+description: 'Leer tebeos es de lo bueno lo mejor, de lo mejor lo superior'
 keywords:
 author: neverbot
 language: es
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: 24paginas
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
