@@ -25,10 +25,6 @@ i18n:
 ## prefix is the fontawesome style
 ## Unused keys can be commented out.
 links:
-  Blog: 
-    link: /archives
-    icon: book-open
-    prefix: fas
   Twitter: 
     link: https://twitter.com/24paginas
     icon: twitter
