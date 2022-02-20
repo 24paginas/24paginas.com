@@ -1,7 +1,6 @@
 header
   height 100%
-  border-bottom 1px solid #ddd
-  font-family  Montserrat
+  border-bottom 2px solid $emphasis-color
   
 .navbar .menu
   width 100%
@@ -9,6 +8,11 @@ header
 
 .navbar .menu .menu-item
   margin 0 5px
+  color $emphasis-color
+  font-family Poppins
+  font-style normal
+  font-weight 700 
+  font-size 20px
 
 .navbar .menu .active
   font-weight 900
@@ -17,22 +21,21 @@ header
 .header-logo
   position absolute
   top 10px
-  height 94px
-  width 94px
+  height 108px
+  width 108px
 
 .header-logo a
   display inline-block
-  height 94px
-  width 94px
+  height 108px
+  width 108px
   
 .header-logo img
   height 94px
   width 94px
-  -webkit-border-radius 100%
-  border-radius 100%
-  -webkit-box-shadow 0 0 0 1px #ddd
-  box-shadow 0 0 0 1px #ddd
   margin 0 auto
+  padding 5px
+  border solid 2px $emphasis-color
+  border-radius 100%
   -webkit-transition all ease 0.4s
   -moz-transition all ease 0.4s
   -o-transition all ease 0.4s
