@@ -1,29 +1,22 @@
 <div class="container">
     <div class="intro">
-        <div class="avatar">
-            <a href="<%- url_for(theme.nav.Blog) %>"><img src="<%- url_for(theme.avatar, { ignore: true }) %>"></a>
-        </div>
-        <div class="nickname"><%- config.title %></div>
-        <div class="description"><%- markdown(config.description) %></div>
-        <div class="links">
-            <% if (theme.links !== undefined) { %>
-                <% for (var key in theme.links){ %>
-                    <a class="link-item" title="<%- key %>" href="<%= url_for(theme.links[key].link) %>">
-                        <% if(theme.links_text_enable) { %>
-                            <%= key %>
-                        <%}%>
-                        <%if(theme.links_icon_enable){ %>
-                            <span class="icon"><%- fa_inline(theme.links[key].icon, {prefix: theme.links[key].prefix}) %></span>
-                        <%}%>
+        <article class="post-wrap">
+            <div class="post-content">
+                <%- site.pages.findOne({ path: 'intro/index.html' }).content %>
+                <div class="links">
+                    <a class="link-item" title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/24paginas">
+                        <span class="icon"><%- fa_inline("twitter", { prefix: "fab" }) %></span>
                     </a>
-                <% } %>
-            <% } %>
-        </div>
+                    <a class="link-item" title="Instagram" target="_blank" rel="noopener" href="https://instagram.com/24paginas">
+                        <span class="icon"><%- fa_inline("instagram", { prefix: "fab" }) %></span>
+                    </a>
+                </div>
+            </div>
+        </article>
         <div class="arrow">
             <span></span>
             <span></span>
             <span></span>
         </div>
     </div>
-    <%- partial('_partial/last-posts', {pagination: config.archive, index: true}) %>
 </div>

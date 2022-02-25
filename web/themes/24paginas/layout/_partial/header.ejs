@@ -1,37 +1,35 @@
-<header>
-    <nav class="navbar">
-        <div class="container">
-            <div class="header-logo">
-                <a href="<%= config.url %>" rel="home">
-                    <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>"></a>
-            </div>
-            <div class="menu">
-                <% for (var i in theme.nav){ %>
-                    <a class="menu-item" href="<%- url_for(theme.nav[i].url) %>"><%= __(theme.nav[i].name) %></a>
-                <% } %>
-            </div>
-
+<nav class="navbar">
+    <div class="container">
+        <div class="header-logo">
+            <a href="<%= config.url %>" rel="home">
+                <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>"></a>
         </div>
-    </nav>
-
-    <%# mobile %>
-    <nav class="navbar-mobile" id="nav-mobile">
-        <div class="container">
-            <div class="navbar-header">
-                <div>
-                <a href="<%= config.url %>" rel="home">
-                    <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>" width="75" height="75"></a>
-                </div>
-                <div class="menu-toggle" onclick="mobileBtn()">&#9776; <%- __('menu') %></div>
-            </div>
-            <div class="menu" id="mobile-menu">
-                <% for (var i in theme.nav){ %>
-                    <a class="menu-item" href="<%- url_for(theme.nav[i].url) %>"><%= __(theme.nav[i].name) %></a>
-                <% } %>
-            </div>
+        <div class="menu">
+            <% for (var i in theme.nav){ %>
+                <a class="menu-item" href="<%- url_for(theme.nav[i].url) %>"><%= __(theme.nav[i].name) %></a>
+            <% } %>
         </div>
-    </nav>
-</header>
+
+    </div>
+</nav>
+
+<%# mobile %>
+<nav class="navbar-mobile" id="nav-mobile">
+    <div class="container">
+        <div class="navbar-header">
+            <div>
+            <a href="<%= config.url %>" rel="home">
+                <img src="<%- url_for(theme.avatar, { ignore: true }) %>" alt="<%= config.title %>" width="75" height="75"></a>
+            </div>
+            <div class="menu-toggle" onclick="mobileBtn()">&#9776; <%- __('menu') %></div>
+        </div>
+        <div class="menu" id="mobile-menu">
+            <% for (var i in theme.nav){ %>
+                <a class="menu-item" href="<%- url_for(theme.nav[i].url) %>"><%= __(theme.nav[i].name) %></a>
+            <% } %>
+        </div>
+    </div>
+</nav>
 
 <script>
     var mobileBtn = function f() {
