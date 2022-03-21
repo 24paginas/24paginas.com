@@ -17,4 +17,4 @@
 
   # Default build command.
   # command = "npx hexo generate"
-
+  command = "echo 'you are cool!'"
