@@ -5,11 +5,9 @@
   "keywords": [
     "hexo",
     "theme",
-    "chic",
-    "sirice",
     "hexo-theme"
   ],
-  "author": "Sirice",
+  "author": "neverbot",
   "main": "index.js",
   "scripts": {
     "test": "test"
