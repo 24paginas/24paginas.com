@@ -6,3 +6,5 @@ web/*.log
 web/public/
 web/node_modules/
 web/.deploy*/
+
+scripts/node_modules/
