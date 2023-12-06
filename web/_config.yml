@@ -40,7 +40,6 @@ external_link:
   exclude: ''
 filename_case: 1
 render_drafts: false
-post_asset_folder: false
 relative_link: false
 future: true
 highlight:
@@ -55,6 +54,13 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+
+post_asset_folder: true
+
+markdown:
+  plugins:
+    markdown-it-texmath:
+      disabled: true
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -103,8 +109,3 @@ theme: 24paginas
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-markdown:
-  plugins:
-    markdown-it-texmath:
-      disabled: true
