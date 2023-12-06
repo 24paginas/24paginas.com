@@ -103,3 +103,8 @@ theme: 24paginas
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+markdown:
+  plugins:
+    markdown-it-texmath:
+      disabled: true
