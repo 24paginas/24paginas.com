@@ -1,3 +1,3 @@
 [submodule "web/themes/24paginas"]
-  path = web/themes/24paginas
-  url = https://github.com/24paginas/hexo-24paginas-theme.git
+	path = web/themes/24paginas
+	url = https://github.com/24paginas/hexo-24paginas-theme.git
