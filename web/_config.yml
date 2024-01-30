@@ -11,6 +11,16 @@ author: neverbot
 language: es
 timezone: ''
 
+authors:
+  neverbot:
+    url: https://neverbot.com
+  uncientovolando:
+    url: https://instagram.com/uncientovolando
+  hecdruiz:
+    url: https://instagram.com/hecdruiz
+  24paginas:
+    url: https://24paginas.com
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://24paginas.com
