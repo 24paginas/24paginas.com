@@ -12,3 +12,6 @@ Porque leer tebeos es de lo bueno lo mejor, de lo mejor lo superior
 [{% fa_inline twitter fab %}](https://twitter.com/24paginas){ .link }
 [{% fa_inline instagram fab %}](https://instagram.com/24paginas){ .link }
 [{% fa_inline facebook fab %}](https://www.facebook.com/24paginas){ .link } {.links}
+
+
+[{% fa_inline chevron-down fas %}](https://twitter.com/24paginas){ .chevron-down }
