@@ -4,7 +4,6 @@ date: 2024-02-12 15:08:22
 media: 
   - 2796609703.jpg
 tags: 
-  - instagram
   - gogoackman
   - dragonballsd
   - dragonball

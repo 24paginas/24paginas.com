@@ -4,7 +4,6 @@ date: 2024-02-15 19:02:04
 media: 
   - 1340836586.jpg
 tags: 
-  - instagram
   - ivrea
   - hiroyaoku
   - gantz
