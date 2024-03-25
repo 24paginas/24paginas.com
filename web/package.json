@@ -34,6 +34,6 @@
     "prettier": "^3.2.5"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.1.1"
   }
 }
