@@ -84,4 +84,4 @@ FUERZA:
 6 75 a 100 t.
 7 Incalculable
 
-# ‪NOVEASLAgrafica‬
+[#NOVEASLAgrafica](/tags/noveaslagrafica)

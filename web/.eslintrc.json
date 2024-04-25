@@ -78,7 +78,9 @@
       "rules": {
         "markdownlint/md013": "off",
         "markdownlint/md024": "off",
+        "markdownlint/md025": "off",
         "markdownlint/md033": "off",
+        "markdownlint/md036": "off",
         "markdownlint/md041": "off"
       }
     }

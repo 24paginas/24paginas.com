@@ -28,7 +28,7 @@ Solo tienes que SEGUIRNOS y COMENTAR a este post etiquetando a un amigo por el q
 
 Entre todos los que cumpláis las condiciones sorteáremos la onomatopeya que publicamos el pasado viernes con la colaboración especial de [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks).
 
-Tienes hasta el día 31. ‪
-(Sorteo válido solo para España)‬
+Tienes hasta el día 31.
+(Sorteo válido solo para España)
 
 Fantastich!
