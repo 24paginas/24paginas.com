@@ -30,12 +30,5 @@ Y es que desde hace un par de años hemos podido ver la perdida de un miembro po
 
 Todo esto antes de encargarse de Marvel Legacy, lo que parece una vuelta a la edad heroica de la Casa de las Ideas.
 
-
 No somos dignos.
 
-
-
-
-
-
- 
