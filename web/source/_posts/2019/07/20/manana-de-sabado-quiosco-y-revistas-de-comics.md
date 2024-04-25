@@ -23,16 +23,10 @@ author: uncientovolando
 
 Mañana de sábado, quiosco y revistas de cómics...
 
-
-
 ..y, bueno, un poco de autobombo porque ya ha llegado el Segundo número de [@comicmania_es](https://instagram.com/comicmania_es) en el que tengo el placer de colaborar de nuevo con [#SentidoRadar](/tags/sentidoradar), un repaso a podcast comiqueros, y el perfil editorial de la francesa [@dargaud](https://instagram.com/dargaud), ideal si echas de menos nuestras [#NOVEASLAgrafica](/tags/noveaslagrafica).
 
 
 Además, artículos sobre [#pacoroca](/tags/pacoroca), [#inmortalhulk](/tags/inmortalhulk), el Batman de Neal Adams, la expo de [@dav.aja](https://instagram.com/dav.aja) y [@davidrubinm](https://instagram.com/davidrubinm), Seth... Cómics para todos los gustos, oiga. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
 
 
 [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#revistas](/tags/revistas) [#podcast](/tags/podcast) [#barman](/tags/barman) [#marvel](/tags/marvel) [#autobombo](/tags/autobombo) [#lapromosio](/tags/lapromosio) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

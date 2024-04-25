@@ -41,4 +41,3 @@ Como nota final, diría incluso que es imprescindible de cara a la otra joyita q
 ([@hecdruiz](https://instagram.com/hecdruiz))
 
 
- 
