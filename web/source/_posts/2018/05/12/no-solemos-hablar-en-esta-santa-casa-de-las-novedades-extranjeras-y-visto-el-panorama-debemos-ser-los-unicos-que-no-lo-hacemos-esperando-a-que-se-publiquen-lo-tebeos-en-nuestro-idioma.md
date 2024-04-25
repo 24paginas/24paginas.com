@@ -26,26 +26,18 @@ author: neverbot
 
 No solemos hablar en esta santa casa de las novedades extranjeras (y visto el panorama debemos ser los únicos que no lo hacemos), esperando a que se publiquen lo tebeos en nuestro idioma. Hagamos una excepción en la que hemos caído varios "veinticuatros".
 
-
 Action Comics [#1000](/tags/1000), 80 añazos de personaje, que se dice pronto. Y para celebrarlo, un número especial dentro de la numeración habitual, que no incluye nada particularmente... en fin, qué se yo. Últimamente no leo nada que me llame la atención.
-
 
 Diez historias cortas, de autores relevantes en la historia más o menos reciente del personaje, en las que las más acertadas tampoco es que tengan mucho espacio para llegar a brillar.
 
-
 Sin spoilers, yo suelto aquí todas mis opiniones, alabanzas y haterismo de golpe y ya me decís lo que os parece en los comentarios.
-
 
 Lamentable Jurgens (en su línea), correctos Tomasi y Gleason con una historia hecha exclusivamente a base de  splash-pages, y la de Marv Wolfman me sobraba. Hay oficio, imaginación y dibujazos en la de Geoff Johns, Richard Donner y Olivier Coipel (pero es que con esos nombres si les sale algo malo sería un crimen), demasiado corta la de Snyder y Albuquerque, tengo sentimientos encontrados con la de Tom King, incluso con el arte de Clay Mann... Y la de Louise Simonson y la de Paul Dini son para quitarlas del tebeo, aunque ayudan a dar el tono pseudo-vintage que entiendo que quieren tener. Pero no. Bonita historia la de Brad Meltzer, aunque a John Cassaday ya no le trago.
 
-
 Y al final el previo de Bendis y Jim Lee que conducirá a la serie limitada con la que el guionista desembarca en DC.
-
 
 ¿Quien dijo miedo?
 
-
 Pronóstico: 8$ que aquí será una edición en tapa dura de al menos 20€. Como si lo viera.
-
 
 ([@neverbot](https://instagram.com/neverbot))

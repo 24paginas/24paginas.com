@@ -29,14 +29,10 @@ author: neverbot
 
 Sigo con la relectura de Green Arrow, dos meses y pico después de la bajona que fue la llegada de Judd Winick a los guiones.
 
-
 Se me habían quitado las ganas de seguir leyendo la colección... y no ha sido este "Los muros de la ciudad" el que me las ha devuelto, sino la siguiente colección en grapa que vino con el cambio de Norma a Planeta... pero de esa ya os hablaré en unos días.
-
 
 En este tomo tenemos un par de números de relleno seguidos de la saga que le da título, sobre un poder sobrenatural que toma el control de Star City y blablabla, poco interesante. Phil Hester se pone vago y hace los peores números de su larga etapa (no están mal, pero lo sabe hacer mejor tal y como hemos visto en los treinta números anteriores). Y la historia intenta avanzar la relación de Oliver con sus secundarios (Dinah, Roy, Connor y ahora también Mia), pero a base de bajonas y malrollismo, cuando ya tocaban cielos rosas y nubes de algodón.
 
-
 Relleno para seguir avanzando. Todas las colecciones tienen de esto de vez en cuando.
-
 
 ([@neverbot](https://instagram.com/neverbot))

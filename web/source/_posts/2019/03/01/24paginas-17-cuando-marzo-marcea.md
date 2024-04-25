@@ -16,8 +16,6 @@ author: 24paginas
 
 24paginas [#17](/tags/17): Cuando marzo marcea...
 
-
 Nuevo mes, esta vez con todos sus días íntegros y estrenos cinematográficos comiqueros.
-
 
 Higher, Further, Faster, More!

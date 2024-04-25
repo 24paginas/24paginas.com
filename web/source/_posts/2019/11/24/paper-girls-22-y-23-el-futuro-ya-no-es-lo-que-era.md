@@ -23,19 +23,11 @@ author: uncientovolando
 
 Paper Girls [#22](/tags/22) y [#23](/tags/23): el futuro ya no es lo que era.
 
-
 Otra doble reseña, que casi se convierte en triple, por nuestra programación especial. Las chicas siguen su periplo por el futuro lejano con la ayuda de nuevas aliadas, la deliciosamente diseñada protagonista de la portada del número 23, y viejas amigas (pun intended).
-
 
 Llegamos, aparentemente, a las visiones de futuro de KJ... pero algo parece haber cambiado...
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#papergirls](/tags/papergirls) [#briankvaughan](/tags/briankvaughan) [#cifi](/tags/cifi) [#viajeseneltiempo](/tags/viajeseneltiempo) [#strangerthings](/tags/strangerthings) [#backtothefuture](/tags/backtothefuture) [#diasdelfuturopasado](/tags/diasdelfuturopasado)
 [@planetadcomic](https://instagram.com/planetadcomic)

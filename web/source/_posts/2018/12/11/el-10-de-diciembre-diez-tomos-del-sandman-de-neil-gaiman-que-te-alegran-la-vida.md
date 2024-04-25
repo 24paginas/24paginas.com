@@ -21,14 +21,10 @@ author: neverbot
 
 El 10 de diciembre, diez tomos del Sandman de Neil Gaiman que te alegran la vida.
 
-
 Y mira que es una colección que ha tenido ediciones distintas, pero si me das a escoger yo me quedo con esta de [@normaedusa](https://instagram.com/normaedusa) que era bonita como ella sola, y viste mejor la estantería que unos tomos negros.
-
 
 Pero es cuestión de opiniones, supongo.
 
-
 Habría que hacer una relectura completa e ir hablando de todos los tomos, ¿no?
-
 
 ([@neverbot](https://instagram.com/neverbot))

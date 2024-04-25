@@ -20,19 +20,12 @@ author: hecdruiz
 
 Volvemos este [#miercolesmanga](/tags/miercolesmanga) con el cuarto tomo de Gangsta que nos trae de nuevo [@mwediciones](https://instagram.com/mwediciones) y que avanza sin prisa pero sin pausa.
 
-
 Las piezas ya están colocadas en su sitio y este tomo sirve, o al menos da la impresión, de punto de inicio para un conflicto que se lleva mascando casi desde el principio. Y a pesar de tener un giro que era totalmente predecible, hacia el final si que hay sorpresita inesperada.
-
 
 Por lo demás en su línea de acción fantabulosa y ritmo trepidante, recuperando el pulso después de un tomo de flashback más pausado que nos dejó casi con más preguntas que respuestas. Empezamos a ver más desarrollo y relaciones entre las  distintas familias con nuevos  personajes a cada cual más molón. Y además sin necesidad de power-ups ni que los protagonistas sean ni mucho  menos lo más poderoso o temible a tener en cuenta.
 
-
 El arte se mantiene de 10 y mejorando.
 
-
 Vamos, que con ganas ya del siguiente, porque sabe a poco.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

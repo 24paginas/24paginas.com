@@ -24,14 +24,10 @@ author: 24paginas
 
 Tercera y última parte de nuestro particular homenaje a [@celspinol](https://instagram.com/celspinol) y esos 30 años que lleva dándonos entretenimiento, así que aquí os dejamos las últimas 10 referencias para hacer un poquito de memoria en este [#Piñol30](/tags/pinol30).
 
-
 Un clásico: el Kiusap Co. Peluches y alfombrilla de Don Depresor por aquello del merchan que a todos nos gusta. Libros de distintas temáticas y tonos (hasta uno para aprender a dibujar!), y mi queridísimo Outfan junto a su juego de rol.
-
 
 Una pena que esa línea no siguiese adelante porque era francamente divertida y a mi gusto, supuso un soplo de aire fresco.
 
-
 Como véis nos dejamos muchas cosas: miniaturas, juegos de mesa, juegos de cartas, el Neck&Cold de Laberinto, secciones de correos… ¡si lo raro es que, según están los tiempos, no tenga ya su canal de Youtube y haga streaming en Twitch! Pero es que por suerte para nosotros Cels no deja de crear, y nosotros que lo agradecemos.
-
 
 ¡¡Y ahora, a por los 40!! :-)

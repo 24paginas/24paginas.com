@@ -26,14 +26,10 @@ author: neverbot
 
 Por encima del tomo vs grapa, está la publicación en espiral.
 
-
 En nuestra magnífica nave del tiempo, desde 1993 y gracias a una compra de tebeos de segunda mano a lo loco, me ha llegado esta pequeña guía visual de la mansión de mis amados mutantes, en todo su esplendor noventero.
-
 
 Puedes encontrar mapas y planos técnicos de la mansión, de Westchester, del pájaro negro o la sala del peligro, por poner algunos ejemplos.
 
-
 Tonterías que hacen feliz el día de un marvelita cualquiera.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -22,5 +22,4 @@ author: 24paginas
 
 4/31. THONK! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Para el [#viernesvintage](/tags/viernesvintage) recuperamos una onomatopeya de los tiempos del Spider-Man de Ditko, con el ¿primer? encuentro entre el trepamuros y Daredevil (ASM [#16](/tags/16),1963).

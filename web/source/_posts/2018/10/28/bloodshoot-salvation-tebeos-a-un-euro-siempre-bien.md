@@ -22,13 +22,8 @@ author: neverbot
 
 Bloodshoot Salvation. Tebeos a un euro siempre bien.
 
-
 Pues esto va de un tío que es muy duro, que tiene pinta de que a veces se cabrea, con un pasado oscuro, no sé qué de un programa secreto del gobierno, una niña que es como él pero en pequeño...
 
-
 Pero nadie tiene garras. No lo entiendo.
-
-
-
 
 [@neverbot](https://instagram.com/neverbot)

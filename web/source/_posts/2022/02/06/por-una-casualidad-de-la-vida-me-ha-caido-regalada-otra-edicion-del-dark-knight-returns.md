@@ -24,4 +24,4 @@ author: neverbot
 
 Por una casualidad de la vida, me ha caído regalada otra edición del Dark Knight Returns. Tenía la de Vid Comics, de cuando los mexicanos editaban los cómics de DC en españa (ha llovido tanto que el precio aún estaba en pesetas), y ahora añado la de Norma, de quienes tenía la mayor parte de sagas clásicas del murciélago.
 
-También os digo… si la mayor parte de las sagas que recomendaríamos de un personaje ya existían con Norma, con Vid y hasta con Zinco… debería darnos que pensar acerca de la calidad de los tebeos de los últimos 20 años. 
+También os digo… si la mayor parte de las sagas que recomendaríamos de un personaje ya existían con Norma, con Vid y hasta con Zinco… debería darnos que pensar acerca de la calidad de los tebeos de los últimos 20 años.

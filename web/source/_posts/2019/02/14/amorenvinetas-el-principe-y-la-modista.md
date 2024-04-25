@@ -21,14 +21,10 @@ author: neverbot
 
 [#AmorEnViñetas](/tags/amorenvinetas): El príncipe y la modista.
 
-
 Cuando [@neverbot](https://instagram.com/neverbot) (demostrando que dentro de su fría carcasa hay un corazón) nos vino con la idea de hacer un especial [#SanValentin](/tags/sanvalentin) reseñando tebeos de amor lo tuve claro. "El príncipe y la modista" es puro amor, desde la trama al color. El cómic de Jen Wang ([@wangstagram](https://instagram.com/wangstagram), a la que conocimos dibujando "En la vida real", también editado aquí por [@sapristicomic](https://instagram.com/sapristicomic)) es un cuento precioso sobre como para amar a los demás hay que amarse a uno mismo.
-
 
 Quizás demasiado bonito incluso en sus conflictos, pero de vez en cuando es necesario un poco de ligereza. Aun así se las apaña para reflexionar sobre la identidad, la amistad y la familia.
 
-
 ¡Tenemos que tener amor!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

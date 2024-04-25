@@ -24,14 +24,10 @@ author: neverbot
 
 Demasiado poco se habla de las obras de Bastien Vivès, para la que se tenía que hablar.
 
-
 De amistad estrecha he encontrado pocas reseñas, no como de El gusto del cloro, Polina o la última Una hermana (para mí, por ahora, candidato indiscutible a TOTY, tebeo of the year), así que me lancé un poco a ciegas a ver qué había hecho esto señor hace ya casi una década, aprovechando las buenas ediciones de [@diaboloediciones](https://instagram.com/diaboloediciones).
-
 
 Y todo bien. Exactamente lo que podríamos esperar de cualquiera de las obras intimistas del francés. Excepcional manejo de todas las herramientas de que da el medio para contar historias, y cada año va a mejor.
 
-
 La única pena es que no publique aún más, que creo que ya he leído casi toda su bibliografía, a falta de Last Man (se admiten consejos al respecto).
-
 
 ([@neverbot](https://instagram.com/neverbot))

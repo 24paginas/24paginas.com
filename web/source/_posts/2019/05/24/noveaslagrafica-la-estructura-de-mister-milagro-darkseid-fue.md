@@ -33,9 +33,4 @@ author: 24paginas
 
 Tras un abril intenso, con 2 infografías cargadas de documentación, tocaba algo más ligero y sin pretensiones. Irónicamente la idea ha sido revisitar el Mr. Milagro de [@tomking_tk](https://instagram.com/tomking_tk), justo ahora que se anuncia el final de su etapa en Batman (bueno, eso es pura coincidencia...). La miniserie recoge algunas de las claves del estilo del autor, como la retícula de nueve viñetas por página, y aporta el recurso (ya casi un meme) sobre la inevitabilidad de Darkseid con las viñetas de “Darkseid es.” que se distribuyen a través de los números y que, conociendo el pasado como analista de inteligencia de King, podrían ocultar algún tipo de mensaje en clave. Pero... ¿Tanto se repiten? ¿Dónde aparecen? ¿Existe realmente un patrón? ¿Escapará nuestro infografista de su fatal destino una vez más? ¡Estad atentos!
 
-
-
-
-
-
 [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#grapas](/tags/grapas) [#mrmilagro](/tags/mrmilagro) [#mrmiracle](/tags/mrmiracle) [#bigbarda](/tags/bigbarda) [#darkseidis](/tags/darkseidis) [#cuartomundo](/tags/cuartomundo) [#jackkirby](/tags/jackkirby) [#tomking](/tags/tomking) [#mitchgerads](/tags/mitchgerads) [#panels](/tags/panels) [@eccediciones](https://instagram.com/eccediciones)

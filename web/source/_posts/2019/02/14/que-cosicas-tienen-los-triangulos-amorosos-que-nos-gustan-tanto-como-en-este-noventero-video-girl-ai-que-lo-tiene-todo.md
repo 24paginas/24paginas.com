@@ -24,17 +24,12 @@ author: neverbot
 
 Qué cosicas tienen los triángulos amorosos que nos gustan tanto. Como en este noventero Video Girl Ai, que lo tiene todo.
 
-
 Por tener, tiene conjuntos de ropa hijos de su época, peinados imposibles, un nivel de dibujo que por aquel entonces (del 91 en Japón estamos hablando) nos volvía loquísimos, y un argumento fantástico para el adolescente medio: para solucionar un desengaño amoroso, un videoclub aparece ante ti y alquilas una película de la que aparecerá una chica que cumplirá todos tus deseos.
-
 
 Un videoclub, esto a los post-millenials os lo explico otro día.
 
-
 Pero si tu reproductor de vídeo está roto, pasan cosas raras. ¿Qué podría salir mal a partir de aquí?
 
-
 Se te va a acabar metiendo algo en el ojo que hace que pique, y lo sabes.
-
 
 ([@neverbot](https://instagram.com/neverbot))

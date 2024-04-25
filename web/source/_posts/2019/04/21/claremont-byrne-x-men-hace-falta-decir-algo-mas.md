@@ -21,11 +21,8 @@ author: hecdruiz
 
 Claremont, Byrne, X-men ¿Hace falta decir algo más?
 
-
 Este facsímil que nos trae [@paninicomicsespana](https://instagram.com/paninicomicsespana) es (obviamente) puro ORO y debería estar en la estantería de cualquier aficionado a los cómics si no está ya.
 
-
 Un ejemplo de todo lo que tiene que tener un cómic. Así es como se hace afición.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -27,20 +27,14 @@ author: hecdruiz
 
 Un Capi con barba, con el traje hecho trizas, dándose de leches a pecho descubierto contra unos "bichos feos" es algo que gusta visto el éxito de [#Infinitywar](/tags/infinitywar).
 
-
 Pero ojo que este Capi de [#RickRemender](/tags/rickremender) es anterior a la película, y además de todo eso, se puede disfrutar de una genial historia autocontenida de superación y supervivencia, en una buena edición de la mano de [@paninicomicsespana](https://instagram.com/paninicomicsespana)
-
 
 Aquí tenemos un Steve Rogers aislado y sin más ayuda que su inseparable escudo, con un objetivo claro que alcanzará sea como sea a base de pura fuerza de voluntad. Vamos, el Capi en todo su esplendor.
 
-
 A nivel gráfico Romita Jr. se marca una saga de impresión con uno de sus mejores trabajos fuera de su eterno Spiderman. Para mí gusto incluso por encima de sus sagas de Thor.
-
 
 Ideal para quien quiera una historia autoconclusiva del estilo John Carter de Marte pero con el Capitán América haciendo lo que mejor sabe hacer: no rendirse nunca.
 
-
 Para mí gusto solo le faltó que tuviese más repercusión con la continuidad del personaje, pero así son los cómics americanos de franquicias enormerrimas, que le vamos a hacer.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

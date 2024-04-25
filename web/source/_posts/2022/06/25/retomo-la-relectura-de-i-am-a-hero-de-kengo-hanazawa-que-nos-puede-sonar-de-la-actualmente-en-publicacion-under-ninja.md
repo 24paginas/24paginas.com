@@ -15,8 +15,8 @@ template: instagram
 author: neverbot
 ---
 
-Retomo la relectura de I am a hero de Kengo Hanazawa (que nos puede sonar de la actualmente en publicación Under Ninja). Esta serie tiene cosas que me encantan y otras que me parecen absurdas, y aprovechando que no hace mucho que la complete por fin (incluyendo los cuatro tomos de extras), voy a conseguir terminar su lectura por fin. 
+Retomo la relectura de I am a hero de Kengo Hanazawa (que nos puede sonar de la actualmente en publicación Under Ninja). Esta serie tiene cosas que me encantan y otras que me parecen absurdas, y aprovechando que no hace mucho que la complete por fin (incluyendo los cuatro tomos de extras), voy a conseguir terminar su lectura por fin.
 
-A la tercera va la vencida. 
+A la tercera va la vencida.
 
 [#iamahero](/tags/iamahero) [#kengohanazawa](/tags/kengohanazawa) [#underninja](/tags/underninja) [#manga](/tags/manga) [#norma](/tags/norma) [#normaeditorial](/tags/normaeditorial) [#normaedmanga](/tags/normaedmanga) [@normaedmanga](https://instagram.com/normaedmanga)

@@ -21,11 +21,8 @@ author: hecdruiz
 
 2/31. WANK 🛡[#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Como Peter Parker observaba en "Civil War", el escudo del Capitán America no parece obedecer a las leyes de la física. Quizás por eso el sonido que se produce al golpearlo es tan peculiar. O puede que sea una paja mental...
 
-
 En cualquier caso, esta onomatopeya se hizo famosa en la lucha del Capi contra el Controlador en el número 366 (1990) de su serie regular y a día de hoy es un meme que siempre hace risa.
-
 
 Pero el escudo de Steve Rogers es cosa de poca broma, solo tenéis que ver como luce el que [@hecdruiz](https://instagram.com/hecdruiz) tiene colgado en su salón. Deberíamos ir pensando en un [#MiercolesdeMerchandising](/tags/miercolesdemerchandising)...

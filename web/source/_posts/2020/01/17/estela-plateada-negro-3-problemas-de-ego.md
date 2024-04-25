@@ -18,18 +18,10 @@ author: uncientovolando
 
 Estela Plateada Negro [#3](/tags/3): Problemas de Ego.
 
-
 Aunque se mantiene el tono psicodélico y la angustia de Estela, en este episodio he sentido una vuelta al espíritu de la anterior serie de Norrin Radd, con esa forma de anteponer el bien de otros que la hermanaba con Doctor Who. Estupenda la relación con Ego.
-
 
 A mí, mi tabla!
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#marvel](/tags/marvel) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#estelaplateada](/tags/estelaplateada) [#ego](/tags/ego) [#cosmico](/tags/cosmico) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

@@ -26,14 +26,10 @@ author: hecdruiz
 
 ¡Desde la delegación de Coslada de 24 páginas, quiero dar la bienvenida a mi humilde ciudad a la nueva tienda de [@genxcoslada](https://instagram.com/genxcoslada)! Un momento... un Generación X en Coslada?!?! ¡¡¡UN GENERACIÓN X EN COSLADA!!!
 
-
 Os animo a pasaros, no sólo a admirar la tienda, que les ha quedado bien chula (esos vinilos de los Vengadores de Ed McGuinnes, ains...😍), sino también a ver el extenso catálogo de novedades que tienen para todos los gustos: comics, manga, europeo, juegos de mesa y de rol, merchan, moñecos, funkos.. ¡si hasta tienen lego! Y con un trato cercano y amable, pero sabiendo bien de lo que hablan, ¿qué más queréis?
-
 
 Vamos, yo contentísimo, que me pilla bien cerquita. Me llega a pillar con veinte años menos y me arruino... Es lo que tiene ser del extrarradio ^^U
 
-
 Lo dicho, bienvenidos 🙂
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

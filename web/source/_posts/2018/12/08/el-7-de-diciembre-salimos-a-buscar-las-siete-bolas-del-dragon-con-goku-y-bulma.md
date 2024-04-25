@@ -25,11 +25,8 @@ author: neverbot
 
 El 7 de diciembre, salimos a buscar las siete bolas del dragón con Goku y Bulma.
 
-
 Pocas cosas definen para mí el concepto de nostalgia cómo abrir un tebeo de Bola de Dragón y volver a leer estas aventuras.
 
-
 ([@neverbot](https://instagram.com/neverbot))
-
 
 [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#24paginas](/tags/24paginas) [#advienticuatropaginas](/tags/advienticuatropaginas) [#dragonball](/tags/dragonball) [#boladedragon](/tags/boladedragon) [#goku](/tags/goku) [#gokuh](/tags/gokuh) [#bulma](/tags/bulma) [#shenron](/tags/shenron) [#akiratoriyama](/tags/akiratoriyama) [#planetadcomic](/tags/planetadcomic) [@planetadcomic](https://instagram.com/planetadcomic)

@@ -21,14 +21,10 @@ author: uncientovolando
 
 Paper Girls [#17](/tags/17): Días de mi futuro pasado.
 
-
 Ha vuelto a suceder, ha salido un nuevo número de Paper Girls y aún no había reseñado el anterior. Entre navidades, propósitos de Año Nuevo e infografías lo he ido dejando pasar.
-
 
 Pero bueno, poco tengo que añadir a la anterior reseña. Seguimos en el año 2000, con el grupo disgregado en una realidad que no conocen, robots gigantes dándose de leches y el tejido del espacio-tiempo a punto de deshacerse como una camiseta de Primark.
 
-
 Paper Girls sigue siendo uno de esos comics en los que no sabes muy bien que estás leyendo pero da gusto mirar. Por suerte, ya tengo el siguiente número de [@planetadcomic](https://instagram.com/planetadcomic) en la cola/pila/torre de lectura.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

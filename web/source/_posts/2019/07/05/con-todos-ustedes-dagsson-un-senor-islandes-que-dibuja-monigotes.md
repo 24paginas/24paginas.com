@@ -23,11 +23,8 @@ author: neverbot
 
 Con todos ustedes: Dagsson. Un señor islandés que dibuja monigotes.
 
-
 Es un humor negro con el que comulgo mucho, soy creyente y practicante de la ofensa gratuita, pero en este recopilatorio salvando una docena de páginas que son a mi parecer magistrales, el resto pasan un poco sin pena ni gloria. Pero a tope con las buenas.
 
-
 Por supuesto al lector que no le guste el humor negro, pues esto no. Pero oye, viniendo de Islandia y llamándose Hugleikur Dagsson, es lo que tocaba.
-
 
 ([@neverbot](https://instagram.com/neverbot))

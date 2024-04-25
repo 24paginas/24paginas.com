@@ -22,8 +22,8 @@ template: instagram
 author: neverbot
 ---
 
-Unpopular opinions: Monstress se ha llevado criticas mucho mejores de las que se merecía. 
+Unpopular opinions: Monstress se ha llevado criticas mucho mejores de las que se merecía.
 
-He leído el primer tomo y aunque tiene su aquel, y algunas cosas bonitas, en su mayor parte tiene una narrativa algo confusa, sin un arco argumental aparente más allá del “tú tira para adelante que ya iremos viendo” como si fuera un shonen japonés, y el arte parece de un jrpg random default. 
+He leído el primer tomo y aunque tiene su aquel, y algunas cosas bonitas, en su mayor parte tiene una narrativa algo confusa, sin un arco argumental aparente más allá del “tú tira para adelante que ya iremos viendo” como si fuera un shonen japonés, y el arte parece de un jrpg random default.
 
-Se puede leer, pero a mí no me ha dado ganas de ir a por el segundo tomo. Vaya, que no está mal, pero no es para tanto. No sé si me estaré haciendo mayor. Esta serie ha ganado varios premios Eisner, Hugo, Harvey y British Fantasy. Concretamente el primer tomo un Hugo y un BF. Y yo aquí, sin poder explicármelo. 
+Se puede leer, pero a mí no me ha dado ganas de ir a por el segundo tomo. Vaya, que no está mal, pero no es para tanto. No sé si me estaré haciendo mayor. Esta serie ha ganado varios premios Eisner, Hugo, Harvey y British Fantasy. Concretamente el primer tomo un Hugo y un BF. Y yo aquí, sin poder explicármelo.

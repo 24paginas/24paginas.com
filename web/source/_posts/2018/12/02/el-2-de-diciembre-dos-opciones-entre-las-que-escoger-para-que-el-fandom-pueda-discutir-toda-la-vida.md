@@ -25,14 +25,10 @@ author: neverbot
 
 El 2 de diciembre, dos opciones entre las que escoger para que el fandom pueda discutir toda la vida.
 
-
 He dudado entre una imagen con Barry Allen y Wally West (y aquí Wally es el mejor flash), pero al final me he decantado por Mary Jane y Gwen Stacy, entre quienes los pre y post adolescentes del mundo pueden discutir sobre waifus hasta quedarse calvos.
-
 
 Y lo ilustro con un tebeo donde en realidad no aparecen ni la una ni la otra, pero Mark Millar se las apaña para que la idea de ambas esté presente a lo largo de toda esta pequeña serie limitada de la línea Epic que fue Trouble.
 
-
 Obviamente Mary Jane. No sería la primera vez que discutimos en el cuartel general de [@24paginas](https://instagram.com/24paginas) sobre estas cosas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

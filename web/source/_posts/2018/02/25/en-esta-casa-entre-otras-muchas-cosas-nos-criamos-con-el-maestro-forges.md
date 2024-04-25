@@ -15,16 +15,10 @@ author: hecdruiz
 
 En esta casa, entre otras muchas cosas, nos criamos con el maestro Forges.
 
-
 No sé cuántos años pueden tener estos recopilatorios, ya que llegaron a mí a través de mi padre, pero por descontado más que yo.
-
 
 Siempre estuvieron por casa, y aunque muchas cosas no las entendía de crío, poco a poco fueron cobrando sentido como grandes e inmutables verdades de la vida.
 
-
 Desde aquí nuestro pequeño homenaje y recuerdo a un genio inolvidable.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

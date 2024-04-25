@@ -22,8 +22,6 @@ author: neverbot
 
 Después de tanta lectura mala, ya tocaba volver con algo bueno: los 20th Century Boys de Naoki Urasawa y [@planetadcomic](https://instagram.com/planetadcomic).
 
-
 Y no hace falta entrar en muchos detalles, sigue siendo una lectura del copón. Tengo curiosidad por ver hacia dónde se enfocarán los pequeños detalles que parecen fantásticos por ahora.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -15,8 +15,6 @@ author: 24paginas
 
 [#nuevonumero](/tags/nuevonumero), nuevo curso.
 
-
 Septiembre, mes de nuevo curso, nuevos proyectos y ganas renovadas.
-
 
 Vamos a por ello.

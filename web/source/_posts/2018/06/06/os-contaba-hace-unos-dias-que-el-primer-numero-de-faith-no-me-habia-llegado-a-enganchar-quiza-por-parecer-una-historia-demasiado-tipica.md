@@ -23,14 +23,10 @@ author: neverbot
 
 Os contaba hace unos días que el primer número de Faith no me había llegado a enganchar, quizá por parecer una historia demasiado típica...
 
-
 Quantum & Woody me ha dejado mejores sensaciones, quizá la premisa inicial da más juego, y también se añaden varios McGuffin (¿una adopción? ¿una cabra?) que quizá puedan servir de algo más adelante.
-
 
 No es un mal trabajo por parte de Daniel Kibblesmith y el dibujo de Kano le pega a la historia.
 
-
 Pero. PERO. Se me ha quedado ahí en la frontera también... ¿compro el segundo número?
-
 
 ([@neverbot](https://instagram.com/neverbot))

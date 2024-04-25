@@ -24,11 +24,8 @@ author: neverbot
 
 El uno de diciembre, un nuevo número uno para el número uno de todos los trajeados.
 
-
 ¡A lo loco! Vamos a intentar terminar un calendario de adviento de los tebeos, 24 días desde [@24paginas](https://instagram.com/24paginas). A ver hasta donde llegamos.
 
-
 ¿Qué aparecerá cada día?
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -19,8 +19,6 @@ author: neverbot
 
 ¡Organización! Se me acumulan las series en «La Pila», así que he seleccionado las próximas relecturas para ponerme al día sin perderme.
 
-
 Stay tuned!
-
 
 ([@neverbot](https://instagram.com/neverbot))

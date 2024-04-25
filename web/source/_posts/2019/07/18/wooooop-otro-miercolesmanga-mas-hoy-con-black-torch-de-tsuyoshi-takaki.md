@@ -27,17 +27,12 @@ author: neverbot
 
 Wooooop, otro [#miercolesmanga](/tags/miercolesmanga) más, hoy con Black Torch de Tsuyoshi Takaki.
 
-
 Un chaval que adquiere unos poderes sobrenaturales, y hay una organización que se dedica a cazar a unos bichos sobrenaturales, y a este chaval le toca formar parte, y hay una chica que le aborrece pero le va a tocar enseñarle y...
-
 
 Sí, es Bleach.
 
-
 Tiene las mismas virtudes (buen dibujo, muy buen diseño de personajes, fantásticas escenas de acción y “magias” espectaculares) y los mismos defectos (la narración un poco meh y esa sensación de shonen random default).
 
-
 Pero a quien le guste Bleach no me puede decir que esto no le gusta. Yo voy a picar con el segundo tomo porque tiene detallitos que me han llamado la atención, y cuando algo te gusta hay que apoyarlo con la cartera.
-
 
 ([@neverbot](https://instagram.com/neverbot))

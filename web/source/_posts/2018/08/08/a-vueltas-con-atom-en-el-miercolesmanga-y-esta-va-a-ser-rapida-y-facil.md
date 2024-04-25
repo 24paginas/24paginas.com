@@ -22,19 +22,12 @@ author: hecdruiz
 
 A vueltas con Atom en el [#miercolesmanga](/tags/miercolesmanga) y está va a ser rápida y fácil.
 
-
 Meh.
-
 
 La serie a mi gusto se ha estancado un poco y en este tomo se desinfla. Me ha resultado aburrido y hasta complicado de terminar simplemente porque me daba pereza seguir leyendo.
 
-
 Que me vale un capítulo de transición, pero un tomo entero y cuando apenas vamos por el sexto de la serie... No le veo necesidad.
 
-
 Veremos el siguiente y si toca o no bajarse para buscar campos más verdes. Una pena porque la idea inicial me parecía muy interesante.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

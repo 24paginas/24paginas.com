@@ -19,5 +19,4 @@ Pues pase el otro día por [@impactgame_es](https://instagram.com/impactgame_es)
 
 El tema es que a ver, no están nada mal, y por lo que he visto el baile de autores en lo que va de ambas colecciones no empeora ni un poco, pero viendo que ya están sacando tomos recopilatorios, me iría a por los tomos. La verdadera pregunta es ¿merecen la pena ambas colecciones? .
 
-
 ([@hecdruiz](https://instagram.com/hecdruiz))

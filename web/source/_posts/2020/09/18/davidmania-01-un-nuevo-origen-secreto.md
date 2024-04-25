@@ -18,18 +18,10 @@ author: 24paginas
 
 [#DAVIDMANIA](/tags/davidmania) 01: Un Nuevo Origen Secreto.
 
-
 Recuperamos, dándole una pequeña vuelta, una de nuestras secciones preferidas de nuestro especial: DAVIDMANIA. Y en esta ocasión lo hacemos con una microentrevista al escritor y director [@davidgalangalindo](https://instagram.com/davidgalangalindo), que hace apenas unas semanas estreno su película "Orígenes Secretos” en [@netflixes](https://instagram.com/netflixes).
-
 
 Os recordamos que DAVIDMANIA es una sección abierta y que podéis enviarnos vuestras preguntas comiqueras (sobre dibujo, guion, eventos, funcionamiento de la industria, etc...) y buscaremos un David apropiado para responderlas.
 
-
 ¡Os esperamos!
-
-
-
-
-
 
 [#comic](/tags/comic) [#pelicula](/tags/pelicula) [#escritor](/tags/escritor) [#entrevista](/tags/entrevista) [#correodellector](/tags/correodellector) [#netflixandchill](/tags/netflixandchill) [@leerunas](https://instagram.com/leerunas)

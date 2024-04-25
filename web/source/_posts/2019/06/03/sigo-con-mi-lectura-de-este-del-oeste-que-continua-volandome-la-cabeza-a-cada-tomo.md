@@ -24,11 +24,8 @@ author: neverbot
 
 Sigo con mi lectura de “Este del Oeste”, que continúa volándome la cabeza a cada tomo.
 
-
 En este tercer volumen hace aparición la Eterna Nación, y comienza a dar sus pasitos por el mundo el hijo de... erm... el niño de la última foto, que tampoco es plan de spoilear.
 
-
 No puedo alabar aún más a Hickman y Dragotta, porque esto es top ahora mismo, al menos de todo lo que estoy leyendo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

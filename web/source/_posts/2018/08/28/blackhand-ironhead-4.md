@@ -16,11 +16,8 @@ author: uncientovolando
 
 BLACKHAND/IRONHEAD [#4](/tags/4).
 
-
 David ([@davizzzz](https://instagram.com/davizzzz)) López continúa su historia de legado superheroico y familias imperfectas. Se acerca el final y todavía quedan muchos secretos por sacar a la luz. Incluyendo algún regreso inesperado...
 
-
 ¡Corred a [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) a por él!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

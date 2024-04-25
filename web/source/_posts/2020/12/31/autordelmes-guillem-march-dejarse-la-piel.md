@@ -20,8 +20,6 @@ author: 24paginas
 
 [#autordelmes](/tags/autordelmes): Guillem March, dejarse la piel.
 
-
 Y ahora sí, cerramos 2020 con nuestro último autor del mes. Mucho ha pasado desde los tiempos del “Haciendo Amigos” de [@dolmeneditorial](https://instagram.com/dolmeneditorial), donde [@davidramirezros](https://instagram.com/davidramirezros) se alternaba en [#latonteria](/tags/latonteria) con [@guillem_march](https://instagram.com/guillem_march). Y míralos ahora. David pasó recientemente por esta sección con su “Tal Cual” y acaba de editar “COnviVIenDo 19 días”, y Guillem no solo triunfa en Estados Unidos con Batman (y la próxima serie de su archienemigo) sino que crea obras tan personales como “Karmen” o sus “Summer Muses” (las cuales podéis ver en su perfil paralelo, [@guillemmarch](https://instagram.com/guillemmarch)).
-
 
 Nada mejor para despedir el año que ponernos así de guapos.

@@ -25,14 +25,10 @@ author: neverbot
 
 [#AmorEnViñetas](/tags/amorenvinetas): la maravillosa serie Sofía, Ana, Victoria (y posteriormente Laura) del fantabuloso [@guillem_march](https://instagram.com/guillem_march).
 
-
 Esto lo publicó hace media vida [@dolmeneditorial](https://instagram.com/dolmeneditorial), aunque estoy casi seguro de que hay alguna edición más moderna, no sé si recopilando las cuatro historias o al menos las tres primeras en el mismo formato álbum que Laura.
-
 
 Historias costumbristas, de nuestro día a día, de los amores que van y vienen, con una sensibilidad que enamora.
 
-
 Guillem, todos sabemos que los trabajos para DC pagan las facturas, pero queremos un poco más de esto también 😉 Ojalá hubiera más mercado para este tipo de obras.
-
 
 ([@neverbot](https://instagram.com/neverbot))

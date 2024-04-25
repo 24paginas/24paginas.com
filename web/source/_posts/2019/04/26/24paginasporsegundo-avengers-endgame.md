@@ -24,9 +24,4 @@ author: 24paginas
 
 Cómo en el caso [#spidermanintothespiderverse](/tags/spidermanintothespiderverse), volvemos a hacer una excepción en lo de no hablar de cine para traeros nuestras sensaciones (sin atisbo de spoilers) sobre la última entrega de los Héroes más Poderosos de la Tierra. Pero es que [#AvengersEndgame](/tags/avengersendgame), más que una película, es el evento comiquero de la temporada.
 
-
-
-
-
-
 [#Marvel](/tags/marvel) [#Avengers](/tags/avengers) [#vengadoresendgame](/tags/vengadoresendgame) [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#fuanene](/tags/fuanene) [@marvel](https://instagram.com/marvel) [@marvelspain](https://instagram.com/marvelspain) [@marvelstudios](https://instagram.com/marvelstudios)

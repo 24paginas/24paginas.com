@@ -23,12 +23,9 @@ author: 24paginas
 
 20/31. KTANG! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Rick Jones es el Carlitos Alcántara del Universo Marvel. Estaba allí cuando una explosión convirtió al Dr. Bruce Banner en una gigantesca Masa Esmeralda, estuvo allí cuando Loki perpetró el plan que uniría a Los Vengadores y también cuando el Capitán Mar-Vell quedó atrapado en la Zona Negativa...
 
-
 Lo que escucháis, lo que veis, es el sonido de las Nega-Bandas chocando, de los átomos intercambiándose, de Rick transformándose casi por arte de magia en el poderoso Capitán Marvel.
-
 
 KTHANG!
 🤜🏼💥🤛🏼

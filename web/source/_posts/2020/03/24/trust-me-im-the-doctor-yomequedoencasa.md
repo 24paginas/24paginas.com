@@ -21,21 +21,12 @@ author: uncientovolando
 
 Trust me, I'm the Doctor [#yomequedoencasa](/tags/yomequedoencasa).
 
-
 Recupero para instagram la publicación de stories y twitter. Son tiempos difíciles, va a ser duro para todos y posiblemente en algún momento todos necesitaremos unas palabras de ánimo.
-
 
 Además de en los míos, personalmente siempre he encontrado refugio en la ficción. En los últimos tiempos el subidón de épica y fortaleza me lo han dado “Portals”, el Capi y su “Avengers assemble” de Endgame, pero mucho antes lo hicieron los discursos del Doctor.
 
-
 Ahora nos toca ser la chica (o el chico) que esperó y superar esto lo antes posible. Allons’y!
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#doctorwho](/tags/doctorwho) [#stayhome](/tags/stayhome) [#trustmeimthedoctor](/tags/trustmeimthedoctor) [#tardis](/tags/tardis) [#comic](/tags/comic) [#biggerontheinside](/tags/biggerontheinside) [#tebeo](/tags/tebeo) [@bbcdoctorwho](https://instagram.com/bbcdoctorwho) [@fandogamia](https://instagram.com/fandogamia) [@davidtennantpod](https://instagram.com/davidtennantpod)

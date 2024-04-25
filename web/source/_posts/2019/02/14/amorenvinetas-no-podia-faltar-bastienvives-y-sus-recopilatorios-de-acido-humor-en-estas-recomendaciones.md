@@ -26,8 +26,6 @@ author: neverbot
 
 [#AmorEnViñetas](/tags/amorenvinetas): no podía faltar [@bastienvives](https://instagram.com/bastienvives) y sus recopilatorios de ácido humor en estas recomendaciones.
 
-
 Seis pequeños tomos, publicados aquí por [@diaboloediciones](https://instagram.com/diaboloediciones), a cada cual más desternillante. El que habla sobre el amor y las relaciones, todo ello bañado de  una descomunal cantidad de cinismo, era de inclusión obligada.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -23,11 +23,8 @@ author: neverbot
 
 Hoy, en Veinticuatros por el mundo, la librería Identidad Secreta en Gijón (Asturias).
 
-
 Allá donde vayas, aprovecha siempre para visitar sus librerías de tebeos. Esta semana yo volvía de visita a Gijón (donde nací, por si a alguien le importa esa información) y estaba buscando antiguas librerías que conocía y ¡ya no existen! Varios socios se juntaron y abrieron [@idsecretatebeos](https://instagram.com/idsecretatebeos), una librería/tienda/café como pocas he visto por España. Muy grande, espaciosa, con cafetería en la que tomar algo mientras te echas una partida a algún juego de mesa y con un catálogo en cómic tremendamente respetable. Los que estéis por el norte tenéis que pasar por aquí.
 
-
 Y he caído en que a partir de ahora tengo que llevarme chapas cada vez que me vaya de viaje, porque hay que ir [#DandoLaChapa](/tags/dandolachapa) por el mundo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

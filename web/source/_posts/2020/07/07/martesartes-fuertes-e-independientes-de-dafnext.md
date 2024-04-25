@@ -20,11 +20,8 @@ author: uncientovolando
 
 [#MartesArtes](/tags/martesartes): “Fuertes e independientes”, de [@dafnext](https://instagram.com/dafnext).
 
-
 Recupero nuestra olvidada sección de [#artbooks](/tags/artbooks) con este pequeño cuaderno grapado de Ainhoa García. Una colección de ilustraciones con mujeres fuertotas, aventureras y guerreras facturadas en Zaragoza con amor y una potente paleta de color.
 
-
 Ahora solo falta ver a sus personajes protagonizando esas aventuras en las que parecen vivir. 😉⚔️
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

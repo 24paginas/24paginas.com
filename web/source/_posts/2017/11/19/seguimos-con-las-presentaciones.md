@@ -14,5 +14,4 @@ author: neverbot
 
 Seguimos con las presentaciones.
 
-
 Desconocemos los poderes de [@neverbot](https://instagram.com/neverbot), posiblemente tengan que ver con el hecho de que aparenta menos edad de la que tiene. Amante de la grapa y las figuritas.

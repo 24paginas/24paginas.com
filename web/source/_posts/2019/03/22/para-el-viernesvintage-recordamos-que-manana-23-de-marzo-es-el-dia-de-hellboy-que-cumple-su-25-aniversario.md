@@ -26,14 +26,10 @@ author: neverbot
 
 Para el [#viernesvintage](/tags/viernesvintage) recordamos que mañana, 23 de Marzo, es el día de Hellboy, que cumple su 25 aniversario.
 
-
 En España [@normaedusa](https://instagram.com/normaedusa) saca una nueva edición de Semilla de Destrucción, en grapa y en blanco y negro, a tamaño gigante, para celebrar el aniversario. Mañana en su librería amiga de confianza.
-
 
 Creo que no hace ni falta opinar mucho sobre el tebeo. Mignola hace de Hellboy ese cómic del que puedes comprar cualquier tomo y, aunque quizá no sea brillantérrimo, siempre estará a un muy buen nivel.
 
-
 Quién no le haya dado un tiento aún, ya sabe por dónde empezar.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -30,14 +30,10 @@ author: neverbot
 
 Vuelve (el retorno tras el retorno tras el retorno) el Supergrupo, esta vez de la mano de Pérez Navarro con ocho colaboradores distintos a los lápices.
 
-
 Edita [@ominiky](https://instagram.com/ominiky), guioniza Perez Navarro y dibujan: el propio Jan (siempre se puede cotillear por el ancho internet como quedó el tema de las colaboraciones entre ambos autores), Nacho Fernández (que repite dibujando al Supergrupo), Leonel Castellani, Bea Tormo, Pedro Pérez, Mike Bonales, Jordi Sempere y Óscar Martín.
-
 
 Y el resultado es... pues si sois completistas como yo puede ir a la estantería directamente. Como lectura, las historias fluctúan entre lo insulso y la vergüenza ajena, con un par de historias que son directamente publicidad de las obras en solitario de sus respectivos dibujantes. Las mejores son pasables.
 
-
 Pero bueno. Es el Supergrupo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

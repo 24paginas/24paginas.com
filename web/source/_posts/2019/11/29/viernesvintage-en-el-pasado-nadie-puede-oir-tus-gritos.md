@@ -22,14 +22,10 @@ author: uncientovolando
 
 [#viernesvintage](/tags/viernesvintage): En el pasado nadie puede oir tus gritos.
 
-
 Si ayer hablábamos del Sentient de Lemire y Walta, hoy traemos algo que bien podría haber servido de referencia para el arte de dicho cómic.
-
 
 Pese a que revista TOTEM estaba especializada en cómic adulto, dedicó un especial al estreno de Alien. Un "extra cine" que, aunque cuanta como número 1, no tuvo continuidad.
 
-
 Pero la conexión de la película y la revista con el cómic es total, ya que este número recopila numerosos diseños de Ron Cobb y Moebius, autor habitual en las páginas de TOTEM, para la cinta de Ridley Scott.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

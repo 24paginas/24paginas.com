@@ -26,17 +26,12 @@ author: neverbot
 
 Este [#miercolesmanga](/tags/miercolesmanga), queremos comernos tu páncreas.
 
-
 Teniendo el título que tiene esto, y viendo las cosas extrañas que se publican a veces en manga, no quiero saber lo que habrá pensando mucha gente al ver la portada, y no sé si algo así habrá afectado a las ventas.
-
 
 En realidad esto es una cosa dramática-romántica, una historia sobre dos adolescentes: ella con una enfermedad mortal con una esperanza de vida escasa, él un chico retraído sin amigos ni relaciones. Y de aquí, pues os podéis imaginar cómo termina.
 
-
 Es bonico, no está especialmente mal, entra dentro de lo que se puede esperar del género... pero tampoco es un tebeo brillante. Para fans del género bien, para los demás quizá pasará sin pena ni gloria.
 
-
 Menciono específicamente la traducción: le he encontrado muchas expresiones que me han hecho levantar la ceja, dejándome la impresión de que esto era mejorable. ¿A alguien más le ha pasado?
-
 
 ([@neverbot](https://instagram.com/neverbot))

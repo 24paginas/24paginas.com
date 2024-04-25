@@ -15,8 +15,6 @@ author: 24paginas
 
 [#nuevonumero](/tags/nuevonumero), el mismo calor.
 
-
 Julio, eh? Qué movida. Empieza la segunda mitad de un año que por un lado parece pasar volando y por otro se está haciendo largo.
-
 
 Pero las penas con cómics son menos. Salud y tebeos!

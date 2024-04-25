@@ -18,6 +18,6 @@ No siempre se puede acertar. A veces te llevas un tebeo y te comes un mojón.
 
 Yo no soy del hate por el placer del hate, no tengo necesidad de hablar de las cosas que no me gustan. Pero esta semana no me he leído nada más y me apetecía publicar algo.
 
-Ari, la salvadora del universo, de [#Migoya](/tags/migoya) y [#Man](/tags/man), de la extinta editorial [#glenatespaña](/tags/glenatespana). Creo que es el primero de dos, pero no voy a gastar tiempo en buscar el segundo. El primero ya es lo bastante confuso, apresurado, inconexo y aburrido. La llegada al planeta hecho de 💩 ya fue suficiente. 
+Ari, la salvadora del universo, de [#Migoya](/tags/migoya) y [#Man](/tags/man), de la extinta editorial [#glenatespaña](/tags/glenatespana). Creo que es el primero de dos, pero no voy a gastar tiempo en buscar el segundo. El primero ya es lo bastante confuso, apresurado, inconexo y aburrido. La llegada al planeta hecho de 💩 ya fue suficiente.
 
 Y… pues eso. Que no se puede acertar siempre. El próximo día en el mismo batcanal, más opiniones, que son como los culos. Todos tenemos el nuestro y nos parece maravilloso.

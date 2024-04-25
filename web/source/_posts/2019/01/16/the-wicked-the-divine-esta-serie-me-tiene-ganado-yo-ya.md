@@ -24,11 +24,8 @@ author: neverbot
 
 The Wicked + The Divine. Esta serie me tiene ganado. Yo ya.
 
-
 A tope con [@kierongillen](https://instagram.com/kierongillen) y Jamie [@mckelvie](https://instagram.com/mckelvie), según van apareciendo más dioses en el panteón más me va gustando lo que se está construyendo aquí.
 
-
 A ver si consigo el tercero rapidito, que ya hay ganas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

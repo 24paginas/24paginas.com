@@ -21,9 +21,7 @@ author: hecdruiz
 
 Cuquismo a tope este [#miercolesmanga](/tags/miercolesmanga) con El Dulce Hogar de Chi de Konami Kanata. Internet y gatetes, si esto falla yo ya no sé.
 
-
 A ver, básicamente es la historia de un pequeño cachorrillo gatuno que encuentra un hogar después de haber perdido a su familia. Nada de otro mundo. Pero el argumento consiste en toda clase de anécdotas en clave de humor visto desde su inocente punto de vista, que te sacarán desde una sonrisa a carcajadas, mientras vivimos como va descubriendo su hogar, su nueva familia y las sorpresa que le depara la vida. Dime tú como esto no puede gustar a alguien. Si además has tenido mascota alguna vez ya ni te cuento.
-
 
 Además la edición que nos trajo en su momento [#Glenat](/tags/glenat) ha sido fielmente mantenida por parte de [@planetadcomic](https://instagram.com/planetadcomic) hasta completar la colección de 12 tomos. Lo cual se agradece MUCHO. Hasta yo que soy más de perros he picado. .
 ([@hecdruiz](https://instagram.com/hecdruiz))

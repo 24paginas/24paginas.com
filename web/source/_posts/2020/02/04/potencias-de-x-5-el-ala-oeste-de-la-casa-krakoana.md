@@ -20,18 +20,10 @@ author: uncientovolando
 
 Potencias de X [#5](/tags/5): El Ala Oeste de la Casa Krakoana.
 
-
 Si en “Dinastía “ veíamos este mes la parte más biológica de la organización de Krakoa, en “Potencias” vemos la parte más política.
-
 
 Personajes antiguamente enfrentados deben ahora ponerse de acuerdo para formar un gobierno estable... y en Krakoa también...
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#marvel](/tags/marvel) [#xmen](/tags/xmen) [#mutantes](/tags/mutantes) [#krakoa](/tags/krakoa) [#hellfireclub](/tags/hellfireclub) [#emmafrost](/tags/emmafrost) [#besamehastaquecambieelgobierno](/tags/besamehastaquecambieelgobierno) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

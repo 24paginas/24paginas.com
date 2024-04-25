@@ -22,14 +22,9 @@ Black Magick: todo negro.
 
 Greg Rucka siempre demuestra su buena mano con el policiaco y la capacidad de maridarlo con otros géneros. Si en otras ocasiones sólo hemos visto mezclarlo con el mundo de Batman (que siempre se presta a lo detectivesco), ahora lo hace con el submundo de la magia y las brujas.
 
-Género negro y magia igual de oscura se mezclan en la historia de Rowan Black (negro es el color), una policía y bruja o una bruja y policía que parece haber pasado de investigadora a objetivo. 
+Género negro y magia igual de oscura se mezclan en la historia de Rowan Black (negro es el color), una policía y bruja o una bruja y policía que parece haber pasado de investigadora a objetivo.
 Nicola Scott dibuja la historia en un blanco y negro casi completo que usa toques de color para destacar lo mágico y fuera de lo común.
 
 La única pega es la sensación de estar ante un episodio piloto, que presenta muy bien historia y personajes pero apenas profundiza en una historia que parece ir para largo. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#comicindependiente](/tags/comicindependiente) [#policiaco](/tags/policiaco) [#magia](/tags/magia) [#brujeria](/tags/brujeria) [#crimen](/tags/crimen) [#nicolascott](/tags/nicolascott) [#gregrucka](/tags/gregrucka) [@norma_editorial](https://instagram.com/norma_editorial) [@normaedusa](https://instagram.com/normaedusa)

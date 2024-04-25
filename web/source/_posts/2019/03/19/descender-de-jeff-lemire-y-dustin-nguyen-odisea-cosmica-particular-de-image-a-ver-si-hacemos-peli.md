@@ -22,17 +22,12 @@ author: neverbot
 
 Descender, de Jeff Lemire y Dustin Nguyen. Odisea cósmica particular de Image a ver si hacemos peli.
 
-
 Pues bien todo aquí, unas cuantas ideas metidas en la túrmix por parte de [@jefflemire](https://instagram.com/jefflemire), dibujo estilo acuarela sin terminar de [@duss005](https://instagram.com/duss005) (que a mí no me termina de enamorar pero para gustos colores), y robots, marcianos, naves espaciales, mercenarios, piñao, piñao... pues eso, que todo bien.
-
 
 Y sin embargo... no sé. ¿No le falta algo? Casi parece todo hecho en piloto automático, como si ya lo hubiéramos visto antes. ¿Seré solo yo?
 
-
 En cualquier caso me ha parecido una buena lectura y continuaré con siguientes tomos a ver por dónde va.
 
-
 ¿Soy el único sorprendido por que lo publique [@astiberri_ediciones](https://instagram.com/astiberri_ediciones) en lugar de [@normaedusa](https://instagram.com/normaedusa) que parecía centrada en este tipo de tebeos? A tope con esto, pero me ha sorprendido.
-
 
 ([@neverbot](https://instagram.com/neverbot))

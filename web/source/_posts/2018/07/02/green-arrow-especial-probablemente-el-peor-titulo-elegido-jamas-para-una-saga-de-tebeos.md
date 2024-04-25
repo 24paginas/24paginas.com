@@ -30,23 +30,16 @@ author: neverbot
 
 Green Arrow: especial. Probablemente el peor título elegido jamás para una saga de tebeos.
 
-
 Ya está otra vez el pesado haciendo su relectura de Green Arrow. Sí, pero tranquilos que no puedo dar la turra mucho más, la siguiente colección ya no la tengo completa.
-
 
 Sigue Judd Winnick a los guiones, está vez algo mejor, con bonitas historias con Mia y volviendo al tono de aventuras urbanas. Y ya empieza a desaparecer Phil Hester de los lápices tras un montón de números, dejando pasar a otros dibujantes que... que no. Final de una etapa. Por otro lado, portadazas.
 
-
 Además coincide argumentalmente con Crisis de Identidad y el camino hacia aquellas Final Crisis y los new 52 que ya suenan a chiste después de tantos reboots en los que todo cambia para que siga siendo igual.
-
 
 Al menos tenemos por aquí al Dr. Luz que tanto miedo daba en aquella miniserie, y la reaparición de Merlyn con un duelo de arqueros. Y muy cliffhanger y mucho cliffhanger al final.
 
-
 A partir de aquí comenzó a publicarse en una colección que cada mes incluía Green Arrow y Green Lantern intercalando colecciones, uno de esos movimientos incomprensibles de Planeta que hacen de vez en cuando.
 
-
 Ay, qué difícil ha sido leer al arquero esmeralda.
-
 
 [@neverbot](https://instagram.com/neverbot)

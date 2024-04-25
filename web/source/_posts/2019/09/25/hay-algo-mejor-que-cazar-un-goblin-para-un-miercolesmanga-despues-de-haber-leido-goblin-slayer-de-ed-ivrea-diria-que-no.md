@@ -25,20 +25,14 @@ author: hecdruiz
 
 ¿Hay algo mejor que cazar un goblin para un [#miercolesmanga](/tags/miercolesmanga)? Después de haber leído Goblin Slayer de [@ed.ivrea](https://instagram.com/ed.ivrea) diría que no.
 
-
 Hacía mucho, pero que mucho tiempo, que no leía un manga de fantasía que no fuese un isekai y que se tomase en serio en serio así mismo. Y oye, cómo lo echaba de menos.
-
 
 Buen dibujo de Kuosuke Kurose, acción trepidante, momentos que te encogen un poco el estomago (sin llegar a ser Berserk) con explícita crudeza, y la sensación al terminar el primer tomo de que se ha pasado todo volando y necesitas más.
 
-
 Desde luego para venir de una adaptación de novelas de Kumo Kagyu a raíz de un foro de rol al más puro estilo Dungeons & Dragons, hay que reconocer que ha sabido tejer, al menos por ahora, una historia interesante con un concepto original partiendo de un género tan manido como la fantasía.
-
 
 Me ha gustado. Mucho. Y creo que desde La Leyenda del Caballero Heroico no disfrutaba tanto de un manga de fantasía. Así que tocará seguirla.
 
-
 Por cierto, que también tiene adaptación a anime, figuras y el típico pack completo de serie de éxito. Además por lo visto van a publicar también las novelas como últimamente se está poniendo de moda, cosa que se agradece. Así cualquiera puede disfrutar de esta historia como más le guste (o esperar a que las figuras figma bajen de precio ^^U).
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

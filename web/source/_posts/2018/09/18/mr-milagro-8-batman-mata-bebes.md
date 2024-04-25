@@ -18,11 +18,8 @@ author: uncientovolando
 
 Mr. Milagro [#8](/tags/8) - “Batman mata bebés”.
 
-
 ¿Os acordáis hace unos años cuando empezaron a salir “manuales para padres frikis”? Pues [@tomking_tk](https://instagram.com/tomking_tk) ha decidido hacer algo parecido integrándolo en su serie limitada del gran escapista.
 
-
 Número tras número sigue mezclando lo tierno, lo terrible y lo raro de la vida, con una guerra continua de fondo.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -17,11 +17,8 @@ author: uncientovolando
 
 Karmen: En cuerpo y alma.
 
-
 Terminamos el año con un doblete. Aunque eso es adelantarse a los acontecimientos... La primera parte sería hablar del cómic de [@guillem_march](https://instagram.com/guillem_march), un cuento con cierto componente macabro pero preciosamente ilustrado y narrado. Guillem juega fuerte dos de sus habilidades artísticas –la anatomía y el dibujo de escenarios– y las pone al servicio de una historia que pasa por todos los estados emocionales y, me gustaría pensar, se ha adelantado en el espíritu y algunos de sus elementos a la película de Pixar de estas navidades (salvando las distancias).
 
-
 Un álbum precioso que brilla en la edición de [@norma_editorial](https://instagram.com/norma_editorial).
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

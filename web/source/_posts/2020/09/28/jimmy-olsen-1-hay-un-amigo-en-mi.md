@@ -19,24 +19,14 @@ author: uncientovolando
 
 Jimmy Olsen [#1](/tags/1): Hay un amigo en mí.
 
-
 Me he sorprendido en los últimos tiempos comprando más DC que Marvel, con lo que yo he sido, y haciéndolo encima en grapa. Claro está que esto lo estoy haciendo con miniseries que sé, más o menos, cuando terminaran, pero no deja de parecerme curioso.
-
 
 En fin, que venía a hablaros de esta novedad de hace ya un par de semanas, escrita por Matt Fraction y dibujada por Steve Lieber, que nos trae de nuevo un poco de la locura pop del mejor amigo de Superman. Con el dibujo sencillo pero expresivo de Lieber, Fraction nos mete de lleno en la historia familiar de los Olsen, contándonos cosas sobre sus orígenes que marcan el presente no solo del personaje sino de Metrópolis.
 
-
 Hat transformaciones, meteduras de pata, humor físico y misterios, pero también una fina capa de crítica social que pone de manifiesto problemas como la gentrificación. Es también, junto a la miniserie de 'Lois Lane' de Greg Rucka, un retrato cercano aunque sea de una forma tangencial de Superman, llegando a su parte más personal.
-
 
 Un cómic divertido y tierno que juega un poco en los márgenes del cómic superheroico pero trae lo mejor de este.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#dccomics](/tags/dccomics) [#superman](/tags/superman) [#jimmyolsen](/tags/jimmyolsen) [#metropolis](/tags/metropolis) [#mequedomuerto](/tags/mequedomuerto) [@eccediciones](https://instagram.com/eccediciones)

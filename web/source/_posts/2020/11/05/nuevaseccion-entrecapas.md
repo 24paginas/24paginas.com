@@ -22,5 +22,4 @@ author: uncientovolando
 
 [#NuevaSeccion](/tags/nuevaseccion): [#EntreCAPAS](/tags/entrecapas).
 
-
 En este jueves tormentoso, la diosa ha venido a iluminarnos el día y hemos aprovechado el montaje realizado por [@uncientovolando](https://instagram.com/uncientovolando) con las imágenes de [@ms_cargill](https://instagram.com/ms_cargill) vestida de Tormenta para sacarnos una nueva sección de la manga... o de la capa.

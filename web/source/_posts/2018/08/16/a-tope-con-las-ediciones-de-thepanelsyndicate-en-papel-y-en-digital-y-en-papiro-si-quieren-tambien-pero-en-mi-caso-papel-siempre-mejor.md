@@ -25,20 +25,14 @@ author: neverbot
 
 A tope con las ediciones de [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) en papel (y en digital y en papiro si quieren también, pero en mi caso papel siempre mejor).
 
-
 Ya os han traído por aquí mis compañeros un review rumble de ¡Universo!, y ahora le toca al The Private Eye de Brian K. Vaughan y Marcos Martin, que ve papel de la mano de Gigamesh, editorial que no suele prodigarse en tebeos.
-
 
 En un mundo futuro tras desaparecer "la nube" digital y airearse de todos nuestros secretos, el mundo vive celoso de su identidad privada. Es habitual utilizar apodos y llevar máscaras por las calles. En este ambiente, la investigación de un asesinato por parte de un detective privado da comienzo a un tecno-thriller del que poco os puedo contar sin destriparlo.
 
-
 Si tuerces una ceja durante la lectura y te parece que algo sea demasiado fantástico, quizá sea que no estás prestando la suficiente atención al mundo a tu alrededor.
-
 
 Todo bien en el tebeo, todavía estoy esperando encontrar algo de Vaughan que no merezca dedicarle una lectura, y el arte de Marcos Martín me ha dado ganas de buscar más cosas suyas. Incluso el vicio de la página apaisada, que pensaba que se me iba a atragantar, al final no lo he notado.
 
-
 A ver para cuando más obras de Panel Syndicate.
-
 
 ([@neverbot](https://instagram.com/neverbot))

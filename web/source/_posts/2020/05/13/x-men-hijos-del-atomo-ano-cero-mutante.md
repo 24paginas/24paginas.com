@@ -23,17 +23,12 @@ author: uncientovolando
 
 X-Men, Hijos del Átomo: Año Cero Mutante.
 
-
 Con la nueva edición de [@paninicomicsespana](https://instagram.com/paninicomicsespana), recupero la recopilación de Forum de esta serie limitada publicada por primera vez en pleno cambio de siglo. Una precuela, no canónica según sus autores, que nos pone en los instantes previos de la formación de la Patrulla-X.
-
 
 Joe Casey escribe una historia de intolerancia y movimientos reaccionarios extremos de tal actualidad que casi duele, desde el movimiento paramilitar al blanqueamiento político pasando por un circo mediático (el de los últimos noventa en USA) que parece viejo pero no superado. Esta trama fuerza a el Profesor Xavier, y sus contactos en el FBI, a acelerar sus planes en busca del sueño de paz e igualdad mutante, reuniendo a unos jóvenes (sin mucho esfuerzo porque por lo visto iban casi todos al mismo instituto) para mostrar las bondades del Homo Superior.
 
-
 La narración se completa con el increíble arte de Steve Rude, aunque a mitad de tomo abandona (las movidas de Rude, ya sabéis) para pasar por las manos de Paul Smith y Paul Ryan en su cuarto capítulo (estas también con problemas para cumplir fechas de entrega) y terminando por un Esad Ribic recién llegado a Marvel y antes de ponerse pictórico con los interiores (aunque sí lo hace en las portadas de sus dos números).
 
-
 Un complemento imprescindible de la historia mutante que no ha envejecido nada mal.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

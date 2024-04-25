@@ -23,5 +23,4 @@ author: 24paginas
 
 13/31. VRROOMM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
- 
 Domingo, un buen día para dar una vuelta...

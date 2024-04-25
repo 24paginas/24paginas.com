@@ -14,5 +14,4 @@ author: hecdruiz
 
 Va siendo hora de presentar al equipo.
 
-
 Empezamos por [@hecdruiz](https://instagram.com/hecdruiz): el tipo grande de buen corazón, pese a sus momentos de hater, que todo super grupo debe tener.

@@ -33,26 +33,18 @@ author: neverbot
 
 Bueno. Pues eso. El Multiverso. De Grant Morrison. Viene el señor del hate.
 
-
 Yo me imagino a Morrison como un señor con los puñitos cerrados, gritando todo el día "miradme, miradme, sé hacer lo mismo que Alan Moore, soy totalmente metareferencial!".
-
 
 Y cansino también.
 
-
 Aquí se monta una serie de nueve números excesivamente inconexos, como excusa para "reordenar" el universo DC con un mapita que al menos ha durado hasta hoy (sin saber aún como ha terminado Metal), lo cual ya es tener mérito a estas alturas. Uniendo conceptos desde los Authority hasta los monitores, los nuevos dioses, la fuerza de la velocidad y los mundos del sueño de Sandman, todo cabe en el mapa.
-
 
 Pero aparte del mapa y la guía de mundos (el sexto número de la serie), todo lo demás es excepcionalmente prescindible y no he visto que se haya vuelto a usar, ni siquiera ese grupo multiversal de "Operación Justicia Encarnada".
 
-
 Y el cuarto número, Pax Americana, del que tantas buenas reseñas había leído, es un intento de hacer un número 13 de watchmen ("miradme, miradme").
-
 
 Alguien debería reunirse con Morrison y explicarle que copiar un Mondrian no es complicado. Lo complicado fue ser el primero.
 
-
 Meh. Hasta aquí el hate del domingo. La serie está ahora recopilada en tomo, pero si me preguntáis a mi, hay cosas mejores que leer.
-
 
 ([@neverbot](https://instagram.com/neverbot))

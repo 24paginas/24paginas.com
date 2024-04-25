@@ -18,11 +18,8 @@ author: uncientovolando
 
 Lea y los pájaros. [#DiaInternacionalDelLibroInfantilyJuvenil](/tags/diainternacionaldellibroinfantilyjuvenil)
 
-
 El confinamiento nos ha pillado con los regalos de la prima de Sam en casa, así que hemos aprovechado para testarlos antes de que lleguen a su legítima dueña. Así hemos conocido a Lea, la pequeña (y algo brutota) ornitóloga que protagoniza este tebeo de [@katiaklein](https://instagram.com/katiaklein)_ para [@mamutcomics](https://instagram.com/mamutcomics).
 
-
 Una pequeña aventura estupendamente narrada sin palabras y muy accesible para los más pequeños.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

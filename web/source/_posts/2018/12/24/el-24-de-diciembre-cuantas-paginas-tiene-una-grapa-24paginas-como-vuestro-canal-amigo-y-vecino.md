@@ -20,8 +20,6 @@ author: 24paginas
 
 El 24 de diciembre, ¿cuántas páginas tiene una grapa? [#24páginas](/tags/24paginas), como vuestro canal amigo y vecino.
 
-
 Os deseamos felices fiestas al terminar nuestro particular calendario de adviento de [#advienticuatropaginas](/tags/advienticuatropaginas), mandamos besis y abracis desde el cuartel general...
-
 
 Y recordad, ¡en navidad regalad tebeos!

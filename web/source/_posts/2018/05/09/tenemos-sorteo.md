@@ -21,14 +21,10 @@ author: uncientovolando
 
 ¡Tenemos SORTEO!
 
-
 Aprovechando la salida del nuevo número de SFX/COMICMANÍA en el que nuestro [@uncientovolando](https://instagram.com/uncientovolando) escribe la pieza de portada sobre la historia de los Vengadores, hemos decidido hacer un humilde sorteo.
-
 
 SÍGUENOS y COMENTA contándonos quién es tu Vengador o Vengadora favoritos y podrás ganar un ejemplar de la revista (que incluye un juego de cartas de Doctor Who) y una chapita exclusiva de 24 páginas. Los likes no puntúan pero son bienvenidos 😊.
 
-
 Tenéis una semana para participar, hasta el miércoles 16. Por motivos logísticos solo podemos enviar el premio dentro del territorio español.
-
 
 ¡Vengadores reuníos!

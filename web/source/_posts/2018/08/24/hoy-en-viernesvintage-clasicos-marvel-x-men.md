@@ -19,14 +19,10 @@ author: uncientovolando
 
 Hoy en [#viernesvintage](/tags/viernesvintage): Clásicos MARVEL - X-Men
 
-
 Otra portada de Pacheco, en este caso para ilustrar el viaje a la Tierra Salvaje de La Patrulla-X. Con Ka-Zar y Zabu en primer plano, y los mutantes detrás recortados de cintura para abajo.
-
 
 Una escena que podría parecer estática pero que está llena de tensión. Y las manos ¿Habéis visto esas manos?
 
-
 Además, incluía ¡un póster de Jean Grey obra de [@juanjoguarnido](https://instagram.com/juanjoguarnido)!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

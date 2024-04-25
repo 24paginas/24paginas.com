@@ -23,9 +23,4 @@ Pues ya ha concluido el Juicio de Muerte y los 4 Fantásticos solucionan la pape
 
 Termina de esta forma una historia de corte clasicote y con referencias a la etapa Byrne que vuelve a establecer a Muerte como el villano que siempre ha sido. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#grapa](/tags/grapa) [#los4fantasticos](/tags/los4fantasticos) [#fantasticfour](/tags/fantasticfour) [#drmuerte](/tags/drmuerte) [#galactusconsuglotoneria](/tags/galactusconsuglotoneria) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

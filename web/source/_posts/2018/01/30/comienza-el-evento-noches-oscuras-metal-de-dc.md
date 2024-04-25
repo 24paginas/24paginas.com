@@ -29,14 +29,10 @@ author: neverbot
 
 Comienza el evento Noches oscuras: Metal 🤘🏻 de DC
 
-
 Parece que DC se sube al carro de los megaeventos periódicos al estilo Marvel, pero esta vez sin pulsar el botón de reset de todo un universo (o varios), que ya casi nos habían acostumbrado a esto.
-
 
 Empieza gamberro este primer número, con alguna ocurrencia simpática, y con un mapa del multiverso tal y como lo presentó Grant Morrison hace un par años... y la duda de si hay cosas fuera de ese mapa.
 
-
 La ultima foto podría ser un posible spoiler que sorprende a Batman y a cualquiera que lo lea.
-
 
 ([@neverbot](https://instagram.com/neverbot))

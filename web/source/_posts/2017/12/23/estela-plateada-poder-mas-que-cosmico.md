@@ -26,17 +26,12 @@ author: uncientovolando
 
 Estela Plateada: Poder más que cósmico.
 
-
 Con la Navidad se acerca uno de mis momentos preferidos del año desde 2005. El especial navideño de Doctor Who. Pero la perspectiva de no tener más episodios hasta sabe quién cuándo puede ser desalentadora.
-
 
 Por suerte ya está completa la serie de Estela Plateada de Dan Slott [@dan.slott](https://instagram.com/dan.slott) y Mike [@allredmd](https://instagram.com/allredmd) & Laura Allred. Con giros de los que te atenazan el corazón dignos del mejor Moffat, termina el vehículo de Slott, reconocido whovian, para hacer una historia del Doctor dentro del universo Marvel. Companion incluida.
 
-
 Lo hace con un tratamiento igual de la comedia y la tragedia. Con un final bien cerrado que emociona pero, al mismo tiempo, deja espacio a la esperanza. Y para ello le basta con remover los cimientos del universo con una explosión de cultura pop.
 
-
 Una historia más grande por dentro que por fuera.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

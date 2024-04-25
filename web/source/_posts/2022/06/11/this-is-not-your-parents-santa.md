@@ -24,8 +24,8 @@ template: instagram
 author: neverbot
 ---
 
-This is not your parents' Santa. 
+This is not your parents' Santa.
 
-No soy muy fan de Grant Morrison, aunque la gente me mira un poco mal cuando lo digo. Me parece un Mark Millar una generación más viejo, alguien que quiere ser efectista reciclando ideas de otros y llamando la atención lo máximo posible. Ale, ya lo he dicho. 
+No soy muy fan de Grant Morrison, aunque la gente me mira un poco mal cuando lo digo. Me parece un Mark Millar una generación más viejo, alguien que quiere ser efectista reciclando ideas de otros y llamando la atención lo máximo posible. Ale, ya lo he dicho.
 
-Y en este caso es aún más “Milleresco” en el sentido de que el tebeo es tremendamente “pelicularizable”. La historia de un Santa Claus alternativo, un Papá Noel Year Zero, pero con el espectacular dibujo de Dan Mora, que eso siempre es agradable de ver. Pero como resumen: ni fu ni fa. Para un rato entretiene. 
+Y en este caso es aún más “Milleresco” en el sentido de que el tebeo es tremendamente “pelicularizable”. La historia de un Santa Claus alternativo, un Papá Noel Year Zero, pero con el espectacular dibujo de Dan Mora, que eso siempre es agradable de ver. Pero como resumen: ni fu ni fa. Para un rato entretiene.

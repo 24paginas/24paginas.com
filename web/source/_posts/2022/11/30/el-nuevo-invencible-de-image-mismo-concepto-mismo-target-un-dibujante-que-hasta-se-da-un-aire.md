@@ -20,8 +20,8 @@ template: instagram
 author: neverbot
 ---
 
-El nuevo [#Invencible](/tags/invencible) de [#Image](/tags/image). Mismo concepto, mismo target, un dibujante que hasta se da un aire... 
+El nuevo [#Invencible](/tags/invencible) de [#Image](/tags/image). Mismo concepto, mismo target, un dibujante que hasta se da un aire...
 
 La verdad es que si esto se publicase en grapa no habría pasado de la primera, porque el inicio me pareció algo demasiado derivativo incluso para mí, pero al ser un tomo continué y... ¡ojo! que al final del cuarto episodio hay un girito que no creo que nadie se esperase. Y el quinto y sexto con las fichas del parchís de colores, pues tampoco me voy a quejar demasiado. No es desde luego la joya que parecen indicar las opiniones que aparecen en portada y contraportada, pero me ha despertado suficiente interés para ir a por el segundo.
 
-[@norma_editorial](https://instagram.com/norma_editorial) 
+[@norma_editorial](https://instagram.com/norma_editorial)

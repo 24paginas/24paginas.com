@@ -18,21 +18,12 @@ author: uncientovolando
 
 Friday N° 2: Por fin es viernes.
 
-
 Vale, es lunes. Probablemente demasiado lunes. Casi martes, que no deja de ser un lunes disfrazado. Pero la semana pasada salió la nueva y esperada entrega de Friday de la mano de [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) (pagando LO QUE QUIERAS) y no puedo evitar pensar en las lecturas de fin de semana, con una mentira por encima para espantar al frío que ya ha llegado.
 
-
-Si el primer número nos presentaba el mundo en el que ocurre la historia, este se centra en contarnos más sobre su protagonista, quien da título al cómic. El enigma queda un poco relegado, aunque no olvidado, en favor de la historia personal y los colores de Muntsa Vicente vuelven a vibrar con fuerza en cada página. 
-
+Si el primer número nos presentaba el mundo en el que ocurre la historia, este se centra en contarnos más sobre su protagonista, quien da título al cómic. El enigma queda un poco relegado, aunque no olvidado, en favor de la historia personal y los colores de Muntsa Vicente vuelven a vibrar con fuerza en cada página.
 
 Los misterios flotan en el ambiente y el más importante es ¿cuando llegará el próximo número?
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#misterio](/tags/misterio) [#edbrubaker](/tags/edbrubaker) [#marcosmartin](/tags/marcosmartin) [#muntsavicente](/tags/muntsavicente) [#end](/tags/end) igitaltambienselee

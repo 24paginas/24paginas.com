@@ -17,7 +17,7 @@ author: neverbot
 
 Actualizado: Qué mala fecha ha resultado ser para publicar esto, pero ya estaba hecho desde primeros de diciembre 🥲
 
-El 14 de Diciembre, 14 de Julio, de Bastien Vivès ([@bastienvives](https://instagram.com/bastienvives)). 
+El 14 de Diciembre, 14 de Julio, de Bastien Vivès ([@bastienvives](https://instagram.com/bastienvives)).
 
 Parece un trabalenguas... el 14 de Diciembre, 14 de Julio... Si es que lo mucho que me gusta a mi el señor Vivès no está escrito.
 

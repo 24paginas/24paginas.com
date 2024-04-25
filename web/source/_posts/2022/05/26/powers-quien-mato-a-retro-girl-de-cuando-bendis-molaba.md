@@ -25,8 +25,8 @@ template: instagram
 author: neverbot
 ---
 
-Powers: ¿Quién mató a Retro Girl? De cuando [#Bendis](/tags/bendis) molaba. 
+Powers: ¿Quién mató a Retro Girl? De cuando [#Bendis](/tags/bendis) molaba.
 
 Tapando carencias en mi tebeología, estoy leyéndome Powers sacándolo de la biblioteca, porque la edición no me gusta lo suficiente como para comprármela… ¿No hay una edición nueva de esto que sea mejor?
 
-¿De qué va esto? Un Gotham Central indie, por si tengo que hacer un paralelismo con algo más moderno. El primer tomo muy bien, hay un asesinato y una investigación que nos sirve para presentar a los personajes protagonistas y parte de su pasado, a la vez que se forma un nuevo equipo de buddy-movie policiaca con poli misterioso que siempre trabaja solo y joven compañera motivada que da el contrapunto. Todos los clichés del género pero bien usados. A tope a por los siguientes tomos. 
+¿De qué va esto? Un Gotham Central indie, por si tengo que hacer un paralelismo con algo más moderno. El primer tomo muy bien, hay un asesinato y una investigación que nos sirve para presentar a los personajes protagonistas y parte de su pasado, a la vez que se forma un nuevo equipo de buddy-movie policiaca con poli misterioso que siempre trabaja solo y joven compañera motivada que da el contrapunto. Todos los clichés del género pero bien usados. A tope a por los siguientes tomos.

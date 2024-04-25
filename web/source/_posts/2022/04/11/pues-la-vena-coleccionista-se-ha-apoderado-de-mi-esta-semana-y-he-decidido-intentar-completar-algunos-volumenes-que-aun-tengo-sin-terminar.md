@@ -22,9 +22,9 @@ template: instagram
 author: neverbot
 ---
 
-Pues la vena coleccionista se ha apoderado de mí esta semana y he decidido intentar completar algunos volúmenes que aún tengo sin terminar. 
+Pues la vena coleccionista se ha apoderado de mí esta semana y he decidido intentar completar algunos volúmenes que aún tengo sin terminar.
 
-Por ejemplo, el anterior volumen de Thor, que se publicó en castellano del 2008 al 2011 (el que comenzaba con [#straczynski](/tags/straczynski) y [#oliviercoipel](/tags/oliviercoipel)) lo tenia “completo” porque decidí comprar sólo los números que incluían la serie regular… nunca me gustó mucho la costumbre de las editoriales españolas de meter en la numeración habitual annuals, limitadas, etc, así que los dejé pasar en su momento. 
+Por ejemplo, el anterior volumen de Thor, que se publicó en castellano del 2008 al 2011 (el que comenzaba con [#straczynski](/tags/straczynski) y [#oliviercoipel](/tags/oliviercoipel)) lo tenia “completo” porque decidí comprar sólo los números que incluían la serie regular… nunca me gustó mucho la costumbre de las editoriales españolas de meter en la numeración habitual annuals, limitadas, etc, así que los dejé pasar en su momento.
 
 Por ejemplo, en el número 12 se incluía este Thor: The Truth of History que hizo [#alandavis](/tags/alandavis) de relleno para tapar unos retrasos en la serie regular usa.
 

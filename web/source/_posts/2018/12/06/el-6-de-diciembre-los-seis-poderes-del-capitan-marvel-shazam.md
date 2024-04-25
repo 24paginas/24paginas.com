@@ -35,11 +35,8 @@ author: neverbot
 
 El 6 de diciembre, los seis poderes del Capitán Marvel/Shazam!
 
-
 La sabiduría de Salomón, la fuerza de Hércules, la resistencia de Atlas, el poder de Zeus, la valentía de Aquiles y la velocidad de Mercurio.
 
-
 Ganazas de que estrenen la peli.
-
 
 ([@neverbot](https://instagram.com/neverbot))

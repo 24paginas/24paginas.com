@@ -17,11 +17,8 @@ author: uncientovolando
 
 Runaways: De vuelta a casa.
 
-
 Parece menos, pero los Runaways llevaban ya 10 años fuera de circulación. Junto con Jóvenes Vengadores, fue el buque insignia adolescente de la Casa de las Ideas durante la década pasada.
 
-
 Ahora, con una serie de camino a su segunda temporada, han vuelto a sus orígenes. Los guiones de la novelista juvenil Rainbow Rowell caracterizan perfectamente a los personajes y está preciosamente dibujado por [@kristaferanka](https://instagram.com/kristaferanka). Nuevas historias y nuevas huidas, pero el mismo sabor. Además la edición de [@paninicomicsespana](https://instagram.com/paninicomicsespana) incluye sus ya habituales extras con parte del proceso de dibujo. Todo bien.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

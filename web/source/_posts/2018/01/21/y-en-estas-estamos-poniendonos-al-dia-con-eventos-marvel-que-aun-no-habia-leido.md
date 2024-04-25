@@ -28,14 +28,10 @@ author: neverbot
 
 Y en estas estamos, poniéndonos al día con eventos Marvel que aún no había leído.
 
-
 Fear itself (miedo encarnado) nos cuenta la aparición de un hermano de Odín muy cabreado por haber estado encerrado algunos milenios (comprensible, por otra parte) y... y poco más.
-
 
 Correcto Fraction, espectacular Immonen (que ya fue nuestro autor del mes en diciembre), pero a mi juicio la historia no daba para mucho más que para una trama de Thor.
 
-
 Aquí de todas formas tenemos opiniones encontradas dentro del staff, a algunos les ha gustado mucho más que a mí, que he llegado tarde. Se agradecen comentarios al respecto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

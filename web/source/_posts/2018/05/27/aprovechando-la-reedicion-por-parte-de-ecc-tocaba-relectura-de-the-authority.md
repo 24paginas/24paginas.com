@@ -31,17 +31,12 @@ author: neverbot
 
 Aprovechando la reedición por parte de ECC, tocaba relectura de The Authority.
 
-
 Su primer tomo es el equivalente a este primer tomo de Norma, que comprende el primer arco argumental de 12 números, de unos Warren Ellis y Bryan Hitch inmensos.
-
 
 Llegaba el año 2000 y tocaba el turno de nuevo a hacer los tebeos de superhéroes "más adultos" (no me cansaré nunca de esta cantinela cada década), y Ellis cogió los Stormwatch del sello WildStorm (su Justice League) y los remozó completamente. Se deshizo de personajes, evolucionó a otros, puso a algunos nuevos en el "traje" de los anteriores... metió en la batidora un montón de palabrotas y algo de hiperviolencia explícita (magistralmente dibujada por Hitch) y ale, a vender.
 
-
 Y lo cierto es que es un buen tebeo. Entretenido, con muchas ideas, algunas incluso recicladas como básicas para el moderno Multiverso DC, con épica en cada página...
 
-
 Y con un gran continuará para que al siguiente número llegaran Mark Millar y Frank Quitely. Pero eso lo veremos en el tomo 2. Próximamente en este mismo batcanal.
-
 
 ([@neverbot](https://instagram.com/neverbot))

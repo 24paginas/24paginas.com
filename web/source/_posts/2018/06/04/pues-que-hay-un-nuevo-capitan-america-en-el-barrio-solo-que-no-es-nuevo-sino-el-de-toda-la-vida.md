@@ -21,14 +21,10 @@ author: neverbot
 
 Pues que hay un nuevo Capitán América en el barrio. Sólo que no es nuevo, sino el de toda la vida.
 
-
 Y como últimamente soy el señor al que no le gusta nada y está todo el día con el [#mimimi](/tags/mimimi), pues esto va a ser corto.
-
 
 Yo a esto digo sí.
 
-
 Bravo por Mark Waid (como siempre) y Chris Samnee ([@chrissamnee](https://instagram.com/chrissamnee)) que le viene al personaje como un guante de seda. Seda mágica tejida en un monte perdido del Himalaya, por monjes que escuchan dubstep y hacen kung-fu. Un guante perfecto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

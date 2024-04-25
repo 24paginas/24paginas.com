@@ -22,14 +22,10 @@ author: neverbot
 
 Bajo el cielo rojo de Marte, de [@gonzaloaeneas](https://instagram.com/gonzaloaeneas) y [@enricpujadas](https://instagram.com/enricpujadas), editado por [@apachelibros](https://instagram.com/apachelibros).
 
-
 Marte, rebeliones, robots, una protagonista de estética deudora de Alita y autoconclusivo. A la saca.
-
 
 Lo he conocido de casualidad, gracias a una recomendación en los stories de [@coronawer](https://instagram.com/coronawer) (influencer!) y en cuanto lo he visto disponible en una tienda me he hecho con él.
 
-
 Recomendable, aún con alguna limitación debida a ser una obra primeriza que es perdonable. Cualquiera que se saque de la manga un álbum completo con este nivel tiene mi admiración y mi envidia.
-
 
 ([@neverbot](https://instagram.com/neverbot))

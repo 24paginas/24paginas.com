@@ -18,14 +18,9 @@ template: instagram
 author: uncientovolando
 ---
 
-Aquel verano (y todos los demás). El cómic de las primas Jillian y Mariko Tamaki huele a verano, a siesta a la sombra de los arboles, a tierra húmeda y a cobijo de tormenta repentina. 
+Aquel verano (y todos los demás). El cómic de las primas Jillian y Mariko Tamaki huele a verano, a siesta a la sombra de los arboles, a tierra húmeda y a cobijo de tormenta repentina.
 Una historia que, aunque hable de un verano muy concreto, habla de todos los veranos. De lo que significan las vacaciones cuando dejas de ser niño (aunque aún quede algo) y cuando eres adulto con responsabilidades.
 
 Todo con una placidez agridulce, tanto en el precioso dibujo como en la narración, la misma que se tiene tumbado a la sombra sabiendo que en algún momento tendrán que terminar las vacaciones. Y así de año en año... ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#novelagrafica](/tags/novelagrafica) [#verano](/tags/verano) [#adolescentes](/tags/adolescentes) [#vacaciones](/tags/vacaciones) [#canada](/tags/canada) [#camping](/tags/camping) [@edicioneslacupula](https://instagram.com/edicioneslacupula) [@marikotamaki](https://instagram.com/marikotamaki) [@jilliantamaki](https://instagram.com/jilliantamaki)

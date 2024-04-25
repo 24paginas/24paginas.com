@@ -23,17 +23,12 @@ author: neverbot
 
 ¡Boooom! Empezamos con Sex Criminals, una cosa loca difícil de explicar pero fácil de disfrutar.
 
-
 Guiones de Matt Fraction (que a mí ya me tiene con el hola) y dibujines de Chip [@zdarsky](https://instagram.com/zdarsky) (que no podría encajar mejor como dibujante en ningún otro tebeo pasado o futuro), y... pues...
-
 
 *sigh*
 
-
 Hay una gente que cuando tiene un orgasmo para el tiempo accediendo a una dimensión paralela, pero también hay una policía del sexo, y todo muy loco. Pero bien. Y menos perversión de la que me imaginaba iba a encontrar. Porque esto podría ir a más muy fácilmente y parece que se contiene, pero a saber qué me encontraré en los próximos tomos. Que, por supuesto, me voy a leer de cabeza.
 
-
 Y ganadora de un Eisner, nominada a premio Hugo, blablabla. Por si necesitabais más alicientes.
-
 
 ([@neverbot](https://instagram.com/neverbot))

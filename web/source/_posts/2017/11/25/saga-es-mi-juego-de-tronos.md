@@ -20,17 +20,12 @@ author: uncientovolando
 
 Saga es mi Juego de Tronos.
 
-
 Si la ficción de G. R. R. Martin no deja de ser un culebrón sobre intrigas familiares aderezado con dragones, aquí Brian K. Vaughan añade una ambientación de epopeya espacial deliciosamente ilustrada por Fiona Staples.
-
 
 Pese a su origen en grapa, cada volumen está deliciosamente pensado para contener un arco más o menos completo que termina en alto, o en muy bajo, para dejarte enganchado hasta el siguiente ejemplar. Se nota el pasado televisivo de Vaughan.
 
-
 El número 7, publicado por [@planetadcomic](https://instagram.com/planetadcomic) hace un par de meses, continúa las desventuras de Alana, Marko y Hazel que siguen su huida por el espacio, haciendo nuevos amigos y enemigos a cada paso, y deja un sabor algo amargo al terminar.
 
-
 Sin duda una serie que merecerá una relectura completa una vez finalizada.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -24,9 +24,7 @@ author: uncientovolando
 
 ¡Llega REVIEW RUMBLE!
 
-
 Como prometimos, este mes tenemos nueva sección. Una reseña comparada en la que dos de nosotros, o los tres si nos volvemos muy locos, os daremos nuestra opinión sobre un tebeo. .
 En esta ocasión, [@hecdruiz](https://instagram.com/hecdruiz) y [@uncientovolando](https://instagram.com/uncientovolando) se enfrentan a ¡Universo! de Albert Monteys, el cómic original de [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) que ya encabeza su segunda edición por parte de [@astiberri_ediciones](https://instagram.com/astiberri_ediciones).
-
 
 3! 2! 1! Fight!

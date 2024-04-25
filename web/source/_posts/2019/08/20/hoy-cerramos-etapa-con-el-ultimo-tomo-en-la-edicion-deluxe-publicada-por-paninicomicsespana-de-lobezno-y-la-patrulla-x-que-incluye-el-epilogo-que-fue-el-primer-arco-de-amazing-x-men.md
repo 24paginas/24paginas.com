@@ -38,14 +38,10 @@ author: hecdruiz
 
 Hoy cerramos etapa con el último tomo en la edición deluxe publicada por [@paninicomicsespana](https://instagram.com/paninicomicsespana) de Lobezno y la Patrulla-X que incluye el “epílogo” que fue el primer arco de Amazing X-men, y menudo tomo.
 
-
 Termina [@jasonaaron](https://instagram.com/jasonaaron) su etapa por todo lo alto con un elenco de artistas que ya podrían haberse ocupado de la renovación de la franquicia mutante post HoX y PoX. Otro gallo nos cantaría. Y es que, si por separado son de lo más top, y coges y los metes a todos en un mismo tomo.. pues eso, que ojo al abrirlo no os explote el medidor de alucinancia. Y es que en este tomo tenemos a nuestro queridísimo [@pepelarraz](https://instagram.com/pepelarraz) dejando claro que lo de los mutantes se le da MOE BIEN, a [@nkwbradshaw](https://instagram.com/nkwbradshaw), a [@edmcguinness](https://instagram.com/edmcguinness), a [@cameronmstewart](https://instagram.com/cameronmstewart) y a un [@toddnauck](https://instagram.com/toddnauck) que vaya papeleta tenía para mantenerse a esa altura. Que sí, que las comparaciones son odiosas… en cualquier caso no empaña el resultado final quedando un tomo que a nivel visual es una barbaridad.
-
 
 Pero es que a nivel de guión nos da momento indispensables para la franquicia que ya iban haciendo mucha falta, y están contados con un gusto y un cariño por los personajes que mira.. qué queréis que os diga.. ojalá Jason Aaron hubiese tenido el tiempo y el cheque en blanco que ha tenido con Thor visto lo visto. Para mi el guionista que a día de hoy mejor sabe moverse en el Universo Marvel junto a Donny Cates.
 
-
 Simplemente me encanta lo que cuenta y sobretodo, cómo lo cuenta. Da la sensación de que no sólo conoce, sino que adora a los personajes, y respeta su personalidad e historia dando una coherencia sin perder la frescura en las historias, cosa que no es nada fácil. No como otros que son más de “yo he venido aquí a contar mi historia y lo demás ya tal”. No digo más porque no quiero hacer spoilers, pero si eres amante de la patrullosa, este tomo tiene algunas patadas directas al kokoro que son de cerrar el tomo un momento y aplaudir. Vamos, que desde entonces no he vuelto a leer a unos X-men tan auténticos.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

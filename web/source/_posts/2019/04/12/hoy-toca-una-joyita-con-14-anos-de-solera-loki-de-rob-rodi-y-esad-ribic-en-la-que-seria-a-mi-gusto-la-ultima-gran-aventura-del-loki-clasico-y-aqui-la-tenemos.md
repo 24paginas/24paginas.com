@@ -25,14 +25,10 @@ author: hecdruiz
 
 Hoy toca una joyita con 14 años de solera. Loki de Rob Rodi y Esad Ribic en la que sería a mi gusto la última gran aventura del Loki clásico. Y aquí la tenemos.
 
-
 Antes de que Loki fuese el antihéroe que a todo el mundo le encanta a día de hoy (yo incluido), existió un Loki "supervillano" con una cornamenta infinita y un atuendo que a los más talluditos nos recordaba irremediablemente al Crispín del Capitán Trueno. Pero incluso ya en aquel entonces se vislumbraba que no era el clásico enemigo plano empujado por simple maldad, y que tenía mucho más potencial y matices de los que se podían sacar cosas interesantes.
-
 
 Es cierto que en esta obra es fácil perderse la historia por el apabullante nivel gráfico de Esad Ribic, que hace de cada página un cuadro donde quedarte un buen rato a disfrutar del arte con mayúsculas. Pero la historia que nos cuenta Rob Rodi es directa, sencilla e interesante además de autocontenida, lo que permite ser leida en cualquier momento sin casi la necesidad de un contexto, por lo que resulta de lo más accesible si apenas conoces a los personajes.
 
-
 Vamos, que para echar un rato está muy bien, para entrar al universo asgardiano ahora tan de moda también, y sobretodo para disfrutar de Ribic en Thor antes de entrar en materia con la muy recomendada etapa de Aaron y Ribic que ya os trajimos en [#NOVEASLAgrafica](/tags/noveaslagrafica) y que llega ahora a su evento final.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

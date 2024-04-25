@@ -20,12 +20,9 @@ author: uncientovolando
 
 Paper Girl [#18](/tags/18): Lucha de gigantes.
 
-
 En esta casa es auténtica devoción la que se tiene por Brian K. Vaughan. Pero leer en grapa, mes a mes, alguna de sus series puede resultar a veces un suplicio. .
 Con Paper Girls llevamos encadenados varios capítulos, al menos desde el último salto, en los que la trama apenas avanza y, sin embargo, se suceden los cliffhangers. Como si en un episodio de televisión quedasen en alto antes de cada pausa de publicidad. Solo que la espera entre bloques dura un mes, como si viéramos la serie en Antena 3.
 
-
 A pesar de eso es un número lleno de acción en el que Cliff Chiang se luce con peleas gigantescas y destrucción suburbana.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

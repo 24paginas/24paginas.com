@@ -18,8 +18,6 @@ author: 24paginas
 
 [#autordelmes](/tags/autordelmes): Mark Waid, historiador en historietas.
 
-
 Mark Waid es uno de esos guionistas que parecen atesorar un conocimiento casi universal sobre mundos ficticios. Ha sido responsable de largas y recordadas etapas en series tanto de Marvel como de DC, donde ha sabido jugar con la continuidad de ambos universos.
-
 
 Con “Historia del Universo Marvel” lleva ese conocimiento un poco más allá para unificar los hitos ficticios de La Casa de las Ideas. Un trabajo complicado de selección, organización y narración que queda especialmente fluido gracias al arte de [@javiercaster](https://instagram.com/javiercaster) y Álvaro López.

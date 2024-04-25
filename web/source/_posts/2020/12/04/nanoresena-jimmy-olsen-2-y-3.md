@@ -17,15 +17,8 @@ author: uncientovolando
 
 [#nanoreseña](/tags/nanoresena): Jimmy Olsen 2 y 3.
 
-
 La serie de Fraction y Lieber sigue siendo uno de esos pocos cómics que provocan carcajadas sinceras. Muy fan de sus retratos de Superman y Batman.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#pop](/tags/pop) [#dccomics](/tags/dccomics) [#superman](/tags/superman) [#batman](/tags/batman) [@eccediciones](https://instagram.com/eccediciones)

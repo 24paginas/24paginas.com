@@ -21,18 +21,13 @@ author: uncientovolando
 
 Estela Plateada • Negro [#1](/tags/1): Todo negro.
 
-
 Con todo el lío de las últimas semanas habíamos pasado por alto una de las novedades de [@paninicomicespana](https://instagram.com/paninicomicespana), aunque es cierto que ya habíamos hablado de ella con su lanzamiento en USA y nuestro premio a Tradd Moore como [#autordelmes](/tags/autordelmes).
 
-
-Por fin tenemos por aquí esta nueva serie de ex-heraldo de Galactus con un viaje a los confines más oscuros del universo. Una pieza más en el pequeño gran puzzle que está diseñado 
+Por fin tenemos por aquí esta nueva serie de ex-heraldo de Galactus con un viaje a los confines más oscuros del universo. Una pieza más en el pequeño gran puzzle que está diseñado
 Donny Cates.
-
 
 Otra visión del personaje, que retoma la introspección clásica, sí matizada además por una oscuridad creciente,pero mantiene el toque pop de su última serie, aunque sea solo en lo formal. Recomendable para quien busque algo diferente dentro del Universo Marvel.
 
-
 ¡A mí, mi tabla!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

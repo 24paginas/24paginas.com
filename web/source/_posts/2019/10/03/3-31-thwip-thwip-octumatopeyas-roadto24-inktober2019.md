@@ -20,8 +20,6 @@ author: 24paginas
 
 3/31. THWIP THWIP! 🕸 [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Hoy vamos sin contenido extra y, apenas, sin comentario. Quizás en un futuro hagamos un repaso de todos modos de telaraña en nuestra [#NOVEASLAgrafica](/tags/noveaslagrafica), pero de momento nos quedamos con la simplicidad del sonido del lanzatelarañas de Spidey.
-
 
 Extended índice y meñique, juntad corazón y anular a la palma de la mano, y presionad. Thwip! 🤟🏻🤘🏻🕸

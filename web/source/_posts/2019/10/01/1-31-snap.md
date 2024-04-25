@@ -24,14 +24,10 @@ author: uncientovolando
 [#octumatopeyas](/tags/octumatopeyas)
 [#roadto24](/tags/roadto24)
 
-
 Sí, nos unimos a [#inktober2019](/tags/inktober2019) con un ejercicio sobre efectos de sonido en el cómic que va a vertebrar las publicaciones de este mes. Pero la cosa no queda solo en las onomatopeyas dibujadas por [@uncientovolando](https://instagram.com/uncientovolando), algunas de las publicaciones esconderán reseñas, comentario y puede que hasta entrevistas relacionadas con el efecto.
-
 
 Empezamos por el infame "Snap!", un efecto de chasquido que ha sido utilizado en otras trágicas ocasiones (como la muerte de Gwen Stacy) pero que pasaría a la historia en 1991 cuando Thanos se hizo con "El Guantelete del Infinito", rotulado por Jack Morelli.
 
-
 Este chasquido también no sirve de excusa para recordaros esa bonita tienda de camisetas a la que podéis acceder desde nuestro LINK EN BIO!
-
 
 Oh, snap!

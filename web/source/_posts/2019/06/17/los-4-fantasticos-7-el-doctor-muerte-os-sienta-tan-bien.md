@@ -24,7 +24,7 @@ Los 4 Fantásticos [#7](/tags/7): El Doctor Muerte os sienta tan bien.
 
 Grapa doble que [@paninicomicsespana](https://instagram.com/paninicomicsespana) aprovecha para recuperar la numeración tras todo lo relacionado con la boda de la Cosa con el arranque del nuevo arco. Un hambriento, y todavía malvado, Galactus aparece esta vez en Latveria y Muerte tiene algo que ver.
 
-Slott recupera el Doctor Muerte canónico y grandilocuente, con un plan maestro que se niega a desvelar completamente, y la primera familia debe conformarse con actuar de sidekicks (o companions, teniendo en cuenta cómo escribe Slott) del Doctor. 
+Slott recupera el Doctor Muerte canónico y grandilocuente, con un plan maestro que se niega a desvelar completamente, y la primera familia debe conformarse con actuar de sidekicks (o companions, teniendo en cuenta cómo escribe Slott) del Doctor.
 La serie parece recuperar ritmo y entidad fantástica tirando de los clásicos.
 
 SALVE DOOM! ([@uncientovolando](https://instagram.com/uncientovolando))

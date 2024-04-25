@@ -19,11 +19,8 @@ author: uncientovolando
 
 Paper Girls [#15](/tags/15)
 
-
 La brecha...
 
- 
 Termina la trama prehistórica ¿y ahora qué?
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -19,11 +19,8 @@ author: uncientovolando
 
 Potencias de X [#4](/tags/4): Siniestros aliados.
 
-
 Poco a poco vamos conociendo más cosas sobre el plan de Xavier (y Moira), y este número lanza una mirada a la creación de todo lo que tiene que ver con Krakoa. Pero también nos deja una descachareante y siniestra escena junto a uno de los inesperados aliados del profesor.
 
-
 Mañana más.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

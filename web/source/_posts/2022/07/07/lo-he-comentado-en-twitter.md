@@ -21,8 +21,8 @@ template: instagram
 author: neverbot
 ---
 
-Lo he comentado en Twitter, pero por si fuera de utilidad para alguien lo apunto por aquí también: la colección de [#Thorgal](/tags/thorgal) de quioscos salió con el tomo 52 erróneo, pero ya existe una edición corregida que ha enviado la editorial… no sé si a todo el mundo o a los que hayan protestado. 
+Lo he comentado en Twitter, pero por si fuera de utilidad para alguien lo apunto por aquí también: la colección de [#Thorgal](/tags/thorgal) de quioscos salió con el tomo 52 erróneo, pero ya existe una edición corregida que ha enviado la editorial… no sé si a todo el mundo o a los que hayan protestado.
 
-Las ediciones son indistinguibles por fuera, la nueva por dentro es en papel satinado. En la ultima foto, la de abajo es la edición correcta. 
+Las ediciones son indistinguibles por fuera, la nueva por dentro es en papel satinado. En la ultima foto, la de abajo es la edición correcta.
 
-[#bd](/tags/bd) [#bandedessinee](/tags/bandedessinee) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#albumeuropeo](/tags/albumeuropeo) [#jeanvanhamme](/tags/jeanvanhamme) [#grzegorzrosi](/tags/grzegorzrosi)ński 
+[#bd](/tags/bd) [#bandedessinee](/tags/bandedessinee) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#albumeuropeo](/tags/albumeuropeo) [#jeanvanhamme](/tags/jeanvanhamme) [#grzegorzrosi](/tags/grzegorzrosi)ński

@@ -21,11 +21,8 @@ author: hecdruiz
 
 Pues hemos pasado de los 666 seguidores y que mejor, para este [#martesdemoñecos](/tags/martesdemonecos), que traer a Hellboy.
 
-
 Pero no un [#hellboy](/tags/hellboy) cualquiera sino los llaveritos más cuquimolones que se han hecho de este personaje y su colega Abe.
 
-
 Si no recuerdo mal los fabricó Qee allá por el 2009... 10 años ya... [#vamosamorirtodos](/tags/vamosamorirtodos)
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

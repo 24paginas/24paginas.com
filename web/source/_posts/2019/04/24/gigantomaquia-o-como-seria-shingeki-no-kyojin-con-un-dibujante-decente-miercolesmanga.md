@@ -25,17 +25,12 @@ author: neverbot
 
 Gigantomaquia, o cómo sería Shingeki no Kyojin con un dibujante decente [#miercolesmanga](/tags/miercolesmanga)
 
-
 Tomo que empieza y “termina”, aunque dando toda la impresión de que era un intento de serie abierta porque Kentaro Miura ya no sabía por dónde continuar (o no le apetecía) con Berserk.
-
 
 Gigantes mitológicos dándose de mamporros en un mundo aparentemente postapocalíptico, luchas de gladiadores en la arena del desierto haciendo llaves de wrestling y muchos “WTF is this?” por página. Todo bien aquí.
 
-
 Lo negativo: pues que esto no sigue y por lo tanto cierra un poco en falso, terminando una “saga” pero dejando el argumento general que se intuía de fondo un poco en el aire.
 
-
 Lo positivo: si te gusta el dibujo detallista de Miura no sé a qué estás esperando.
-
 
 ([@neverbot](https://instagram.com/neverbot))

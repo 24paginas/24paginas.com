@@ -33,17 +33,12 @@ author: neverbot
 
 Marvel Legacy Alpha. Back to black.
 
-
 Internet es amplio, y hay mercado para el haterismo. No es mi caso. Soy plenamente consciente de cómo funciona la industria del cómic americano, y al final, siempre, todo cambia para seguir siendo igual, así que las propiedades intelectuales que conocíamos iban a volver antes o después. El universo Ultimate iba a desaparecer antes o después. Y el mefistazo se deshará antes o después, aunque tenga que conseguir un puesto de guionista en Marvel para conseguirlo, pero pasará.
-
 
 Así que este es el tebeo de presentación al nuevo no-evento Marvel Legacy, que nos está trayendo de vuelta a unos cuantos personajes que estaban en segundo plano durante los últimos años. De formas muy light para no spoilearnos las colecciones respectivas... excluyendo quizá esa última imagen que a mí me sorprendió.
 
-
 Como resumen rápido del estado de las cosas en Marvel, todo bien aquí. Se plantan semillitas de argumentos, unos cuantos dibujantes top, y sale Agamotto con sus Vengadores prehistóricos, así que para mí ya es un win.
 
-
 También os digo que con la edición normal vale, los extras de la edición especial me han dado un poco igual.
-
 
 [@neverbot](https://instagram.com/neverbot)

@@ -23,8 +23,6 @@ author: neverbot
 
 "Soy el mejor en lo que hago, pero lo que hago no es muy agradable"
 
-
 Los jueves soleados son para jugar con los moñecos.
-
 
 ([@neverbot](https://instagram.com/neverbot))

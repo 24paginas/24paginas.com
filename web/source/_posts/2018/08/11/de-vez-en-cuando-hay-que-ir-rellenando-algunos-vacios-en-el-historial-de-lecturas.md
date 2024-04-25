@@ -27,17 +27,12 @@ author: neverbot
 
 De vez en cuando hay que ir rellenando algunos vacíos en el historial de lecturas. Nunca había leído un tebeo de Punisher en mi vida, así que he aprovechado el primer tomo de su Marvel Saga para darle un tiento.
 
-
 Esta colección reedita el Punisher de la línea MAX que escribió Garth Ennis, aunque comienza con un primer tomo que incluye (acertadamente, a mi entender) la serie limitada Born con Darick Robertson y dos one-shots parcialmente relacionados con esa época del origen del personaje, lo que ayuda a hacernos una idea de quién es este tipo que se pinta una calavera en el pecho.
-
 
 Perfecto como primer acercamiento al personaje. Eso sí, no hay nada de Marvel aquí, es un tebeo bélico sin otros iconos de la casa ni referencia alguna al universo compartido. Como debe ser.
 
-
 Así que en el tomo dos debería dar inicio la reedición de la que fue serie regular del personaje. Habiendo leído reseñas supongo que me diréis que sí, pero la pregunta es obligada:
 
-
 ¿Continúo con el del segundo tomo de El Castigador?
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -35,9 +35,4 @@ Un número completito y ecléctico que va desde Sandman al BDSM pasando por Rich
 
 En esta ocasión he tenido el placer, y el reto, de dedicar una infografía a la editorial japonesa Shueisa, casa de [#DragonBall](/tags/dragonball), [#jojobizarreadventure](/tags/jojobizarreadventure) y [#Naruto](/tags/naruto). Por suerte no es la única presencia de [#manga](/tags/manga) en esta entrega y han contado con un auténtico entendido, [@capitanurias](https://instagram.com/capitanurias), para hablar sobre [#seinen](/tags/seinen). ¡No perdáis la oportunidad de echarle un vistazo! ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#comics](/tags/comics) [#revistas](/tags/revistas) [#quiosco](/tags/quiosco) [#tebeos](/tags/tebeos) [#superheroes](/tags/superheroes) [#marvel](/tags/marvel) [#dccomics](/tags/dccomics) [#fantasia](/tags/fantasia) [#juegos](/tags/juegos) [#cifi](/tags/cifi) [@paninirevistas](https://instagram.com/paninirevistas) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

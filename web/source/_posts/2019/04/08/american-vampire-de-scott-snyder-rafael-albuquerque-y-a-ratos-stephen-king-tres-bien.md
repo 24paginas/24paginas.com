@@ -24,11 +24,8 @@ author: neverbot
 
 American Vampire, de Scott Snyder, Rafael Albuquerque y a ratos Stephen King. Très bien.
 
-
 Los tebeos que más me sorprenden últimamente son aquellos de los que no esperaba nada. Y, sin esperar nada, la historia de los primeros vampiros creados en el nuevo mundo, durante los estertores del salvaje oeste, me reconcilia con un género necesitado de olvidarse de bichos que brillan bajo el sol.
 
-
 El tomo está narrado en forma de dos historias paralelas, la más actual (1925) por Scott Snyder ([@ssnyder1835](https://instagram.com/ssnyder1835)) y otra en la que un viejo escritor nos cuenta lo que sucedió décadas antes, esta por [@stephenking](https://instagram.com/stephenking) (también viejo escritor, jeje, qué bien hilado ahí). La alternancia va añadiendo datos a lo que está sucediendo, en forma de flashbacks, y al estar siempre dibujado por el magnífico [@rafaelalbuquerque81](https://instagram.com/rafaelalbuquerque81) queda totalmente cohesionado. No puedo sino recalcar la maravilla de dibujo, que hace que me suba al carro de esta colección hasta donde llegue.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -24,15 +24,11 @@ author: 24paginas
 SORTEO [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 ¿Quieres ganar el lettering de BAMF?
 
-
 Solo tienes que SEGUIRNOS y COMENTAR a este post etiquetando a un amigo por el que te teletransportarías al instante si necesita vuestra ayuda.
-
 
 Entre todos los que cumpláis las condiciones sorteáremos la onomatopeya que publicamos el pasado viernes con la colaboración especial de [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks).
 
-
 Tienes hasta el día 31. ‪
 (Sorteo válido solo para España)‬
-
 
 Fantastich!

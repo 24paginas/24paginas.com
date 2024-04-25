@@ -26,12 +26,11 @@ author: hecdruiz
 
 Alcanzamos con esta las 600 publicaciones, y que mejor momento para celebrarlo que estrenando sección. Cada roleseña intentará traer contenido que sintamos que une estos dos fantásticos mundos que nos encantan, los cómics y el rol. Así que empuñad vuestra mejor espada, preparad los hechizos y vamos allá.
 
-Empezamos con toda una declaración de intenciones como es Descanso Corto, la joyita de [@lauriellemaven](https://instagram.com/lauriellemaven) que por fin, pandemia mediante, está llegando a todos los que participamos en su crowfunding. 
+Empezamos con toda una declaración de intenciones como es Descanso Corto, la joyita de [@lauriellemaven](https://instagram.com/lauriellemaven) que por fin, pandemia mediante, está llegando a todos los que participamos en su crowfunding.
 Un recopilatorio de aventureras deliciosamente ilustrado que fue creciendo y creciendo según se iban sumando mecenas y que, además de estar lleno de guiños, tesoros, extras y ser una cucada, me ha sorprendido por el altísimo nivel de calidad tanto de la edición como en los materiales de absolutamente todos las piezas. Nada más tenerlo en las manos ya impresiona. Da gusto cuando las cosas se hacen con cariño y criterio, absolutamente de diez.
 
 A todo esto hay que añadir que, entre tanto extra, se desbloquearon unas cuantas páginas donde poder disfrutar de algunas tiras de las aventureras y poder verlas en acción. Y que os voy a decir... esto NE-CE-SI-TA más continuidad. Pero claro, cualquiera le dice que deje el absolutamente fantástico diario de la cuarentena que nos regala cada mañana, para hacer otras cosas ¿verdad?
 
 Si no sabéis de lo que hablo pasad por su perfil de twitter o instagram, pero ojo, que engancha y luego es lo primero que uno acaba mirando en el teléfono cada mañana...
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

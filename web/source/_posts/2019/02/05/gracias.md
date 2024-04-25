@@ -10,11 +10,8 @@ author: 24paginas
 
 ¡GRACIAS!
 
-
 Poco a poco cada día somos más y nos anima muchísimo a seguir esforzándonos para traeros contenido interesante y original de nuestro puño y letra.
 
-
 Aún quedan muchas cosas nuevas por llegar este año que esperamos que os gusten,  así que estád atentos.
-
 
 Y de nuevo, gracias. Sin vuestro apoyo esto no tendría mucho sentido.

@@ -26,20 +26,14 @@ author: neverbot
 
 Dolmen ha continuado la edición de Príncipe Valiente que hizo Planeta para quioscos.
 
-
 Por si alguien no lo sabía, con un diseño prácticamente idéntico para ponerlo en la estantería a continuación de los 75 tomos de la edición original de Planeta DeAgostini, recopilando las tiras dominicales a partir del año 2012.
-
 
 Coincide con el último tomo dibujado por Gary Gianni y el paso al cuarto (si no he contado mal) dibujante de la serie en sus ochenta años de existencia: Thomas Yeates.
 
-
 Si alguien me pregunta a mí (que todo el mundo debería), no está a la altura de sus predecesores, pero llegados a este punto no vamos a dejar de comprar la media docena de tomos necesarios para ponernos al día por un "quítame allá que no eres tan bueno". Así que habrá que terminar hasta donde se edite.
-
 
 También han empezado a editar en Dolmen desde el principio (1937) en otro formato probablemente mejor, pero ahí ya si que me parece una colección demasiado larga como para hacer una compra de "voy a mejorar la edición que ya tengo", por muy coleccionista que sea.
 
-
 ([@neverbot](https://instagram.com/neverbot))
 
-
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#principevaliente](/tags/principevaliente) [#princevaliant](/tags/princevaliant) [#halfoster](/tags/halfoster) [#planetadeagostini](/tags/planetadeagostini) [#planetadcomic](/tags/planetadcomic) [#dolmeneditorial](/tags/dolmeneditorial) [@dolmeneditorial](https://instagram.com/dolmeneditorial) 
+[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#principevaliente](/tags/principevaliente) [#princevaliant](/tags/princevaliant) [#halfoster](/tags/halfoster) [#planetadeagostini](/tags/planetadeagostini) [#planetadcomic](/tags/planetadcomic) [#dolmeneditorial](/tags/dolmeneditorial) [@dolmeneditorial](https://instagram.com/dolmeneditorial)

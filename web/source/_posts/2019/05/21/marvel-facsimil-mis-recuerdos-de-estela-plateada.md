@@ -24,9 +24,4 @@ Estela Plateada es uno de esos casos en los que la traducción del nombre del pe
 
 En este número vemos la potencia gráfica del personaje, heredera del trabajo de Kirby, llevada a otro nivel por John Buscema y las dudas y conflictos que lo atormentan escritos por Stan Lee. Y como extra una historia de Uatu, el Vigilante! ¡Intensidad cósmica a precios poco populares! ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#silversurfer](/tags/silversurfer) [#clasico](/tags/clasico) [#facsimil](/tags/facsimil) [#marvel](/tags/marvel) [#stanlee](/tags/stanlee) [#salbuscema](/tags/salbuscema) [#estelaplateada](/tags/estelaplateada) [#galactusconsuglotoneria](/tags/galactusconsuglotoneria) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

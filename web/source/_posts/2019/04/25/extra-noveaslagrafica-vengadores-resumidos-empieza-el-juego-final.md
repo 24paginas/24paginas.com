@@ -32,9 +32,4 @@ EXTRA [#NOVEASLAgrafica](/tags/noveaslagrafica): Vengadores Resumidos! Empieza e
 
 Comenzamos el mes con una infografía, pero el evento que nos tiene a todos (o al menos a los que no hemos podido ver ningún preestreno) expectantes merecía algo especial. Ha sido difícil, cinco décadas y media dan para mucho, y no son pocos los eventos que se han quedado fuera de la gráfica... Pero aquí tenéis nuestro homenaje a ¡los Héroes Más Poderosos de la Tierra!
 
-
-
-
-
-
 [#Vengadores](/tags/vengadores) [#Avengers](/tags/avengers) [#Endgame](/tags/endgame) [#VengadoresEndgame](/tags/vengadoresendgame) [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#timeline](/tags/timeline) [#marvel](/tags/marvel) [#stanlee](/tags/stanlee) [#jackkirby](/tags/jackkirby) [#georgeperez](/tags/georgeperez) [#bendis](/tags/bendis) [#jonathanhickman](/tags/jonathanhickman) [#earthmigthiestheroes](/tags/earthmigthiestheroes) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@zonanegativa](https://instagram.com/zonanegativa) [@marvel](https://instagram.com/marvel) [@marvelspain](https://instagram.com/marvelspain)

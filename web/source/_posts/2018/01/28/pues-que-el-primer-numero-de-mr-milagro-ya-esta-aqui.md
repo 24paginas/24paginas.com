@@ -29,14 +29,10 @@ author: neverbot
 
 Pues que el primer número de Mr. Milagro ya está aquí.
 
-
 Pero aunque las grapas son amor y esto solo en 24 páginas ya tiene una pinta del copón bendito, vamos a tardar un año en poder leerlo a ritmo de grapa mensual, y cualquiera que os plante una reseña de una colección completa basándose en un capítulo individual se está lanzando a la piscina a lo loco.
-
 
 Yo es que nunca he sido de hacer reseñas de grapas sueltas, me parece como hacer reseñas del minuto 20 a 25 de una película.
 
-
 Pero prestadle atención a esto a ver qué tal sale.
-
 
 ([@neverbot](https://instagram.com/neverbot))

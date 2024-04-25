@@ -16,21 +16,12 @@ author: uncientovolando
 
 Rey Carbón: Noche de reyes.
 
-
 Estamos tardando en comenzar el año, pero iba siendo hora de descansar un poco. Aunque os podemos asegurar que hemos sido muy buenos este año y que nos merecemos muchos tebeos nuevos esta noche. Y si tienen que traernos carbón, que sea como este.
-
 
 En "Rey Carbón", Max hace de la secuencia de imágenes un movimiento continuo. Un juego entre líneas, tramas y manchas que saca todo el partido del lenguaje para una fábula surrealista.
 
-
 Lectura aparentemente rápida pero que pide varias relecturas.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#max](/tags/max) [#reycarbon](/tags/reycarbon) [#surrealismo](/tags/surrealismo) [#nochedereyes](/tags/nochedereyes) [@edicioneslacupula](https://instagram.com/edicioneslacupula)

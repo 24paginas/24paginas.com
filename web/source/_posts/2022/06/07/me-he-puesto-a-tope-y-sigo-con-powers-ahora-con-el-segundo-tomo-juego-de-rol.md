@@ -25,4 +25,4 @@ Me he puesto a tope y sigo con Powers, ahora con el segundo tomo: Juego de rol.
 
 Esto no ha estado al nivel del primer tomo… y nunca me han gustado mucho los argumentos de gente chachi (policías, abogados, médicos) donde de una forma u otra se acaba haciendo algo de burla de los entretenimientos de la gente no tan chachi (estudiantes, frikis), lo que me hace un poco cuesta arriba una parte del argumento… pero vaya, ya es hilar fino.
 
-Sigo con ganas de continuar, a ver si esta semana puedo hacerme con el tercero. 
+Sigo con ganas de continuar, a ver si esta semana puedo hacerme con el tercero.

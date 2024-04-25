@@ -26,14 +26,10 @@ author: neverbot
 
 Este del oeste. Lo que viene siendo el medio. Este tebeo no se puede hacer mejor.
 
-
 Con el primer volumen esto ya había cogido carrerilla, pero presentando ahora a los príncipes de El Reino y a los Rangers el molómetro se pone al once.
-
 
 Magníficos guiones de Jonathan Hickman y fantabulosos dibujos de Nick Dragotta, que le encajan como un guante a esta historia.
 
-
 MOAR.
-
 
 ([@neverbot](https://instagram.com/neverbot))

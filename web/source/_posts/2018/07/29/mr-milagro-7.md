@@ -21,11 +21,8 @@ author: uncientovolando
 
 Mr. Milagro [#7](/tags/7)
 
-
 Debería haber escrito hace un par de días, pero soy un desastre. Entonces, podría haber dicho que hacía exactamente un año y medio que me encontraba como Scott Free en este número. Por suerte en mi caso no había ni rastro de Furias Femeninas.
 
-
 Un capítulo bien narrado y ambientado en una historia personal y poco superheroica, tan natural como extraña, el punto fuerte de King.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

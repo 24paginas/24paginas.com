@@ -25,8 +25,6 @@ author: neverbot
 
 Llegados al tomo cuatro toca recapitulación. Al Este del Oeste también hacen falta mapitas.
 
-
 Hickman y Dragotta avanzan las tramas a la vez que nos recuerdan donde están situados en el tablero todos los peones, y el carrusel sigue girando.
-
 
 ([@neverbot](https://instagram.com/neverbot))

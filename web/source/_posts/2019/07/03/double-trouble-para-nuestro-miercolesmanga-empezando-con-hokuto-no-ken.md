@@ -26,23 +26,16 @@ author: neverbot
 
 Double trouble para nuestro [#miercolesmanga](/tags/miercolesmanga), empezando con Hokuto No Ken.
 
-
 La semana pasada todos en la redacción teníamos varios compromisos y no pudimos cumplir ni con nuestro [#miercolesmanga](/tags/miercolesmanga) ni con el [#viernesvintage](/tags/viernesvintage), y eso que este tebeo cumple de sobras con ambas categorías. Para compensar, hoy traemos turra por duplicado.
-
 
 Desde 1983 Tetsuo Hara y Buronson (best apodo ever) nos traen la esperadísima reedición de El Puño de la Estrella del Norte, o Hokuto no Ken. Y ciertamente esperada, yo había perdido la fe ya, pero si en España estamos leyendo esto o los JoJo’s en pleno 2019, ya no hay ninguna excusa de editor que valga para que algo no sea publicable.
 
-
 Y, ¿qué tal la mandanga?
-
 
 El dibujo sobrevive muy bien para la porrala de años que tiene, y la historia es un “Yo contra el barrio” de manual, sería una pérdida de tiempo criticar o alabar nada, porque los que hemos venido a leer esto sabíamos a lo que veníamos. A que un tipo se vaya cargando gente mala por el desierto uno detrás de otro. Aquí no hemos venido a negociar.
 
-
 Si necesitáis un resumen más conciso: si a One-Punch Man le quitáis la commedia, os queda Hokuto No Ken.
 
-
 Aunque en la última página llegan a tocar al protagonista, ya no sé qué nos encontraremos en el segundo tomo 😅
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -16,12 +16,9 @@ author: uncientovolando
 
 Esposas prohibidas de siervos sin rostro en la mansión secreta de la noche del aciago deseo.
 
-
 Huid del sol. Buscad un lugar apartado. Cerrad cortinas y bajad las persianas. Apartaos del calor reinante en el exterior y refugiaos en una habitación austeramente iluminada...
-
 
 Quería hacer una reseña más corta que el propio título pero me he dejado llevar por el barroquismo. Esta historia corta de [@neilhimself](https://instagram.com/neilhimself), ilustrada por Shane Oakley, es a su vez un juego sobre la creación y los tópicos de los géneros literarios. .
 Ideal para disfrutar durante una tormenta de verano.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

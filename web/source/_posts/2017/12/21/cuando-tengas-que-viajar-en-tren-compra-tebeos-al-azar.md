@@ -21,11 +21,8 @@ author: neverbot
 
 Cuando tengas que viajar en tren, compra tebeos al azar.
 
-
 Compra algo que no leerías normalmente, pero que te suene haber leído alguna buena reseña. Como el Faith de Jody Houser ([@mindeclipse](https://instagram.com/mindeclipse)) y [@francisportelaart](https://instagram.com/francisportelaart), o el Batman y las Tortugas Ninja de Matthew K. Manning y Jon [@sommariva](https://instagram.com/sommariva).
 
-
 Y cuando Conan tenga un proceso de edición que no estropee los lápices del dibujante, también valdrá de ejemplo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

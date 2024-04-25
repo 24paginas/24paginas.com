@@ -29,25 +29,16 @@ author: hecdruiz
 
 Alucinancia al 120% por el mero hecho de molar.
 
-
 Aprovechando el ratito que nos queda del año,  os traigo la obra cumbre de [@joemadx](https://instagram.com/joemadx) en todo su esplendor. Aquí no vengáis a buscar guiones deslumbrantes y sorprendentes, con giros apasionantes y argumentos sesudos, o con tramas dentro de tramas a lo Inception. No no no. Aquí se viene a ALUCINAR con los lápices de este señor...
-
 
 Battle Chasers fue el buque insignia (junto a otro par de obras que traeré más adelante), de lo que supuso la segunda gran espantada de estrellas a los lápices en los cómics americanos de las grandes editoriales, y que supuso la creación del sello Cliffhanger.
 
-
 Un argumento de fantasía al uso pero con personajes a cada cual más molón y con un arte que, para mi gusto, es de lo mejorcito que salió de los 90 y que por otra parte, para nuestra desgracia, quedó inconcluso.
-
 
 Y es que la afición por desarrollar videojuegos del autor es proporcional a su capacidad para dibujar, así que acabó enfocando ahí sus esfuerzos, tiempo y dinero hasta el punto de que este año ha publicado la "continuación" en forma del videojuego Battle Chasers Nightwar a través de su estudio [@airshipsyndicate](https://instagram.com/airshipsyndicate).
 
-
 Siendo egoísta he de decir que, como suele decirse en estos casos, "todo gran poder conlleva una gran responsabilidad"... y siendo capaz de dibujar cómics a este nivel alguien debería secuestrar a este señor y atarle a una mesa de dibujo a hacer cómics. Pero si os interesa saber como continua la historia, es lo que hay. Es una pena, pero al menos podemos seguir disfrutando de su arte.
 
-
 ¡Y qué arte!
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -30,19 +30,12 @@ author: hecdruiz
 
 Es curioso lo que encuentra uno, y el aprecio que le tiene de pronto a ciertas cosas prácticamente olvidadas en cajas durante años, en el momento que se está a punto de perderlas.
 
-
 Recientemente he tenido la mala suerte de sufrir una inundación de trastero, donde aún tenía varias cajas de tebeos acumuladas por falta de espacio en casa.
-
 
 Por desgracia muchas cosas se han perdido, como por ejemplo todos mis Astérix, Mortadelos y demás joyitas de mi infancia. Pero por suerte pude salvar algunas otras que os traigo aquí como curiosidad.
 
-
 La verdad es que no me acordaba donde los tenía, pero me hizo muchísimo ilusión encontrarlos a salvo. En especial el Elric y la Dama de Faris de Lodoss de los que ya os hablaré más adelante.
 
-
 Por lo pronto recordad amiguitos, con lo que cuestan ahora las cajas de plástico, olvidaos de cajas de cartón. Que nunca se sabe hasta donde puede subir el agua...
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

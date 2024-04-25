@@ -26,9 +26,4 @@ Pocos elementos son tan "de cómic" como los nombres aliterados. Desde Lois Lane
 
 Esta gráfica recoge las cifras tanto del Universo Marvel principal, el 616, como de los que fueron creados para historias cortas en revistas como Amazing Fantasy. 'Nuff said!
 
-
-
-
-
-
 [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#marvel](/tags/marvel) [#stanlee](/tags/stanlee) [#aliteracion](/tags/aliteracion) [#infografia](/tags/infografia) [#infographics](/tags/infographics) [#nuffsaid](/tags/nuffsaid) [#fantasticfour](/tags/fantasticfour) [#peterparker](/tags/peterparker) [#johnjonahjameson](/tags/johnjonahjameson) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@zonanegativa](https://instagram.com/zonanegativa) [@marvel](https://instagram.com/marvel) [@marvelspain](https://instagram.com/marvelspain)

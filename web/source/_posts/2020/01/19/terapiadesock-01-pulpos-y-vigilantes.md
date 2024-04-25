@@ -19,18 +19,10 @@ author: uncientovolando
 
 [#TerapiaDeSock](/tags/terapiadesock) 01: Pulpos y vigilantes.
 
-
 Cuando pensamos nuevas secciones solemos darle vueltas infinitas hasta estar seguros de cómo van a ser. Casi siempre...
-
 
 En esta ocasión estrenamos una sección nacida de [#latonteria](/tags/latonteria), que aúna la pasión por los cómics y los calcetines coloridos de nuestros redactores (y de algunos amigos como [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks)). Sin reseñas ni análisis, solo tebeos, calcetines y tontería.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#watchmen](/tags/watchmen) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#viñetas](/tags/vinetas) [#ozimandias](/tags/ozimandias) [#pulpos](/tags/pulpos) [#calcetinesmolones](/tags/calcetinesmolones) [@jimmylionnyc](https://instagram.com/jimmylionnyc)

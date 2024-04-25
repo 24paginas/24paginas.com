@@ -41,7 +41,4 @@ A todo esto sumad que en este evento participó el único, verdadero y original 
 
 Estáis tardando ;-)
 
-
-
-
 ([@hecdruiz](https://instagram.com/hecdruiz))

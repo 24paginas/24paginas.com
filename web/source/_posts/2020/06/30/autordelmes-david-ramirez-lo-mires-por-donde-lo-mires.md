@@ -18,18 +18,10 @@ author: 24paginas
 
 [#autordelmes](/tags/autordelmes): David Ramírez, lo mires por donde lo mires.
 
-
 Se podría considerar que hacemos trampas por recuperar uno de los nominados de la edición confinada de nuestro Autor del Mes, pero David ya tiene obra impresa en librerías (igual os suena, la reseñamos el domingo) y nos parece una estupenda excusa. Ahora solo nos falta que [@lauriellemaven](https://instagram.com/lauriellemaven) recopile sus tiras de estado de alarma para que podamos premiarle a ella también...
-
 
 Poco más podemos añadir sobre [@davidramirezros](https://instagram.com/davidramirezros) a lo dicho en la reseña anterior: es muy bonico, muy gracioso y NOS TIENE CALADOS. Además nos ha tenido en vilo con la historia de recuperación de su marido, la cual sería precioso ver publicada pronto.
 
-
 ❤️
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#COnviVIenDo](/tags/conviviendo) [#humor](/tags/humor)  [#davidramirez](/tags/davidramirez) [#orgullo](/tags/orgullo) [@norma_editorial](https://instagram.com/norma_editorial)

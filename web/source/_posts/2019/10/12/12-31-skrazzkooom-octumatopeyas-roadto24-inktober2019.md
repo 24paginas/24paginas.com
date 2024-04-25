@@ -22,5 +22,4 @@ author: 24paginas
 
 12/31. SKRAZZKOOOM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
- 
 No está claro el funcionamiento de los rayos ópticos de Scott Summers, lo que sí está claro es que tan solo con su sonido es capaz de dejar a cualquiera impactado.

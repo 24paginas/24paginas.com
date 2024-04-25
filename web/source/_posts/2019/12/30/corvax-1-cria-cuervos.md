@@ -21,14 +21,10 @@ author: uncientovolando
 
 Corvax [#1](/tags/1): Cría cuervos...
 
-
 Antes de terminar el año y para salir un poco del binomio [#hoxpox](/tags/hoxpox), rescatamos esta pequeña grapa autoeditada por [@franxurio](https://instagram.com/franxurio) y que desde hoy podéis disfrutar gratis, o pagando lo que queráis, en su versión digital (link en su bio).
-
 
 Una aventura simpática pero con mala leche que tiene su punto fuerte en los diseños y dibujos de Francisco Riolobos. Colorido y divertido, pero que se hace corto, por suerte con el nuevo año se viene continuación.
 
-
 Mientras tanto, no dudéis en pasaros por su perfil de instagram (y twitter) y disfrutar de sus dinosaurios y demás animalillos.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -28,17 +28,12 @@ author: neverbot
 
 “Son los 90. Que si bajas a jugar.” El recopilatorio de B3 de [@davidramirezros](https://instagram.com/davidramirezros) para el [#viernesvintage](/tags/viernesvintage)
 
-
 Haciendo memoria, esto es de finales de los 90. Y sin hacer memoria, que para eso están los extras de esta pedazo de edición de [@dolmeneditorial](https://instagram.com/dolmeneditorial), se empezó a publicar en 1996 con un número único, más seis números de una serie limitada inconclusa (todos ellos editados por Camaleón), hasta este recopilatorio del 2005 con el que ya terminó la historia.
-
 
 200 páginas de locuras de David Ramírez más unas 50 de extras que son gloria bendita.
 
-
 Por supuesto esto es hijo de su tiempo, no hay página sin chistes sexuales, escatológicos, o ambos. Y yo lo disfruto como un gorrino en un lodazal, pero lógicamente va en gustos, sirva como aviso al potencial lector.
 
-
 Se echan de menos cosas como esta. Y se echa de menos a Camaleón, y la línea laberinto, y muchas cosas. Quizá alguien tendría que establecerse como editor y volver a publicar ese tipo de tebeos.
-
 
 ([@neverbot](https://instagram.com/neverbot))

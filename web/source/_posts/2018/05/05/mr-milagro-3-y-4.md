@@ -22,14 +22,10 @@ author: uncientovolando
 
 Mr. Milagro [#3](/tags/3) y [#4](/tags/4)
 
-
 Retomo la lectura de la serie de Tom King sobre Scott Free juntando dos números y confirmando que la serie se lee mejor acumulando algunos capítulos.
-
 
 Ahora toda la acción se traslada al salón de Mr. Milagro y Big Barda, con un enfrentamiento con Orión y el juicio por traición a Scott.
 
-
 Por otra parte sigue la sensación de que es más lo que oculta que lo que cuenta.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

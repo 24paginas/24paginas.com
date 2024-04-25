@@ -30,22 +30,14 @@ author: hecdruiz
 
 Una etapa que en su momento me gustó mucho y releido tiempo después casi me parece que tiene más sombras que luces.
 
-
 Y mira que tiene un muy buen guionista y dos grandes dibujantes pero a pesar de que consiguieron esa frescura de volver a los tiempos de la escuela de mutantes y una serie divertida de adolescentes, creo que intentan implantar muchas ideas nuevas quizá demasiado de golpe y no terminaba todo de encajar bien.
-
 
 Lobezno de director no me termina de cuadrar,  el Club Fuego Infernal es un chiste frente al original, la vuelta del Nido sin ese componente de terror a lo Alien creo que no funciona y sobre todo me horrorizo el trato a un personaje como Vaina.
 
-
 Por otro lado me encanta el uso que hacen de Quentin Quire aunque es una pena el uso que se hace del Hombre de Hielo. Al principio parecía que por fin alguien iba a desarrollar todo el potencial del personaje y finalmente se quedó en nada o menos.
-
 
 Es cierto que consiguieron una serie ligera en contrapunto a su serie hermana pero creo que podría haber dado mucho más de sí.
 
-
 Y bueno, otra alineación futurista más que habrá que ver si alguien recupera en algún momento... Pero lo dudo muchísimo.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

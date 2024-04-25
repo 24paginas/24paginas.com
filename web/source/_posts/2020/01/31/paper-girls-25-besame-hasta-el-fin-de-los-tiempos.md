@@ -19,18 +19,10 @@ author: uncientovolando
 
 Paper Girls [#25](/tags/25): Bésame hasta el fin de los tiempos.
 
-
 Recta final de las chicas de los periódicos y parece que se vislumbra el desenlace, y alguno de los giros finales. Pero conociendo a Vaughan quedará alguna sorpresa.
-
 
 Es solo cuestión de tiempo.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#papergirls](/tags/papergirls) [#briankvaughan](/tags/briankvaughan) [#viajeseneltiempo](/tags/viajeseneltiempo) [#timetravel](/tags/timetravel) [@planetadcomic](https://instagram.com/planetadcomic)

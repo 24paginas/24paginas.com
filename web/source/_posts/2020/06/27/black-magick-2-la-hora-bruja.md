@@ -17,9 +17,7 @@ author: uncientovolando
 
 Black Magick 2: la hora bruja.
 
-
 La serie negra, y de magia negra, de Rucka y Nicola Scott evoluciona para profundizar en las familias mágicas y la trama en este segundo volumen. .
 Continúa el misterio sobre quién está tras la agente Black, aparecen nuevos e inesperados aliados y, como siempre, deja con ganas de más.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -25,11 +25,8 @@ author: 24paginas
 
 18/31. BAMF [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Vamos con algo especial para empezar el fin de semana. “Bamf!” es una de las onomatopeyas más reconocibles, pero también el nombre de cierto yutuber y divulgador de cómic que podemos contar entre nuestros amigos.
 
-
 Así que hemos aprovechado la casualidad, que se completa con el hecho de que anoche publicó una guía de lectura mutante, para pedir a [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks) unas palabras sobre nuestro elfo teletransportador mutante favorito.
-
 
 Bamf! 💥

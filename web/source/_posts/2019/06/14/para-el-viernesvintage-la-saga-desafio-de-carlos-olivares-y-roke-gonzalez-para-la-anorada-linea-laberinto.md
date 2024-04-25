@@ -26,11 +26,8 @@ author: neverbot
 
 Para el [#viernesvintage](/tags/viernesvintage), la saga Desafío de Carlos Olivares y Roke González, para la añorada Línea Laberinto.
 
-
 Que tampoco era nada del otro mundo, pero aquel dibujo rupturista con una especie de [#amerimanga](/tags/amerimanga) a la española, muy heredero del dibujo graffitero nos explotó el cerebro en tres miniseries: Desafío, Desafío II y Desafío School Fighter.
 
-
 Hace tiempo reseñamos por aquí el anterior Boum! del mismo dibujante, y sé que después hizo algo para el mercado europeo, pero ahí le perdí la pista y no he vuelto a encontrar nada suyo. Cualquier comentario será bienvenido.
-
 
 ([@neverbot](https://instagram.com/neverbot))

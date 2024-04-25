@@ -23,11 +23,8 @@ author: 24paginas
 
 [#autordelmes](/tags/autordelmes): Mike Allred, todo al rojo.
 
-
 Si el cómic es ya de por sí uno de los medios pop por excelencia, Michael Allred ([@allredmd](https://instagram.com/allredmd)) consigue sublimar esa condición pop en todo lo que toca. Su pasión por las viñetas se mezcla continuamente con la música o la ciencia ficción de forma perfecta tanto en creaciones propias como en obras compartidas.
 
-
 Además del reciente cómic biográfico sobre David Bowie, publicado aquí por [@norma_editorial](https://instagram.com/norma_editorial), esa mezcla se deja ver en la serie de Estela Plateada escrita por Dan Slott y que ha sido publicada en formato integral por [@paninicomicsespana](https://instagram.com/paninicomicsespana). Ambas comparten alienigenas, referencias británicas y saltos temporales, pero en esta segunda (aunque primera en publicarse, porque uno no viaja en el tiempo sin producir paradojas) se permite además experimentos narrativos loquísimos. Todo esto dentro de una continuidad superheroica que, junto a Slott, surfea con maestría (solo hay que ver cómo pasa sobre las Secret Wars sin despeinarse) y con un trazo rotundo, fresco e inequívoco potenciado por el color de Laura Allred.
-
 
 Allons’y!

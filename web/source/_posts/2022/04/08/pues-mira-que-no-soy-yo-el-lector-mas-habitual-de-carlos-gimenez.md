@@ -18,4 +18,4 @@ author: neverbot
 
 Pues mira que no soy yo el lector más habitual de Carlos Giménez, pero tiene un par de largas sagas que siempre me hacen ojitos desde las estanterías de la biblioteca, y hoy me he animado a empezar Los Profesionales.
 
-Y eso que es una saga de laaaargo recorrido, que sus primeras páginas están firmadas en el 81 (aquí muchos no habían nacido aún), y además nos habla de las aventuras y desventuras de un puñado de historietistas ¡aún anteriores!, estando ambientada en los años setenta barceloneses. Arranca unas sonrisas, y además me ha dado ganas de investigar un poco acerca de los dibujantes protagonistas… que de esa época tengo muy muy poquitos conocimientos. 
+Y eso que es una saga de laaaargo recorrido, que sus primeras páginas están firmadas en el 81 (aquí muchos no habían nacido aún), y además nos habla de las aventuras y desventuras de un puñado de historietistas ¡aún anteriores!, estando ambientada en los años setenta barceloneses. Arranca unas sonrisas, y además me ha dado ganas de investigar un poco acerca de los dibujantes protagonistas… que de esa época tengo muy muy poquitos conocimientos.

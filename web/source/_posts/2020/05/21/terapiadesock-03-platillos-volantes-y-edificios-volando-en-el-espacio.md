@@ -17,18 +17,10 @@ author: uncientovolando
 
 [#TerapiaDeSock](/tags/terapiadesock) 03: Platillos volantes y edificios volando en el espacio.
 
-
 Byrne niños no sabría dibujar, pero con los edificios y estructuras se gustaba especialmente. Sus 4 Fantásticos están llenos de ejemplos, desde su viaje a la Zona Negativa a esta escena que “rememora” uno de sus primeros enfrentamientos con el Doctor Muerte.
-
 
 BOOM! 💥
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comicsycalcetines](/tags/comicsycalcetines) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#los4fantasticos](/tags/los4fantasticos) [#marvel](/tags/marvel) [#byrne](/tags/byrne) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

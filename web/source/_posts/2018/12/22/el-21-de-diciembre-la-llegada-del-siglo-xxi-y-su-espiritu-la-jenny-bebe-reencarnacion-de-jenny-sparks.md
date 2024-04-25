@@ -25,11 +25,8 @@ author: neverbot
 
 El 21 de diciembre, la llegada del siglo XXI y su espíritu, la Jenny bebé reencarnación de Jenny Sparks.
 
-
 Así recibíamos el año 2000 con el Authority de Mark Millar, tras la primera etapa de Warren Ellis. El espíritu del siglo se reencarnaba en un bebé recién nacido que era secuestrado por los malos malísimos, y todo se solucionaba con unos tíos en pijama repartiendo tortas. Good old times.
 
-
 En realidad no cambiamos de siglo ni milenio hasta la entrada del 2001, pero meh. Sí, soy uno de esos que dan la turra con esos temas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

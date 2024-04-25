@@ -19,21 +19,12 @@ author: uncientovolando
 
 Estela Plateada Negro [#2](/tags/2): Dame veneno que quiero morir...
 
-
 Muy bien lo que sigue haciendo Donny Cates aquí. Otro pasito a favor de la interconexión de sus obras con el villanesco Dios de los simbiontes como protagonista, entrelazándolo con el universo cósmico clásico de Marvel. Un buen equilibrio entre introspección y acción que le va como un guante, negro en este caso, a Norrin Radd.
-
 
 Trad Moore sigue con su espectacular despliegue de seres extraños y situaciones lisérgicas potenciadas por el estupendo color de Dave Steward.
 
-
 A mí, mi tabla!
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#marvel](/tags/marvel) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#estelaplateada](/tags/estelaplateada) [#venom](/tags/venom) [#veneno](/tags/veneno) [#cosmico](/tags/cosmico) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

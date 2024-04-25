@@ -24,19 +24,12 @@ author: hecdruiz
 
 Estrenamos nuestro segundo mes de la mano de un inspiradísimo Warren Ellis, y de un Declan Shalvey que venía a dejar claro que tiene arte en sus lápices para lo que le echen y un poco más. Y es que os vengo a hablar de esta joyita en forma de tebeo que fue un intento más de traer al frente al Caballero Luna.
 
-
 Y digo intento porque es una pena que después de una primera saga que es ORO puro, no hubiese continuidad de actores a los mandos de esta colección, ya que como quedó demostrado, no es tan fácil sustituir a estos dos pesos pesados de los cómics y más si están en estado de gracia. Porque estos primeros números son un claro ejemplo de que no hay malos personajes, sino malos guionistas. Por suerte aquí el caso es totalmente opuesto y Warren Ellis parece tocado con una varita mágica de inspiración.
-
 
 Nuevo enfoque, nuevo estilo, varios diseños y todos ellos brutales siendo cada uno una vertiente totalmente diferente del otro, pero sobre todo un guión, un ritmo y una narrativa tan exquisita que una vez terminado dan ganas de volver a empezar y deleitarse en los detalles.
 
-
 El señor Ellis toca todos los palos de las múltiples personalidades del Hijo de Konshu, con un equilibrio de funambulista entre sus distintos mundos, tanto el mental, como el onírico y la más cruda realidad, y en todos los casos no solo lo borda sino que uno se pregunta que hubiese sido de este personaje si hubiese podido disfrutar de un par de años de semejantes guiones.
 
-
 En resumen, imprescindible si te gustan los buenos tebeos y totalmente accesible incluso si no conoces de nada al personaje. Por desgracia el resto de la colección a mi gusto no merece la pena tanto, pero este tomo es lo suficientemente independiente como para tenerlo y disfrutarlo sin duda alguna.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

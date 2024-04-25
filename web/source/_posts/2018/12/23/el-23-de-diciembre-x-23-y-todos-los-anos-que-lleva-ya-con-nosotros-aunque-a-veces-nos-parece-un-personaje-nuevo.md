@@ -30,17 +30,12 @@ author: neverbot
 
 El 23 de diciembre, X-23 y todos los años que lleva ya con nosotros, aunque a veces nos parece un personaje nuevo.
 
-
 Ya estaba en portada en el 2004, como villana, en ese reinicio que no era reinicio de La Patrulla-X con Chris Claremont y Alan Davis, aunque antes de eso ya había tenido apariciones en otras series más secundarias e incluso su propia miniserie.
-
 
 Y eso sin olvidar que fue creada en la serie de animación X-Men Evolution (qué tiempos aquellos) y gustó tanto que acabó traspasando medios y apareciendo en el cómic.
 
-
 Y hasta ahora, miembro de esa Patrulla-X roja de la que aquí mostramos la edición especial de [@paninicomicsespana](https://instagram.com/paninicomicsespana) con portada Young Guns del primer número, de nuestro [@pepelarraz](https://instagram.com/pepelarraz).
 
-
 Y todavía nos sigue pareciendo un personaje nuevo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -23,14 +23,10 @@ author: neverbot
 
 Mientras esperamos un nueva tirada del agotadísimo Conan Rey de Truman y Giorello de [@planetadcomic](https://instagram.com/planetadcomic), tenemos el clásico.
 
-
 La colección original de Conan Rey, de Thomas y Buscema entre otros, que saldrá esperemos que completa en ¿quizá? unos cuatros tomarracos como este.
-
 
 Hay que tener el bolsillo a prueba de bombas para el año de Conan que nos espera.
 
-
 Y las tiradas deben estar siendo pequeñas, el moderno Conan Rey despareció inmediatamente. Y el primer integral de Conan La Leyenda no lo estoy pudiendo encontrar. El problema con estas tiradas tan escasas es que me planteo no comprarlas porque quizá no llegue a conseguir algún tomo intermedio. Planeta, ¡necesitamos más ejemplares! 😉
-
 
 ([@neverbot](https://instagram.com/neverbot))

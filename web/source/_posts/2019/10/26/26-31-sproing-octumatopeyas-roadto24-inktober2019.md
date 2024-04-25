@@ -23,5 +23,4 @@ author: 24paginas
 
 26/31. SPROING [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Tarde de sábado. Otoño. El momento perfecto para una aventura como “Tellos”. De ahí hemos sacado nuestra onomatopeya de hoy, aprovechando la reciente reedición de la obra de Todd Dezago y nuestro añorado Mike Wieringo por parte de [@dolmeneditorial](https://instagram.com/dolmeneditorial), el 25 aniversario de la editorial.

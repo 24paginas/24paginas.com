@@ -24,7 +24,7 @@ author: neverbot
 
 El 17 de Diciembre, los 17 tomos de la etapa feliz de Daredevil.
 
-La historia editorial de Daredevil en España es complicada, con bailes de formatos y dificultades para leer porque hay cosas que no están editadas... principalmente porque, como le pasa a Thor, hay etapas magníficas y otras lamentables. 
+La historia editorial de Daredevil en España es complicada, con bailes de formatos y dificultades para leer porque hay cosas que no están editadas... principalmente porque, como le pasa a Thor, hay etapas magníficas y otras lamentables.
 
 Tras la época Marvel Knights donde Joe Quesada y Kevin Smith revitalizaron un personaje casi abandonado, comenzó "la maldición de Daredevil", donde cada guionista le dejaba en herencia al siguiente un personaje en una situación cada vez peor y más oscura. Toda esta larguísima etapa se publicó en grapa, incluyendo nombres como David Mack, Brian Michael Bendis, Ed Brubaker y Andy Diggle.
 

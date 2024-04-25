@@ -25,14 +25,10 @@ author: 24paginas
 
 Dicen que segundas partes nunca fueron buenas, pero con las siguientes 10 creaciones de [@celspinol](https://instagram.com/celspinol) que traemos para esta segunda parte a su homenaje por [#Piñol30](/tags/pinol30), queda claro que es una frase fallida de principio a fin.
 
-
 Fanhunter en forum ¡¡en grapa nada menos!! Fue un exitazo sin duda alguna y dio lugar a una de las sagas épico decadentes más extensas y variadas dentro del mundo comiquero patrio, que aún a día de hoy continúa.
-
 
 Ya se publicaba en grapa anteriormente como puede verse con el Fanhunter Chronicles 3, editado por Gusa cómicpor 250 ptas (aunque algunos ni os sabréis lo que es eso... bendita juventud). Pero a raíz de la publicación en forum sencillamente explotó. Y no hay más que ver la cantidad de publicaciones que llegaron a partir de ahí.
 
-
 Las ocho primera grapas son una gozada, pero Fanhunter (FH a partir de aquí), dio lugar a una cantidad ingente de títulos como podéis ver a continuación: la continuación con FH Saga y sus cuatro grapas, o el salto al prestigio con FH The Final Conflict, FH La Batalla de Montjuïc, FH Celsquest, FH Almanaque 2000, FH Aftermath, FH Roke's Drift o mismamente el FH Asalto a librería del distrito 13, que se ha publicado recientemente, son un claro ejemplo de la larga vida de esta saga.
-
 
 Y eso sin contar libros, juegos, universos alternativos, y demás cositas. Aunque eso lo veremos más adelante...

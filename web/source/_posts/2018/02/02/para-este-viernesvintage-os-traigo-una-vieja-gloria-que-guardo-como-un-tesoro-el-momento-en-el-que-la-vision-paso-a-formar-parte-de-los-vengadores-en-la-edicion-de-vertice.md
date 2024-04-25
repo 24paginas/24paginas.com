@@ -30,25 +30,16 @@ author: hecdruiz
 
 Para este [#viernesvintage](/tags/viernesvintage) os traigo una vieja gloria que guardo como un tesoro: el momento en el que la Visión pasó a formar parte de los Vengadores en la edición de Vértice.
 
-
 Impreso en 1971, siendo muy enano, este y otros ejemplares de mi padre (que guardo bajo llave), me empezaron a dar a conocer esto de los tebeos... y aquí seguimos.
-
 
 Ahora podéis encontrar este material en los Marvel Gold en tapa dura de Los Vengadores por parte de [#paninicomics](/tags/paninicomics) y a mi gusto merece la pena.
 
-
 Como podéis ver, para la época, a pesar de que los guiones son hijos de su tiempo, el arte sigue siendo una maravilla.
-
 
 En esta edición prácticamente cada página era una viñeta o como mucho dos. Era lo típico en las ediciones de Vértice, pero no deja de ser curioso. Eso y el aviso de historias para adultos que me ha sacado una sonrisa.
 
-
 A ver si con suerte reproducen en la pelicula de Pantera Negra, que está por estrenarse, su grito de sorpresa. Iba a reírme hasta más no poder.
 
-
 Cómo pasa el tiempo...
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

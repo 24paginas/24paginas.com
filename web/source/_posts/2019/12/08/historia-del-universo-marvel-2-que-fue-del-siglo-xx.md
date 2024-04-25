@@ -20,21 +20,12 @@ author: uncientovolando
 
 Historia del Universo Marvel [#2](/tags/2): ¿Qué fue del Siglo XX?
 
-
 Segunda entrega de la miniserie de Mark Waid, Javi Rodríguez y Álvaro López. Tras recorrer el periodo entre la creación del universo y el pasado siglo, ahora nos centramos en la época previa a la Era Marvel. Una etapa marcada por guerras, reales y ficticias (los malabares que han tenido que hacer para adaptar el "tiempo Marvel" al tiempo real son realmente interesantes.
-
 
 En esta era vemos la llegada de Namor y la Antorcha Humana original, el surgimiento de héroes patrióticos como Capitán America y los primeros visos de legado superheróico. Todo esto antes de que un científico algo estirado y su mejor amigo piloto decidan iniciar por su cuenta, junto a la novia del primero y su hermano, iniciar la exploración del cosmos...
 
-
 Sobre el dibujo ya os hablamos con la salida del anterior número y con nuestro [#autordelmes](/tags/autordelmes), pero os recomendamos fuertemente ver los layouts de [@javiercaster](https://instagram.com/javiercaster) donde detalla, además de la composición de figuras, el color de la página con una fuerza increible.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#marvel](/tags/marvel) [#comics](/tags/comics) [#bigbang](/tags/bigbang) [#historia](/tags/historia) [#capitanamerica](/tags/capitanamerica) [#doctorextraño](/tags/doctorextrano) [#stanlee](/tags/stanlee) [#marveluniverse](/tags/marveluniverse) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

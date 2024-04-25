@@ -21,14 +21,10 @@ author: uncientovolando
 
 Mr Milagro [#12](/tags/12): Se cierra el telón.
 
-
 “Si nosotros, vanas sombras, os hemos ofendido, pensad sólo esto y todo está arreglado: que os habéis quedado aquí dormidos mientras han aparecido esas visiones. Y esta débil y humilde ficción no tendrá sino la inconsistencia de un sueño; amables espectadores, no nos reprendáis; si nos perdonais, nos enmendaremos. Y, a fe de honrado Puck, que si hemos tenido la fortuna de escaparnos ahora del silbido de la serpiente, procuraremos corregirnos de inmediato. De lo contrario, llamad a Puck embustero. Así, pues, buenas noches a todos.”
-
 
 Termina la función. Scott y Barda salen a recibir una ovación cerrada, y a mí no se me ocurre mejor reseña que citar “El Sueño de una Noche de Verano” (seguro que a [@tomking_tk](https://instagram.com/tomking_tk) le gusta).
 
-
 Y es que eso es Mr. Milagro, un sueño y una ficción consciente de sí misma que alterna momentos brillantes con vacíos de significado. La realidad está sobrevalorada y llena de crisis.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

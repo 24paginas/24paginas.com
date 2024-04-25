@@ -17,11 +17,8 @@ author: neverbot
 
 En las oficinas de [@correos](https://instagram.com/correos) (de España) están con una campaña de productos de DC. Yo sólo lo digo.
 
-
 Tienen a la venta unas cuantas tonterías para enviar y almacenar, sobres y cajas, con distintos diseños de los tebeos y películas de [@dccomics](https://instagram.com/dccomics). Y no pude resistirme y me he llevado un sobre acolchado con unos diseños metalizados de Batman, because of reasons.
 
-
 No, no lo necesito absolutamente para nada, pero así son las cosas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

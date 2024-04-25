@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#7](/tags/7)
 
-
 ¡¡¡Tardígrados!!!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -24,12 +24,9 @@ author: uncientovolando
 
 Despedimos agosto con nueva sección: [#viernesdevariants](/tags/viernesdevariants). La idea es enseñaros alguna de las ediciones alternativas que tenemos, ya sean “variant covers” o reediciones de cómics ya reseñados.
 
-
 Comenzamos con el reciente relanzamiento de Fantastic Four. Sobre azul la oficial, una épica portada de Esad Ribic con la Primera Familia mostrando su poder. Y en amarillo la preciosa variant de [@heyjenbartel](https://instagram.com/heyjenbartel) con Sue Storm en primer plano y el resto del equipo superpuesto en su silueta. .
 Servidor se quedó con las ganas de la verso. De [@arthuradamsart](https://instagram.com/arthuradamsart) , una portada cuádruple que se completará en el número 2 de la colección.
 
-
 En el interior, y sin spoilers, el INICIO de un regreso más que esperado con [@dan.slott](https://instagram.com/dan.slott) a los guiones y los dibujos de [@sara_pichelli](https://instagram.com/sara_pichelli), qué le da una vueltecita a los diseños de Ben y Johny la mar de frescos.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

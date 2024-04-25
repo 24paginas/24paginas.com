@@ -26,14 +26,10 @@ author: uncientovolando
 
 [#MartesArtes](/tags/martesartes): Inktober 2019, de [@ana_oncina](https://instagram.com/ana_oncina).
 
-
-Me pasa igual con la comida y el arte, a veces me puede la ansiedad. En este caso ambas facetas ansiosas se unen y en cuanto vi que las ilustraciones de Ana inspiradas en [#estudioghibli](/tags/estudioghibli) estaban disponibles en su tienda (https://www.anaoncina.com/shop) me compré 3 y añadí este libro que recopila sus dibujos del pasado [#inktober2019](/tags/inktober2019). Aunque este ansia haya fastidiado el regalo de cumpleaños que me tenía pendiente el compañero [@hecdruiz](https://instagram.com/hecdruiz) 😅.
-
+Me pasa igual con la comida y el arte, a veces me puede la ansiedad. En este caso ambas facetas ansiosas se unen y en cuanto vi que las ilustraciones de Ana inspiradas en [#estudioghibli](/tags/estudioghibli) estaban disponibles en su tienda (<https://www.anaoncina.com/shop>) me compré 3 y añadí este libro que recopila sus dibujos del pasado [#inktober2019](/tags/inktober2019). Aunque este ansia haya fastidiado el regalo de cumpleaños que me tenía pendiente el compañero [@hecdruiz](https://instagram.com/hecdruiz) 😅.
 
 El libro, además de ilustraciones preciosas de chicas comiendo o a punto de hacerlo, incluye algunas recetas con muy buena pinta.
 
-
 Bon apetit!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

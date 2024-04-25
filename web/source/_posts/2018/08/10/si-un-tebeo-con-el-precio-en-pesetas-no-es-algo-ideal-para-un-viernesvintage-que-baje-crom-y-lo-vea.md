@@ -31,25 +31,16 @@ author: hecdruiz
 
 Si un tebeo con el precio en pesetas no es algo ideal para un [#viernesvintage](/tags/viernesvintage) que baje Crom y lo vea.
 
-
 Y para el de hoy, una de esas joyitas que nos trajo [#Fanhunter](/tags/fanhunter) en sus one shots, donde distintos autores adaptaban dicho universo a su propia visión, al estilo de los "else world".
-
 
 En esta ocasión Roke González (que por aquella época parecía estar en todas partes) a los guiones, y [@davidbaldeoncomic](https://instagram.com/davidbaldeoncomic) a los lápices nos ofrecían una versión gaslight, como su propio nombre indica, pero añadiendo a ese toque victoriano el clásico tono subcultural de los narizones de [@celspinol](https://instagram.com/celspinol) .
 
-
 Una aventura autoconclusiva ligera, que cumplía su función de presentarnos la adaptación de los principales personajes de la saga, para disfrute de todos.
-
 
 Y digo disfrute porque, a nivel visual, pocos consiguieron hacerlo con personalidad propia de una forma tan espectacular como lo hiciera Baldeón. Por suerte su presencia en el universo narizón dió para más, pero eso es asunto de otro día.
 
-
 De todas formas si queréis ver como ha evolucionado su estilo, estáis tardando en ver su versión de [#Domino](/tags/domino) con guiones de [@comixgail](https://instagram.com/comixgail) , una joyita.
 
-
 Vamos, que como acercamiento para los que no conocían el universo Fanhunter, muy bien (si es que quedaba alguien sin conocerlo). Y como versión "What if" que es lo que a mí más me llamaba, aún mejor.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -24,17 +24,12 @@ author: neverbot
 
 Cómo hablar con chicas en fiestas. Un cuento corto de Neil Gaiman convertido en tebeo. ¿Era necesario?
 
-
 Fábio Moon y Gabriel Bá convierten en tebeo una micro historia de Gaiman, que es un señor con una dilatada carrera ya... pero no puede acertar siempre.
-
 
 Es bonito, pero esto lo empiezas, lo terminas, no te han contado gran cosa, y puedes pasar al siguiente tebeo sin pena ni gloria.
 
-
 Por descontado que el poso que deja de fondo, lo que yo he entendido (probablemente mal) que se intenta contar a mí no me ha dejado muy buen sabor de boca... pero quizá este tebeo y yo no hemos conectado bien y hay otras interpretaciones mejores y más acertadas.
 
-
 Si os ha gustado, dejad un comentario que todavía estoy a tiempo de releérmelo antes de devolverlo a la biblioteca.
-
 
 ([@neverbot](https://instagram.com/neverbot))

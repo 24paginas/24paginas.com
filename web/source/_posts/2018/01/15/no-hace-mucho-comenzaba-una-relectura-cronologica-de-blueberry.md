@@ -18,8 +18,6 @@ author: neverbot
 
 No hace mucho comenzaba una relectura cronológica de Blueberry. Habiendo terminado la primera media docena de álbumes que tenía, ¿me recomendáis continuar por orden de aparición de álbumes o siguiendo la historia del personaje?
 
-
 ¡Se aceptan opiniones!
-
 
 ([@neverbot](https://instagram.com/neverbot))

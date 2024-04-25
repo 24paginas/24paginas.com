@@ -19,13 +19,8 @@ author: hecdruiz
 
 Para este [#miercolesmanga](/tags/miercolesmanga) una pequeña y divertida publicación que salió allá por 1995 de la mano de Kunihiko Tanaka.
 
-
 Dos tomitos que recopiló [@planetadcomic](https://instagram.com/planetadcomic) en este divertido volumen. Aventuras, fantasía y mucho humor.
 
-
 Pena que no tuviese continuación, pero si no recuerdo mal hicieron un OVA por si os pica la curiosidad.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

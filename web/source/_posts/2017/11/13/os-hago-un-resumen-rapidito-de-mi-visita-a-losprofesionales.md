@@ -34,12 +34,9 @@ author: hecdruiz
 
 Os hago un resumen rapidito de mi visita a  [#LosProfesionales](/tags/losprofesionales)
 
-Buen rollo, cercanía, poder conversar con grandísimos del cómic, ambiente genial, nada de agobios, láminas y originales a tutti para comprar, conocer a [@coelloiban](https://instagram.com/coelloiban) y a [@jorgefornes](https://instagram.com/jorgefornes) entre otros (dibujan de la leche y son super majetes), cazar unas láminas para ir en busca y captura de [@davizzzz](https://instagram.com/davizzzz) [@pepelarraz](https://instagram.com/pepelarraz) y [@srdavidlafuente](https://instagram.com/srdavidlafuente) (ya os pillaré la próxima), diversión, disfrutar de esta afición y quedarme con ganas de que se repita pero ya de ya. 
+Buen rollo, cercanía, poder conversar con grandísimos del cómic, ambiente genial, nada de agobios, láminas y originales a tutti para comprar, conocer a [@coelloiban](https://instagram.com/coelloiban) y a [@jorgefornes](https://instagram.com/jorgefornes) entre otros (dibujan de la leche y son super majetes), cazar unas láminas para ir en busca y captura de [@davizzzz](https://instagram.com/davizzzz) [@pepelarraz](https://instagram.com/pepelarraz) y [@srdavidlafuente](https://instagram.com/srdavidlafuente) (ya os pillaré la próxima), diversión, disfrutar de esta afición y quedarme con ganas de que se repita pero ya de ya.
 Vamos, que esperando con ansia viva un [#LosProfesionales2](/tags/losprofesionales2) para el año que viene, a ver si se apunta también [@davidbaldeoncomic](https://instagram.com/davidbaldeoncomic) ¡No nos falléis!
 
 PD: Esos originales de [#Conan](/tags/conan) del señor [@sergiodavila1582](https://instagram.com/sergiodavila1582) MY GOD.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

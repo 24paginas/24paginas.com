@@ -26,22 +26,14 @@ author: hecdruiz
 
 The real american hero!
 
-
 Por culpa de [@netflixes](https://instagram.com/netflixes) y sus documentales de juguetes de los 80,  este [#viernesvintage](/tags/viernesvintage) vengo con la nostalgia subida a traeros uno de los tesoritos de mi infancia.
-
 
 Nada más y nada menos que los primeros números de G. I. Joe que nos trajo Forum en su momento, en ese formato un pelín más grande que todos los que compramos tebeos por aquella época recordamos.
 
-
 Y es que de crío, antes del boom del manga con Dragon Ball, mi ocio se apoyaba en tres pilares básicos: He-Man, G. I. Joe y Transformers. Y claro, cuando vi esto en el kiosco me faltó tiempo para hacerme con ellos.
-
 
 Sobretodo me llama la atención algo que no recordaba, y es que el precio está superpuesto con una pegatina que no me atrevo a quitar para ver cual era el precio original. Ni idea de porqué se pudo dar esto, pero pasa en los dos números. Así como el terminar utilizando la contraportada como ultima página, mientras luego en el interior te "regalaban" un poster.
 
-
 Ains.. bendita nostalgia.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

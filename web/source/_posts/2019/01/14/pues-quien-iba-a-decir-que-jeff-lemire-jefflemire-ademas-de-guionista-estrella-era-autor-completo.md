@@ -19,14 +19,10 @@ author: neverbot
 
 Pues quién iba a decir que Jeff Lemire ([@jefflemire](https://instagram.com/jefflemire)) además de guionista estrella era autor completo.
 
-
 Si es que no sé nada de la vida, menos mal que a veces uno encuentra tebeos random y con eso solucionamos lagunas de conocimiento.
-
 
 Un señor chungo en un pueblo perdido, alcohol, drogas, pasados turbios. Uno casi puede ver a los hermanos Coen dirigiendo la adaptación. Pero sin humor negro. Un Fargo en el que no hay nada de lo que reírse.
 
-
 ([@neverbot](https://instagram.com/neverbot))
-
 
 [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#24paginas](/tags/24paginas) [#jefflemire](/tags/jefflemire) [#untipoduro](/tags/untipoduro) [#roughneck](/tags/roughneck) [#astiberri](/tags/astiberri) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

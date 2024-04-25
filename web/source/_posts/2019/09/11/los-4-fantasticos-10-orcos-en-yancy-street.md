@@ -22,9 +22,4 @@ Los 4 Fantásticos [#10](/tags/10): Orcos en Yancy Street.
 
 Cruce de la serie con "La Guerra de los Reinos". Un buen número de vida normal y personajes hablando que se llena de acción hacia su final con la llegada de la invasión asgardiana. Muy divertido ver los como Slott escribe los enfrentamientos infantiles/intelectuales de Valeria y Lunella y dibujo bien asentado de Paco Medina. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#grapa](/tags/grapa) [#los4fantasticos](/tags/los4fantasticos) [#fantasticfour](/tags/fantasticfour) [#asgard](/tags/asgard) [#moongirl](/tags/moongirl) [#thor](/tags/thor) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

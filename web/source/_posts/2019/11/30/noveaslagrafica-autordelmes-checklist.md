@@ -18,8 +18,6 @@ author: 24paginas
 
 [#NOVEASLAgrafica](/tags/noveaslagrafica): [#autordelmes](/tags/autordelmes) checklist.
 
-
 Tras 24 números, cerramos la serie 1 de nuestros cromos. Para la siguiente entrega queremos estrenar diseño y contenidos, pero antes queríamos dar un repaso a los galardonados hasta en momento y situarlos gráficamente.
-
 
 Autores... Assemble!

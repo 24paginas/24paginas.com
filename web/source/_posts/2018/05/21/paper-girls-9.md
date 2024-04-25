@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#9](/tags/9)
 
-
 Conócete a ti misma
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

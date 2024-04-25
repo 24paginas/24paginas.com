@@ -24,23 +24,16 @@ author: hecdruiz
 
 Mazmorreo ligero, humor, alucinancia y técnicas a cada cual más poderosa, ¿cómo decirle que no a este isekai  de nombre impronunciable? Bienvenidos a Danmachi en este [#miercolesmanga](/tags/miercolesmanga).
 
-
 Publicado en España por [@norma_editorial](https://instagram.com/norma_editorial) con el título “¿Qué tiene de malo intentar ligar en una mazmorra? Danmachi”, esta obra viene a ser una adaptación al manga del anime Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka licenciado aquí por [@selectavision](https://instagram.com/selectavision) con la misma traducción para el título, y que por razones obvias al final todo el mundo usa su apodo mucho más corto.
-
 
 Para los profanos el género isekai consiste en historias que giran en torno a una persona normal transportada o atrapada en otro mundo, ya sea virtual, un universo paralelo o vete tu a saber.
 
-
 ¿Otro isekai? ¿Hacía falta? Pues falta no, pero desde luego aporta frescura a su género y un buen rato de entretenimiento. Partiendo de la base que yo a los isekai suelo decir sí de primeras, este me sonaba un poco a más de lo mismo: mazmorreo simulando un juego de rol. Por suerte, al contrario que otros tantos que se quedaron en el camino, Danmachi no sólo le da un giro interesante de primeras con la relación entre los coprotagonistas, sino que con un ritmo ágil y combinando con mucho acierto humor, acción, e intriga, acaba enganchando.
-
 
 Vale, no tiene el argumento más original del mundo, pero cumple sobradamente con el objetivo de entretener que entiendo que busca un producto de este tipo.
 
-
 El problema viene en la adaptación al manga donde uno esperaría que aprovechasen el medio para desarrollar más conceptos y personajes, y en su lugar cuentan exáctamente lo mismo. Al menos en el apartado gráfico no  pierde mucho frente a los diseños del anime, que en estas lides he visto casos de querer sacarse uno los ojos.
 
-
 Por otra parte es cierto que, si no tienes noticia del anime, me parece un muy buen manga de aventuras. Y quién sabe, lo mismo según avanzan los tomos van expandiendo la historia así que tampoco lo descartaría del todo. Juzgad vosotros mismos.
-
 
 [@hecdruiz](https://instagram.com/hecdruiz)

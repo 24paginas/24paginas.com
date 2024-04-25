@@ -33,17 +33,12 @@ author: neverbot
 
 En estos tiempos de reediciones en tochos inmanejables, no te olvides de la grapa ni de la segunda mano.
 
-
 Si algo bueno tienen las reediciones es que mucha gente saca sus colecciones a pasear a la calle, a sitios como eBay, wallapop o todocoleccion. Y así se completan colecciones huérfanas desde hace décadas.
-
 
 Así, por ejemplo, he completado los primeros 50 números de Spawn, del que me faltaban unos pocos.
 
-
 Como efecto colateral, ese número 9 con la primera aparición de Ángela que legalmente no se puede volver a imprimir, en este formato sí se puede leer.
 
-
 Veo a algún millenial al fondo preguntándose por qué un personaje de Thor y los Guardianes de la Galaxia aparece en Spawn. Otro día hablamos de esto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

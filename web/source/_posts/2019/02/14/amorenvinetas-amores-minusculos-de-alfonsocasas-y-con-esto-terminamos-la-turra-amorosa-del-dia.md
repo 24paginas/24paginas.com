@@ -21,14 +21,10 @@ author: neverbot
 
 [#AmorEnViñetas](/tags/amorenvinetas): Amores minúsculos de [@alfonsocasas](https://instagram.com/alfonsocasas). Y con esto terminamos la turra amorosa del día.
 
-
 Amores fugaces, pequeñas historias que nos suceden mientras estamos ocupados viviendo el día a día. Una cosa hermosísima de Alfonso Casas que ha sido llevada al teatro, que seguramente os sonará porque viene de un autor/diseñador/ilustrador cuya obra ha dado mil vueltas por redes sociales en forma de memes variados.
-
 
 Y en mi caso fue un tebeo que me regalaron... y que me ha recordado amores minúsculos enormemente grandes. Y a quién no.
 
-
 Feliz San Valentín.
-
 
 ([@neverbot](https://instagram.com/neverbot))

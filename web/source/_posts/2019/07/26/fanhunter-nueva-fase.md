@@ -23,5 +23,5 @@ author: 24paginas
 
 [#FanHunter](/tags/fanhunter): Nueva Fase.
 
-Ayer jueves, la cuenta oficial de twitter de FanHunter publicó un calendario con los títulos de los futuros cómics que están por llegar. Tras bromear sobre que esa lista merecía un panel como el de Marvel Studios en la [#SDCC2019](/tags/sdcc2019), alguien ha decidido llevar la broma demasiado lejos... Descubre la lista de títulos que [@celspinol](https://instagram.com/celspinol) y [#EdicionesGigamesh](/tags/edicionesgigamesh) nos tiene preparados. 
+Ayer jueves, la cuenta oficial de twitter de FanHunter publicó un calendario con los títulos de los futuros cómics que están por llegar. Tras bromear sobre que esa lista merecía un panel como el de Marvel Studios en la [#SDCC2019](/tags/sdcc2019), alguien ha decidido llevar la broma demasiado lejos... Descubre la lista de títulos que [@celspinol](https://instagram.com/celspinol) y [#EdicionesGigamesh](/tags/edicionesgigamesh) nos tiene preparados.
 [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#noticias](/tags/noticias) [#narizones](/tags/narizones) [#barnacity](/tags/barnacity) [#panel](/tags/panel) [#lettering](/tags/lettering) [#alejocuervo](/tags/alejocuervo) [@libreriagigamesh](https://instagram.com/libreriagigamesh)

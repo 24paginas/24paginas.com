@@ -16,11 +16,8 @@ author: 24paginas
 
 Hemos pensado que llegar al número 24 era demasiado ESPECIAL para hacerlo durar solo un mes, así que prorrogamos nuestra vigésimo cuarta entrega un mes más a modo de ANNUAL.
 
-
 También aprovechamos para recordaros que estamos ultimando nuestro especial y que muy pronto estará impreso. Puedes hacerte con él, y con nuestra chapa, contactando con nosotros por mensaje directo.
 
-
 Además, este mes recuperamos algunas de nuestras secciones habituales, reseñas y puede que algún nuevo sorteo...
-
 
 Allons’y!

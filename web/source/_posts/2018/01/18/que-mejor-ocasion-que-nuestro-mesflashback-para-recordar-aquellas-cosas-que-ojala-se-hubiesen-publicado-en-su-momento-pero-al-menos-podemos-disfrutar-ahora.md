@@ -34,11 +34,8 @@ author: neverbot
 
 Que mejor ocasión que nuestro [#mesflashback](/tags/mesflashback) para recordar aquellas cosas que ojalá se hubiesen publicado en su momento, pero al menos podemos disfrutar ahora.
 
-
 La colección de libros Dragon Ball Daizenshû de los 90 era algo casi místico que veíamos en algún fanzine de la época y siempre quisimos disfrutar.
 
-
 Tuvimos que esperar hasta la reedición japonesa Dragon Ball Chozensyu del 2013 (¡casi 20 años!) para conseguir que se pudiera editar en castellano y así disfrutar de esta maravilla de enciclopedia sobre la obra, el autor, los personajes y las historias de las bolas del dragón y unos saiyanos más majos que las pesetas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

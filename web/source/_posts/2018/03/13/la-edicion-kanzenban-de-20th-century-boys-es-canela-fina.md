@@ -20,11 +20,8 @@ author: neverbot
 
 La edición kanzenban de 20th century boys es canela fina.
 
-
 Me perdí en su momento una de las obras magnas de Naoki Urasawa, y estoy aprovechando ahora con esta magnífica edición de [@planetadcomic](https://instagram.com/planetadcomic).
 
-
 ¡Corred, insensatos!, es todo lo que puedo decir al respecto. Corriendo a por el segundo tomo ahora mismo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

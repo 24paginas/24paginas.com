@@ -20,11 +20,8 @@ author: uncientovolando
 
 Paper Girls [#28](/tags/28): a cuatro tiempos.
 
-
 Antepenúltimo episodio en el que K. Vaughan y Chiang prueban con una narración fragmentada que sigue en paralelo la historia de cada una de las chicas. Pese a que se podría leer siguiendo cada línea (y volver al principio para leer la siguiente), la narración funciona perfectamente página a página, saltando entre tiempos en cada una.
 
-
 Seguimos acelerando conforme se acerca el final. [@planetadcomic](https://instagram.com/planetadcomic), no tardes.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

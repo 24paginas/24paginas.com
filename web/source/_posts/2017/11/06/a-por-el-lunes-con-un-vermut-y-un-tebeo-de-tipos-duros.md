@@ -22,7 +22,4 @@ No se me ocurre nadie mejor para continuar a los lápices las andanzas de Torped
 
 A ver si llega el momento en el que alguien nos da la satisfacción de llevarse por delante al bastardo de Torpedo, que ya le va tocando esa historia memorable.
 
-
-
-
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -23,11 +23,8 @@ author: neverbot
 
 Pues viendo que [@planetadcomic](https://instagram.com/planetadcomic) se lanza a la piscina con la edición de Dragon Ball Super como serie roja (que en principio parecía que sólo iban a ser los cinco primeros), habrá que ponerse en serio y terminar la edición original, que finalizó en España en 1997.
 
-
 Que algunos de los [@24paginas](https://instagram.com/24paginas) la tienen completa, pero otros (yo), no.
 
-
 Inaceptable.
-
 
 ([@neverbot](https://instagram.com/neverbot))

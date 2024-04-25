@@ -27,11 +27,8 @@ author: uncientovolando
 
 HISTORIETAS DEL TEBEO, 1917—1977
 
-
 Hasta el próximo 27 de febrero, podéis disfrutar en el Museo de la Ilustración ABC, en Madrid, de esta exposición que nos lleva a las primeras publicaciones de cómic en España y su posterior expansión.
 
-
 Revistas infantiles, sátira política, publicaciones oficiales del régimen franquista, aventuras... Apoyado por infinidad de originales e impresiones que llenan las paredes y las cajoneras, todo tiene cabida en este viaje por el tiempo que también recoge algo del panorama internacional: las cabeceras importadas de fuera y el talento exportado a través de agencias de artistas.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -22,11 +22,8 @@ author: uncientovolando
 
 Paper Girls [#1](/tags/1).
 
-
 Comenzamos nuestro quinto mes con una revisión de lo publicado en nuestro país de Paper Girls. Grapa a grapa y cada dos días, intentaremos reseñar cada capitulo de la serie de Brian K. Vaughan, [@cliffchiang](https://instagram.com/cliffchiang) y [@fatheadwilson](https://instagram.com/fatheadwilson):
 
-
 El primer número planta las bases de una aventura de ciencia ficción adolescente, con unas protagonistas carismáticas (las repartidoras de periódicos que dan título a la serie) y un escenario tan loco que deja a Stranger Things como si fuese una historia costumbrista.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

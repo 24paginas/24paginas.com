@@ -24,14 +24,10 @@ author: neverbot
 
 Este del Oeste. Un wéstern de ciencia ficción de Jonathan Hickman y Nick Dragotta con tantas ideas por número que YO YA.
 
-
 De esas cosas que coges torciendo el gesto mientras piensas “de aquí no puede salir nada bueno” y te golpea la cara con un guante de hierro que deja claro que te has equivocado.
-
 
 Una historia loca sobre la muerte y una especie de Jinetes del Apocalipsis en un oeste norteamericano distópico dividido en diversos estados.
 
-
 Y la muerte encuentra a una mujer, y tiene un hijo, y... vaya, muy parecido a otro tebeo que también he leído recientemente que no me ha gustado tanto. En unos días os hablo de él, para que esta no sea la semana de los wésterns alternativos.
-
 
 ([@neverbot](https://instagram.com/neverbot))

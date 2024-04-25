@@ -29,20 +29,14 @@ author: neverbot
 
 Hoy soy un poco tramposo porque esto no es un tebeo, pero quizá os interese igualmente.
 
-
 En esta bonita comunidad tebeística de instagram a veces descubres cosas que no conocías, y así encontré hace poco este Ghost in the Shell Perfect Book... que tenía que poseer como buen yonki que soy de todo lo relacionado con Shirow.
-
 
 Decía que tramposo porque no es un libro que nazca del tebeo, sino de las obras audiovisuales, con tres grandes capítulos dedicados a los directores de las tres obras principales: las películas de Oshii, los Stand Alone Complex de Kamiyama y los Arise de Kise.
 
-
 Ilustraciones, fondos, bocetos,  guías de personajes, de episodios, artículos. Si eres de los que disfrutan este tipo de cosas el libro es un must have.
-
 
 Y para terminar de hacerlo perfecto, solo le dedica 7 páginas de las 160 a la infamia de Scarlett Johansson.
 
-
 El hombre que ríe tenía razón.
-
 
 [@neverbot](https://instagram.com/neverbot)

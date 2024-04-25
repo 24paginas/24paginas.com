@@ -24,17 +24,12 @@ author: neverbot
 
 ¡Por Crom, Conan en grapa siempre es bienvenido!
 
-
 Primeros números de Conan el Asesino (The Slayer), la nueva etapa de Cullen Bunn y Sergio Dávila al timón de las series de Conan de Dark Horse.
-
 
 Y bueno, bien. Si sabes a lo que vas te lo están dando. Si no eres lector habitual de Conan no veo razón alguna para que te acerques al tebeo.
 
-
 El guión normal, el dibujo irregular, la edición de Planeta pues en su tono habitual de "necesitamos un director de arte" como en los últimos 20 años, un uso de tipografías para arrancarse los ojos y en ningún sitio indica si te has leído un número americano o dos o si esto es mensual o "ya iré pasando por la tienda". Aún así se agradece el gesto de poner una colección en grapa en el mercado en el 2017, y el guiño a los logos de forum que a nosotros (ejem) nos ha salido mejor.
 
-
 Pero es Conan. Espadazos, magia oscura, señoritas con armadura bikini. Lo habitual. No te engañan.
-
 
 ([@neverbot](https://instagram.com/neverbot))

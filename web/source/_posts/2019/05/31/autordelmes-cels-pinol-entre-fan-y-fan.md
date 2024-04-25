@@ -26,9 +26,4 @@ Mucho antes de que lucir camisetas con el logo de Marvel fuera normal y los supe
 
 Además se ha convertido en un referente para muchos de los que queremos hacer de nuestra pasión una forma de vida, con una carrera que va más allá de los narizones: correero, articulista, editor, packager... Gracias, [@celspinol](https://instagram.com/celspinol). May the pichurrina be with you.
 
-
-
-
-
-
 [#fanhunter](/tags/fanhunter) [#narizones](/tags/narizones) [#alejowasright](/tags/alejowasright) [#celspiñol](/tags/celspinol) [#comicsforum](/tags/comicsforum) [#fancinnata](/tags/fancinnata) [#fanletal](/tags/fanletal) [#30añosnoesnada](/tags/30anosnoesnada) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@planetadcomic](https://instagram.com/planetadcomic) [@libreriagigamesh](https://instagram.com/libreriagigamesh) [@deviriberia](https://instagram.com/deviriberia)

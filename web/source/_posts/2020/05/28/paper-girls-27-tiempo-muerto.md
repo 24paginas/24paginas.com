@@ -19,14 +19,10 @@ author: uncientovolando
 
 Paper Girls [#27](/tags/27): Tiempo muerto.
 
-
 El estado de alarma me pilló con este número recién llegado a las librerías y el siguiente ya debe de haber llegado. Queda poco para el final y las cartas parecen seguir barajándose. Todo son preguntas: ¿se reunirán por fin las chicas? ¿Cómo se solucionará esto en apenas 3 números? ¿Qué pasa con el futuro? ¿Nos volvemos gilipollas o algo parecido?
-
 
 En cualquier caso, voy a echar de menos lo bonito que dibuja Cliff Chiang esta serie.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#grapa](/tags/grapa) [#imagecomics](/tags/imagecomics) [#briankvaughan](/tags/briankvaughan) [#cliffchiang](/tags/cliffchiang) [#timetravel](/tags/timetravel) [@planetadcomic](https://instagram.com/planetadcomic)

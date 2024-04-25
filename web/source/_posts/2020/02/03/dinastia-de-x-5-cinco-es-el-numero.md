@@ -22,19 +22,11 @@ author: uncientovolando
 
 Dinastía de X [#5](/tags/5): Cinco es el número.
 
-
 Después del número anterior que nos dejaba sin aliento, llega la resolución de muchos de los misterios que rodeaban a la nueva situación de los mutantes. .
 El plan de Moira y Charles, y por extensión de Hickman, eclosiona (pun intended) en el corazón de Krakoa.
 
-
 A mí, mi Patrulla-X.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#marvel](/tags/marvel) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#xmen](/tags/xmen) [#ciclope](/tags/ciclope) [#charlesxavier](/tags/charlesxavier) [#mutantes](/tags/mutantes) [#apocalipsis](/tags/apocalipsis) [#krakoa](/tags/krakoa) [#mutantandproud](/tags/mutantandproud) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

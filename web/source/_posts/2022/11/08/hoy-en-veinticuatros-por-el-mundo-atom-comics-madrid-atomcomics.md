@@ -24,6 +24,6 @@ Hoy, en veinticuatros por el mundo, Atom Cómics Madrid ([@atomcomics](https://i
 
 En Madrid ciudad, en la zona desde Goya hasta La plaza de Manuel Becerra, están proliferando durante los últimos años unas cuantas librerías de cómic, y una de las mejores es Atom Cómics, junto a la plaza (ojo que tienen otra tienda en la calle Fuencarral).
 
-Mucho de todo: americano, manga, europeo, indie, gran trato al cliente y notitas con comentarios junto a los tebeos para que encontréis cosas que os pueden haber pasado inavertidas. Por su “culpe” me llevé el tomo de “Primer Cuchillo” de Image/Gigamesh que ni había oído hablar de él. 
+Mucho de todo: americano, manga, europeo, indie, gran trato al cliente y notitas con comentarios junto a los tebeos para que encontréis cosas que os pueden haber pasado inavertidas. Por su “culpe” me llevé el tomo de “Primer Cuchillo” de Image/Gigamesh que ni había oído hablar de él.
 
-Muy recomendable si sois de Madrid o pasáis por la ciudad. 
+Muy recomendable si sois de Madrid o pasáis por la ciudad.

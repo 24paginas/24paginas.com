@@ -27,20 +27,14 @@ author: neverbot
 
 Ciencia loca en Los Proyectos Manhattan, de Jonathan Hickman y Nick Pitarra.
 
-
 Estoy a tope con Hickman últimamente, así que tocaba leer alguna otra cosa suya. En Los Proyectos Manhattan tenemos una historia de realidades alternativas y científicos locos, y un guionista a quien le deben caer muy mal algunas de las mentes más brillantes del pasado siglo.
-
 
 Muy loca la historia, pasan muchas cosas y todo es interesante, hay que leer más.
 
-
 Pero.
-
 
 Dibujo de Nick Pitarra, deudor del arte de Frank Quitely, haciéndolo aún más feísta. Y yo me pregunto, ¿por qué Quitely iba a crear escuela? Es un gran narrador, pero el dibujo tiende a feo feo. ¿Soy un hater de Quitely, nadie más opina igual?
 
-
 En cualquier caso voy a seguir leyéndolo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

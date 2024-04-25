@@ -25,13 +25,8 @@ author: neverbot
 
 Y terminamos el repaso al evento con lo único salvable que he encontrado, el epílogo Imperio Secreto: Omega.
 
-
 Un repaso a lo que pasa con... digamos todos los implicados en el evento, cómo terminan, y alguna puerta abierta para la futura continuidad.
 
-
 No entro en detalles, igual que no hay fotos del interior del tebeo, porque prácticamente todo sería un spoiler para quien se lo quiera leer. A mí al menos me ha parecido interesante.
-
-
-
 
 [@neverbot](https://instagram.com/neverbot)

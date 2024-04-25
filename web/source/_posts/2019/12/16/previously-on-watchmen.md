@@ -17,18 +17,10 @@ author: uncientovolando
 
 Previously on [#WATCHMEN](/tags/watchmen)...
 
-
 Ahora que ha terminado la serie de HBO, al menos la primera temporada porque “Nothing ever ends”, toca relectura del cómic de Alan Moore y Dave Gibbons.
-
 
 Con calma, “grapa” a “grapa”. Aunque sea en la enorme, y completísima, edición de Planeta.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#watchmenhbo](/tags/watchmenhbo) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#vigilantes](/tags/vigilantes) [#pulpoafeira](/tags/pulpoafeira)🐙

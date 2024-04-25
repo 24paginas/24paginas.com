@@ -21,8 +21,6 @@ author: uncientovolando
 
 Paper Girls [#4](/tags/4)
 
-
 Seguro que alguna vez, de tanto jugar a un juego, habéis terminado soñando que estáis atrapados en él. Algo parecido le pasa a Tiff en este número, pero lo hace generando tensión y jugando con la narrativa de una forma magistral.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

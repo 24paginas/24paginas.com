@@ -34,22 +34,14 @@ author: hecdruiz
 
 Hoy ha salido el tráiler de Avengers: Infinity War y es una auténtica pasada.
 
-
 Ha sido el tema del día en 24 páginas y entre todo el equipo hemos decidido señalar o remarcar los 5 momentos que más nos han impactado de todo el tráiler y que nos han hecho explotar la cabeza.
-
 
 Os los dejamos aquí mismo con un pequeño extra para aquellos que abrazan el spoiler, de la mano de las escenas post créditos para algo sin créditos, que Marvel ha decidido incluir en el trailer.
 
-
 Personalmente creo que esta escena post créditos era la que tenía que haber tenido Thor Ragnarok, pero bueno, más vale tarde que nunca.
-
 
 Y por si no habéis visto el tráiler os dejamos el link por aquí:
 
-
-https://youtu.be/6ZfuNTqbHE8
-
-
-
+<https://youtu.be/6ZfuNTqbHE8>
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -23,14 +23,10 @@ author: neverbot
 
 Marmalade Boy, el pelotazo televisivo de finales de los 90 basado en el manga de Wataru Yoshizumi.
 
-
 A medio camino entre el [#miercolesmanga](/tags/miercolesmanga) y el [#viernesvintage](/tags/viernesvintage) está el jueves de... de los mangas viejunos. Ocho tomos de cuando las cosas todavía se pagaban en pesetas, que para la serie de televisión se ampliaron enormemente con una cantidad insana de relleno, cosa normal por otra parte porque ocho tomos no dan para mucho más.
-
 
 Dos matrimonios se separan y deciden arrejuntarse intercambiando las parejas... e irse a vivir todos juntos con sus dos hijos adolescentes. Todo muy normal. Los Serrano sin terminar con un sueño de Resines.
 
-
 Las historias de Miki y Yuu y sus amigos del instituto a día de hoy tienen un poso... viejuno, para qué negarlo. Pero sigue teniendo una lectura si el shojo es vuestro rollo.
-
 
 ([@neverbot](https://instagram.com/neverbot))

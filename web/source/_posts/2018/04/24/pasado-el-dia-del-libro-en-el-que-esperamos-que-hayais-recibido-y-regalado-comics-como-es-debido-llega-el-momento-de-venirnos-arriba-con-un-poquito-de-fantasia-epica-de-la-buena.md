@@ -25,25 +25,16 @@ author: hecdruiz
 
 Pasado el día del libro en el que esperamos que hayáis recibido ( y regalado ) cómics como es debido, llega el momento de venirnos arriba con un poquito de fantasía épica de la buena.
 
-
 ¿Y que hay más épico que una historia ambientada en las leyendas y mitología nórdica? Pues que esté protagonizada por un clan de elfos guerreros a golpe de espada. ¿Y si encima es [@victorsantoscomics](https://instagram.com/victorsantoscomics) el autor? Pues eso, epicidad y alucinancia por los cuatro costados.
-
 
 Y eso es, ni más ni menos, lo que nos ofrece Los Reyes Elfos.
 
-
 Recopilada en un fantástico tomo allá por 2013 gracias a [@dolmeneditorial](https://instagram.com/dolmeneditorial), esta increíble epopeya venía siendo publicada a sagas a lo largo de los años desde sus inicios en el 2000, saltando de una editorial a otra a golpe de premios tanto en el Salón de Barcelona como en el de Madrid. Si no me equivoco llegó a sumar nueve. Ahí es ná.
-
 
 Un dibujo con reminiscencias al mejor [@artofmm](https://instagram.com/artofmm) por el uso del blanco y negro, pero con personalidad propia, contándonos una historia dura de ritmo trepidante, con un argumento de fantasía pero sin resultar tópico.
 
-
 Los personajes, aunque puedan parecer arquetípicos en un principio, tienen cada uno su propía voz. Esto le da a esta saga un carácter especial, muy propio, y a su vez una vuelta de tuerca a esas historias mitológicas de las que todos hemos oído hablar, de tal forma que te enganchan irremediablemente.
 
-
 Por mi parte no puedo más que recomendarlo, como todo lo que hace el señor Santos (por favor [@marvel](https://instagram.com/marvel), contratadle ya para Moon Knight), ya que solamente para empezar es una maravilla a nivel visual. Pero es que aparte, en esta edición se puede disfrutar de todas las sagas al completo, y la sensación de obra redonda queda aún más patente. Si lo tenéis a tiro, no lo dudéis.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

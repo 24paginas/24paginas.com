@@ -24,16 +24,9 @@ author: 24paginas
 
 21/31. HAHA [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Hemos hecho muchas coñas con La Broma Asesina y sus múltiples ediciones (corred a ver nuestra [#NOVEASLAgrafica](/tags/noveaslagrafica) al respecto, es de las mejores que hemos hecho!), pero es cierto que se trata de una obra tremendamente icónica. La risa del Joker, corriendo en paralelo a la sirena de policía, llenándolo todo... Poca broma.
 
-
 HAHA!
-
-
-
-
-
 
 [#lettering](/tags/lettering) [#batman](/tags/batman) [#joker](/tags/joker) [#killingjoke](/tags/killingjoke) [#dccomics](/tags/dccomics) [#alanmoore](/tags/alanmoore) [#labromaasesina](/tags/labromaasesina) [#comic](/tags/comic) [#comicsoundeffects](/tags/comicsoundeffects) [#edicionespecial](/tags/edicionespecial)
 [@eccediciones](https://instagram.com/eccediciones)

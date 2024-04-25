@@ -22,22 +22,14 @@ author: hecdruiz
 
 Mafias, sicarios con habilidades especiales, humor negro y mucha, mucha acción.
 
-
 Un guión ágil y duro con personajes bien caracterizados donde cada cual arrastra los traumas de su pasado (que vamos descubriendo a cuentagotas), con la dosis suficiente para mantenernos con ganas de más mientras el argumento principal y las escenas de acción avanzan a ritmo endiablado.
-
 
 El dibujo va de la mano, con unos diseños atractivos y una composición fluida pero de líneas duras que se ajusta perfectamente al tono brusco de la historia. Si la historia ya de por sí es interesante, y está bien contada, desde luego la parte gráfica es de lo que más he disfrutado. No es el típico shonen.
 
-
 Por último destacar lo bien tratado que está el desarrollo de un personaje protagonista sordomudo dentro de este tipo de trama, que de primeras sorprende pero le da un punto tan característico y bien llevado que destaca aún más en el anime por razones obvias.
-
 
 Habrá que ver si el autor o la autora (depende de donde busques información) que publica esta corta serie, que lo hace bajo el pseudónimo de Kohske, y que por desgracia tuvo que detener su publicación durante más de un año por problemas de salud, la lleva a buen puerto ahora que parece haberla recuperado y anuncian su continuación.
 
-
 Por ahora llevan publicados siete tomos de esta joyita, si no me equivoco, que espero veamos aquí de la mano de [@mwediciones](https://instagram.com/mwediciones).
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

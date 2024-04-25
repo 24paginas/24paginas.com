@@ -15,6 +15,6 @@ template: instagram
 author: neverbot
 ---
 
-El desayuno de los campeones. 
+El desayuno de los campeones.
 
-[@gullongalletas](https://instagram.com/gullongalletas) 
+[@gullongalletas](https://instagram.com/gullongalletas)

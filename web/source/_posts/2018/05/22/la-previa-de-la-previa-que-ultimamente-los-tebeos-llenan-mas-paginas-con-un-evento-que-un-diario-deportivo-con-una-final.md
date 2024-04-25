@@ -26,14 +26,10 @@ author: neverbot
 
 La previa de la previa, que últimamente los tebeos llenan más páginas con un evento que un diario deportivo con una final.
 
-
 El número infinito de Cuenta atrás a infinito es una cosa muy introductoria al personaje de Adam Warlock, para que recordemos quién es, y cómo se va a enganchar al evento marvelita de verano.
-
 
 Si no conoces mucho del personaje (como es mi caso, que yo de la Marvel cósmica no tengo apenas idea) o te mola Mike Allred ([@allredmd](https://instagram.com/allredmd), que si no es el caso te castigamos cinco minutos sin amigos), no es una mala compra.
 
-
 En cualquier caso no es imprescindible para entender lo que vendrá, ya que realmente cuenta poco. El guión de Gerry Duggan ([@digduggan](https://instagram.com/digduggan)) no añade mucho pero tampoco desmerece, que ya es algo hoy en día.
-
 
 ([@neverbot](https://instagram.com/neverbot))

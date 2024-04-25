@@ -25,14 +25,10 @@ author: 24paginas
 
 🗓 AGENDA 24 PÁGINAS - FEB. 07.
 
-
 Esta semana vamos con una agenda comprimida en el tiempo (solo mañana, u hoy si leéis esto tarde), pero dilatada en el espacio.
-
 
 Mientras que en la librería Edición Limitada de Sevilla, [@eltorres](https://instagram.com/eltorres) y compañía se encuentran presentando su editorial [@karrascomics](https://instagram.com/karrascomics), en Madrid [@omega_center_estrella](https://instagram.com/omega_center_estrella) recibe al dibujante brasileño [@marciotakara](https://instagram.com/marciotakara).
 
-
 Os recordamos que si tenéis algún evento sobre cómic que queráis incluir, gratis total, en nuestra agenda (casi) semanal, podéis hacérnoslo llegar a través de nuestro email: info[@24paginas.com](https://instagram.com/24paginas.com).
-
 
 Salud y tebeos.

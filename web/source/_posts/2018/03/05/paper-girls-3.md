@@ -20,8 +20,6 @@ author: uncientovolando
 
 Paper girls [#3](/tags/3)
 
-
 Mientras el cliffhanger del número 2 se resuelve entre sueños febriles, vamos conociendo las caras y las intenciones de los perseguidores de nuestras chicas.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -23,17 +23,12 @@ author: neverbot
 
 Empress. Otra "MarkMillar-ada".
 
-
 Pues... todavía tengo pendiente de leer Renacida, pero yo creo que aquí me bajo ya del Millarworld y de estas cosas tan vacías de contenido. Hay ideas chulas, pero poco o nada desarrolladas. Hay espectacularidad, pero mal entendida, como si estuviéramos leyendo un tebeo de Liefeld de los 90. Hay potencial, pero solo orientado al "que me hagan una peli de esto, por favor". Muchos one-liners pero poco desarrollo de ningún personaje, su pasado o su futuro.
-
 
 Es un artbook de Stuart Immonen, y eso siempre bien.
 
-
 Para leerlo en unos minutos y entretenerte con los dibujos, pues vale. Para pagar dinero por el tebeo, no.
 
-
 Aunque si a alguien le ha gustado de verdad como para recomendarlo, ahí están los comentarios, yo no he visto nada muy defendible pero acepto que me callen la boca de vez en cuando.
-
 
 ([@neverbot](https://instagram.com/neverbot))

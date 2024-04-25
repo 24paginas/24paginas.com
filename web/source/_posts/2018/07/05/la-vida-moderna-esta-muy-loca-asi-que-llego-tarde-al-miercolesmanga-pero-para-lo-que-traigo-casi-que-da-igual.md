@@ -29,14 +29,10 @@ author: neverbot
 
 La vida moderna está muy loca, así que llego tarde al [#miercolesmanga](/tags/miercolesmanga)... pero para lo que traigo casi que da igual.
 
-
 Esto... es... un poco indefendible. Llevaba llamándome la atención cada vez que veía la colección en librerías, que ya debe ir por la veintena de tomos en castellano, y al final me atreví con el primero de [#prisonschool](/tags/prisonschool) de Akira Hiramoto. Cinco chicos entran por primera vez en un instituto femenino, obviamente la acaban liando y... les internan en la prisión del instituto. Sí, chicos y chicas, porque este instituto tiene una prisión interior. Este es el argumento. Este es el nivel.
-
 
 Como podréis imaginar, como me decían en uno de los directos que hacemos de vez en cuando, en ocasiones se cuelan páginas de tebeo entre las de fanservice.
 
-
 Y ahora el [#drama](/tags/drama). Porque lo triste es que el dibujo no es malo y en ocasiones hasta me he reído. Así que viene el debate interno: tomo 2 [#yay](/tags/yay) or [#nay](/tags/nay)?
-
 
 [@neverbot](https://instagram.com/neverbot)

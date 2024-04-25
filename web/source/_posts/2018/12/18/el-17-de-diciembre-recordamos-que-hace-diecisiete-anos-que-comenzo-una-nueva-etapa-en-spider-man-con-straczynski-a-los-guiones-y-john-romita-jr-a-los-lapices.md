@@ -19,14 +19,10 @@ author: neverbot
 
 El 17 de diciembre, recordamos que hace diecisiete años que comenzó una nueva etapa en Spider-Man con Straczynski a los guiones y John Romita Jr a los lápices.
 
-
 Un personaje que venía prácticamente de la más anodina mediocridad, en pocos años levantó el vuelo de nuevo como pocas veces.
-
 
 De justicia sería decir que también volvió a cotas muy bajas poco tiempo después, pero corramos un tupido velo.
 
-
 Toda la moderna Marvel puede verse comenzar en las primeras series de Marvel Knights y en este Spider-Man, que ha tenido muchas ediciones en [@paninicomicsespana](https://instagram.com/paninicomicsespana), tantas que es un poco injusto que nos metamos con La Broma Asesina 😉
-
 
 ([@neverbot](https://instagram.com/neverbot))

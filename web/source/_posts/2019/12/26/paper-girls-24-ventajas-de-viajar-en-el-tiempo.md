@@ -19,14 +19,10 @@ author: uncientovolando
 
 Paper Girls [#24](/tags/24): Ventajas de viajar en el tiempo.
 
-
 Seguimos con un episodio centrado en la búsqueda de una cura para Mac, pero que también cuenta como cierto personaje del pasado de las protagonistas llegó hasta donde está ahora, o en el futuro, esto siempre es lioso.
-
 
 En medio año llegaremos a la conclusión y aún parece estar muy lejos.
 
-
 Reseñar una vez más la estupenda portada de este número, pura santidad.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -19,11 +19,8 @@ author: uncientovolando
 
 Paper Girls [#11](/tags/11)
 
-
 La muchacha salvaje
 
-
 PD: Posiblemente la mejor portada de la colección.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

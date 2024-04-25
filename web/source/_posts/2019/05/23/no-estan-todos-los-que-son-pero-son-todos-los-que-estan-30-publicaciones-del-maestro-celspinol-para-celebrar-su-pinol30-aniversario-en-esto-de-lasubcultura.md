@@ -27,11 +27,8 @@ author: 24paginas
 
 No están todos los que son, pero son todos los que están, 30 publicaciones del maestro [@celspinol](https://instagram.com/celspinol) para celebrar su  [#Piñol30](/tags/pinol30)  aniversario en esto de [#laSubcultura](/tags/lasubcultura).
 
-
 Como instagram tiene sus sistemas para evitar que nos emocionemos y demos la turra con publicaciones de ochopotrocientas fotos, vamos a dividir este homenaje en 3 partes, así que vamos con la primera y sus correspondientes 10 referencias.
 
-
 Empezamos suave con recopilaciones de sus tiras. Fan letal y Fan con nata, Cels Piñol destroys de forum universe y Otaku files. Las recopilaciones de los Fanhunter Classics, el Plan BB, el Cels Piñol Illustrated y su especial en la Slumberland que los más jóvenes quizá no recuerden.
-
 
 Hay que ver la de horas de entretenimiento y diversión que hay aquí, y como pasa el tiempo. ¡Y eso que esto no ha hecho más que empezar!

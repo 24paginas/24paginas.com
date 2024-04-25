@@ -17,11 +17,8 @@ author: uncientovolando
 
 Paper Girls [#5](/tags/5)
 
-
 Retomamos las micro-reseñas de Paper Girls tras un descanso mayor del deseado de una forma aún más micro, reduciéndolas a un titular:
 
-
 “Oculta a plena vista”
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

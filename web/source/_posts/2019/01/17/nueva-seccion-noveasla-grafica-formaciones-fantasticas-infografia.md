@@ -34,14 +34,10 @@ author: uncientovolando
 
 Nueva sección - NOVEASLA GRÁFICA: Formaciones Fantásticas [#infografia](/tags/infografia)
 
-
 Además de reseñar lo que va cayendo en nuestras manos, queremos ofreceros nuevos contenidos. Uno de ellos es esta sección de infografía en las que os contamos de forma visual algo relacionado con los cómics.
-
 
 Empezamos rindiendo homenaje a los [#4Fantásticos](/tags/4fantasticos) por el regreso de su colección. Y lo hacemos con un repaso a los personajes que han sido miembros del equipo y que juegan un papel importante en los números de [@dan.slott](https://instagram.com/dan.slott) y [@sara_pichelli](https://instagram.com/sara_pichelli) recién publicados por [@paninicomicsespana](https://instagram.com/paninicomicsespana) .
 
-
 Un mapa, todo lo completo posible, para no perderse en los casi 60 años de historia de la [#FirstFamily](/tags/firstfamily).
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

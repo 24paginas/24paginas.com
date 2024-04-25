@@ -21,21 +21,12 @@ author: uncientovolando
 
 Hulka de Dan Slott, parte 3: Prados más verdes.
 
-
 Puede que este cierre de etapa sea la parte más floja de la colección guión izada por Slott, en parte por el cambio de dibujantes y la pérdida de Bobillo y su personalidad a los lápices, pero resulta muy divertido (aunque algunas gracias han envejecido regular) y el giro final resulta bastante interesante, recogiendo alguno de los chistes recurrentes de la serie.
-
 
 El Universo Marvel sigue adaptándose al final de la primera Civil War (sí, ya hace 12 años de esto) y Hulka está especialmente cabreada con el exilio espacial de su primo, aún así termina implicada en más de un sentido con uno de sus responsables...
 
-
 No es fácil ser verde.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#marvel](/tags/marvel) [#shehulk](/tags/shehulk) [#hulka](/tags/hulka) [#shulkie](/tags/shulkie) [#hulk](/tags/hulk) [#ironman](/tags/ironman) [#shield](/tags/shield) [#laabogadasolteraluchaporsucliente](/tags/laabogadasolteraluchaporsucliente) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

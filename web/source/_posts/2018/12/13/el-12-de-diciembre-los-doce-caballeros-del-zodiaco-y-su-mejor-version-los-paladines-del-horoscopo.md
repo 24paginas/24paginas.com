@@ -26,11 +26,8 @@ author: neverbot
 
 El 12 de diciembre, los doce Caballeros del Zodiaco y su mejor versión, los Paladines del Horóscopo.
 
-
 En una misma foto viajamos desde su primera encarnación en 1997 (que se dice pronto), hasta el primer tomo recopilatorio del 2010 de la serie hecha para el mercado francés por Nacho Fernández.
 
-
 Y, ya puestos a hablar de todo un poco, ¿para cuándo el segundo tomo, [@paninicomicsespana](https://instagram.com/paninicomicsespana)? Que de esto debe haber material aún sin publicar en castellano de Chevaliers de l’Horoscope 😉 Quiero pensar que tendría buena aceptación aquí, aunque lo desconozco.
-
 
 ([@neverbot](https://instagram.com/neverbot))

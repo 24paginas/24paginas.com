@@ -23,14 +23,10 @@ author: uncientovolando
 
 Dinastía de X [#4](/tags/4): El tiempo en sus manos.
 
-
 Como a la propia Patrulla-X, se nos echa el tiempo encima. Esta misma semana tendremos el penúltimo número de la miniserie y todavía no habíamos revisado este.
-
 
 De nuevo un número con los mutantes perfectamente caracterizado y haciendo lo que mejor saben, luchar juntos cueste lo que cueste. Y de nuevo también [@pepelarraz](https://instagram.com/pepelarraz) llevándonos a momentos épicos y tocándonos la patata a partes iguales.
 
-
 Ay!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

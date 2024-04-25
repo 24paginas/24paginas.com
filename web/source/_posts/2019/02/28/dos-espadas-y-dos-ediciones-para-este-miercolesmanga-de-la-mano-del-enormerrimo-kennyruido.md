@@ -22,17 +22,12 @@ author: hecdruiz
 
 Dos Espadas y dos ediciones para este [#miercolesmanga](/tags/miercolesmanga) de la mano del enormérrimo [@kennyruido](https://instagram.com/kennyruido)
 
-
 Un shonen a la española de lo que [@glenatbd](https://instagram.com/glenatbd) llamó Línea Gaijin y que cumple con creces todo lo que debe tener un buen shonen.
-
 
 Aventuras, humor, combates, técnicas a cada cual más alucinante y unos protagonistas carismáticos hasta decir basta.Y desde luego  si de carisma es de lo que hablamos, a nuestra protagonista Cira le sobra a raudales.
 
-
 Kenny fusiona a la perfección la mitología más molona con un buen torneo de artes marciales y combates con espadas ¿Os parece poco? Pues añadid el dibujo brutal al que nos tiene acostumbrados y que incluso acabó llegando a los cuatro tomos cuando inicialmente se proyectaron tres (con cierres editoriales y [@norma_editorial](https://instagram.com/norma_editorial) salvando la publicación del final por suerte para todos), y entenderéis porque aún estamos todos los seguidores de esta serie pidiendo su continuación.
 
-
 Una gozada. Y en serio, queremos que continúe. PLEASE.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -25,19 +25,12 @@ author: hecdruiz
 
 Érase una vez unos Guardianes de la Galaxia que molaban hasta que llegó Bendis... Por suerte aquí está Donny Cates para poner orden (y molonidad).
 
-
 Después de una época espectacular desde Aniquilación hasta El Imperativo Thanos, llegó Bendis y cortó el rollo. Pero bueno, eso terminó y gracias a Gerry Duggan y Aaron Kuder volvió la diversión... o eso parecía hasta ver que todo desembocó en un refrito de evento, con turra de las piedras (que son gemas COPÓN) del infinito incluida, que incluso a mí que soy fan de este rollo al 120% se me hizo bola.
-
 
 Por suerte, mientras tanto, el señor Cates poco a poco iba creando historias molonas y fresquitas con elementos que iban pasando de unas a otras, amén de personajes geniales, dando una sensación que recordaba a aquella época con Aniquilación: que todo eran partes de algo mucho mayor que se estaba gestando poco a poco. Y todo regado con un componente de molonidad over nine thousand que agradecemos en esta santa casa.
 
-
 Y aquí estamos, con su versión de los Guardianes que en este primer número ya destila estilo y buen gusto, acompañado de [@geshaw](https://instagram.com/geshaw) a los lápices al que queremos y amamos desde Thanos dando una sensación de continuidad que se agradece. Y con un [@martegraciacolor](https://instagram.com/martegraciacolor) que hace que cada página mejore exponencialmente hasta el infito. Todo esto con un planteamiento inicial más que interesante y dejándonos con ganas de saber qué más nos deparará este nuevo capítulo del Catesverso.
-
 
 Como nota final, diría incluso que es imprescindible de cara a la otra joyita que es Silver Surfer Black, y por extensión a todo el tema simbiontes. Porque como decía, en el Catesverso toooodo está conectado. Y es que ya era hora de que alguien llegase a poner orden después del destrozo insulso de Bendis en el cosmos marvelita. Muy ilusionado con esta etapa, veremos dónde nos lleva.
 
-
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-

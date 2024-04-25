@@ -24,12 +24,7 @@ author: uncientovolando
 
 [#martesdemoñecos](/tags/martesdemonecos): Hulka más en la familia.
 
-Después de añadir a Gata Infernal a la estantería, su [#BFF](/tags/bff) Jennifer Walters ha llegado para hacerle compañía. 
+Después de añadir a Gata Infernal a la estantería, su [#BFF](/tags/bff) Jennifer Walters ha llegado para hacerle compañía.
 Un team-up a la altura de la etapa de [@charlesdsoule](https://instagram.com/charlesdsoule) y Javi Pulido. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#hulka](/tags/hulka) [#gatainfernal](/tags/gatainfernal) [#patsywalker](/tags/patsywalker) [#shehulk](/tags/shehulk) [#hellcat](/tags/hellcat) [#figuras](/tags/figuras) [#muñecos](/tags/munecos) [#moñecos](/tags/monecos) [#marvel](/tags/marvel) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

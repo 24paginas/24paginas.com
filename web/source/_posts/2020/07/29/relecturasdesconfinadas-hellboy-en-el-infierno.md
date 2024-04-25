@@ -18,18 +18,10 @@ author: uncientovolando
 
 [#RelecturasDesconfinadas](/tags/relecturasdesconfinadas): Hellboy en el Infierno.
 
-
 Como dijeron los poetas “el infierno solo te quema cuando nunca el fuego te ha quemado”. Eso es “Hellboy en el Infierno”, el cierre de la historia de nuestro demonio agente paranormal. Un paseo final en el que Mignola, después de haber explorado sobradamente el personaje, disfruta recreándose en lo que más le gusta. Paisajes de un lirismo oscuro y hostias como panes a demonios gigantes. Recupera por el camino algunos personajes vistos de pasada y trae otros nuevos cuyo trasfondo se completa con las historias adicionales.
-
 
 Recordad: Id por la sombra, como Mike Mignola. 🔥🔥🔥
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#hellboy](/tags/hellboy) [#infierno](/tags/infierno) [#caloret](/tags/caloret) [#demoños](/tags/demonos) [@normaedusa](https://instagram.com/normaedusa)

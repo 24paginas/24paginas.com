@@ -25,5 +25,4 @@ author: 24paginas
 
 27/31. KA-CHUNG! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Hoy nos marchamos de picnic con la Primera Familia a la Zona Negativa. Aunque quizás el ruido de la maquinaria de Reed Richards, cómo se ve en el segundo volumen del los 4 Fantásticos de Byrne de [@paninicomicsespana](https://instagram.com/paninicomicsespana), no sea el sonido más agradable para estas horas del domingo.

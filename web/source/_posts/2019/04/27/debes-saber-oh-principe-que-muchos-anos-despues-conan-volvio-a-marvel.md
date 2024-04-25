@@ -25,14 +25,10 @@ author: neverbot
 
 Debes saber, oh príncipe, que muchos años después Conan volvió a Marvel.
 
-
 Primer número de la nueva colección de Marvel, aquí [@paninicomicsespana](https://instagram.com/paninicomicsespana), en maravillosa grapa, tras muchos años en Dark Horse, aquí Planeta.
-
 
 Jason Aaron a los guiones, dándome miedo de que nos cuente otra vez lo mismo que en Thor y Dr. Extraño (vuelvo a ver paralelismos), pero por ahora tiene mi confianza. A los lápices un Mahmud Asrar enormérrimo, con un Conan espectacular como hace tiempo no veía.
 
-
 Fantástico primer número, que por primera vez en mucho tiempo me atrevo a recomendar sin dudarlo tanto a los fans de bárbaro (para nosotros es un must) como para lectores de tebeos en general. Parece una buena primera aproximación al personaje.
-
 
 ([@neverbot](https://instagram.com/neverbot))

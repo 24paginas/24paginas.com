@@ -29,17 +29,12 @@ author: neverbot
 
 Después de la magnífica etapa de Kevin Smith de la que os hablaba hace poco, le tocó turno a Brad Meltzer.
 
-
 Continuando Phil Hester a los dibujos durante aún bastante tiempo, la saga La Misión del Arquero ahonda en el significado del resto del universo DC para Oliver Queen, con una búsqueda de algunos objetos significativos de su anterior vida que es una maravilla emotiva.
-
 
 Por desgracia justo después viene Judd Winnick con el tomo Disparo Certero que es una de las cosas más insulsas y anodinas que hay en mi estantería. Bajonazo de la colección y no me extraña que muchos lectores se apearan aquí del viaje.
 
-
 Entre medias hay cuatro grapas que nunca han sido publicadas en castellano ni reeditadas en inglés, así que asumo alguna infamia literaria incluso sin haberlos leído.
 
-
 Seguiré con mi relectura cuando me haya recuperado de esta bajona.
-
 
 ([@neverbot](https://instagram.com/neverbot))

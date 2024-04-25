@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#10](/tags/10)
 
-
 Salto de fe
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

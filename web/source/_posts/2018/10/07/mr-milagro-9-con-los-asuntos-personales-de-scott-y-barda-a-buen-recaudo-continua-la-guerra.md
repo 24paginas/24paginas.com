@@ -18,8 +18,6 @@ author: uncientovolando
 
 Mr. Milagro [#9](/tags/9): con los “asuntos personales” de Scott y Barda a buen recaudo, continúa la guerra.
 
-
 Pero no esperéis grandes batallas, la guerra se decide en los despachos.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

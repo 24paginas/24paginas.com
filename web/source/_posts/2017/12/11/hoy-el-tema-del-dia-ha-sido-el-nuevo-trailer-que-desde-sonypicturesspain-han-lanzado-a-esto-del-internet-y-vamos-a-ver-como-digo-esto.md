@@ -28,26 +28,18 @@ author: hecdruiz
 
 Hoy el tema del día ha sido el nuevo trailer que desde [@sonypicturesspain](https://instagram.com/sonypicturesspain) han lanzado a esto del internet y vamos a ver como digo esto... TRAILERACO o sólo me ha gustado a mi? Os dejo los cinco momentos que más nos han impactado y os doy mi opinión.
 
-
 Para seguir en la línea de [#eltikismikisdelostrajes](/tags/eltikismikisdelostrajes) diría que el cambio en el traje del logo en el pecho no era necesario. Pero eh, me vale, porque las zapas y la capucha muy bien ahí. Y que buen montaje, que buena música, en general que bien todo. Mira que nunca he estado a favor de Miles Morales pero, y perdonadme la expresión... JO DER. Cuanto más lo veo más me gusta.
-
 
 El cambio en el traje del Merodeador aunque se ve poco, bien también. Los efectos al estilo cómic brutales, y que planos oiga. El plano invertido mientras cae TELA. Y es que cuando se hacen las cosas bien, hay que decirlo.
 
-
 Por mi parte voto por Ben Reilly en el metro y tenemos ahí a La Araña Escarlata, y por favor... ¡¡POR FAVOR!! El logo de Spider-man de TODA LA VIDA. No se quien ha pasado al departamento de Sony a tomar decisiones sobre Spider-man, pero que no se vaya.
-
 
 Lo curioso es que me recuerda tantísimo al juego de Ultimate Spider-man (yo lo jugué en Game Cube), que hasta me sorprendería un poco que no tuviese que ver.
 
-
 ¿Alguien sabe la música de donde sale? Y desde ya quiero esas Nike Air Jordan.
-
 
 Sólo se me queda la espinita de que si podían hacer algo así, por que narices no lo hicieron con el Spidey de toda la vida. Bienvenido sea este [#SpiderVerse](/tags/spiderverse) [#SpiderManNuevoUniverso](/tags/spidermannuevouniverso)
 
-
-Y por si no lo habéis visto, que estáis tardando, aquí tenéis la url: https://www.youtube.com/watch?v=ii3n7hYQOl4 .
-
+Y por si no lo habéis visto, que estáis tardando, aquí tenéis la url: <https://www.youtube.com/watch?v=ii3n7hYQOl4> .
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

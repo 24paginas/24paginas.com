@@ -22,11 +22,8 @@ author: uncientovolando
 
 X-Men TAS: un  [#domingodedibus](/tags/domingodedibus) que convalida el [#viernesvintage](/tags/viernesvintage).
 
-
 Como muchos, me inicié en los mutantes por la serie de animación. Y debió tener un gran impacto en mi, porque la cabecera principal de los hombres(y mujeres)-X es la más repetida en mi colección.
 
-
 Mi última visita al pueblo resultó en una revisión de estanterías que haría sonrojarse a [#MarieKondo](/tags/mariekondo) y el descubrimiento de algunos tesoros que alimentarán nuestros [#viernesvintage](/tags/viernesvintage) durante meses. Una de esas joyas es este VHS con un par de episodios de la serie: adolescentes con poderes perseguidos por robots gigantes y Gambito con la molonidad subida. ¿Qué más se puede pedir?
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -26,26 +26,16 @@ author: uncientovolando
 
 [#relecturasconfinadas](/tags/relecturasconfinadas): Daredevil, de Waid, Ribera, Martín, Samnee, Rodríguez y compañía.
 
-
 El DD de Mark Waid, y esa INMENSA en cantidad y calidad lista de artistas, es desde que salió uno de mis lugares felices dentro de la ficción en viñetas. No soy un lector habitual de Daredevil, más allá de los clásicos de Miller, pero esta etapa fue directa a la lista de lecturas imprescindibles. .
 Puede que tenga que ver con el tono, esa visión (pun intended) más luminosa del héroe que no deja de lado sus rincones oscuros y la herencia de etapas anteriores. El "Matt feliz", aunque tenga algo de disfraz, me hace feliz a mí también. Es más humano, más cercano, quiere hacer las cosas bien, arreglar las cagadas que ha dejado por el camino.
-
 
 Pero como digo, no deja atrás del todo el conflicto. Los hay y gordos. Desde las conspiraciones internacionales que le amenazan a él y a personajes inocentes a los que debe proteger, hasta la terriblemente actual corriente racista que se infiltra en las instituciones corrompiéndolas, y usa montajes mediáticos para extender el odio. .
 Otro punto de vista (vaya, lo he vuelto a hacer) de Daredevil pero llegando a la misma esencia que le hace interesante: el papel de luchador contra la injusticia, ya sea en el juzgado, en las azoteas o en la habitación de un hospital.
 
-
 Por el camino nos encontramos, además, con una galería espectacular de dibujantes. Desde Paolo Ribera a Chris Samnee, pasando por los españoles Marcos Martín y Javi Rodríguez (este también colorista de gran parte de la serie). Artistas con una personalidad propia pero que se mantienen en una linea limpia y una narración visual que hace resaltar el movimiento acrobatico del diablo de Hell's Kitchen.
-
 
 ¡Diablos!
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#marvel](/tags/marvel) [#daredevil](/tags/daredevil) [#mattmurdock](/tags/mattmurdock) [#sentidoradar](/tags/sentidoradar) [#eldiablodehellskitchen](/tags/eldiablodehellskitchen) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

@@ -20,17 +20,12 @@ author: 24paginas
 
 ✨NUEVO SORTEO✨
 
-
 Se cumplen 50 años de la llegada de los cómics Marvel a España y nuestro especial coincide con COMICMANÍA en celebrarlo. Ahora puedes llevarte un pack de ambas revistas para descubrir toda la historia.
-
 
 1. Sigue a [@24paginas](https://instagram.com/24paginas) y [@comicmania_es](https://instagram.com/comicmania_es).
 
-
 2. Responde a esta contándonos tu primer cómic Marvel.
 
-
 Además, puedes compartir la publicación en tus Stories (puede que no te de mas posibilidades de ganar, pero te lo agradeceremos mucho 😊)
-
 
 *Sorteo válido para España. Hasta el 16/12 a las 24h.

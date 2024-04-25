@@ -21,11 +21,8 @@ author: neverbot
 
 El 16 de diciembre, releemos Fábulas en su 16º aniversario.
 
-
 Hace ya dieciséis años que se publicó en la línea Vértigo de DC el primer número de Fábulas, de Bill Willingham, en aquel primer arco acompañado al dibujo por Lan Medina.
 
-
 Buena relectura navideña. Tenéis una fantástica reedición de [@eccediciones](https://instagram.com/eccediciones), por cierto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

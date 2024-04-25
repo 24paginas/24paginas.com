@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#14](/tags/14)
 
-
 Nunca abandones el grupo
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

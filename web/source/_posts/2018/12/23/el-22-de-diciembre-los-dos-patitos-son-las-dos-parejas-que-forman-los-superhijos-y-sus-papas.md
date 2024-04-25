@@ -26,11 +26,8 @@ author: neverbot
 
 El 22 de diciembre, los dos patitos, son las dos parejas que forman los Superhijos y sus papás.
 
-
 Salida de la serie de Superman de Peter Tomasi, empieza como spinoff el Superhijos (Supersons), con el mismo guionista y los fantásticos lápices de nuestro Jorge Jiménez [@jorge_jimenez_art](https://instagram.com/jorge_jimenez_art), capaz de dibujar superhéroes que parecen superhéroes a la vez que niños que parecen niños, un hito del dibujo del que hoy en día parece que pocos son capaces de alcanzar.
 
-
 Y no os cuento más porque todavía no me he puesto al día con las todas las grapas de [@eccediciones](https://instagram.com/eccediciones), pero por ahora a tope con esto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

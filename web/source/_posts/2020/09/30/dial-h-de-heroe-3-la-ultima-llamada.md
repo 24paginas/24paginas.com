@@ -18,21 +18,12 @@ author: uncientovolando
 
 Dial H de Héroe [#3](/tags/3): La última llamada.
 
-
 Termina la serie con este recopilatorio que, como el anterior, se resiente un poco con la ausencia en algún número del dibujante principal.
-
 
 Por lo demás, un final emocionante ten el que Miguel se enfrenta a sí mismo en el intento de salvar el Multiverso. Este concepto coge especial fuerza en el último arco, vinculando los diferentes diales con la existencia misma del Multiverso y la estructura del mismo que hemos visto en obras como la de Gran Morrison.
 
-
 Pero este es sobretodo un cómic sobre la amistad, y eso queda patente en cada una de sus páginas. Una serie juvenil y pop que enlaza con la esencia misma del universo superheroico.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#dccomics](/tags/dccomics) [#multiverso](/tags/multiverso) [#superman](/tags/superman) [#dialhforhero](/tags/dialhforhero) [#comicjuvenil](/tags/comicjuvenil) [@eccediciones](https://instagram.com/eccediciones)

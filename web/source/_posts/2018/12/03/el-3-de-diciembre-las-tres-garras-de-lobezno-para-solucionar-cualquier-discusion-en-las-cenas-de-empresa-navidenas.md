@@ -26,8 +26,6 @@ author: neverbot
 
 El 3 de diciembre, las tres garras de Lobezno para solucionar cualquier discusión en las cenas de empresa navideñas.
 
-
 Y como foto, la primera edición en castellano del Lobezno: Origen de Paul Jenkins y Andy Kubert, con aquellas magníficas portadas de Joe Quesada.
-
 
 ([@neverbot](https://instagram.com/neverbot))

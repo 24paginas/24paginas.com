@@ -18,14 +18,10 @@ author: uncientovolando
 
 Historia del Universo Marvel [#6](/tags/6): Más allá del Infinito.
 
-
 Termina el exhaustivo y estupendo repaso de Mark Waid, Javi Rodríguez y Álvaro López a la Historia (con mayúsculas) del Universo Marvel. Lo hace repasando los últimos eventos de La Casa de las Ideas (de Secret Wars a Imperio Secreto) y la iteración más reciente del legado superheroico, pero también se abren a lo que está por llegar con una mirada a los próximos eventos y a otros futuros alternativos que ya hemos visto.
-
 
 Destaca una vez más la capacidad de [@javiercaster](https://instagram.com/javiercaster) para componer páginas llenas de personajes, como la que (cerca del final) recoge a decenas de héroes mirando expectantes hacia lo que les depara el destino.
 
-
 'Nuff said!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

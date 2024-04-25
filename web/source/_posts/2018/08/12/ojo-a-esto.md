@@ -23,17 +23,12 @@ author: hecdruiz
 
 Ojo a esto, que vengo a tumba abierta y lo mismo me paso de frenada, pero acabo de terminarlo y ahora mismo creo que, The Black Holes de [@borja_gonzalez_ilustraciones](https://instagram.com/borja_gonzalez_ilustraciones), es la obra más redonda que he leído en lo que va de año. A todos los niveles. Y eso que Universo dejo el top bien alto, pero creo que al ser más contenido, ayuda a que quede todo más atado en este caso.
 
-
 Simplemente la edición es cuidada y perfecta para la obra, desde el tipo de papel, el lomo, el diseño, hasta detalles como que el logo del lomo encaje perfectamente con la faja. Que son detalles, pero importantes y que de primeras ya te dejan ver el mimo y cuidado que se ha tenido con esta obra.
-
 
 En la parte gráfica... sin palabras. Una clase magistral de ritmo, composición, narrativa y espectacularidad, de la mano de una delicadeza y detallismo contemplativo tal, que muchas páginas directamente las querría como cuadro para verlo a diario en mi casa. Hay que destacar la enorme expresividad de los personajes, tan completa y clara sin necesidad siquiera de caras, que por si misma resulta es un ejercicio de estilo acojonante. Eso sin olvidar una paleta de color que desde luego no está elegida al azar en ninguno de sus tonos.
 
-
 Pero todo esto quedaría cojo sin una historia que te va atrapado sin que te enteres, que te lleva paso a paso por donde quiere, generándote todo tipo de sentimientos cada cual a su ritmo, y cuyas piezas poco a poco van cuadrando hasta alcanzar un cierre sin fisuras, con una elegancia y tacto que es inevitable el que te toque un poco la patata. Y no estoy hablando de empalagosos amoríos ni nada por el estilo. Tendréis que leerlo para saber más. A todo esto sumad unos diálogos directos y medidos al detalle, para que ni sobre ni falte nada... pues eso. Que es bien.
 
-
 Vamos que me ha gustado, y MUCHO. Y se supone que yo soy el hater de esta redacción. La única duda que me queda es donde ha estado Borja González todo este tiempo sin que yo lo supiese. Porque por lo demás, me quito el sombrero, el mundo del cómic necesitaría de obras así más a menudo. O al menos, mi estantería.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

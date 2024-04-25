@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#8](/tags/8)
 
-
 Palos de hockey intertemporales
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

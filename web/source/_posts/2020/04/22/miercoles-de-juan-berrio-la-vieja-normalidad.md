@@ -17,14 +17,10 @@ author: uncientovolando
 
 Miércoles, de Juan Berrio: la vieja normalidad.
 
-
 Me había propuesto obviar en la medida de lo posible esta “situación excepcional” en la que vivimos, sin embargo ayer, revisando estanterías, me encontré con esta historia de Juan Berrio de hace ya casi una década que se hace más lejana vista desde el confinamiento. Un miércoles cualquiera que ahora parece excepcional.
-
 
 Pero claro, como cualquier obra previa, este cómic no se puede leer en clave de confinamiento. Además tiene un gran valor por sí mismo, por ese tono y estética de cuento de lo cotidiano e interconectado que caracteriza a Berrio y por la experimentación narrativa de sus viñetas. Viñetas que a veces son tiempo y otras espacio, narrando secuencias pero también mostrando el resultado de la acción de un cuadro en un escenario próximo.
 
-
 El miércoles puede estar perdido en medio de la semana, ser mediocre o insustancial, ser tan solo un día más... pero cualquier día pueden pasar cosas extraordinarias.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

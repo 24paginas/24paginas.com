@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#12](/tags/12)
 
-
 Hombres malos, nuevas mujeres
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

@@ -15,5 +15,4 @@ author: 24paginas
 
 ¡Felices fiestas a todos!
 
-
 Salud y tebeos.

@@ -22,14 +22,10 @@ author: uncientovolando
 
 Volver a casa de tus padres es siempre un viaje en el tiempo. Y una posibilidad de rescatar tesorillos para nuestros [#viernesvintage](/tags/viernesvintage).
 
-
 Entre grapas repetidas, descontinuadas e incompletas, un par de números sueltos de Los 4 Fantásticos de principios de los 90.
-
 
 Como curiosidad, la historia se extiende hasta la contraportada. En “la redacción” hemos intentado dilucidar si era una práctica común o si venía de un retapado, pero no hemos llegado a ninguna conclusión.
 
-
 ¿Alguno de vosotros, sabios lectores, tendría más información?
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

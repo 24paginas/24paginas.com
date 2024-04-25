@@ -34,23 +34,16 @@ author: neverbot
 
 El Incal. Pues bueno. ¿Y qué os cuento yo de este mamotreto de tomo? Dentro [#viernesvintage](/tags/viernesvintage).
 
-
 Es difícil disociar una obra del momento histórico en el que fue creada. Esto tiene ya casi 40 años, y en su momento no había epopeyas cósmicas de 300 páginas en el mundo del cómic. La ciencia ficción todavía no era lo que ha llegado a ser (que tampoco es que... bueno, ese es otro tema). Por ponernos en perspectiva, solo hacía tres años que se había estrenado La Guerra de las Galaxias en cine. La mayoría no habíais nacido.
-
 
 Y, ¿por qué explicar esto? Porque también es muy difícil disociar la nostalgia de tu primera lectura de algo así respecto a una aproximación de un nuevo lector en el año 2019. Puede que para ti signifique muchas cosas. Yo no lo había leído nunca.
 
-
 Dicho todo esto...
-
 
 No me ha parecido brillante a ningún nivel, ni siquiera del dibujo o la creatividad de Moebius, aunque probablemente en su momento a la gente le explotara el cerebro con esto. La historia de Jodorowsky no es más que una colección de Deus ex machina cada tres páginas, donde se va inventando cosas según le apetece sin venir de ninguna parte. Parece más un manga shonen que empieza a inventar porque se encuentra con altas ventas que una obra planificada desde el comienzo.
 
-
 Se me ha hecho confusa y excepcionalmente larga. No la recomiendo para nada y me parece que mucha voluntad me va a hacer falta para intentar leer las continuaciones o los spin-offs (metabarones, tecnopadres, etc).
 
-
 Pero, como siempre, acepto opiniones más versadas que me pongan en mi sitio.
-
 
 ([@neverbot](https://instagram.com/neverbot))

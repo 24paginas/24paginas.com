@@ -23,18 +23,10 @@ author: uncientovolando
 
 Los 4 Fantásticos [#11](/tags/11) y 12.
 
-
 Grapas pendientes en este mes de especiales y resaca del [#inktober2019](/tags/inktober2019). Un primer número simpático, con la ya habitual estructura de cotidianidad fantástica rota por un evento villanesco, pero que ya solo por contar con tardígrados gigantes me tiene ganado. Y un segundo en el que vemos el ya habitual enfrentamiento entre los grandes forzudos de Marvel, una pelea contrarreloj antes de que La Cosa se enfrente a su conversión anual en humano.
-
 
 Es posible que sea uno de los últimos números que sigo de la serie (de momento), pero mantiene momentos divertidos aunque está lejos de lo FANTÁSTICA que debería ser la serie.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 PD. ¡Esta es nuestra publicación [#500](/tags/500)!

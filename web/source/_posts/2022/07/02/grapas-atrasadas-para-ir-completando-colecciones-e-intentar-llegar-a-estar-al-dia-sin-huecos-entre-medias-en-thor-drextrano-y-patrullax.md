@@ -24,4 +24,4 @@ template: instagram
 author: neverbot
 ---
 
-Grapas atrasadas para ir completando colecciones e intentar llegar a estar al día sin huecos entre medias en [#Thor](/tags/thor), [#DrExtraño](/tags/drextrano) y [#PatrullaX](/tags/patrullax). 
+Grapas atrasadas para ir completando colecciones e intentar llegar a estar al día sin huecos entre medias en [#Thor](/tags/thor), [#DrExtraño](/tags/drextrano) y [#PatrullaX](/tags/patrullax).

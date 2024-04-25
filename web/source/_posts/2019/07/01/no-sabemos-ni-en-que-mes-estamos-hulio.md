@@ -18,7 +18,7 @@ author: 24paginas
 
 No sabemos ni en que mes estamos, Hulio.
 
-Nuevo mes, un Sol que (super)cargaría a Superman a la misma velocidad que una batería Tesla y el retorno de nuestro amistoso vecino Spiderman (léase espiderman) a las pantallas. 
+Nuevo mes, un Sol que (super)cargaría a Superman a la misma velocidad que una batería Tesla y el retorno de nuestro amistoso vecino Spiderman (léase espiderman) a las pantallas.
 Buscad un lugar fresquito y leed tebeos.
 
-P.D.: Si queréis estar fresquísimos y guapos, echadle un vistazo a nuestras camisetas (LINK EN BIO) 
+P.D.: Si queréis estar fresquísimos y guapos, echadle un vistazo a nuestras camisetas (LINK EN BIO)

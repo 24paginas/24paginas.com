@@ -20,11 +20,8 @@ author: uncientovolando
 
 Paper Girls [#29](/tags/29): en busca del tiempo perdido.
 
-
 Penúltimo capítulo que cierra (de aquella manera) las tramas de cara a lo que puede ser el giro final. Las chicas vuelven a reunirse y su destino parece fijado.
 
-
 Nos vemos en el futuro... o en el pasado... yo qué sé...
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

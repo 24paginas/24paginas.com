@@ -25,8 +25,6 @@ author: 24paginas
 
 10/31. SLIP TUMBLE SPLUD! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
- 
 Una de nuestras intenciones con este [#inktober](/tags/inktober) era poner de manifiesto la labor de los rotulistas y su capacidad para dotar de un extra de expresividad al cómic.
-
 
 Empezamos con Tom Orzechowski, rotulista mutante y uno de los pioneros en la rotulación digital, y un fragmento del festival de onomatopeyas que se marcaba en el número 9 de Excalibur.

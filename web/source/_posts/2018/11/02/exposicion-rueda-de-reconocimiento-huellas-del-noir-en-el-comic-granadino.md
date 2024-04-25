@@ -30,17 +30,12 @@ author: uncientovolando
 
 [#exposicion](/tags/exposicion): Rueda de reconocimiento, huellas del noir en el cómic granadino.
 
-
 Con motivo de la última edición del festival Granada Noir, se puede disfrutar hasta el 16 (Palacio de La Madraza-Centro de Cultura Contemporánea) de diciembre en pleno centro de Granada de esta exposición sobre género negro en las obras de artistas de cómic relacionados con la ciudad de La Alhambra.
-
 
 En ella encontramos originales del [#Millenium](/tags/millenium) de [@belen_ortega](https://instagram.com/belen_ortega) o [#LaVision](/tags/lavision) de [@ghwalta](https://instagram.com/ghwalta), pero también dibujos de [@natachabustos](https://instagram.com/natachabustos) y [@kennyruido](https://instagram.com/kennyruido).
 
-
 Aunque una de las cosas más impresionantes que se puede encontrar en la muestra son algunos de los originales de [#Blacksad](/tags/blacksad) de [@juanjoguarnido](https://instagram.com/juanjoguarnido), llenas de detalles y color.
 
-
 Ideal para calarse el sombrero, ponerse la gabardina y dar un paseo entre las sombras de las callejuelas que rodean la Catedral.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

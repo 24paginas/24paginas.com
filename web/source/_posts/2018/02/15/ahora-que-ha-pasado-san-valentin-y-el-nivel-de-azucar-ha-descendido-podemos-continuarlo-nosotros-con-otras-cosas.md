@@ -37,11 +37,8 @@ author: neverbot
 
 Ahora que ha pasado San Valentín y el nivel de azúcar ha descendido, podemos continuarlo nosotros con otras cosas.
 
-
 Y es que no sólo de shojo vive el manga, el shonen está repleto de deliciosas ñoñeces a las que de vez en cuando se les puede dar una nueva visita.
 
-
 ¿Shonen moñas sí o shonen moñas no? ¿Opiniones?
-
 
 ([@neverbot](https://instagram.com/neverbot))

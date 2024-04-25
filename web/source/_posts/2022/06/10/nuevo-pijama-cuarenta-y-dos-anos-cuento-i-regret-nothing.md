@@ -14,4 +14,4 @@ template: instagram
 author: neverbot
 ---
 
-Nuevo pijama. Cuarenta y dos años cuento. I regret nothing. 
+Nuevo pijama. Cuarenta y dos años cuento. I regret nothing.

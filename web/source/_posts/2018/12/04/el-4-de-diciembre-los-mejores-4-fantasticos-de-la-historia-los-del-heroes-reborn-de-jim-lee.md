@@ -24,11 +24,8 @@ author: neverbot
 
 El 4 de diciembre, los mejores 4 Fantásticos de la historia, los del Heroes Reborn de Jim Lee.
 
-
 Este no os lo esperabais ¿eh? Ahora me diréis que los 4F de John Byrne son mejores que los de Jim Lee.
 
-
 ¡Vamos anda!
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -25,15 +25,11 @@ author: 24paginas
 
 NOVEASLA GRÁFICA: 8 mujeres marvelitas [#infografia](/tags/infografia)
 
-
 Con motivo del [#DiaInternacionalDeLaMujery](/tags/diainternacionaldelamujery) el estreno cinematográfico de "Capitana Marvel" os traemos una nueva [#NOVEASLAgrafica](/tags/noveaslagrafica) con un ranking de los personales femeninos más poderosos de La Casa de las Ideas, según sus propios datos.
-
 
 🤜🏼✨🤛🏼
 
-
 EXTRA - Estas son las denominaciones oficiales de los niveles de poder en cada una de las características:
-
 
 RESISTENCIA:
 1 Debil
@@ -44,16 +40,14 @@ RESISTENCIA:
 6 Superhumana
 7 Prácticamente indestructible
 
-
 PROYECCIÓN ENERGIA:
 1 Ninguna
 2 Descargar energia en contacto
 3 Rango corto, duración corta, un solo tipo
 4 Rango medio, duración media, un solo tipo
 5 Rango largo, duración larga, un solo tipo
-6 Habilidad de descargar multiples formas de energía 
+6 Habilidad de descargar multiples formas de energía
 7 Control casi ilimitado de todas las formas de energía
-
 
 COMBATE:
 1 Pobre
@@ -64,7 +58,6 @@ COMBATE:
 6 Maestría en varias
 7 Maestría en todas
 
-
 INTELIGENCIA:
 1 Lenta/impedida
 2 Normal
@@ -73,7 +66,6 @@ INTELIGENCIA:
 5 Genio
 6 Super-genio
 7 Omnisciencia
-
 
 VELOCIDAD:
 1 Lenta
@@ -92,9 +84,4 @@ FUERZA:
 6 75 a 100 t.
 7 Incalculable
 
-
-
-
-
-
-#‪NOVEASLAgrafica‬ 
+# ‪NOVEASLAgrafica‬

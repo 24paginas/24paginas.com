@@ -20,5 +20,4 @@ author: 24paginas
 
 14/31. BLAM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
- 
 Mañana prometemos algo más de contenido, pero el lunes nos ha sentado como un tiro...

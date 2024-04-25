@@ -26,14 +26,10 @@ author: neverbot
 
 El 11 de diciembre, los dos palitos del número son las dos “i” mayúsculas que dan nombre a I’’s: Iori e Ichitaka.
 
-
 ¿Que está cogido un poco con pinzas este número? Bueno, puede ser. Pero yo quería meter I’’s en el calendario de [#advienticuatropaginas](/tags/advienticuatropaginas) y aquí me ha encajado 😉
-
 
 Volvía Masakazu Katsura a deleitarnos con lo que mejor ha sabido hacer siempre: otra historia de triángulos amorosos adolescentes que me fascina.
 
-
 Va tocando una relectura para estas navidades, igual que quizá va tocando una reedición de Katsura en kanzenban, ¿no?
-
 
 ([@neverbot](https://instagram.com/neverbot))

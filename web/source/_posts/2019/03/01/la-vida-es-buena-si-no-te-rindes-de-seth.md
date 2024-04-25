@@ -21,17 +21,12 @@ author: neverbot
 
 La vida es buena si no te rindes, de Seth.
 
-
 Tantos años llevo viendo en tiendas este tomo de Seth editado por Sins Entido, que ya lo había idealizado como una de las grandes obras del indie. Y... bueno. Pues creo yo que no era para tanto.
-
 
 Un slice-of-life autobiográfico que termina en un vacío a mi gusto excesivo. Y quizá sea solo culpa mía que venia con unas expectativas demasiado elevadas.
 
-
 Admito comentarios que me callen la boca si opináis distinto.
-
 
 ([@neverbot](https://instagram.com/neverbot))
 
-
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#seth](/tags/seth) [#lavidaesbuenasinoterindes](/tags/lavidaesbuenasinoterindes) [#sinsentido](/tags/sinsentido) [#sins](/tags/sins)_entido 
+[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#seth](/tags/seth) [#lavidaesbuenasinoterindes](/tags/lavidaesbuenasinoterindes) [#sinsentido](/tags/sinsentido) [#sins](/tags/sins)_entido

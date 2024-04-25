@@ -31,20 +31,14 @@ author: neverbot
 
 La balada del mar salado. Corto Maltés, por Hugo Pratt, para nuestro [#viernesvintage](/tags/viernesvintage).
 
-
 Hugo Pratt era otra de mis carencias tebeísticas imperdonables, así que aprovechando la nueva colección integral del autor que se está publicando ahora mismo por parte de [@planetadeagostini](https://instagram.com/planetadeagostini), me hice con los dos primeros números, que se corresponden con la primera novela gráfica del personaje.
-
 
 Horreur! ¿Ha dicho novela gráfica el muy pedante?
 
-
 Pues sí, y con todo el mal sentido que se le pueda dar al término. Es una lectura pausada, con múltiples personajes a los que se dedica mucho tiempo para apenas añadir detalles al conjunto. La narración es más cercana a una novela ilustrada que a un tebeo, y es que desde 1967 el medio ha avanzado un poco.
-
 
 Por otra parte, la fuerza estética del entorno y de los personajes, gran acierto por parte de Hugo Pratt, le da fuerza a la historia, que nunca terminas de saber por dónde va a continuar.
 
-
 ¿Recomendable? Sí, pero quizá no para todos los públicos. Si estás ya en esa época en la que te llama más un álbum de Blueberry que la nueva saga de Marvel, y ya empiezas a hacerle ojitos a las novelas históricas cuando las ves en una librería, esto va a resonar fuertecito contigo. Si no, yo esperaría unos años más aún, toda historia tiene su momento para ser leída.
-
 
 [@neverbot](https://instagram.com/neverbot)

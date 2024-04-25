@@ -25,14 +25,10 @@ author: neverbot
 
 Aprovecho mi descubrimiento del día: una biblioteca con un buen fondo de tebeos, para comenzar The Wicked + The Divine.
 
-
 Pues todo bien aquí, trabajazo de Kieron Gillen ([@kierongillen](https://instagram.com/kierongillen)) y Jamie McKelvie ([@mckelvie](https://instagram.com/mckelvie)).
-
 
 Algún tópico de vez en cuando, algún alzamiento de ceja al leer cosas que pensarías que están escritas por Mark Millar intentando llamar la atención simplemente porque sí, pero en general todo es tan positivo que ya me he llevado el segundo tomo, para seguir leyendo más de algunas ideas que me han explotado el cerebro.
 
-
 Por desgracia ahora quiero POSEER materialmente estos tebeos, yo es que no valgo para leer cosas prestadas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

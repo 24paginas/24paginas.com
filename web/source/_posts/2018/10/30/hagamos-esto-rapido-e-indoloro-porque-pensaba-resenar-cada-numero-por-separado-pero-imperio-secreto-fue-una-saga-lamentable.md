@@ -34,14 +34,10 @@ author: neverbot
 
 Hagamos esto rápido e indoloro, porque pensaba reseñar cada número por separado, pero... Imperio Secreto fue una saga lamentable.
 
-
 Como decíamos cuando hablamos sobre el número cero, la introducción al evento estaba muy mal hecha. Los 10 números siguientes adolecen de lo mismo. Imposibles de leer sin seguir las colecciones que hacen de tie-in, con personajes que resucitan, gente que aparece y desaparece, una situación internacional e interplanetaria indefendible para cualquier guionista decente, un... bah. Que no, que esto es un petardo de colección. Y con un baile de dibujantes que lo hace aún menos defendible.
-
 
 Clint, cuando te preguntes “¿Cómo llegamos a esto?” recuerda que no fue culpa tuya, sino de la Capitana Marvel. Y como premio ella tiene peli y tú no saliste en la última de los Vengadores.
 
-
 [#teamclintbarton](/tags/teamclintbarton)
-
 
 [@neverbot](https://instagram.com/neverbot)

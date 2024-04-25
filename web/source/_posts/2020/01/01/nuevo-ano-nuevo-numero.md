@@ -14,5 +14,4 @@ author: 24paginas
 
 Nuevo año, nuevo número.
 
-
 Comenzamos 2020 con las mejores esperanzas. ¡Feliz año!

@@ -20,21 +20,12 @@ author: uncientovolando
 
 “¿Me estás escuchando?”, viaje al centro de una misma.
 
-
 La nueva obra de Tillie Walden sigue ahondando en sus temas habituales y va un poco más allá. Lo bello y lo siniestro vuelven a entrelazarse en esta historia de huida compartida y encuentro mutuo. El encuentro fortuito de Bea y Lou, las protagonistas de este relato, y el hallazgo de Diamond, un gato de origen misterioso, supone el principio de un viaje a Texas que se vuelve cada vez más extraño.
-
 
  Además de la vibrante paleta de color a la que nos tiene acostumbrados, Tillie Walden añade en esta obra el uso de algunas texturas que potencian el ambiente mágico de sus paisajes vacíos y ciudades aparentemente abandonadas.
 
-
 Una vez más, un cómic excelente de una autora que ya se ha vuelto imprescindible.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#novelagrafica](/tags/novelagrafica) [#roadtrip](/tags/roadtrip) [#magia](/tags/magia) [#gatetes](/tags/gatetes) [#carretera](/tags/carretera) [#texas](/tags/texas) [#tilliewalden](/tags/tilliewalden) [@edicioneslacupula](https://instagram.com/edicioneslacupula)

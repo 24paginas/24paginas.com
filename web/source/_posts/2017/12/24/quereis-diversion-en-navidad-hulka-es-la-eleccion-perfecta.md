@@ -25,25 +25,16 @@ author: hecdruiz
 
 ¿Queréis diversión en Navidad? Hulka es la elección perfecta.
 
-
 Como adorador de Byrne era mi asignatura pendiente, pero he de reconocer que de primeras el personaje nunca me llamó. Gran error.
-
 
 Humor por los cuatro costados en esta etapa, rompiendo la cuarta pared y las que hagan falta. Y ofreciéndonos una caracterización de Hulka deliciosa.
 
-
 Con argumentos parodiando a la propia Marvel y a sí mismo hasta la saciedad,  o guiños y referencias a sus otras series como mismamente Namor, Byrne se marca una época como pocas ha visto el personaje.
-
 
 Es cierto que se disfruta muchísimo más si has leído lo suficiente como para pillar todas las referencias. Pero incluso si no es así y llegas de nuevas a la serie, sigue siendo una gozada que rompe todos los moldes del cómic de la época.
 
-
 Del dibujo que voy a decir. Es Byrne. En sus mejores años. No os lo podéis perder.
 
-
 Y como dice nuestra querida Jen Walters... ¡Feliz Navidad!
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

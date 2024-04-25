@@ -21,18 +21,10 @@ author: uncientovolando
 
 Potencias de X [#3](/tags/3): a las tres son las dos.
 
-
 Cambio de ritmo entre las miniseries de Hickman, que prioriza la lectura de este número frente a su homólogo de Dinastía de X. Mucho protagonismo de Apocalipsis en su nuevo papel, conectando más con la historia central y dando nuevos datos sobre [#lodeMoira](/tags/lodemoira).
-
 
 La entrega de “Potencias” que más me ha enganchado hasta el momento.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#marvel](/tags/marvel) [#xmen](/tags/xmen) [#apocalipsis](/tags/apocalipsis) [#lobezno](/tags/lobezno) [#moira](/tags/moira) [#hox](/tags/hox) [#pox](/tags/pox) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

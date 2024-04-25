@@ -19,8 +19,6 @@ author: 24paginas
 
 5/31. KRANCH 🔨[#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Hoy encadenamos dos errores. El primero, que ayer marcamos como 5/31 el dibujo del día 4, el otro que la tinta no estaba suficientemente seca antes de colorear el lettering de hoy... aunque tras aprovechar las manchas para intentar hacer un efecto de ruptura no ha quedado TAN MAL.
-
 
 ¡Abraza el fallo!

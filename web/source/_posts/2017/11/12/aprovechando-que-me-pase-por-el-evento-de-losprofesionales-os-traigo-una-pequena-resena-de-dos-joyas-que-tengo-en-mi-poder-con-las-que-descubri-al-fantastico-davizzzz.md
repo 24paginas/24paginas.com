@@ -27,7 +27,4 @@ Tanto Amarillo Enamorado, como sobretodo Espiral (polaroids), son historias de s
 
 Y de paso le echáis un ojo a como fueron los "inicios" en esto del cómic de uno de los mejores (para mi gusto) dibujantes que tiene Marvel en nómina actualmente. Que vaya portadas se marca el amigo en Deadpool por poner un ejemplo.
 
-
-
-
 ([@hecdruiz](https://instagram.com/hecdruiz))

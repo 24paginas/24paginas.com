@@ -25,12 +25,7 @@ No se me ocurre mejor momento que este domingo lluvioso tras un salto temporal p
 
 Se cierra orto arco argumental de la serie de Brian K. Vaughan y Cliff Chiang. El paso por el año 2000 da la sensación de haber cundido poco, más allá de tener peleas de roboces gigantes.
 
-Una bonita colección de cliffhangers que, seguramente, se lee mejor recopilada, pero es que las grapas son TAN bonitas. 
+Una bonita colección de cliffhangers que, seguramente, se lee mejor recopilada, pero es que las grapas son TAN bonitas.
 Veremos que nos depara el futuro, al parecer estamos a tan solo 2 arcos del final de todo... ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#papergirls](/tags/papergirls) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#briankvaughan](/tags/briankvaughan) [#cliffchiang](/tags/cliffchiang) [#timetravel](/tags/timetravel) [#cliffhanger](/tags/cliffhanger) [#señorasdearmastomar](/tags/senorasdearmastomar) [#backtothefuture](/tags/backtothefuture) [@planetadcomic](https://instagram.com/planetadcomic)

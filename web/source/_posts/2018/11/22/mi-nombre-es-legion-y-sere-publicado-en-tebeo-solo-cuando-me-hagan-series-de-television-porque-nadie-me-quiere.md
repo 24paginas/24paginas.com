@@ -25,20 +25,14 @@ author: neverbot
 
 Mi nombre es Legión. Y seré publicado en tebeo sólo cuando me hagan series de televisión porque nadie me quiere.
 
-
 Y así nos llegó a España durante el 2017 la maxiserie (¿recordáis cuando se usaban términos como “maxiserie”?) de Legión del 2013, a rebufo de la más que digna serie de FX.
-
 
 Inciso: la primera temporada de la serie de televisión de Legión (me falta ver la segunda) es lo mejor que ha hecho la Fox teniendo los derechos de los mutantes, y creo que ni siquiera usan la palabra mutante jamás ni lo unen a ninguna otra película o serie. A lo mejor ese es el truco.
 
-
 Volviendo al tebeo: me subo al carro con otro año de retraso sobre la publicación, así somos por aquí, que leemos lo que queremos cuando queremos.
-
 
 Y por ahora el dibujo es simplemente correcto, el guión aún no se hacía donde va porque el personaje está como una regadera, y las portadazas de Mike Del Mundo son magistrales.
 
-
 Seguiremos informando.
-
 
 ([@neverbot](https://instagram.com/neverbot))

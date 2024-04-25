@@ -20,11 +20,8 @@ author: neverbot
 
 El 14 de diciembre, los catorce tomos de Love Hina.
 
-
 Que cosa más tierna de historia. Y waifus everywhere. ¿Qué podría salir mal?
 
-
 Si no la habéis leído todavía, aprovechad la edición deluxe de [@ed.ivrea](https://instagram.com/ed.ivrea) de tomos dobles, que está ahora mismo saliendo en tiendas.
-
 
 ([@neverbot](https://instagram.com/neverbot))

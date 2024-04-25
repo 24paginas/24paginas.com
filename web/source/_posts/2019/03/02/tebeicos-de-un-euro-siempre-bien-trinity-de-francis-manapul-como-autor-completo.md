@@ -23,14 +23,10 @@ author: neverbot
 
 Tebeicos de un euro siempre bien. Trinity de Francis Manapul como autor completo.
 
-
 Pues un tebeo. 24 páginas de [@francis_manapul](https://instagram.com/francis_manapul) con el Batman al que le faltan años post new-52, Wonder Woman y el Superman recién llegado que estaba siendo genial hasta que llegó Bendis.
-
 
 Dibujicos bien. El resto meh. No he seguido con Trinity. Esto es la antireseña... pero ya tenía hechas las fotos.
 
-
 Me apetece leer algo bueno por una vez. De este finde no pasa.
-
 
 ([@neverbot](https://instagram.com/neverbot))

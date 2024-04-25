@@ -24,14 +24,10 @@ author: hecdruiz
 
 Seguimos con Gangsta este [#miercolesmanga](/tags/miercolesmanga) y su tercer tomo de reciente publicación gracias a [@mwediciones](https://instagram.com/mwediciones).
 
-
 Un tercer tomo más pausado y centrado en el pasado de los protagonistas, dándonos nuevas pinceladas sobre su extraña y complicada relación, mientras el autor va situando todos los peones para la gran saga que se avecina.
-
 
 Como siempre todo acompañado con una buena dosis de acción y violencia, y ese tono turbio y decadente que acompaña a esta historia en la ciudad de Ergastulum.
 
-
 Kohske nos mantiene enganchados a la trama y disfrutando de un dibujo espectacular, y nos deja con muchas ganas de la llegada del siguiente. Crucemos los dedos porque ahora que está continuando la serie nos sigan llegando los tomos con asiduidad, y con suerte la editorial se anime y publique su spin-off que ha empezado hace poco: Gangsta: Cursed, para saber un poquito más de la historia de Marco Adriano.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

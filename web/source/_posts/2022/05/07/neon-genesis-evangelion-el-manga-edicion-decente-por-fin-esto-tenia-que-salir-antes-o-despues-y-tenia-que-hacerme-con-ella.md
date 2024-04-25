@@ -33,6 +33,6 @@ Neon Genesis Evangelion, el manga, edición decente por fin, esto tenía que sal
 
 Contexto: finales de los noventa, Internet incipiente al que no todo el mundo tenía acceso, te acercas al anime de Evangelion y piensas: “guay, una serie de robots gigantes que se pegan”. Y todo se empieza a retorcer, en un crescendo que hacia el final se la serie se hace ininteligible, requiriendo películas extra para explicar y recontar los últimos capítulos. Y diez años después el comienzo de un remake que ha tardado catorce años en completarse, siendo la obra de toda una vida por parte de su creador, Hideaki Anno.
 
-El manga es y la vez no es una obra derivativa, se creó a la vez que el anime por parte del diseñador de personajes (grande entre los grandes) Yoshiyuki Sadamoto… y aquí es donde yo me engancho de nuevo 25 años después a ver si esta vez termino de entenderlo todo, porque sí, esto lo merece. 
+El manga es y la vez no es una obra derivativa, se creó a la vez que el anime por parte del diseñador de personajes (grande entre los grandes) Yoshiyuki Sadamoto… y aquí es donde yo me engancho de nuevo 25 años después a ver si esta vez termino de entenderlo todo, porque sí, esto lo merece.
 
-Si el fenómeno Evangelion, que cambió la industria del anime en su momento, hubiese sucedido hoy, la cantidad de memes que usaríamos cada día con Shinji y Gendo sería incalculable. 
+Si el fenómeno Evangelion, que cambió la industria del anime en su momento, hubiese sucedido hoy, la cantidad de memes que usaríamos cada día con Shinji y Gendo sería incalculable.

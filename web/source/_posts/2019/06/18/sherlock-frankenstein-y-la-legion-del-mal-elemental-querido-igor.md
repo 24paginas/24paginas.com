@@ -22,9 +22,4 @@ En el apartado gráfico, puede que no sea el mejor trabajo de Rubín, pero tiene
 
 Un complemento interesante si te gusta la serie principal. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#comic](/tags/comic)[#blackhammer](/tags/blackhammer)[#jefflemire](/tags/jefflemire)[#davidrubin](/tags/davidrubin)[#sherlockfrankestein](/tags/sherlockfrankestein) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

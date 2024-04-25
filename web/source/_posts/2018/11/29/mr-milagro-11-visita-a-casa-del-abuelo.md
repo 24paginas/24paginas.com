@@ -22,11 +22,8 @@ author: uncientovolando
 
 Mr. Milagro [#11](/tags/11): Visita a casa del abuelo.
 
-
 Se acerca (mucho) el final y entramos de lleno el “enfrentamiento”. Una lucha tensa, divertida y tramposa que muestra lo mejor de esta serie y del propio [@tomking_tk](https://instagram.com/tomking_tk).
 
-
 Ahora solo podemos esperar que [@eccediciones](https://instagram.com/eccediciones) nos traiga pronto el desenlace. Y preparar una bandeja de hummus para acompañar su lectura 😊
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

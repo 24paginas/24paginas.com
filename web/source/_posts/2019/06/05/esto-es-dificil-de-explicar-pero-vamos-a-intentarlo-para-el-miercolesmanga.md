@@ -23,20 +23,14 @@ author: neverbot
 
 Esto es difícil de explicar, pero vamos a intentarlo para el [#miercolesmanga](/tags/miercolesmanga).
 
-
 Ciencia ficción apocalíptica, un vejete en calzoncillos venido del futuro, un estudiante de instituto y una actriz porno gigante. Pues ya está. No era tan difícil. Ya me tenías con el hola.
-
 
 No tengo contexto ninguno del autor (echo de menos los tiempos en que los tomos incluían una sinopsis y un texto sobre el autor y no asumían que lo puedes buscar en internet), pero está en la frontera de lo que empiezo a considerar un arte decente como para comprar manga, así que ha ido a la saca. Con esas premisas argumentales era difícil que no lo comprara, en cualquier caso.
 
-
 No podemos valorar mucho la historia porque poco sucede en el tomo (empiezo a ver un patrón aquí en mis reseñas... ¿ya nadie hace tebeos o novelas donde se pueda explicar todo en menos de 200 páginas?), pero vaya, esto ataca directamente a mi curiosidad y quiero saber más.
-
 
 El arte abusa del retoque fotográfico, hay muchos fondos que claramente son fotografías “manganizadas”, pero el conjunto parece bien acoplado, así que no nos podemos quejar mucho.
 
-
 Por si os lo estabais preguntando, no parece ser un caso de fanservice gratuito, aunque sí incluye unos cuantos desnudos, sino simplemente un tebeo para adultos, lo que quizá debería estar convenientemente indicado en la portada. Tiene también alguna escena de violencia fea. Yo aviso por si vais a pensar que es un shonen cualquiera y no.
-
 
 ([@neverbot](https://instagram.com/neverbot))

@@ -20,11 +20,8 @@ author: uncientovolando
 
 Paper Girls [#2](/tags/2)
 
-
 Recordad esta máxima de la narrativa: si un revólver se muestra durante la historia, este debe ser disparado.
 
-
 Las cosas extrañas se siguen sucediendo y no hay ni rastro de ningún adulto responsable.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

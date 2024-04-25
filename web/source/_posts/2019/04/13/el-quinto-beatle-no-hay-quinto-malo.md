@@ -16,7 +16,7 @@ template: instagram
 author: uncientovolando
 ---
 
-El Quinto Beatle: No hay quinto malo. 
+El Quinto Beatle: No hay quinto malo.
 La fama de los Beatles se extiende por el mundo y permanece a través de diferentes generaciones. en tan solo unos años consiguieron alcanzar cuotas de éxito que ni su separación ni la muerte de alguno de sus miembros ha logrado debilitar.
 
 Más allá del talento de los de Liverpool, este éxito se debe al trabajo de figuras como la de Brian Epstein. Vivek J. Tiwary, experto en su figura, escribe una pequeña tragedia sobre el que fue manager de los Fab Four, con sombras como sus estados depresivos y los problemas por ser gay en la época en la que eso era un delito, pero también con momentos luminosos y el humor de unos Beatles que siempre aparecen como si de un grupo de Muppets se tratara.

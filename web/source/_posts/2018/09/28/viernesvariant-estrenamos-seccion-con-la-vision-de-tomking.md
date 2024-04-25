@@ -25,17 +25,12 @@ author: uncientovolando
 
 [#ViernesVariant](/tags/viernesvariant): estrenamos sección con La Visión de [#TomKing](/tags/tomking).
 
-
 Puede que penséis “¡Eh, esto ya lo habéis reseñado!” pero justamente de eso tratan nuestros [#viernesvariant](/tags/viernesvariant), donde traemos de nuevo tebeos ya reseñados en ediciones alternativas.
-
 
 Y empezamos de lujo, literalmente, con la edición integral que [@paninicomicsespana](https://instagram.com/paninicomicsespana) sacó con esta historia negra del sintezoide.
 
-
 Esta nueva edición incluye, además del material que aparecía en la línea 100% Marvel, una cantidad extraordinaria de extras (casi tantas páginas como las del propio cómic), con entrevistas, guiones y procesos de trabajo. Algo excesivo si solo te interesa leer esta historia criminal y robótica de [@tomking_tk](https://instagram.com/tomking_tk) y [@ghwalta](https://instagram.com/ghwalta), pero una buena opción para darse un capricho y descubrir cómo se ha hecho uno de los cómics más interesantes de las pasadas temporadas.
 
-
 Imprescindible para impresionar a las visitas y decorar estanterías de youtubers.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

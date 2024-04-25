@@ -18,15 +18,8 @@ author: uncientovolando
 
 [#nanoreseña](/tags/nanoresena): Lois Lane 2 y 3.
 
-
 Entre la trama criminal, los misterios y las consecuencias del evento de turno, Rucka saca tiempo para dar una buena clase de periodismo y “resolver” una de las relaciones personales más complejas de Lois. Todo bien.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comoc](/tags/comoc) [#tebeo](/tags/tebeo) [#lagrapaesamor](/tags/lagrapaesamor) [#loislane](/tags/loislane) [#superman](/tags/superman) [#leviathan](/tags/leviathan) [#dccomics](/tags/dccomics) [@eccediciones](https://instagram.com/eccediciones)

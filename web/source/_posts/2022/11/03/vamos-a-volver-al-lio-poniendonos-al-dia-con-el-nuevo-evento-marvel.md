@@ -29,8 +29,8 @@ author: neverbot
 
 Vamos a volver al lío poniéndonos al día con el nuevo evento Marvel. Este número cero incluye un mini tebeo del free comic book day americano de Kieron Gillen y Dustin Weaver que está bastante majo, y luego un especial llamado Eve of Judgement (que sería el verdadero número cero si existiese) que…
 
-No es el momento de andar diciendo estas cosas, pero la portada de Pacheco y Fonteriz es horrenda (no me extraña que no la hayan puesto de portada del tebeo de panini) y el dibujo interior de Pasqual Ferry… pues no. 
+No es el momento de andar diciendo estas cosas, pero la portada de Pacheco y Fonteriz es horrenda (no me extraña que no la hayan puesto de portada del tebeo de panini) y el dibujo interior de Pasqual Ferry… pues no.
 
-Yo de los eternos no sabía nada desde la miniserie de Neil Gaiman y el desastre de peli, y ahora son cien personajes distintos en media docena de mini dimensiones de bolsillo y no se qué. Voy a leer esto porque de los mutantes me gustan hasta los andares, pero si no, ni con un palo. 
+Yo de los eternos no sabía nada desde la miniserie de Neil Gaiman y el desastre de peli, y ahora son cien personajes distintos en media docena de mini dimensiones de bolsillo y no se qué. Voy a leer esto porque de los mutantes me gustan hasta los andares, pero si no, ni con un palo.
 
-Welcome back. 
+Welcome back.

@@ -23,7 +23,7 @@ template: instagram
 author: neverbot
 ---
 
-Veinticuatros por el mundo especial Las Palmas de Gran Canaria: hoy [@otakucanary](https://instagram.com/otakucanary). 
+Veinticuatros por el mundo especial Las Palmas de Gran Canaria: hoy [@otakucanary](https://instagram.com/otakucanary).
 
 Estas vacaciones hemos estado en Gran Canaria y hemos visitado unas cuantas tiendas que iremos compartiendo por aquí, y empezamos por una pequeña pero con el encanto de tener un montón de merchandising curioso.
 

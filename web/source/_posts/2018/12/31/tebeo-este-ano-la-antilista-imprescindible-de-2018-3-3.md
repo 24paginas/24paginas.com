@@ -23,17 +23,12 @@ author: neverbot
 
 Tebeo este año: La antilista imprescindible de 2018 (3/3).
 
-
 Se acaba el año y echamos la vista atrás a los tebeos que más nos han gustado, emocionado y divertido durante la última rotación de la tierra alrededor del sol. Y en mi caso ha sido fácil. Desde Enero tenía claro que probablemente no iba a encontrar nada que me tocara más la patata que el Una Hermana de Bastien Vivés ([@bastienvives](https://instagram.com/bastienvives)), publicado aquí por [@diaboloediciones](https://instagram.com/diaboloediciones).
-
 
 El movimiento, el dibujo, esas fantásticas pausas en la narración, si es que este chico todo lo hace bien. Da hasta verguenza hablar de un tebeo suyo, porque no tengo nada que achacarle ni haciendo un esfuerzo imaginativo.
 
-
 Ojalá en este próximo 2019 haya más cosas como esta.
 
-
 ([@neverbot](https://instagram.com/neverbot))
-
 
 PD: También os digo que a punto he estado de escoger como mejor tebeo del año la película Spiderman: Into the Spiderverse, que me parece gloria bendita.

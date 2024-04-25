@@ -29,5 +29,4 @@ En resumen: intensidad quizá hasta resultar algo agotadora, pero un buen tebeo 
 
 Ale, espero que os sirva de ayuda si andáis pensando en darle una oportunidad a los muties. .
 
-
 ([@hecdruiz](https://instagram.com/hecdruiz))

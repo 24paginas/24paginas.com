@@ -22,11 +22,8 @@ author: neverbot
 
 Pues sigo con Descender, de Lemire y Nguyen.
 
-
 He encontrado estas fotos en mi móvil y ni recuerdo haberlo leído, creo que eso dice mucho. Tengo recuerdos de robots, unos cyborg muy chulos y poco más. Me gusta el arte de Nguyen pero no con estos acabados acuarelados. Me gustan los guiones de Lemire pero aquí no sé si está siendo demasiado laxo en la exposición, porque tras dos tomos poco ha pasado.
 
-
 Cuando lo leí me gustó, pero si no ha permeado en mis recuerdos no sé qué pensar. ¿Debería continuar con esto? ¿Alguna otra recomendación de ciencia ficción?
-
 
 ([@neverbot](https://instagram.com/neverbot))

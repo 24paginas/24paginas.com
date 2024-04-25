@@ -25,11 +25,8 @@ author: neverbot
 
 Le damos un tiento a uno de los "First Season" que se publicaron hace unos años como puntos de entrada sencillos a algunas colecciones.
 
-
 Y con eso [#gregpak](/tags/gregpak) y [#emmarios](/tags/emmarios) nos trajeron en 2012 esta revisión del origen del Dr. Extraño. Y bueno, pues normalito. No es una historia particularmente brillante, y el arte de nuestra compatriota era a mi parecer aún algo confuso (eh, que han pasado ya seis años de esto!!). En general la revisión de este mismo origen que hizo Straczynski aún más tiempo atrás brilló con una luz mayor.
 
-
 Pero como punto de inicio para saber de qué estamos hablando pues... pues ya existe la película para eso.
-
 
 ([@neverbot](https://instagram.com/neverbot))

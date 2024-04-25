@@ -26,9 +26,4 @@ El formato cuadrado, además de acercarlo al mundo musical porque [#todosloscomi
 
 Un cómic redondo, bueno cuadrado, bueno... ya me entendéis... ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 [#LuisBustos](/tags/luisbustos) [#musica](/tags/musica) [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#carambacomics](/tags/carambacomics) [#pop](/tags/pop) [#cachitosdehierroycromo](/tags/cachitosdehierroycromo) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

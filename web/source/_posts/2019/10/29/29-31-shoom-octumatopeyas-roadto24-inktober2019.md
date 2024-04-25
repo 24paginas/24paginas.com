@@ -19,6 +19,5 @@ author: 24paginas
 
 29/31. SHOOM! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
-
 Aunque los rayos repulsores de Ironman siempre han sido un arma interesante, no han tenido un sonido claro. Al menos en los cómics. .
 El MCU le dio ese sonido similar al del servo de una cámara de fotos que ajusta el repulsor antes de detonar, pero en las viñetas ha variado desde "ZZZAKK!" o "ZZAT!" hasta el "SHOOM!" que os traemos hoy.

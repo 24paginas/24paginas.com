@@ -18,27 +18,16 @@ author: uncientovolando
 
 Murder Falcon: salvación a guitarrazos.
 
-
 Todos tenemos un refugio, un lugar “feliz” al que ir cuando las cosas vienen mal dadas. Puede ser la ficción de un cómic, libro o película, cocinar o la música. Son amuletos a los que nos aferramos cuando no podemos más. En el caso de Jake, el protagonista de Murder Falcon, aunque en su caso la música va más allá y se convierte en un arma para acabar con los monstruos que asedian el mundo.
-
 
 Un festival de heavy, peleas y seres terribles que guarda detrás una historia de autoconocimiento y superación con varios giros interesantes y muy bien llevados.
 
-
 Daniel Wareen Johnson (de quien [@eccediciones](https://instagram.com/eccediciones) acaba de publicar su aproximación a Wonder Woman) dibuja con toda su energía tanto los momentos de máximo flipamiento como los más íntimos y se apoya en el color de Mike Spicer, que hace brillar especialmente los momentos más fantásticos del tebeo.
-
 
 La vida puede ser dura. Encuentra lo que te hace feliz y deja que luche a tu lado.
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-
-
-
-
-
 Edita: [@planetadcomic](https://instagram.com/planetadcomic).
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#murderfalcon](/tags/murderfalcon) [#mudics](/tags/mudics) [#heavy](/tags/heavy) [#metal](/tags/metal) [#guitarrazos](/tags/guitarrazos) 🤘🏻

@@ -23,11 +23,8 @@ author: neverbot
 
 El 18 de diciembre, los dieciocho contendientes de Miedo Encarnado.
 
-
 La serpiente, Skadi y los siete dignos contra las nueve armas creadas por Tony Stark en las forjas de Asgard.
 
-
 La saga meh en general, pero Stuart Immonen, así que todo bien.
-
 
 ([@neverbot](https://instagram.com/neverbot))

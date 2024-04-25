@@ -16,8 +16,6 @@ author: 24paginas
 
 ✉️ Abrimos comunicaciones.
 
-
 ¿Hechas de menos escribir tus cartas al correo del lector y esperar meses a ser respondido (o no)? Queremos recuperar esa sensación y de paso ampliar una de las cabeceras que creamos para nuestro especial.
-
 
 ¡Esperamos vuestras preguntas!

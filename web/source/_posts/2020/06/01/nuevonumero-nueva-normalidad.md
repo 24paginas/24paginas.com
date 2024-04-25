@@ -18,8 +18,6 @@ author: 24paginas
 
 [#nuevonumero](/tags/nuevonumero), nueva normalidad.
 
-
 Todo vuelve, poco a poco. Y las librerías necesitan que los lectores también volvamos. Apoyad a los pequeños negocios y cuidaos mucho.
-
 
 ¡Salud y tebeos!

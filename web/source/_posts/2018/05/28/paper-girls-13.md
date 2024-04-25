@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#13](/tags/13)
 
-
 Futuros enredados
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

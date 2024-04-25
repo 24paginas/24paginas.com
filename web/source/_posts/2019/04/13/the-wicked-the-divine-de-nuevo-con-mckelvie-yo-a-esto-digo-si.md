@@ -23,11 +23,8 @@ author: neverbot
 
 The Wicked + The Divine, de nuevo con McKelvie: ¡Yo a esto digo sí!
 
-
 Vuelve a dibujar los guiones de [@kierongillen](https://instagram.com/kierongillen) el fantástico [@mckelvie](https://instagram.com/mckelvie), después de un tomo de bajona absoluta, retomando las altas cotas a las que nos tenía acostumbrados.
 
-
 Tensión dramática. Y tanto.
-
 
 ([@neverbot](https://instagram.com/neverbot))

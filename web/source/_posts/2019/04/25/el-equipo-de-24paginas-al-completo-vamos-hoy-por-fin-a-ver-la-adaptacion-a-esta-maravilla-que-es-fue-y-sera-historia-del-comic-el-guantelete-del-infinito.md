@@ -25,20 +25,14 @@ author: hecdruiz
 
 El equipo de [@24paginas](https://instagram.com/24paginas) al completo vamos hoy por fin a ver la adaptación a esta maravilla que es, fue y será historia del cómic: El Guantelete del Infinito.
 
-
 Y como apunte aquí os dejo un resumen rápido de muchas cosas que seguramente no aparezcan en el cine (o si, quien sabe).
-
 
 Desde un Estela Plateada que ha pasado a ser Hulk, a una Capitana Marvel haciendo las veces de Quasar con claras semejanzas de uniforme, una Nébula un poco más echa polvo de lo normal o la falta de Warlock y Pip que me duele en el kokoro. Habrá que ver.
 
-
 Pero no me entendáis mal, que yo voy con el ilusionometro a tope como un niño en la noche de reyes, y cumpla las expectativas o no, siempre nos quedará el camino recorrido hasta aquí, y un mítico SNAP que ha pasado a ser historia del cine y de la cultura pop.
-
 
 Si me llegan a decir cuando leí estás historias que acabaría llegando este día... ¡me hubiese dado un ataque de risa!
 
-
 Así que ahora solo nos queda disfrutar, coger aire, y escuchar aquello de... ¡¡Avengers assemble!!
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

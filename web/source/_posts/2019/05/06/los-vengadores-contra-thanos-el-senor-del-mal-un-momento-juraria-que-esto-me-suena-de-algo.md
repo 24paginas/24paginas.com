@@ -20,11 +20,8 @@ author: hecdruiz
 
 ¡Los Vengadores contra Thanos, el Señor del Mal! Un momento... Juraría que esto me suena de algo...
 
-
 Fabulosos y cósmicos invitados harían su aparición en la historia de los héroes más poderosos de la Tierra y sólo por ver como ha cambiado la historia desde este planteamiento hasta Endgame ya merece la pena hacerse con esta grapa, eso sí, más por curiosidad que por otra cosa.
 
-
 Bueno, y por ver que, por aquel entonces, Thor ya iba apuntado con el martillo donde no debía. Je, en qué cosas mas tontas se fija uno.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -30,8 +30,6 @@ author: 24paginas
 
 NOVEASLA GRÁFICA: Poca Broma [#infografia](/tags/infografia)
 
-
 ¿Estáis preparados? Queda una semana para la edición de "La broma asesina" dentro de la nueva linea [#BlackLabel](/tags/blacklabel) de [@eccediciones](https://instagram.com/eccediciones). Todos hemos hecho muchos chistes sobre esto pero está claro que es una obra básica en la historia del Principe Payaso del Crimen.
-
 
 Repasamos el historial de publicación del tebeo de [@dccomics](https://instagram.com/dccomics) en nuestro país, al menos hasta hoy... STOP THE COMEDY!

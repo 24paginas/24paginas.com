@@ -18,11 +18,8 @@ author: 24paginas
 
 [#nuevonumero](/tags/nuevonumero), en su tinta.
 
-
 Llegó octubre, la cosa va arrancando pero seguimos sin saber muy bien qué pasará. Pero hemos acumulado algunas de las novedades del mes y seguiremos trayendo secciones en paralelo a las reseñas, que no hay manera de estar al día.
 
-
 Hace un año nos encontrábamos en plena preparación de nuestro especial NÚMERO 24, y nos dedicamos a realizar un inktober (¿de puede usar an el nombre sin pagar?) con las onomatopeyas como eje central. Esta vez no nos hemos vuelto tan locos y dedicaremos un espacio en nuestras stories a los dibujos de verdaderos profesionales bajo el hashtag [#OTROBER](/tags/otrober).
-
 
 ¡Salud y tebeos!

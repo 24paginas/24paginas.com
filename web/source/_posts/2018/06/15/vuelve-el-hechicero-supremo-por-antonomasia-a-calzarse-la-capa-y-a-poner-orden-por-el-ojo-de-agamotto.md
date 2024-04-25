@@ -25,22 +25,14 @@ author: hecdruiz
 
 ¡Vuelve el Hechicero Supremo por antonomasia a calzarse la capa y a poner orden, por el Ojo de Agamotto!
 
-
 Si, lo se, de doctores va la semana, pero no os voy a engañar.. que perecita me ha dado este número.
-
 
 Lo mejor, sin duda, la edición con la portada [#younggun](/tags/younggun) del enormérrimo Javier Garrón que se marca una obra maestra digna de colgarse en pared. Una MA-RA-VI-LLA.
 
-
 El tema es que luego echo de menos a Walta desde la primera página. Que siendo tan fan de Bachalo ya se me hizo durillo el pasar a Walta, pero tengo que reconocer que le he cogido el gusto, tanto a su estilo, como a su manera de narrar. Habrá que ver que nos va ofreciendo Henrichon con su estilo algo más sucio, pero de primeras no me parece una mejora. No es que me disguste, pero tampoco me enamora.
-
 
 Vamos, que muy buen evento se va a tener que marcar [@dcates](https://instagram.com/dcates) a los guiones, porque desde luego de primeras me ha despertado interés cero. Y es que el principal enemigo, así como donde se sitúa todo el tema, no ayuda nada a despertarme interés. Con lo que me ha gustado todo lo que ha contado en Thanos. Habrá que ver.
 
-
 Y mira que venía con ganas, que de este personaje conozco lo justo y es muy fácil sorprenderme. Pero ya le he dado una oportunidad después de la marcha de Aaron y Bachalo, y entendiendo esta última saga como un epílogo a todo ese trabajo, me da a partir de aquí o esto mejora mucho o poco más lejos voy a llegar. Veremos.
-
-
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz)).

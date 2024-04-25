@@ -30,11 +30,8 @@ author: neverbot
 
 Hoy es festivo en el cuartel general y aprovechamos para ponernos vintage.
 
-
 ¿Y que hay más [#vintage](/tags/vintage) en Marvel que decir Chris Claremont, Larry Hama o Tom DeFalco?
 
-
 Pues claro que hay cosas más viejunas, era una pregunta retórica. Pero de vez en cuando también hay que revisitar esas épocas menos celebradas de Marvel, aprovechando que [@hecdruiz](https://instagram.com/hecdruiz) estaba de limpieza de otoño y se deshacía de tebeos que ya tenía en otras ediciones... como buen buitre he estado rápido.
-
 
 ([@neverbot](https://instagram.com/neverbot))

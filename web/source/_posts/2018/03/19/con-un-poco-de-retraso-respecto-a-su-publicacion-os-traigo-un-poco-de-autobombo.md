@@ -19,17 +19,12 @@ author: uncientovolando
 
 Con un poco de retraso respecto a su publicación, os traigo un poco de autobombo.
 
-
 Ya está a la venta un nuevo número de SFX, la revista bimestral de CiFi y Fantasía en la que tengo el placer de participar.
-
 
 Este número se multiplica cual Jamie Madrox y con tan solo darle la vuelta encontraréis Comicmania, una nueva revista sobre tebeos.
 
-
 Además, incluye un adelanto de “Monstruos de Hollywood”.
 
-
 ¡Echadle un vistazo, merece la pena!
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

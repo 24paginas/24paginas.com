@@ -27,17 +27,12 @@ author: hecdruiz
 
 Psst, que a pesar de la hora hoy toca [#viernesvintage](/tags/viernesvintage) con [#Spiderman](/tags/spiderman), [#Veneno](/tags/veneno) y [@toddmcfarlane](https://instagram.com/toddmcfarlane), ¡ahí es ná!
 
-
 Otro viernes, otra grapita facsimil de estas que está sacando [@paninicomicsespana](https://instagram.com/paninicomicsespana), y que me siguen redescubriendo momentos pasados que te suben el nostalgiómetro. Aunque esta para mi tiene un sabor especialmente agridulce.
-
 
 Me explico. Yo crecí en los 80 (y sobreviví...), pero eso implica también que conocí a Spiderman de crío con el traje negro. Adoro ese traje, para mí es EL TRAJE de Spiderman. Y esta grapa es la que cuenta por qué Peter Parker dejó de usarlo... ¡Jamás te lo perdonaré Mary Jane Watson!
 
-
 Pero bueno, también es el primer encuentro entre Spiderman y Veneno, y aunque quien más y quien menos conoce de que va el rollo, nunca está de más ver el momento original de primera mano (que anda que no hay versiones de este momento). Y todo con McFarlane haciendo de las suyas, que si bien es cierto que no es especialmente santo de mi devoción, modernizó a Spiderman de una manera que a todos nos dieron vueltas los ojos.
 
-
 Vamos, que aquí cada página, y más a día de hoy con el trepamuros y todo su universo cinematográfico tan de moda, es claramente un hito en la historia de nuestro querido lanzarredes que no viene mal revisitar. O descubrir, si esto te pilla de nuevas (y estás tardando si es así).
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

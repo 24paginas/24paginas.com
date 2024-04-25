@@ -23,8 +23,6 @@ author: 24paginas
 
 Volvemos del [#diadelcomicgratis](/tags/diadelcomicgratis) cargados de tebeos para todos los gustos.
 
-
 Entre ellos, el de Marvel/Panini con avances del Spider-Man de [@ryanottley](https://instagram.com/ryanottley) y los Vengadores de [@jasonaaron](https://instagram.com/jasonaaron) y [@sara_pichelli](https://instagram.com/sara_pichelli) o el avance del nuevo cómic de El Ministerio del Tiempo, con firma y dibujo gracias a [@omega_center_madrid](https://instagram.com/omega_center_madrid).
-
 
 Y vosotros ¿os habéis hecho con alguno?

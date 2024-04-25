@@ -25,14 +25,10 @@ author: hecdruiz
 
 Estamos de vuelta con los [#miercolesmanga](/tags/miercolesmanga) y para esta vez volvemos con algo un poco atípico. El compendio de ilustraciones para Dragon Quest de [@akira.toriyama](https://instagram.com/akira.toriyama) que nos trajo [@planetadcomic](https://instagram.com/planetadcomic) y que cuenta con una edición a todo tren.
 
-
 Una edición con todo lujo de detalles (si hasta tiene marcapáginas con una de las espadas!!) que recoge múltiples diseños del autor a lo largo de toda la saga, pudiendo disfrutar tanto de la evolución del tono, como de la estética a lo largo de los diversos juegos. Desde luego, es una delicia poder disfrutar de tantos diseños del maestro Toriyama del tirón.
-
 
 Totalmente recomendable para los fans del mangaka y en especial si sois seguidores de la saga. En mi caso me quedo a medio camino porque llegué a Dragon Quest a través de las míticas y malogradas “Aventuras de Fly”, pero luego no he sido capaz de disfrutar con los juegos por el sistema de combate por turnos que no soporto y que, si no me equivoco, llevan en todas las iteraciones.
 
-
 Una pena porque, según dicen, a nivel de rpgs son auténticas joyas.
-
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -27,14 +27,10 @@ author: neverbot
 
 Para el [#viernesvintage](/tags/viernesvintage), la única vez que Spawn se ha publicado con el sello de cómics forum.
 
-
 O al menos eso creo recordar, siempre se editó bajo el sello World Comics. Alguien me corregirá si he olvidado alguna otra ocasión.
-
 
 Al llegar al número 16 de la serie regular, aprovechando una mínima etapa donde entró Grant Morrison a los guiones, un novato Greg Capullo empezaba con Spawn sustituyendo a McFarlane por primera vez desde el inicio de la serie.
 
-
 Las tres grapas que incluye nunca se han publicado de forma independiente en castellano, siempre en formato tomo, para mi desgracia como coleccionista.
-
 
 ([@neverbot](https://instagram.com/neverbot))

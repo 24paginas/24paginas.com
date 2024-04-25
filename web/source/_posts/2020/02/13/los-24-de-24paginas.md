@@ -32,11 +32,8 @@ author: 24paginas
 
 Los 24 de [#24paginas](/tags/24paginas).
 
-
 Tal como prometimos en nuestro twitter, hemos decidido liberar UNO de los contenidos de nuestro especial en grapa. Y lo hacemos con [#los24](/tags/los24), un repaso a 24 autores, eventos y elementos que han marcado estos 2 últimos años (y un poco más), en [#lodeloscomics](/tags/lodeloscomics).
 
-
 En la lista podéis encontrar nombres como (espero que perdonen el etiquetado masivo) [@pepelarraz](https://instagram.com/pepelarraz), [@martegraciacolor](https://instagram.com/martegraciacolor), [@juliantotinotedesco](https://instagram.com/juliantotinotedesco), [@dcates](https://instagram.com/dcates), [@hellomuller](https://instagram.com/hellomuller), [@elmonteys](https://instagram.com/elmonteys), [@dan_mora_c](https://instagram.com/dan_mora_c), [@coelloiban](https://instagram.com/coelloiban), [@borja_gonzalez_ilustraciones](https://instagram.com/borja_gonzalez_ilustraciones), [@javi_decastro](https://instagram.com/javi_decastro), [@cerditosdeguinea](https://instagram.com/cerditosdeguinea), [@grass.of.parnassus](https://instagram.com/grass.of.parnassus), el [#streamingdedibujantes](/tags/streamingdedibujantes) de [@davizzzz](https://instagram.com/davizzzz) y [@darkolafuente](https://instagram.com/darkolafuente), [@salva_espin_art](https://instagram.com/salva_espin_art), cosas de [@fandogamia](https://instagram.com/fandogamia), [@boom_studios](https://instagram.com/boom_studios), [@paninicomicsespana](https://instagram.com/paninicomicsespana), [@eccediciones](https://instagram.com/eccediciones)...
-
 
 ¡El crossover más ambicioso desde Avengers Endgame!

@@ -19,14 +19,10 @@ author: uncientovolando
 Librería TBO.
 Calle de la Merced 28, Pamplona.
 
-
 Hoy tocaría [#viernesvintage](/tags/viernesvintage) pero en su lugar os traigo otro viaje en el tiempo. El pasado lunes volví a pasar por la primera tienda especializada en cómic que visité (hace ya 22 años) tras mucho tiempo.
-
 
 Esta pequeña librería de paredes cubiertas por estanterías, sigue conteniendo tesoros que van más allá de la novedad. Las calles ahora se ven más luminosas que hace 2 décadas, todo parece más limpio, pero la magia de una pequeña tienda llena de tebeos sigue ahí.
 
-
 Leed tebeos, comprad tebeos.
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

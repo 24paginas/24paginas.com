@@ -27,26 +27,18 @@ author: neverbot
 
 ¡Marvel 2 en uno! ¡Los 2 fantásticos! ¡Yo digo no! Esto debería titularse "Muerte y sus colegas".
 
-
 Después de las últimas Secret Wars, que eran ya las cuartas o quintas, los 4F desaparecían del universo Marvel para... rehacer el multiverso Marvel. Cosas veredes, amigo Sancho.
-
 
 Pero los 4F que importan, claro, los que tienen poderes chachis de cambiar la realidad y viajan por el cosmos, no los que se prenden fuego o sueltan tortas como panes.
 
-
 Y es con esos con los que había que hacer algo, y aquí está esta serie (¿mini? Quién sabe), que esperemos sirva para traer de vuelta a la primera familia y plante la semillita de una película de Marvel Studios, que sería la primera vez que se llevaría al grupo al cine.
-
 
 He dicho la primera.
 
-
 Porque está claro que la desaparición de los 4F de los tebeos no ha tenido nada que ver con la degradación de la franquicia por parte de la Fox. Nada que ver. Nada.
-
 
 <inserte emoji de persona enfadada aquí>
 
-
 Escribe Chip Zdarsky ([@zdarsky](https://instagram.com/zdarsky)) y dibuja nuestro fan-favourite Jim Cheung ([@jimcheungart](https://instagram.com/jimcheungart)) así que todo bien aquí, y la cosa y la antorcha siempre molan y tienen buena química, y el Dr. Muerte se come a los demás personajes y nos roba nuestros corazoncitos.
-
 
 ([@neverbot](https://instagram.com/neverbot))

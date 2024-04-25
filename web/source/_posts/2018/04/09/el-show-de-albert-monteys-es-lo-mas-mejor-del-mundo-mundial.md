@@ -20,17 +20,12 @@ author: neverbot
 
 El Show de Albert Monteys es lo más mejor del mundo mundial.
 
-
 En [@24paginas](https://instagram.com/24paginas) tenemos nuestras diferencias a la hora de escribir sobre autores que nos molan. Que si he escrito esto. Que si te has pasao. Que si como lo lea el autor va a pensar que eres un pelota. Que te calles que te piso el cuello. Y así todos los días en nuestro grupo de Telegram.
-
 
 Hoy voy a ir a lo salvaje y yo digo que [@elmonteys](https://instagram.com/elmonteys) es uno de los mejores humoristas gráficos de este país Y PUNTO EN BOCA.
 
-
 Así que cualquier recopilatorio de cosas suyas, nuevas, viejas o de una dimensión alternativa o de cuando hacía ilustraciones para la revista Líder (soy viejo, no me juzguéis), siempre es bienvenido y compra obligada.
 
-
 Y si tengo que discutirlo con los otros veinticuatros, nos citaremos a primera sangre al amanecer.
-
 
 ([@neverbot](https://instagram.com/neverbot))

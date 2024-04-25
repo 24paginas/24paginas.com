@@ -22,24 +22,14 @@ author: 24paginas
 
 🗓 AGENDA 24 PÁGINAS - ENE. 17 y 18.
 
-
 Nueva agenda semanal, tras las fechas navideñas volvemos a la carga. En esta ocasión volvemos a Madrid, disculpad el centralismo, para dos eventos separados por un día y una calle.
-
 
 Mañana viernes podéis encontrar a nuestro flamante dibujante revelación de [#los24de24paginas](/tags/los24de24paginas), [@coelloiban](https://instagram.com/coelloiban), en [@omega_center_estrella](https://instagram.com/omega_center_estrella).
 
-
 Y el sábado, podréis disfrutar de la presentación de “Aquí nunca pasa nada” junto a sus autores en [@vinetascomic](https://instagram.com/vinetascomic).
-
 
 También queremos recordaos que si tenéis algún evento sobre cómic que queráis incluir, gratis total, en nuestra agenda (casi) semanal, podéis hacérnoslo llegar a través de nuestro email: info[@24paginas.com](https://instagram.com/24paginas.com).
 
-
 Salud y tebeos.
-
-
-
-
-
 
 [#agenda](/tags/agenda) [#evento](/tags/evento) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#madrid](/tags/madrid) [#marvel](/tags/marvel) [#venom](/tags/venom) [#spiderman](/tags/spiderman) [#comicsespañol](/tags/comicsespanol) [#superheroes](/tags/superheroes) [@gpediciones](https://instagram.com/gpediciones) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@ja_marquina](https://instagram.com/ja_marquina)

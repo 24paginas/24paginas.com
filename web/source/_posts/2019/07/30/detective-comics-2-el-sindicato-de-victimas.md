@@ -30,12 +30,6 @@ Sigue funcionando muy bien tanto de historia como de dibujo (además de a Álvar
 
 Habrá que esperar al siguiente volumen...
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#dccomics](/tags/dccomics) [#batman](/tags/batman) [#batwoman](/tags/batwoman) [#robin](/tags/robin) [#detectivecomics](/tags/detectivecomics) [#batfamilia](/tags/batfamilia) [#animalesnocturnos](/tags/animalesnocturnos) [@eccediciones](https://instagram.com/eccediciones)

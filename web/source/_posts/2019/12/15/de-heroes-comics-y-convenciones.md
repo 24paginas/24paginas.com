@@ -25,20 +25,14 @@ author: uncientovolando
 
 De héroes, cómics y convenciones.
 
-
 Ayer nos pasamos por la [@heroes_comiccon](https://instagram.com/heroes_comiccon) de Madrid, donde tuvimos la suerte de coincidir con algunos amigos y conocidos y hacer lo que más nos gusta después de leer tebeos, hablar de tebeos.
-
 
 Se echo de menos más presencia editorial (tan solo pudimos ver a [@eccediciones](https://instagram.com/eccediciones), [@norma_editorial](https://instagram.com/norma_editorial) y [@editorialhidra](https://instagram.com/editorialhidra)) frente a la multitud de stands de mercha y productos audiovisuales.
 
-
 Pero la presencia del cómic no era menor. Pudimos ver las exposiciones de originales de Esteban Maroto y Víctor Santos (con la comparación entre sus lápices y tintas finales), charlas con [@officialmarkbagleyart](https://instagram.com/officialmarkbagleyart) o [@rbsilva_comics](https://instagram.com/rbsilva_comics) y las firmas de los mismos junto a Esad Ribic, Jill Thompson o un Paul Pope que se hizo esperar.
-
 
 También fuimos testigos de cómo un profesionalísimo [@juanrabonet](https://instagram.com/juanrabonet) defendía una gala de premios sin apenas premiados presentes y algunos retrasos.
 
-
 Pero sobretodo hablamos, con periodistas, editores, profesionales diversos del cómic... sobre lo mucho y bien que se puede seguir haciendo en los tebeos. Y eso es lo que nos llevamos. Bueno, eso y un puñado de grapas...
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

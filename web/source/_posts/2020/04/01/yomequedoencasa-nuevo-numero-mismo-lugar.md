@@ -16,5 +16,4 @@ author: 24paginas
 
 [#yomequedoencasa](/tags/yomequedoencasa): Nuevo número, mismo lugar.
 
-
 Llega abril sin, a priori, novedades pero con algunos cómics todavía en la estantería. Seguramente las reseñas y contenidos sean menos, pero seguimos aquí junto a vosotros.

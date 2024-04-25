@@ -20,19 +20,11 @@ author: uncientovolando
 
 Los 4 Fantásticos [#8](/tags/8): un plan de Muerte.
 
-
 Dan Slott funciona bien tirando del Doctor Muerte clásico, el de los planes y discursos grandilocuentes. Aquí, con la primera familia atrapada en su castillo, desata esa faceta del dictador latverio. .
 Sabor clásico para una serie que va cogiendo inercia pero que sigue sufriendo un continuo baile de dibujantes.
 
-
 Nadie rivaliza con Muerte! Muerte es supremo!
 
-
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
 
 [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#grapa](/tags/grapa) [#los4fantasticos](/tags/los4fantasticos) [#fantasticfour](/tags/fantasticfour) [#drmuerte](/tags/drmuerte) [#multiverso](/tags/multiverso) [#dedoombotsacybermen](/tags/dedoombotsacybermen) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

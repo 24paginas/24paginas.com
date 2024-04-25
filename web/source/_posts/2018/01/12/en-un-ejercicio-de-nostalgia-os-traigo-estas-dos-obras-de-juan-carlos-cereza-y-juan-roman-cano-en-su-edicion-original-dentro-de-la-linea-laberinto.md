@@ -30,27 +30,16 @@ author: hecdruiz
 
 En un ejercicio de nostalgia os traigo estas dos obras de Juan Carlos Cereza y Juan Román Cano en su edición original dentro de la línea Laberinto, que en su momento publicó [@planetadcomic](https://instagram.com/planetadcomic) y posteriormente fueron recopiladas por parte de Aleta hace unos tres años en un tomo.
 
-
 Ojo aquí, que estamos hablado de unos cómics con más de veinte años de antigüedad... [#vamosamorirtodos](/tags/vamosamorirtodos)
-
 
 A mi gusto inspirados en el Body Bags de Jason Pearson tanto en el arte como en  el estilo "badass" de los 90, hay que reconocer que son dos obras hijas de su tiempo. En este caso el trasfondo está ambientado en un ambiente cyberpunk distopíco, con megacorporaciones abusivas, opresión, tipos a cada cual más duro y muchos, muchos tiros. Otra cosa no pero tiros hay para dar y tomar.
 
-
 Pero mientras Black Hacker es seria en exceso, en Zeta (que no tengo claro si fue un homenaje a Mazinger Z, pero si lo fue, pues BIEN), se aporta un puntito de humor al estilo "Hellboy" que genera una dinámica mucho más interesante a mi gusto y lo hace más ligero.
-
 
 Aparte se nota que Zeta vino después y el estilo en el dibujo de Cano ha seguido evolucionando con respecto a Black Hacker, siendo más limpio y espectacular, con una narrativa mucho más fluida.
 
-
 Personalmente de las dos, Zeta es mi favorita y me hubiese gustado que tuviese más continuidad esta versión de Appleseed a la española. Si os interesa el tomo de Aleta creo que aún puede conseguirse y por lo visto viene bien repleto de extras.
 
-
-
-
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
 
 [#blackhacker](/tags/blackhacker) [#zeta](/tags/zeta) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#linealaberinto](/tags/linealaberinto) [#laberinto](/tags/laberinto) [#aletaediciones](/tags/aletaediciones) #

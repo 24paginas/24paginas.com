@@ -23,8 +23,8 @@ template: instagram
 author: neverbot
 ---
 
-Razones para no confiar en las editoriales: a veces te cuelan cosas como esta. 
+Razones para no confiar en las editoriales: a veces te cuelan cosas como esta.
 
-Pasaba por la librería y en el cajón de atrasados vi este one-shot que pone bien claro y grande: “Antes de Dinastía de X”. Pensé que me lo saltaría en su momento y sería algún tipo de número cero. Para nada. Es un Journey into Mistery de varios años antes, tiene cero relación con Dinastia de X o con los mutantes de Hickman. Y para terminar de rematar es malo como él solo, debió quedarse en el cajón de las cosas que no tiene sentido publicar en España. 
+Pasaba por la librería y en el cajón de atrasados vi este one-shot que pone bien claro y grande: “Antes de Dinastía de X”. Pensé que me lo saltaría en su momento y sería algún tipo de número cero. Para nada. Es un Journey into Mistery de varios años antes, tiene cero relación con Dinastia de X o con los mutantes de Hickman. Y para terminar de rematar es malo como él solo, debió quedarse en el cajón de las cosas que no tiene sentido publicar en España.
 
-Nota mental para la próxima: investigar por internet antes de comprar nada, siempre te la intentan colar. Muy mal Panini, muy mal. 
+Nota mental para la próxima: investigar por internet antes de comprar nada, siempre te la intentan colar. Muy mal Panini, muy mal.

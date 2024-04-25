@@ -23,14 +23,10 @@ author: neverbot
 
 Para el [#miercolesmanga](/tags/miercolesmanga) de hoy, Origin de Boichi. Cyberpunk del güeno.
 
-
 Roboces, peleas con espada, tiros, señoritas roboces también, no podemos pedir más. Y si este señor no es el mejor dibujante que ha surgido en la última década, que venga alguien a discutírmelo y nos batiremos en duelo al amanecer.
-
 
 No puedo contar mucho sin spoilear lo poco que sucede en el primer tomo, así que mi única recomendación es que si os animáis, compréis al menos los dos primeros para no terminar en mitad de un amable intercambio cultural entre robots en la última página.
 
-
 ¡Viva el manga por cosas como esta! Pensamiento de hoy: esto en anime no quedaría mal.
-
 
 ([@neverbot](https://instagram.com/neverbot))

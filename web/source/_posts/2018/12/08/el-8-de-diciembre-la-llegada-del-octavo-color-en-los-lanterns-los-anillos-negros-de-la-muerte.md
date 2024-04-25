@@ -24,14 +24,10 @@ author: neverbot
 
 El 8 de diciembre, la llegada del octavo color en los Lanterns, los anillos negros de la muerte.
 
-
 En Blackest Night se cerraba una larga saga de Geoff Johns donde se habían ido presentando a lo largo de varios años los guardianes de múltiples colores del espectro emocional, añadiéndose a los Green Lanterns y su fuerza de la voluntad. Aquí aparecían los malos malosos (que ya era difícil tener un nuevo bando peor que los Sinestro Corps, los Red Lanterns o el agente naranja, pero se consiguió), portando el color negro.
-
 
 Por desgracia la novedad duró poco, porque antes de terminar la saga también se presentó el noveno color, el White Lantern, que... bueno, ese ya lo dejamos para otro día.
 
-
 Y parece ser que recientemente han aparecido los ultravioleta... ¿apostamos cuánto tiempo hasta los infrarrojos?
-
 
 ([@neverbot](https://instagram.com/neverbot))

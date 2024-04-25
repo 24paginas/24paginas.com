@@ -22,17 +22,12 @@ author: neverbot
 
 No hay nada en esta vida que no se pueda explicar cómo una metáfora sobre fútbol.
 
-
 Santiago García es conocido como estudioso del cómic y como guionista de obrazas como Beowulf (con David Rubín), El vecino (con Pepo Pérez) o Las meninas (con Javier Olivares, y premio nacional de cómic 2015). Casi nada.
-
 
 Aquí se marca con Pablo Ríos una historia de historias aparentemente inconexas, unidas por un narrador común y un tema universal: el fútbol.
 
-
 Como entre ciertos círculos siempre será más mainstream renegar de lo mainstream, habrá un cierto público que no se acercará al tebeo solo por hablar de fútbol... y otros lectores, los que, como dice Pérez "sintieron aquel triunfo como algo personal", seguro que sacan unas cuantas cosas bonitas de esta lectura. Como yo.
 
-
 Lo de poner como título "La Novela Gráfica" ya tal.
-
 
 ([@neverbot](https://instagram.com/neverbot))

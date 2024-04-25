@@ -19,8 +19,6 @@ author: uncientovolando
 
 Paper Girls [#6](/tags/6)
 
-
 Más Erin's ¿más diversión?
-
 
 ([@uncientovolando](https://instagram.com/uncientovolando))

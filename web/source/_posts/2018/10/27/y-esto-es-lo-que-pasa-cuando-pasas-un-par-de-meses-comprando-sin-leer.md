@@ -21,16 +21,10 @@ author: neverbot
 
 Y esto es lo que pasa cuando pasas un par de meses comprando sin leer.
 
-
 La montaña de papel te come y hay que ponerse a ordenar y catalogar por dónde vas en cada colección.
-
 
 (Y aún no he empezado con lo de DC)
 
-
 He estado jugando un poco con [@whakoom](https://instagram.com/whakoom), aunque también sigo siendo mucho de papelitos con números y “sile, nole”. ¿Consejos?
-
-
-
 
 [@neverbot](https://instagram.com/neverbot)
