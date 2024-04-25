@@ -13,6 +13,3 @@ author: 24paginas
 ---
 
 ¡Llegamos a nuestro quinto mes de [@24paginas](https://instagram.com/24paginas)!
-
-
-

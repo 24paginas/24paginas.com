@@ -34,10 +34,3 @@ Además no me queda otra que alabar la buena labor que está haciendo [@eccedici
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

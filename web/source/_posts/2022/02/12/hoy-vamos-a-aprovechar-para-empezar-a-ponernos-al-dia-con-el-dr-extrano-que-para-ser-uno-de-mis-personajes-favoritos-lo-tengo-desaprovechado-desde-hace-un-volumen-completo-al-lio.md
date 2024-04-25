@@ -17,5 +17,3 @@ author: neverbot
 ---
 
 Hoy vamos a aprovechar para empezar a ponernos al día con el Dr. Extraño, que para ser uno de mis personajes favoritos, lo tengo desaprovechado desde hace un volumen completo. Al lío. 
-
-

@@ -26,5 +26,3 @@ Jason Aaron y Mahmud Asrar comenzaban una saga que luego ha ido incorporando a o
 La última grapa americana de Conan el Bárbaro llevó doble numeración y se correspondía con un histórico número 300, pero apareció en septiembre de 2021  y no hubo más. Buscando información en el ancho y largo Internet, a ver por qué estaba sucediendo esto, veo que se confirmó en Mayo que Marvel pierde los derechos de Conan al terminar el año 2022, y por eso han dejado de crear nuevas historias y sólo están publicando recopilatorios de la etapa original en Marvel.
 
 Espero que dé tiempo a terminar la reedición en formato Omnibus de esta etapa original por parte de [@paninicomicsespana](https://instagram.com/paninicomicsespana), porque si me quedo con una colección parcial de tomos que cuestan entre 50 y 75 euros cada uno, a lo mejor no me sienta bien... y ya estamos en el final de 2022.
-
-

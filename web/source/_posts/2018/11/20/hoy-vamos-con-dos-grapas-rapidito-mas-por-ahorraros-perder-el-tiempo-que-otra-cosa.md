@@ -46,6 +46,3 @@ Ya, a mi también me gustaría haber podido disfrutarlo más, que le vamos a hac
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

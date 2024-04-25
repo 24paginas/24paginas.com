@@ -36,6 +36,3 @@ Muy bonito y muy tierno todo en cualquier caso. Si le dais una oportunidad no os
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -28,6 +28,3 @@ Bueno, y por ver que, por aquel entonces, Thor ya iba apuntado con el martillo d
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

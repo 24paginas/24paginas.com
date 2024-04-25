@@ -28,6 +28,3 @@ Si no la habéis leído todavía, aprovechad la edición deluxe de [@ed.ivrea](h
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -20,10 +20,3 @@ Septiembre, mes de nuevo curso, nuevos proyectos y ganas renovadas.
 
 
 Vamos a por ello.
-
-
-
-
-
-
-

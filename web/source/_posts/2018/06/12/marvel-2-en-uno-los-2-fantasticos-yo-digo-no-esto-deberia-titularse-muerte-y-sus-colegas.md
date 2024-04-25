@@ -50,6 +50,3 @@ Escribe Chip Zdarsky ([@zdarsky](https://instagram.com/zdarsky)) y dibuja nuestr
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

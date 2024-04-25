@@ -51,6 +51,3 @@ Lo dicho, una pura gozada entre carcajada y carcajada, un "must" en toda regla q
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

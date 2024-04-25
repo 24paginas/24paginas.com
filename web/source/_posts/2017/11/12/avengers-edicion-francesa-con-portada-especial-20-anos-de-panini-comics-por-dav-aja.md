@@ -14,4 +14,3 @@ author: 24paginas
 ---
 
 Avengers edición francesa con portada especial 20 años de panini cómics por [@dav.aja](https://instagram.com/dav.aja) .
-

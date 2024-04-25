@@ -25,6 +25,3 @@ No, no lo necesito absolutamente para nada, pero así son las cosas.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

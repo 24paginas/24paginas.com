@@ -47,8 +47,3 @@ Por mi parte no puedo más que recomendarlo, como todo lo que hace el señor San
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

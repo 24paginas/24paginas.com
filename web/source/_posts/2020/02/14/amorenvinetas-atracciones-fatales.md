@@ -35,6 +35,3 @@ Por cierto.. a todo esto.. a día de hoy y con tanta muerte mediante... ¿Alguie
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

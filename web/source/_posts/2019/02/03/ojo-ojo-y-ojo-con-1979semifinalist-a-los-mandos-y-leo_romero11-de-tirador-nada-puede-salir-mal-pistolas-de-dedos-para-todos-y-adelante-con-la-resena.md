@@ -39,6 +39,3 @@ A día de hoy un "must read" como la copa de un pino, llenando perfectamente el 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

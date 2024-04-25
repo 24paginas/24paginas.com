@@ -23,10 +23,3 @@ Para combatir los lunes que se hacen cuesta arriba, queremos traeros las piezas 
 
 
 Eso, y que es más fácil hacer una foto a las cosas bonitas que tenemos que hacer una reseña 😊
-
-
-
-
-
-
-

@@ -24,10 +24,3 @@ Por lo demás la serie sigue más o menos como en el número anterior, mucha ref
 Este elemento permite hacer un homenaje al personaje y como extra traer al presente al vaquero Dos Pistolas Kid, con divertidas consecuencias. Y un posterior encuentro con Starfox con no tan (para nada) divertidas consecuencias.
 
 Pese al paso del tiempo, sigue siendo una serie fresca a la que no hace ningun favor los 30€ que cuesta el tomo de [@paninicomicsespana](https://instagram.com/paninicomicsespana). Aún así, una buena historia para fans de Hulka. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

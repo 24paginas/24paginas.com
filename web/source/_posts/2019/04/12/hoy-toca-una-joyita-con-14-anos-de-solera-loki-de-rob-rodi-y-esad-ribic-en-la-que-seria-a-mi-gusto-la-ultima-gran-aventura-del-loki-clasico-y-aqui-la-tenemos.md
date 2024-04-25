@@ -36,6 +36,3 @@ Vamos, que para echar un rato está muy bien, para entrar al universo asgardiano
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

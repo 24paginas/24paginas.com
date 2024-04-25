@@ -38,6 +38,3 @@ Pues claro que hay cosas más viejunas, era una pregunta retórica. Pero de vez 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

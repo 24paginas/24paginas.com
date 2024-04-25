@@ -42,6 +42,3 @@ En resumen, interesante como primer paso en una serie a la que merece echar un o
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

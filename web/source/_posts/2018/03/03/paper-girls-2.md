@@ -28,10 +28,3 @@ Las cosas extrañas se siguen sucediendo y no hay ni rastro de ningún adulto re
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

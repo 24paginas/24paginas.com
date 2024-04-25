@@ -31,6 +31,3 @@ Y como foto, la primera edición en castellano del Lobezno: Origen de Paul Jenki
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -43,8 +43,3 @@ En resumen, un golpe a la nostalgia. Ojalá y este (al parecer) pequeño despunt
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

@@ -27,6 +27,3 @@ Y no hace falta entrar en muchos detalles, sigue siendo una lectura del copón. 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

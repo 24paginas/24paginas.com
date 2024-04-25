@@ -42,6 +42,3 @@ Tuvimos que esperar hasta la reedición japonesa Dragon Ball Chozensyu del 2013 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

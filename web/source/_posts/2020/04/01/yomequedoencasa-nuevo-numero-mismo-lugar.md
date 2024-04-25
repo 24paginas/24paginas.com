@@ -18,10 +18,3 @@ author: 24paginas
 
 
 Llega abril sin, a priori, novedades pero con algunos cómics todavía en la estantería. Seguramente las reseñas y contenidos sean menos, pero seguimos aquí junto a vosotros.
-
-
-
-
-
-
-

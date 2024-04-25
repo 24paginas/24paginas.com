@@ -45,8 +45,3 @@ Estáis tardando ;-)
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

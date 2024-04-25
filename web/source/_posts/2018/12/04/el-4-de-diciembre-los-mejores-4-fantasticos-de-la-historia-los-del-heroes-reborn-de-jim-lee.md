@@ -32,6 +32,3 @@ Este no os lo esperabais ¿eh? Ahora me diréis que los 4F de John Byrne son mej
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

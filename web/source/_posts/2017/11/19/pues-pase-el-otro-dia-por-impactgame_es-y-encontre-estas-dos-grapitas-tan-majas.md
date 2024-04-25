@@ -21,9 +21,3 @@ El tema es que a ver, no están nada mal, y por lo que he visto el baile de auto
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

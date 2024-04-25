@@ -34,10 +34,3 @@ Además, puedes compartir la publicación en tus Stories (puede que no te de mas
 
 
 *Sorteo válido para España. Hasta el 16/12 a las 24h.
-
-
-
-
-
-
-

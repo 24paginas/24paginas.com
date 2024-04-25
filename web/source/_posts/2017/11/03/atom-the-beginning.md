@@ -18,9 +18,3 @@ Atom The Beginning. Una puta maravilla que nos trae [@mwediciones](https://insta
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

@@ -46,10 +46,3 @@ También tenemos que remontarnos en el tiempo para la inspiración del lettering
 
 
 LOS DAVIDES VOLVERÁN EN 24 PÁG. ESPECIAL GRAPA.
-
-
-
-
-
-
-

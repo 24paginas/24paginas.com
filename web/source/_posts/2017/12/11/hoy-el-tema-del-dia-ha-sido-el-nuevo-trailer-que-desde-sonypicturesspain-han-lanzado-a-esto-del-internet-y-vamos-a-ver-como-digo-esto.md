@@ -51,8 +51,3 @@ Y por si no lo habéis visto, que estáis tardando, aquí tenéis la url: https:
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

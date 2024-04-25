@@ -22,5 +22,3 @@ author: neverbot
 Algunos tomos manga más que me han venido este mes. Con Gigant ya acaba la colección, una menos :) Me faltan algunos tomos por leer, así que tocará maratón final. 
 
 Goblin Slayer sí que la llevo muy atrasada, creo recordar que iba leyendo por el tercero o cuarto, aunque voy al día con el anime así que no me corre mucha prisa.
-
-

@@ -23,10 +23,3 @@ Tras 24 números, cerramos la serie 1 de nuestros cromos. Para la siguiente entr
 
 
 Autores... Assemble!
-
-
-
-
-
-
-

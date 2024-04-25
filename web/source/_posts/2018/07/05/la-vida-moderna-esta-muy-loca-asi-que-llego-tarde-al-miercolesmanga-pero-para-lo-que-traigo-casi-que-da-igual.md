@@ -40,6 +40,3 @@ Y ahora el [#drama](/tags/drama). Porque lo triste es que el dibujo no es malo y
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

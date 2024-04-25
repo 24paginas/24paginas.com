@@ -42,6 +42,3 @@ Seguiremos informando.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

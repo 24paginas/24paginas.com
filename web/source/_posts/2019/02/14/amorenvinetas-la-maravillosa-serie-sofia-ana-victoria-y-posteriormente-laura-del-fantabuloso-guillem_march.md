@@ -36,6 +36,3 @@ Guillem, todos sabemos que los trabajos para DC pagan las facturas, pero queremo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

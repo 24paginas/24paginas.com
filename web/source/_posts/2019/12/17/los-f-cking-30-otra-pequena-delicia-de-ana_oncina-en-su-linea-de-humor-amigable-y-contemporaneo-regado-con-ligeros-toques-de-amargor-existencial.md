@@ -32,6 +32,3 @@ En resumen, recomendable a todos los niveles con una edición más que correcta 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

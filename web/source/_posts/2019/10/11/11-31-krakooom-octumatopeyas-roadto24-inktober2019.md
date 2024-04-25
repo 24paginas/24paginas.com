@@ -29,10 +29,3 @@ Vamos a por el fin de semana con el sonido del trueno, el sonido de la transform
 
 
 Para saber más sobre la etapa de Jason Aaron, buscad la [#NOVEASLAgrafica](/tags/noveaslagrafica) que hicimos en colaboración con [@zonanegativa](https://instagram.com/zonanegativa).
-
-
-
-
-
-
-

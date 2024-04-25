@@ -49,6 +49,3 @@ Simplemente me encanta lo que cuenta y sobretodo, cómo lo cuenta. Da la sensaci
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

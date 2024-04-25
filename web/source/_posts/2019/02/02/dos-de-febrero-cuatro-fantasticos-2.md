@@ -38,10 +38,3 @@ Queda ver hacia dónde viaja esta nueva serie que, aún con cosas muy interesant
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

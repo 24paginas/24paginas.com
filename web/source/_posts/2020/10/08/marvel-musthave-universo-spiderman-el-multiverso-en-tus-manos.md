@@ -35,10 +35,3 @@ Una buena edición para recuperar esta historia, complementada como es habitual 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

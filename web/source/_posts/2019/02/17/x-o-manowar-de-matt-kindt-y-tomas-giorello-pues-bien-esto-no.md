@@ -34,6 +34,3 @@ Y creo que con X-O Manowar he dado en el clavo. Un personaje mucho más individu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

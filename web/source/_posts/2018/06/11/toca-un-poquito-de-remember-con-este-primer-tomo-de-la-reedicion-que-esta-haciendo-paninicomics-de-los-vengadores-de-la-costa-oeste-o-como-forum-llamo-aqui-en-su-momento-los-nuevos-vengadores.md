@@ -48,8 +48,3 @@ Aún así, Roger Stern y Mark Gruenwald ampliando con su buen hacer toda su épo
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

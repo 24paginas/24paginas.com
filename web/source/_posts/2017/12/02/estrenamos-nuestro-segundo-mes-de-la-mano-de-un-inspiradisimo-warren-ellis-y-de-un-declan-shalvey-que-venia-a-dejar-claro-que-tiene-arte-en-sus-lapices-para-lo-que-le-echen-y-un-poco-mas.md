@@ -40,8 +40,3 @@ En resumen, imprescindible si te gustan los buenos tebeos y totalmente accesible
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

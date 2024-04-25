@@ -45,6 +45,3 @@ Clint, cuando te preguntes “¿Cómo llegamos a esto?” recuerda que no fue cu
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

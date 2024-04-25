@@ -26,5 +26,3 @@ Recuerdo leer la primera edición prestada en lo que los viejuner hemos acabado 
 En cuando se reeditó en formato tankōbon tuve que hacerme con ella, y si algún día aparece una edición mejor ¡con extras! no sé si podré controlarme.
 
 No cuento los tomos 14 y 15 que pertenecen a la serie Video Girl Len y en mi recuerdo eran innecesarios.
-
-

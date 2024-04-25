@@ -32,10 +32,3 @@ Yaba daba doo!
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

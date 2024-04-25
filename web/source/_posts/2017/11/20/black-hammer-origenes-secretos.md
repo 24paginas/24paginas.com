@@ -28,10 +28,3 @@ Buen principio para una serie que pronto se expandirá con un spin-of protagoniz
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

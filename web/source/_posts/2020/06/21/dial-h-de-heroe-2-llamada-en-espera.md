@@ -28,10 +28,3 @@ Como punto negativo, el último número de esta entrega no está dibujado por el
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

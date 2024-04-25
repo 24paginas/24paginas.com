@@ -43,6 +43,3 @@ Seguiré con mi relectura cuando me haya recuperado de esta bajona.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

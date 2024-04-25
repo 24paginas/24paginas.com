@@ -16,10 +16,3 @@ Fabuloso Febrero: Comenzamos mes corto pero intenso aligerándonos al máximo.
 
 
 ¡Bienvenidos!
-
-
-
-
-
-
-

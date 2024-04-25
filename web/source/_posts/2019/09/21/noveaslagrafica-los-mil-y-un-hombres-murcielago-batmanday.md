@@ -41,5 +41,3 @@ author: 24paginas
 Llegó el día. Batman ha cumplido 80 años y su cabecera original, la que da nombre a su editorial, ha alcanzado los 1000 números. Aunque este aniversario fue en mayo. Pero la casualidad y un calendario bien planificado han hecho que la celebración coincida con la edición especial del [#DetectiveComics1000](/tags/detectivecomics1000) por parte de [@eccediciones](https://instagram.com/eccediciones), con portada especial de [@davidrubinm](https://instagram.com/davidrubinm), además de una cuantas exclusivas para diferentes librerías especializadas.
 
 Y aunque todos sabemos que bajo las orejas de murciélago se encuentra el millonario Bruce Wayne, en estas ocho décadas han sido muchos los que han vestido su traje. Para bien o para mal. Repasamos a la mayoría de ellos, algunos se habrá escapado entre las sombras, en nuestra particular Guia de lectura de Batmans (así, en plural). Al Batmóvil!
-
-

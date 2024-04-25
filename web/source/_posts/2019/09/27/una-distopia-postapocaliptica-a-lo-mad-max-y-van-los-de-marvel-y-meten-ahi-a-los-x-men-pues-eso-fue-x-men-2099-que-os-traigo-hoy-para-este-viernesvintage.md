@@ -34,6 +34,3 @@ Por suerte aún quedaba otro volumen donde todo cambiaría de nuevo.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

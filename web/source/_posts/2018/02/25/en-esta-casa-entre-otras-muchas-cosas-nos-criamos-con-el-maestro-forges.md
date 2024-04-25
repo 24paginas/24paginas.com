@@ -28,8 +28,3 @@ Desde aquí nuestro pequeño homenaje y recuerdo a un genio inolvidable.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

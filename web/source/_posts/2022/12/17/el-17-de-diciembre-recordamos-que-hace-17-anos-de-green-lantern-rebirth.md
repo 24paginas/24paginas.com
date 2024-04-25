@@ -25,5 +25,3 @@ En Marvel esto quizá no fue nunca de tanta importancia, si no contamos al Capit
 Al menos nos quedamos con que las vueltas de Green Arrow, en Carcaj, y posteriormente Green Lantern, en este Renacimiento, estuvieron bien contadas y merecieron la pena.
 
 De que Flash sea Barry Allen en lugar de Wally West ya hablamos otro día :(
-
-

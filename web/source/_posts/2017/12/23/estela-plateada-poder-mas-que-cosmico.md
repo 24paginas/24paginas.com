@@ -40,10 +40,3 @@ Una historia más grande por dentro que por fuera.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

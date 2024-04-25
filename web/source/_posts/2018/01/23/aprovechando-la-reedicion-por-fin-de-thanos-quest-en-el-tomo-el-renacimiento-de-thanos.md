@@ -34,10 +34,3 @@ Sin duda, ahora que van a reeditar todas esas historias en una colección que ya
 
 
 Esperemos que el reciente desacuerdo por el que el señor Starlin ha dejado Marvel no sea tan definitivo como este pregona, pero mientras tanto, habrá que disfrutar de su obra calentando motores con este tomo de cara a la llegada del Guantelete de Infinito. Un [#musthave](/tags/musthave) en toda regla, y más aún si vienes de ver las películas y no conoces quien es el Titán Loco.
-
-
-
-
-
-
-

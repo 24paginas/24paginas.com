@@ -45,10 +45,3 @@ Amazing Spider-Man [#800](/tags/800) - Un número redondo aparecido hace ya unos
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

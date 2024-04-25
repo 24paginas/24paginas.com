@@ -29,5 +29,3 @@ Por ejemplo, el anterior volumen de Thor, que se publicó en castellano del 2008
 Por ejemplo, en el número 12 se incluía este Thor: The Truth of History que hizo [#alandavis](/tags/alandavis) de relleno para tapar unos retrasos en la serie regular usa.
 
 Y eso es lo que es, un especial fuera de la historia habitual, ambientado hace cuatro mil años (año arriba, año abajo), que lógicamente es completamente prescindible… pero ahí lo tengo, rellenando un hueco. No tengo perdón.
-
-

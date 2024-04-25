@@ -35,10 +35,3 @@ Gerónimo!
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

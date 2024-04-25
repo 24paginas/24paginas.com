@@ -53,8 +53,3 @@ https://youtu.be/6ZfuNTqbHE8
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

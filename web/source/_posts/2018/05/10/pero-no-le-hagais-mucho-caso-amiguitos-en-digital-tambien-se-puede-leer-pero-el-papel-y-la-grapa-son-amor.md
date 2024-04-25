@@ -16,6 +16,3 @@ author: 24paginas
 ---
 
 Pero no le hagáis mucho caso, amiguitos. En digital también se puede leer. Pero el papel y la grapa son AMOR.
-
-
-

@@ -27,10 +27,3 @@ Up, up and away!
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

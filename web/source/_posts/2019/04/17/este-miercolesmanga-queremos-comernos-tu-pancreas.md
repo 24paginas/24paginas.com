@@ -40,6 +40,3 @@ Menciono específicamente la traducción: le he encontrado muchas expresiones qu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

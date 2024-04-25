@@ -31,6 +31,3 @@ Pero a toro pasado hay que tener en cuenta varias cosas: que Layla Miller sigue 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

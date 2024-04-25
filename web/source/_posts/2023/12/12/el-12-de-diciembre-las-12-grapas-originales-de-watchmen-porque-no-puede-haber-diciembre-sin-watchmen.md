@@ -18,5 +18,3 @@ author: neverbot
 El 12 de Diciembre, las 12 grapas originales de Watchmen... porque no puede haber Diciembre sin Watchmen.
 
 Todos los años cuelo alguna foto relativa a esto... pero es que Alan Moore es mucho Alan Moore. ¿Toca relectura? Toca relectura.
-
-

@@ -32,6 +32,3 @@ El uno de diciembre, un nuevo número uno para el número uno de todos los traje
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

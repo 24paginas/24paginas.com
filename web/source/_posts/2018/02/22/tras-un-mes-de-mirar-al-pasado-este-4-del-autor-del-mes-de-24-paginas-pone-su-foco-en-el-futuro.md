@@ -36,10 +36,3 @@ Pasaos por su cuenta y no le quitéis ojo a su trabajo, nosotros desde luego no 
 
 
 PD: Esperamos que en la próxima edición de [#LosProfesionales](/tags/losprofesionales) se pueda volver a contar con él entre los invitados, que esta última nos fue imposible coincidir y nos quedamos con las ganas.
-
-
-
-
-
-
-

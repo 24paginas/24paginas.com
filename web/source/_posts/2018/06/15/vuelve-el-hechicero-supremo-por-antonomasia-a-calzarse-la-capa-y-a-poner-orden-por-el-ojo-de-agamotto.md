@@ -44,8 +44,3 @@ Y mira que venía con ganas, que de este personaje conozco lo justo y es muy fá
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz)).
-
-
-
-
-

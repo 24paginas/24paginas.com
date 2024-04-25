@@ -49,8 +49,3 @@ Y bueno, otra alineación futurista más que habrá que ver si alguien recupera 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

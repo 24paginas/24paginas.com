@@ -39,6 +39,3 @@ Y después desapareció. Publicó algún producto menor para el mercado francés
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

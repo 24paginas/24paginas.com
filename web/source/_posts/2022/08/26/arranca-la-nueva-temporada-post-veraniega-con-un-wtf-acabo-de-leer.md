@@ -26,5 +26,3 @@ Arranca la nueva temporada post-veraniega con un “WTF acabo de leer”.
 La frontera invisible, otra entrega de la serie Las ciudades oscuras. En este caso está dividida en dos tomos, pero este primero no me ha convencido lo suficiente como para leer el segundo. Quizá la culpa sea mía, porque recuerdo haber leído hace tiempo Las murallas de Samaris, otra entrega de la serie, y me parece que no soy su público. 
 
 Schuiten y Peeters aquí no me han convencido. ¿Opiniones?
-
-

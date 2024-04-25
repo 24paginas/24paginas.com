@@ -29,6 +29,3 @@ Gracias [@correos](https://instagram.com/correos), por pensar en el placer de la
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

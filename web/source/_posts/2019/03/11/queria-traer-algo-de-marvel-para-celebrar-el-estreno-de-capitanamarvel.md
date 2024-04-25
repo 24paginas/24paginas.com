@@ -49,6 +49,3 @@ En resumen, que no tiene desperdicio.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

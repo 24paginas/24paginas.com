@@ -25,10 +25,3 @@ Un álbum precioso que brilla en la edición de [@norma_editorial](https://insta
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

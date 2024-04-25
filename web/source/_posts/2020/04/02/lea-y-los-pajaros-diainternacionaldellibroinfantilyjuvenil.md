@@ -26,10 +26,3 @@ Una pequeña aventura estupendamente narrada sin palabras y muy accesible para l
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

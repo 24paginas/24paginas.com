@@ -21,5 +21,3 @@ Oblivion Song de Robert Kirkman. Meh. Me hice con el primer tomo de la primera e
 Tres tomos de Planeta y tres de ECC, cuya filosofía editorial es hacer tiradas pequeñas que se agoten para que no puedas completar colecciones nunca, y sacar un año después lo mismo en otro formato. No encontrare los otros cinco tomos en esta edición y no tengo ganas de recomprar en la siguiente (si es que no está agotada ya).
 
 Problemas del primer mundo. Probablemente se quede aquí esta colección.
-
-

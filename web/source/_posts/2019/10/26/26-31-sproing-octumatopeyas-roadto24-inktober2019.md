@@ -25,10 +25,3 @@ author: 24paginas
 
 
 Tarde de sábado. Otoño. El momento perfecto para una aventura como “Tellos”. De ahí hemos sacado nuestra onomatopeya de hoy, aprovechando la reciente reedición de la obra de Todd Dezago y nuestro añorado Mike Wieringo por parte de [@dolmeneditorial](https://instagram.com/dolmeneditorial), el 25 aniversario de la editorial.
-
-
-
-
-
-
-

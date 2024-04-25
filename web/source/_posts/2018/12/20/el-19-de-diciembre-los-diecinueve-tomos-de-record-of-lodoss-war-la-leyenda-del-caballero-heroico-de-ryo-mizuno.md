@@ -35,6 +35,3 @@ Las fotos y la idea original de empezar a investigar cómo iba esto de Lodoss so
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

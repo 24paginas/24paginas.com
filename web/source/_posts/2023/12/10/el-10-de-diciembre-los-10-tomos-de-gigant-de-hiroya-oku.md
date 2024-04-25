@@ -28,5 +28,3 @@ Ciencia ficción apocalíptica, un vejete en calzoncillos venido del futuro, un 
 Y a día de hoy sigo sin poder añadir mucho más, porque el nivel de ida de pinza contenido en estas páginas sólo puede nacer de subir el locurómetro al máximo.
 
 No es para todo el mundo, lo sé, el fanservice ecchi/hentai está ahí y a quien no le guste, que no mire. Pero un público hay a quienes estas cosas nos sacan una carcajada. Sólo pido pocos unfollows.
-
-

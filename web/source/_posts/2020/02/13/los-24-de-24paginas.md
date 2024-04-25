@@ -40,10 +40,3 @@ En la lista podéis encontrar nombres como (espero que perdonen el etiquetado ma
 
 
 ¡El crossover más ambicioso desde Avengers Endgame!
-
-
-
-
-
-
-

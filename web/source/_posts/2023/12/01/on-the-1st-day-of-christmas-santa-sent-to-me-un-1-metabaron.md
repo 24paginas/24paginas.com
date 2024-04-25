@@ -24,5 +24,3 @@ Retomamos la tradición navideña del calendario de adviento para inventarnos co
 El uno de Diciembre tenemos a un Metabarón, porque sólo puede haber uno. Y hasta que el hijo no mate al padre, no puede convertirse en el siguiente Metabarón. Sólo puede quedar, digooo, haber uno.
 
 Este año he leído, por fin, una de mis tareas tebeíles pendientes: La Casta de los Metabarones, y por algún sitio tengo que continuar porque yo quiero saber más de esta gente.
-
-

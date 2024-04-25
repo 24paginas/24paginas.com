@@ -36,10 +36,3 @@ Y es que el objetivo final de este libro es que pudieras crear tus páginas de p
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

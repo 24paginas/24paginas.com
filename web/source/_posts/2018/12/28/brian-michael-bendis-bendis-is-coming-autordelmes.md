@@ -36,10 +36,3 @@ Brillante creador de personajes nuevos, abridor de caminos que no se terminan de
 
 
 Bendis, vidi, vici!
-
-
-
-
-
-
-

@@ -40,6 +40,3 @@ En la base de datos de la distribuidora aparece un tomo 24 para diciembre, sin p
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

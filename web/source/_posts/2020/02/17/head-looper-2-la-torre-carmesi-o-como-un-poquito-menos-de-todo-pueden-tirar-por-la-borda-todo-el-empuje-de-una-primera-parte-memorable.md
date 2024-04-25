@@ -37,6 +37,3 @@ Veremos si para el tercero remonta. Y por fin nos cuentan algo más de Ágata y 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

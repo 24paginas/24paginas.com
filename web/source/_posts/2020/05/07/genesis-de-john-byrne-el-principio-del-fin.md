@@ -30,10 +30,3 @@ Puede no ser el mejor Byrne, tampoco el mejor punto del Universo DC (ese Superma
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -23,5 +23,3 @@ Novedades de [#PlanetaComic](/tags/planetacomic) para el mes de Enero.
 Reseñables: continúa la reedición de [#Mage](/tags/mage) en tres integrales, nuevo tomo de [#Spawn](/tags/spawn) (sigh, no lo tendremos en grapa), termina la nueva serie de [#Azzarello](/tags/azzarello) y [#Risso](/tags/risso) y el cuarto álbum del [#Conan](/tags/conan) europeo de Glénat (lo que me recuerda que me he saltado el tercero).
 
 Incluye entrevista a Paulina Palacios y una nueva mini sección para descubrir Librerías, que siempre es de agradecer.
-
-

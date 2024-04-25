@@ -32,6 +32,3 @@ No puedo alabar aún más a Hickman y Dragotta, porque esto es top ahora mismo, 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -21,10 +21,3 @@ Tenia ganas de hablar sobre [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_
 Jóvenes en busca de su lugar en el mundo y relaciones humanas se mezclan en Una historia de esas un tanto febriles, entre la normalidad y la sensación de que algo muy inquietante se oculta a la vuelta de la página. Hasta que al final lo encuentras, y ni el estilo amable de su dibujo puede evitar que te de un escalofrío. Es más, diría que lo potencia.
 
 Un buen cómic para entrar en su obra, aunque hay que recordar que la experiencia [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_ al completo (como con Ter o la capacidad para la tontería de nuestro compañero [@hecdruiz](https://instagram.com/hecdruiz)) solo se tiene si sigues sus redes. En sus stories y su cuenta de twitter podéis encontrar sueños loquísimos, experiencias con tinder y viajes a los lugares más inesperados. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

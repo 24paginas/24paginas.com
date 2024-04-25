@@ -37,6 +37,3 @@ Por último, viendo el portadote que se viene para X-Force, me queda la espinita
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

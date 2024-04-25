@@ -47,8 +47,3 @@ Y como dice nuestra querida Jen Walters... ¡Feliz Navidad!
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

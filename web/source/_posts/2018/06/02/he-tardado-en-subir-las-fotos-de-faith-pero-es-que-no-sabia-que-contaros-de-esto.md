@@ -37,6 +37,3 @@ Llevadme la contraria en los comentarios si me equivoco mucho con esto.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

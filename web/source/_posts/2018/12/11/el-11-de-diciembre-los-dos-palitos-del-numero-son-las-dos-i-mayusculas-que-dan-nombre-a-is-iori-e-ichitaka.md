@@ -37,6 +37,3 @@ Va tocando una relectura para estas navidades, igual que quizá va tocando una r
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

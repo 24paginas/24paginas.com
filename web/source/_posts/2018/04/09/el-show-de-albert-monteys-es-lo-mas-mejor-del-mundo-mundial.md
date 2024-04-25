@@ -34,6 +34,3 @@ Y si tengo que discutirlo con los otros veinticuatros, nos citaremos a primera s
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

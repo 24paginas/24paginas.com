@@ -24,6 +24,3 @@ Sigo con mi relectura de Bakuman, ya por el tomo 10. Todo lo bueno y todo lo mal
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

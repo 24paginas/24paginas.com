@@ -34,6 +34,3 @@ Las historias de Miki y Yuu y sus amigos del instituto a día de hoy tienen un p
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

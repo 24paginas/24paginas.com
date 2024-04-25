@@ -42,10 +42,3 @@ Pronto empezaremos a enviar los ejemplares reservados y podréis encontrar algú
 
 
 Esperamos que os guste. 'Nuff said!
-
-
-
-
-
-
-

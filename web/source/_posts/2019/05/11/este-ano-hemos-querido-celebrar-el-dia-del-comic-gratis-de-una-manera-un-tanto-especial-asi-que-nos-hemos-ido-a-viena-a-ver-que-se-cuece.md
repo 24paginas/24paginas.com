@@ -40,8 +40,3 @@ Y como nota aparte el descubrimiento de ASH (Austrian Superheroes), que me ha re
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

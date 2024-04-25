@@ -31,10 +31,3 @@ En las últimas fechas se ha editado "El show de Albert Monteys" recogiendo sus 
 
 
 Tres trabajos completamente distintos que muestran una versatilidad sorprendente y nos dejan con ganas de verle dibujando más y más cosas.
-
-
-
-
-
-
-

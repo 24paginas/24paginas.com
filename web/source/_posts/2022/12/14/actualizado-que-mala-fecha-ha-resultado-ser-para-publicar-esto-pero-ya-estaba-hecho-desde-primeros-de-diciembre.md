@@ -22,5 +22,3 @@ El 14 de Diciembre, 14 de Julio, de Bastien Vivès ([@bastienvives](https://inst
 Parece un trabalenguas... el 14 de Diciembre, 14 de Julio... Si es que lo mucho que me gusta a mi el señor Vivès no está escrito.
 
 Las ediciones de [@diaboloediciones](https://instagram.com/diaboloediciones) son muy bonitas, yo sólo les pediría que ocupasen un poco menos, que con menos gramaje de papel caben más libros en la estantería, y la sección de Vivès ya se me está llevando un hueco entero 😅 Me van faltando cada vez menos cosas para completar la bibliografía completa, que es una maravilla.
-
-

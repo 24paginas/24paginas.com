@@ -37,8 +37,3 @@ Toques de fantasía, mucho humor, fanservice en la línea de la época, un dibuj
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

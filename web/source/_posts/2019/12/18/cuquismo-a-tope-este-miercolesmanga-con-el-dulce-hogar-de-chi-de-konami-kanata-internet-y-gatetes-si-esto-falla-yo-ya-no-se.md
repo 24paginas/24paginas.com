@@ -27,6 +27,3 @@ A ver, básicamente es la historia de un pequeño cachorrillo gatuno que encuent
 
 Además la edición que nos trajo en su momento [#Glenat](/tags/glenat) ha sido fielmente mantenida por parte de [@planetadcomic](https://instagram.com/planetadcomic) hasta completar la colección de 12 tomos. Lo cual se agradece MUCHO. Hasta yo que soy más de perros he picado. .
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

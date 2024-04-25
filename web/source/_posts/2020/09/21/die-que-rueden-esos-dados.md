@@ -40,6 +40,3 @@ En resumen, un valiente brindis al sol de cara al rol y a dungeons & dragons, qu
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

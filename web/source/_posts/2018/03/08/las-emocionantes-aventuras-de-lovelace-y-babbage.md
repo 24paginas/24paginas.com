@@ -29,10 +29,3 @@ Con un dibujo agradablemente cartoon y numerosas notas y documentación, este li
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

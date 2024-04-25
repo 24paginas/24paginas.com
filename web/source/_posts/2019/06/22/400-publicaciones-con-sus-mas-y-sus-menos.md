@@ -39,6 +39,3 @@ Una pena porque era una época con el mejor [@officialmarkbagleyart](https://ins
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

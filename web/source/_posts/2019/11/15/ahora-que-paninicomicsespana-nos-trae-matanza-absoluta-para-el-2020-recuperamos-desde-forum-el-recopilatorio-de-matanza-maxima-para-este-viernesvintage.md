@@ -47,6 +47,3 @@ Así que sólo nos queda ver que nos trae el nuevo evento pero ya os digo que, c
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

@@ -35,6 +35,3 @@ No entro en detalles, igual que no hay fotos del interior del tebeo, porque prá
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

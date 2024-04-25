@@ -41,6 +41,3 @@ Así que en el tomo dos debería dar inicio la reedición de la que fue serie re
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -36,6 +36,3 @@ Lo de poner como título "La Novela Gráfica" ya tal.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -17,5 +17,3 @@ author: neverbot
 El 2 de diciembre, los 2 cuernos de Hellboy, llave del infierno.
 
 Con esas cuatro grapas (en pesetas) comenzaba la andadura de Hellboy y su universo en España, y hasta nuestros días, contando tantos tomos y spin-offs que es casi imposible haberlo leído todo.
-
-

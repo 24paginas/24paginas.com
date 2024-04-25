@@ -14,5 +14,3 @@ author: 24paginas
 ---
 
 Nuevo mes, nuevas aventuras.
-
-

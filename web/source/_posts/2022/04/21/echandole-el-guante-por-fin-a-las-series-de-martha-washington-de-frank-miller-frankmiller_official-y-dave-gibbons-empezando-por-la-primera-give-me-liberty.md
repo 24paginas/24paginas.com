@@ -26,5 +26,3 @@ Echándole el guante por fin a las series de Martha Washington de Frank Miller [
 Todo bien aquí, incluso esa ciencia ficción casi ochentera (de 1990 es esta primera serie) que esperaba que hubiese envejecido peor y me ha seguido pareciendo de actualidad.
 
 Podéis seguir diciendo lo que queráis de Frank Miller, esta ha estado bien.
-
-

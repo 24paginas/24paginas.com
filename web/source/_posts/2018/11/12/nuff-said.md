@@ -17,10 +17,3 @@ Hace unas horas nos enterábamos de la triste noticia del fallecimiento de Stan 
 
 
 Sin él nada de esto existiría. Gracias por todo [#StanLee](/tags/stanlee). Excelsior!
-
-
-
-
-
-
-

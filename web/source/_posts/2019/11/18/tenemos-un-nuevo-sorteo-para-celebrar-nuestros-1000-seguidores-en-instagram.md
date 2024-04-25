@@ -33,10 +33,3 @@ Para participar tienes que:
 
 Tienes hasta el día 24 de noviembre para participar. 
 Sorteo solo disponible para península. ¡Muchas gracias y buena suerte!
-
-
-
-
-
-
-

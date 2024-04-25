@@ -25,10 +25,3 @@ Retomamos las micro-reseñas de Paper Girls tras un descanso mayor del deseado d
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

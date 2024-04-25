@@ -31,6 +31,3 @@ Seis pequeños tomos, publicados aquí por [@diaboloediciones](https://instagram
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

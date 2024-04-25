@@ -36,5 +36,3 @@ Contexto: finales de los noventa, Internet incipiente al que no todo el mundo te
 El manga es y la vez no es una obra derivativa, se creó a la vez que el anime por parte del diseñador de personajes (grande entre los grandes) Yoshiyuki Sadamoto… y aquí es donde yo me engancho de nuevo 25 años después a ver si esta vez termino de entenderlo todo, porque sí, esto lo merece. 
 
 Si el fenómeno Evangelion, que cambió la industria del anime en su momento, hubiese sucedido hoy, la cantidad de memes que usaríamos cada día con Shinji y Gendo sería incalculable. 
-
-

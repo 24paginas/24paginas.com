@@ -35,6 +35,3 @@ Si no sabéis de lo que hablo pasad por su perfil de twitter o instagram, pero o
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

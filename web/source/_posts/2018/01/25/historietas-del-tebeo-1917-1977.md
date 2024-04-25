@@ -35,6 +35,3 @@ Revistas infantiles, sátira política, publicaciones oficiales del régimen fra
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

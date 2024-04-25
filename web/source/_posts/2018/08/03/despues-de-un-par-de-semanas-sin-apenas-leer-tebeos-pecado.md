@@ -46,6 +46,3 @@ Ah, se me olvidaba. La visión es un tebeo del copón bendito, de lo mejor de su
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

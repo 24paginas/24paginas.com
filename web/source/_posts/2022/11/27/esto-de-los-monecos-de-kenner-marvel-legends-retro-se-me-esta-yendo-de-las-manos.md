@@ -19,5 +19,3 @@ author: neverbot
 Esto de los moñecos de [#Kenner](/tags/kenner) Marvel Legends Retro se me está yendo de las manos. 
 
 Es una pena que en la “ficha” que viene por detrás del cartón no indique muchos datos sobre el personaje, pero por el traje ¿deberíamos suponer que es Hank Pym? ¿Scott Lang ha vestido alguna vez un traje idéntico al original? Hago un llamamiento a los expertos en Vengadores. 
-
-

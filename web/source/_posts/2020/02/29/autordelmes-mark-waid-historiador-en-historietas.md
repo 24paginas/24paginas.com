@@ -23,10 +23,3 @@ Mark Waid es uno de esos guionistas que parecen atesorar un conocimiento casi un
 
 
 Con “Historia del Universo Marvel” lleva ese conocimiento un poco más allá para unificar los hitos ficticios de La Casa de las Ideas. Un trabajo complicado de selección, organización y narración que queda especialmente fluido gracias al arte de [@javiercaster](https://instagram.com/javiercaster) y Álvaro López.
-
-
-
-
-
-
-

@@ -34,6 +34,3 @@ En este mundo oscuro solo ficción puede salvarnos.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

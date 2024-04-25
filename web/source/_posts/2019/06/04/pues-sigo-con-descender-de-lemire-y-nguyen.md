@@ -30,6 +30,3 @@ Cuando lo leí me gustó, pero si no ha permeado en mis recuerdos no sé qué pe
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

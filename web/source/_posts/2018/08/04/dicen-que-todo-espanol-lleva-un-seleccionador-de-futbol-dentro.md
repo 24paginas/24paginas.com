@@ -26,10 +26,3 @@ Un buen ejercicio de autoficción y memoria que nunca está de más.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

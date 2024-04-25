@@ -34,10 +34,3 @@ Un joven talento a tener muy en cuenta.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

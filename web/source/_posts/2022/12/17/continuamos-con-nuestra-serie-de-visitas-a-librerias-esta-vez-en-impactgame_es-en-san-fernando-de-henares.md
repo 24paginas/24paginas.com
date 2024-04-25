@@ -19,5 +19,3 @@ author: neverbot
 Continuamos con nuestra serie de visitas a librerías, esta vez en [@impactgame_es](https://instagram.com/impactgame_es), en San Fernando de Henares.
 
 Comic, manga en cantidades ingentes, mogollón de merchandising y figuras, una gran sección de videojuegos, anime y hasta varias vitrinas llenas de productos de k-pop. Si estáis por el lado este de Madrid, tenéis que acercaros y echar un vistazo.
-
-

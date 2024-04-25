@@ -23,10 +23,3 @@ Para completar el pack, nuestra ruta hizo una parada en [#TheCómicCo](/tags/the
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

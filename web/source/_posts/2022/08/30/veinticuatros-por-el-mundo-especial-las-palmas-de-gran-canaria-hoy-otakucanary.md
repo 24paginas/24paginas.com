@@ -28,5 +28,3 @@ Veinticuatros por el mundo especial Las Palmas de Gran Canaria: hoy [@otakucanar
 Estas vacaciones hemos estado en Gran Canaria y hemos visitado unas cuantas tiendas que iremos compartiendo por aquí, y empezamos por una pequeña pero con el encanto de tener un montón de merchandising curioso.
 
 Estuve un rato charlando con el dependiente y a punto estuve de llevarme una edición de coleccionista de Sword Art Online: Fatal Bullet… pero el pensamiento de tener que traérmela de vuelta facturada en la maleta lo impidió. Quizá la próxima 😅
-
-

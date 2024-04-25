@@ -25,6 +25,3 @@ En este número asistimos a un largo diálogo entre Mr. Milagro y Big Barda mien
 
 
 Un buen número que ataca al corazoncito y muestra lo mejor de King, rítmicamente dibujado por [@mitchgerads](https://instagram.com/mitchgerads).
-
-
-

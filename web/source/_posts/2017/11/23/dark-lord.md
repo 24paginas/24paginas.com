@@ -39,8 +39,3 @@ Mi consejo es que le deis una oportunidad porque si te interesa un mínimo la pr
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

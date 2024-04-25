@@ -19,5 +19,3 @@ author: neverbot
 ---
 
 Lee tebeos, compra tebeos, y coge también tebeos de tu biblioteca. 
-
-

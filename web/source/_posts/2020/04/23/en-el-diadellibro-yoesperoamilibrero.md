@@ -31,10 +31,3 @@ Pocas fiestas se celebran es esta casa con tantas ganas como el Día del Libro, 
 
 
 (EN LA FOTO: [@atomcomics](https://instagram.com/atomcomics) Goya)
-
-
-
-
-
-
-

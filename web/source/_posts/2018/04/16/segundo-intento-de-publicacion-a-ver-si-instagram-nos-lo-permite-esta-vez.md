@@ -55,6 +55,3 @@ Vamos que podéis echarle un ojo que no os va a dejar colgados, y si además os 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

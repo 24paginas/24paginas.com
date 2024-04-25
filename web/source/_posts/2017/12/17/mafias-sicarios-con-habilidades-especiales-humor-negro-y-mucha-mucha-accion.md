@@ -41,8 +41,3 @@ Por ahora llevan publicados siete tomos de esta joyita, si no me equivoco, que e
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

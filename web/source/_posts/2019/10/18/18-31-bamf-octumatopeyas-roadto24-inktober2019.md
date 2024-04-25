@@ -33,10 +33,3 @@ Así que hemos aprovechado la casualidad, que se completa con el hecho de que an
 
 
 Bamf! 💥
-
-
-
-
-
-
-

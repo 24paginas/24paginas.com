@@ -29,6 +29,3 @@ Así que gracias a mi hermano por fin he podido quitarme la espinita y aquí los
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

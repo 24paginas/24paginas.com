@@ -40,6 +40,3 @@ Pero prestadle atención a esto a ver qué tal sale.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

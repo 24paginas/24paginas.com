@@ -29,10 +29,3 @@ Un cómic que además de profundizar en las facetas místicas de Muerte lo hace 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

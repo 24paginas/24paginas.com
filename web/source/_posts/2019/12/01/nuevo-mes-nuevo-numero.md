@@ -16,10 +16,3 @@ Nuevo mes, nuevo número.
 
 
 Termina la celebración de nuestro segundo aniversario, aunque todavía está por llegar el especial en formato físico, y volvemos a la normalidad mientras se aproximan otro tipo de celebraciones...
-
-
-
-
-
-
-

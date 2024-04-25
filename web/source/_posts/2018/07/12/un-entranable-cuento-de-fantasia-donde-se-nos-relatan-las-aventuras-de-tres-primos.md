@@ -34,5 +34,3 @@ Lejos de Boneville es el primer tomo de la maravillosa edición en color que [@a
 Para los que no conozcáis Bone, yo le he perdido un poco la pista a las ediciones que han ido saliendo, pero seguro que aún hay forma a día de hoy de hacerse con la colección. Y esto hay que leerlo. Aunque solo sea para acordarnos de como disfrutábamos de pequeños con una buena historia, cuando la vida era más sencilla y divertida, sin más preocupación que vivir aventuras.
 
 Uy, casi se me olvidaba. El dibujo. El dibujo... es... pues eso, una obra maestra ¡Si hasta tiene un mapa! ([@hecdruiz](https://instagram.com/hecdruiz))
-
-

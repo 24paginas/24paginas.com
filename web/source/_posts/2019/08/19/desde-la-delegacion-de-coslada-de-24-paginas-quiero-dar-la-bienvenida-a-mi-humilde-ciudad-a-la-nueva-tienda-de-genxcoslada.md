@@ -37,6 +37,3 @@ Lo dicho, bienvenidos 🙂
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

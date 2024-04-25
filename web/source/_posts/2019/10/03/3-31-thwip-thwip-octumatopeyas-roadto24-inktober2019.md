@@ -25,10 +25,3 @@ Hoy vamos sin contenido extra y, apenas, sin comentario. Quizás en un futuro ha
 
 
 Extended índice y meñique, juntad corazón y anular a la palma de la mano, y presionad. Thwip! 🤟🏻🤘🏻🕸
-
-
-
-
-
-
-

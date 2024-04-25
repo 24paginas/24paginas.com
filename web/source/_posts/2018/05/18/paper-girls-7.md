@@ -24,10 +24,3 @@ Paper Girls [#7](/tags/7)
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

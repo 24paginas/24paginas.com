@@ -44,8 +44,3 @@ Por otra parte no entiendo porque tanto en Azul como en Oro tienen dos numeracio
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

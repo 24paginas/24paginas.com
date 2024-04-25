@@ -21,5 +21,3 @@ El 7 de Diciembre, los 7 días de La Semana más Larga, el SuperLópez clásico 
 Mucho se ha hablado de SuperLópez tras el último álbum, aparentemente final del personaje decidido por su autor, en el... ¿número 85? Cáspita, 85 álbumes son unos cuantos, ¿eh?
 
 Calidad desigual a lo largo de la colección, de más a menos... pero es que el "más" en la calidad de los primeros es enormérrima, no se les puede cambiar ni una coma. Éste es el sexto, en la foto en edición de Bruguera, y es 🔝
-
-

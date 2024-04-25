@@ -40,6 +40,3 @@ Porque al final podemos analizar el arte y la narrativa hasta el infinito, compa
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

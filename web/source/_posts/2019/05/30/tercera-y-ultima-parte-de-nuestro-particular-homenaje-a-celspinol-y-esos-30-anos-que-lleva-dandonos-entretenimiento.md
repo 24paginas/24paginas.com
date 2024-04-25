@@ -35,8 +35,3 @@ Como véis nos dejamos muchas cosas: miniaturas, juegos de mesa, juegos de carta
 
 
 ¡¡Y ahora, a por los 40!! :-)
-
-
-
-
-

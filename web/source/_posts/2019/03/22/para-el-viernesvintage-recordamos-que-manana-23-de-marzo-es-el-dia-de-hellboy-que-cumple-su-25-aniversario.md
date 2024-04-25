@@ -37,6 +37,3 @@ Quién no le haya dado un tiento aún, ya sabe por dónde empezar.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -42,6 +42,3 @@ Se echan de menos cosas como esta. Y se echa de menos a Camaleón, y la línea l
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

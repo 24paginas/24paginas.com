@@ -30,10 +30,3 @@ Mi última visita al pueblo resultó en una revisión de estanterías que haría
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

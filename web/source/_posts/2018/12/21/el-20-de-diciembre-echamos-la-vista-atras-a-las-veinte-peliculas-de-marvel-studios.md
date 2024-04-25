@@ -37,6 +37,3 @@ Para próximas fotos volveremos a hablar de tebeos y no de películas, eso se lo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

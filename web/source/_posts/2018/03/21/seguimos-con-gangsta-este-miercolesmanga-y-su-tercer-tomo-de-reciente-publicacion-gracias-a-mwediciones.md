@@ -35,6 +35,3 @@ Kohske nos mantiene enganchados a la trama y disfrutando de un dibujo espectacul
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

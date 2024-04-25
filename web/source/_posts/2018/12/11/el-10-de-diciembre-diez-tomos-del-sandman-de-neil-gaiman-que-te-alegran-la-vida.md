@@ -32,6 +32,3 @@ Habría que hacer una relectura completa e ir hablando de todos los tomos, ¿no?
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -26,10 +26,3 @@ Número tras número sigue mezclando lo tierno, lo terrible y lo raro de la vida
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

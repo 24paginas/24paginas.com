@@ -38,6 +38,3 @@ Vamos, que remonta y te deja a la espera del siguiente tomo que por suerte sale 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

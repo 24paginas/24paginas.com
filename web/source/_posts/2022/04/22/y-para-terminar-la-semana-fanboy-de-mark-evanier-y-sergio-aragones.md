@@ -29,5 +29,3 @@ Y para terminar la semana, Fanboy de Mark Evanier y Sergio Aragonés.
 Hubo un tiempo en el que el estereotipo del lector de tebeos era el que era, y todo el mundo te miraba un poco de aquella manera y… a quién vamos a engañar, sigue siendo el mismo tiempo. Ahora las películas son más taquilleras, pero los tebeos los seguimos leyendo los mismos raritos de siempre, solo que ahora te mira mal la gente que no los lee y también la gente que sí los lee pero cree que tus tebeos son el mal. Cada día te mira mal más gente.
 
 Y con este actual contexto de continuas discusiones vacías en redes sociales, se me ha hecho un poco bola el intentar reírme de/con el personaje de Fanboy. Al menos la cantidad de homenajes y referencias en el estilo de dibujo que va soltando Aragonés le va dando vida al tema.
-
-

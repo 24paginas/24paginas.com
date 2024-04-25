@@ -31,6 +31,3 @@ En resumen, el comienzo de uno de los mejores arcos (si no el mejor) de la etapa
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

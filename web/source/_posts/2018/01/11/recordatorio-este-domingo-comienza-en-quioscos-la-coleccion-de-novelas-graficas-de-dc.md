@@ -31,6 +31,3 @@ Serán 60 tomos (que se dice pronto) y estará saliendo semanalmente hasta marzo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

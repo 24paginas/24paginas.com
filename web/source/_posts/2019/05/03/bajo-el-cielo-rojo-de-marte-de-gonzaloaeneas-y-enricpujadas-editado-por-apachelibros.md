@@ -33,6 +33,3 @@ Recomendable, aún con alguna limitación debida a ser una obra primeriza que es
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

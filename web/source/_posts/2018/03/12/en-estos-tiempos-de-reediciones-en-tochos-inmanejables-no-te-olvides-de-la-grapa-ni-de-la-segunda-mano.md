@@ -47,6 +47,3 @@ Veo a algún millenial al fondo preguntándose por qué un personaje de Thor y l
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

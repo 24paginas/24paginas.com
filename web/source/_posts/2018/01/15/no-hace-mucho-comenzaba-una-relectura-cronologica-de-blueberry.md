@@ -23,6 +23,3 @@ No hace mucho comenzaba una relectura cronológica de Blueberry. Habiendo termin
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -23,10 +23,3 @@ El imbatible record de la publicación de [@hecdruiz](https://instagram.com/hecd
 
 
 Gracias por compartir la pasión por los cómics con nosotros.
-
-
-
-
-
-
-

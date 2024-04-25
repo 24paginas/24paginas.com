@@ -40,6 +40,3 @@ Relleno para seguir avanzando. Todas las colecciones tienen de esto de vez en cu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

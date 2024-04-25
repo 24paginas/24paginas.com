@@ -39,6 +39,3 @@ Aquí de todas formas tenemos opiniones encontradas dentro del staff, a algunos 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

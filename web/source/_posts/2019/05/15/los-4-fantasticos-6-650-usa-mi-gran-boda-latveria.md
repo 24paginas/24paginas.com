@@ -28,10 +28,3 @@ Un número triple con varios artistas que revisita los orígenes de grupo de la 
 Pese a que lo especial del número lo hace interesante, la serie no termina de arrancar, tampoco ayuda el baile de dibujantes. Quizás por eso recurre en sus últimas páginas a dos pesos pesados como Doctor Muerte y Galactus para subir la apuesta.
 
 Habrá que ver qué tiene [@dan.slott](https://instagram.com/dan.slott) en mente para próximas entregas. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

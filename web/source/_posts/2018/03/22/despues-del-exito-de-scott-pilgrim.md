@@ -38,6 +38,3 @@ En resumen, preparad una mantita, un café o un chocolate caliente, y echadle un
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

@@ -23,5 +23,3 @@ Termina un mes especialmente caluroso y daríamos lo que fuera por un paseo por 
 Un trabajo fresquisimo y diferente que juega con los elementos del Universo Marvel más cósmico de la mano de Donny Cates, que sigue enlazando detalles de sus series.
 
 Moore juega con fuerza los recursos más lisérgicos para un nuevo viaje del exheraldo de Galactus, con diseños de personajes y estancias que recuerdan a una versión oscura de Yellow Submarine. ¡A mí, mi tabla!
-
-

@@ -30,10 +30,3 @@ Ahora solo podemos esperar que [@eccediciones](https://instagram.com/eccedicione
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

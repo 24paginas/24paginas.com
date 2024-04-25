@@ -46,8 +46,3 @@ En resumen, una verdadera joya.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

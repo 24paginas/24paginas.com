@@ -23,5 +23,3 @@ Repasamos rápidamente también la revista de [@eccediciones](https://instagram.
 Incluye un capítulo más de [#batman1989](/tags/batman1989), varios artículos sobre algunas de las novedades y una entrevista a [@danide_art](https://instagram.com/danide_art) acerca de Ex-Solteros y sus otras obras. Sólo tres páginas acerca de las novedades manga de la editorial, DC se lleva casi todo el contenido, que supongo que es entendible.
 
 El catálogo completo de novedades de la editorial viene ahora en otra grapa aparte, para que quede claro que la revista es realmente una revista.
-
-

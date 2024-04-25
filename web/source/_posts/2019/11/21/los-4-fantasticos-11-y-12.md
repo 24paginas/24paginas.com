@@ -38,10 +38,3 @@ Es posible que sea uno de los últimos números que sigo de la serie (de momento
 
 
 PD. ¡Esta es nuestra publicación [#500](/tags/500)!
-
-
-
-
-
-
-

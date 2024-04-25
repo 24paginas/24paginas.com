@@ -30,6 +30,3 @@ Toda la moderna Marvel puede verse comenzar en las primeras series de Marvel Kni
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

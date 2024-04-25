@@ -29,5 +29,3 @@ El caso es que pasaba por una tienda y he visto por sorpresa que las últimas gr
 Guión de Donny Cates más bien insulso, dibujo de Martin Cóccolo más bien meh, típico autor que crece a la sombra de otras "inspiraciones" y cuando "se inspira" correctamente el dibujo merece la pena y cuando no, no. Espero que los números del crossover que estén dentro de las series regulares merezcan más la pena.
 
 El título original de Banner of War tenía mucha más gracia.
-
-

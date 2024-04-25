@@ -37,8 +37,3 @@ Por suerte tuvo su anime correspondiente y seguro que a día de hoy aún se pued
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

@@ -37,10 +37,3 @@ Un complemento imprescindible de la historia mutante que no ha envejecido nada m
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

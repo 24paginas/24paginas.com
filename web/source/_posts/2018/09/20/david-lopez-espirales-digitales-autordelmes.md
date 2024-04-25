@@ -36,10 +36,3 @@ Además, está al frente de Streaming de Dibujantes, un canal de YouTube por el 
 
 
 Ha llovido mucho desde que lo conocimos con Espiral, pero nos sigue teniendo atrapados.
-
-
-
-
-
-
-

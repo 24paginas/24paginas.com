@@ -30,6 +30,3 @@ Pero no puedo ponerles pegas, al menos no demasiadas. Los personajes están bien
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

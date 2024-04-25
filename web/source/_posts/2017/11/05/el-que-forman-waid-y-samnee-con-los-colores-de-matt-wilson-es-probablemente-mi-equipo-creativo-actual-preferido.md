@@ -22,10 +22,3 @@ Tras su paso por Daredevil, nos ofrecieron un viaje a la los orígenes de Viuda 
 Como extra os recomiendo el número 5 de SFX, donde se habla de la nueva etapa Marvel, en la cuál Waid y Samnee se encargan del mismísimo Capitán America, y donde podréis encontrar alguna sorpresa.
 
 M. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

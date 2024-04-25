@@ -40,10 +40,3 @@ Encended velas y haced un circulo de sal a vuestro alrededor, están a punto de 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

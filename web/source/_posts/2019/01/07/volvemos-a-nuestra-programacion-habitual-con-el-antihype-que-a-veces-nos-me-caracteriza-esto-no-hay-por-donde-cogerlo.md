@@ -39,6 +39,3 @@ Para esto Tomasi lo estaba haciendo mil veces mejor. Una compra menos.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

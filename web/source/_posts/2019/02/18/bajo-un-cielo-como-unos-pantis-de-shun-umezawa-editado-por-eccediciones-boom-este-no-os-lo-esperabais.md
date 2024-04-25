@@ -31,6 +31,3 @@ Un tiro metafórico en la cabeza en forma de historias que no te esperas, para l
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -31,6 +31,3 @@ La saga meh en general, pero Stuart Immonen, así que todo bien.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

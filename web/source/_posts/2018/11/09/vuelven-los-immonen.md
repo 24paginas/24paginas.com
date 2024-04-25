@@ -33,10 +33,3 @@ Los Immonen son grandes por separado y aún más como equipo.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

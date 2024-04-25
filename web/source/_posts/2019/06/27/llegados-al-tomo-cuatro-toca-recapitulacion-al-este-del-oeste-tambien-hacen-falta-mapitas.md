@@ -30,6 +30,3 @@ Hickman y Dragotta avanzan las tramas a la vez que nos recuerdan donde están si
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -43,6 +43,3 @@ Por supuesto la continuación es una desgracia bastante ilegible que ni siquiera
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

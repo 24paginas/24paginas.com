@@ -39,10 +39,3 @@ Imprescindible para impresionar a las visitas y decorar estanterías de youtuber
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

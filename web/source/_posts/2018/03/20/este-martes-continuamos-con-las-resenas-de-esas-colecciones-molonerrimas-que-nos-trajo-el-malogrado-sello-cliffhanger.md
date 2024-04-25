@@ -38,6 +38,3 @@ Da la sensación de que al final intentaron coger ritmo, y cuando ya parecía qu
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

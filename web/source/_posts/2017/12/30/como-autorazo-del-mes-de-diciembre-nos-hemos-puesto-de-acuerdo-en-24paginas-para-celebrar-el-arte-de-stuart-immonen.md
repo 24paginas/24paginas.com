@@ -40,6 +40,3 @@ Habiendo trabajado con una plétora de los guionistas más afamados de las major
 
 
 Aprovechad y acercaos a vuestra tienda de tebeos más cercana y dadle un tiento, que todo por lo que pasan los lápices de este señor tiene algo que admirar.
-
-
-

@@ -20,10 +20,3 @@ Julio, eh? Qué movida. Empieza la segunda mitad de un año que por un lado pare
 
 
 Pero las penas con cómics son menos. Salud y tebeos!
-
-
-
-
-
-
-

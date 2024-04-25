@@ -29,10 +29,3 @@ Una entretenida película policiaca de época hecha viñetas.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

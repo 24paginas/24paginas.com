@@ -40,6 +40,3 @@ Por si os lo estabais preguntando, no parece ser un caso de fanservice gratuito,
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

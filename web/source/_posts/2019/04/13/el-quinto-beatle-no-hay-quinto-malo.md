@@ -24,10 +24,3 @@ Más allá del talento de los de Liverpool, este éxito se debe al trabajo de fi
 La edición con la que nos lo trajo [@paninicomicsespana](https://instagram.com/paninicomicsespana) hace ya 6 años permite apreciar en todo su esplendor los dibujos de Andrew [@spacejunkees](https://instagram.com/spacejunkees) Robinson, al que hemos podemos ver ahora a las portadas de [#friendlyneighborhoodspiderman](/tags/friendlyneighborhoodspiderman), y  al que acompaña Kyle [@qualityjollity](https://instagram.com/qualityjollity) Baker haciendo los fragmentos más cartoon. Pero este formato más grande da la impresión de que los textos están “hinchados” y un poco desproporcionados.
 
 Por cierto, sí, estoy repitiendo título. Pero aquí le viene que ni pintado. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

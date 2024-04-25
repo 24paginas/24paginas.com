@@ -27,10 +27,3 @@ PD: Posiblemente la mejor portada de la colección.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

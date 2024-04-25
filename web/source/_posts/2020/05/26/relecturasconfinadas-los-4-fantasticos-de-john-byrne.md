@@ -32,10 +32,3 @@ Ah, y Hulka! Hulka siempre está bien.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

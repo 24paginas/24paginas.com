@@ -38,6 +38,3 @@ Si os ha gustado, dejad un comentario que todavía estoy a tiempo de releérmelo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -33,10 +33,3 @@ En 1940, Nacional Comics –la actual DC– se había hecho con el control de la
 
 
 Además de realizar otros logos, cabeceras y rotulaciones como el de Flash o la Liga de la Justicia –que le valieron el sobrenombre de Mr. DC–, Schnapp es el autor del infame sello de la Comic Code Authority. En 1967 dejó paso a Gaspar Saladino como diseñador oficial de DC aunque seguiría todavía un año colaborando con la editorial. En 1969, tan solo un año tras su jubilación oficial, Ira Schnapp fallecía debido a un ataque al corazón.
-
-
-
-
-
-
-

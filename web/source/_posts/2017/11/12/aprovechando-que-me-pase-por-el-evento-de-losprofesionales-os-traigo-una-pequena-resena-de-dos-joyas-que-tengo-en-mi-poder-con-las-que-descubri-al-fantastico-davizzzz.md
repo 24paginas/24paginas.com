@@ -31,9 +31,3 @@ Y de paso le echáis un ojo a como fueron los "inicios" en esto del cómic de un
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

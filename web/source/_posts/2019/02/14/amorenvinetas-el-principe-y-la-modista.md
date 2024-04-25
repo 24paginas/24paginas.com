@@ -32,10 +32,3 @@ Quizás demasiado bonito incluso en sus conflictos, pero de vez en cuando es nec
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

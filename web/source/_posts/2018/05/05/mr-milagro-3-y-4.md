@@ -33,6 +33,3 @@ Por otra parte sigue la sensación de que es más lo que oculta que lo que cuent
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

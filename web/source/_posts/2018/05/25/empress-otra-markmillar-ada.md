@@ -37,6 +37,3 @@ Aunque si a alguien le ha gustado de verdad como para recomendarlo, ahí están 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

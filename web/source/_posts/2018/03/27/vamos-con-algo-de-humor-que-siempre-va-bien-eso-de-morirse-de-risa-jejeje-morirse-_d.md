@@ -42,6 +42,3 @@ Vamos, que se leen en un momento, te saca unas buenas carcajadas, y te dejan con
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

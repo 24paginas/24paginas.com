@@ -34,6 +34,3 @@ Hace tiempo reseñamos por aquí el anterior Boum! del mismo dibujante, y sé qu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

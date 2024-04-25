@@ -22,5 +22,3 @@ El 19 de Diciembre, que llevamos ya 19 tomos de DragonBall Super, y esto no term
 Parecía un chiste, lo de "vamos a coger a un imitador fan que saca sus propias cosas por internet y que se ponga a dibujar lo que Toriyama le diga", y hasta hoy. A este ritmo, ya no me parece tan descabellado que Super llegue a tener más tomos que la serie original... 42 tankoubones o 34 kanzenbanes... ¿llegaremos hasta ahí? ¿habrá planeado algún final previo?
 
 Mientras tanto, seguiremos esperando una edición en castellano de la soshuhen/legend del DragonBall original, 17 tomos enormes replicando la primera edición en la Shonen Jump, con los mismos colores, resúmenes y extras. Porque nunca se tienen suficientes ediciones de DragonBall.
-
-

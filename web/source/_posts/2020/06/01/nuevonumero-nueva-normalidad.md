@@ -23,10 +23,3 @@ Todo vuelve, poco a poco. Y las librerías necesitan que los lectores también v
 
 
 ¡Salud y tebeos!
-
-
-
-
-
-
-

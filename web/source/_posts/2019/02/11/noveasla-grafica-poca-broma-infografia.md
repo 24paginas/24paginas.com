@@ -35,10 +35,3 @@ NOVEASLA GRÁFICA: Poca Broma [#infografia](/tags/infografia)
 
 
 Repasamos el historial de publicación del tebeo de [@dccomics](https://instagram.com/dccomics) en nuestro país, al menos hasta hoy... STOP THE COMEDY!
-
-
-
-
-
-
-

@@ -25,5 +25,3 @@ author: neverbot
 Cosas que llegan por Amazon un día cualquiera… que supongo será difícil que adivinéis lo que es, aunque el logo de [#kenner](/tags/kenner) pueda dar una pista. 
 
 Cuando tenga un rato abro la caja y le hago fotos. 
-
-

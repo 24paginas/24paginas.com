@@ -49,8 +49,3 @@ Vamos, que no os puede faltar en la estantería. Y más ahora que en principio, 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

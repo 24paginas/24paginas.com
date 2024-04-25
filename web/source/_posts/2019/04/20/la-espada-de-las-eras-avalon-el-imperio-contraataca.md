@@ -31,10 +31,3 @@ Mitos, bestias y naves espaciales. No se puede pedir más.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

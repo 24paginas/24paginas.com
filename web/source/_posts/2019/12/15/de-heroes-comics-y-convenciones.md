@@ -42,10 +42,3 @@ Pero sobretodo hablamos, con periodistas, editores, profesionales diversos del c
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -32,6 +32,3 @@ El tomo está narrado en forma de dos historias paralelas, la más actual (1925)
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -41,6 +41,3 @@ Pero a quien le guste Bleach no me puede decir que esto no le gusta. Yo voy a pi
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

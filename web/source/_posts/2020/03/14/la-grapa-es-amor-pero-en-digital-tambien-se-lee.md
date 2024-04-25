@@ -25,10 +25,3 @@ La grapa es amor, pero en digital también se lee.
 Nos sumamos a [#YoMeQuedoEnCasa](/tags/yomequedoencasa) y ponemos a vuestra disposición nuestro fanzine especial 24 números de 24 páginas.
 
 LINK EN BIO.
-
-
-
-
-
-
-

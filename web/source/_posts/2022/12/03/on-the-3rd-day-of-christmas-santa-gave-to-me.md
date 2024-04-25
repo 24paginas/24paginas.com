@@ -29,5 +29,3 @@ author: neverbot
 On the 3rd day of Christmas, Santa gave to me...
 
 El 3 de Diciembre tenemos a los 3 que forman el triángulo romántico imposible. Quién sabe, en Krakoa pueden haber pasado muchas cosas.
-
-

@@ -52,8 +52,3 @@ Cómo pasa el tiempo...
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

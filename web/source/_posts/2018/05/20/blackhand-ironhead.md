@@ -35,6 +35,3 @@ El diseño de personajes, el color de Nayoung Kim y la extraña naturalidad de l
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

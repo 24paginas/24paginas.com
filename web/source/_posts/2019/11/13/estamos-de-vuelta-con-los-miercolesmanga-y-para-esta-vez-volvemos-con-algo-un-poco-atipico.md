@@ -36,6 +36,3 @@ Una pena porque, según dicen, a nivel de rpgs son auténticas joyas.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

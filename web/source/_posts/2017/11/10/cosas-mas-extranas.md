@@ -36,6 +36,3 @@ Pero esta serie va mucho más allá que la de los hermanos Duffer. Brian K. Vaug
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

@@ -29,8 +29,3 @@ Y cuando Conan tenga un proceso de edición que no estropee los lápices del dib
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-
-
-

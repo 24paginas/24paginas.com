@@ -46,6 +46,3 @@ Aunque en la última página llegan a tocar al protagonista, ya no sé qué nos 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

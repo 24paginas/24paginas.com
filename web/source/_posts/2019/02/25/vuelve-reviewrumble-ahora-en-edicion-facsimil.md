@@ -42,10 +42,3 @@ Que no paren esas grapas, que como suele decir nuestro compañero [@neverbot](ht
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz) vs [@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

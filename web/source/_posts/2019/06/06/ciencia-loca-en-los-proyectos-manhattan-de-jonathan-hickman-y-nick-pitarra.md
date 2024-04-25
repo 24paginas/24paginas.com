@@ -44,6 +44,3 @@ En cualquier caso voy a seguir leyéndolo.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

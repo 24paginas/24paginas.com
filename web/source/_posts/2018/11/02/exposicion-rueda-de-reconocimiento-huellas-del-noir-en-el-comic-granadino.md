@@ -44,10 +44,3 @@ Ideal para calarse el sombrero, ponerse la gabardina y dar un paseo entre las so
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

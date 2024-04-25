@@ -34,6 +34,3 @@ No puedo contar mucho sin spoilear lo poco que sucede en el primer tomo, así qu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

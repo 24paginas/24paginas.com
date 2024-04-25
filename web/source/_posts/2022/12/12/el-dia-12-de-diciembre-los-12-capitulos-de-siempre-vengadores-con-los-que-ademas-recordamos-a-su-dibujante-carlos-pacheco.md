@@ -23,5 +23,3 @@ El día 12 de Diciembre, los 12 capítulos de Siempre Vengadores, con los que ad
 Una saga de proporciones cósmicas, como no podía ser de otro modo tratándose de los Vengadores, magníficamente orquestada por Busiek. Kang, Immortus, Vengadores del presente, pasado y futuro. Y algo impagable, la aparición del Capitán Marvel del “Qué ganso soy” que tantos buenos ratos me ha dado. 
 
 Una vez Vengador, siempre Vengador.
-
-

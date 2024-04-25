@@ -27,10 +27,3 @@ Aunque ahora nos llega una (seguramente buenísima) reedición de parte de [@pan
 La historia es de sobra conocida, la preocupación por las drogas personificada en Harry Osborn y en enfrentamiento del Spidey con el padre de Harry y su alter ego (más) maligno: el Duende Verde. Mucho factor humano y muchos dilemas para el bueno de Peter.
 
 Ya sabéis, poder y responsabilidad... ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

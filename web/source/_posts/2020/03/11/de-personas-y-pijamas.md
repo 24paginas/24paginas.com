@@ -21,10 +21,3 @@ De personas y pijamas.
 Se ha quedado bien día para recuperar esta obra autobiográfica de Paco Roca que, aunque tiene ideas que han envejecido regular, no podía estar más de actualidad.
 
 Hoy, de repente, miles de personas en Madrid de han convertido en Hombres y Mujeres en Pijama. El teletrabajo y el cuidado de niños sin cole nos ha transformado, al menos a los que no éramos autónomos... Aún así toca vestirse y no dejarse llevar por el pijama, por muy poderoso o seductor que sea. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

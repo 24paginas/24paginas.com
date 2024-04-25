@@ -24,10 +24,3 @@ Hoy encadenamos dos errores. El primero, que ayer marcamos como 5/31 el dibujo d
 
 
 ¡Abraza el fallo!
-
-
-
-
-
-
-

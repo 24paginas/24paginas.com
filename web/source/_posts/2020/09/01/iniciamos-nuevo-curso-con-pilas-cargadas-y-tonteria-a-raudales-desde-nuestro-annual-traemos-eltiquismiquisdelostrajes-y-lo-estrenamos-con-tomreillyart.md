@@ -31,5 +31,3 @@ Para ponerlo a nuestro gusto le hemos quitado los bigotillos a Lobezno (que vemo
 Y así ha quedado. ¿Qué os parece? ¿os quedáis con la primera opción, o con la versión del tiquismiquis?
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-

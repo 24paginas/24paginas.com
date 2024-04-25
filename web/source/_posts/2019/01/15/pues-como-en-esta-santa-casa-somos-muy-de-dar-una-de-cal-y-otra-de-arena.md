@@ -39,6 +39,3 @@ Seguiremos informando.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

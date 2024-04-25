@@ -37,6 +37,3 @@ En cualquier caso no es imprescindible para entender lo que vendrá, ya que real
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

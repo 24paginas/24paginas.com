@@ -26,10 +26,3 @@ Hoy tenemos de nuevo un experimento fallido. Quería intentar “colorear” una
 
 
 La razón de tanto brilli-brilli es sencilla, la onomatopeya de hoy pertenece a Goldballs, el mutante compañero de instituto de Miles Morales y pieza fundamental de ///SPOILER///.
-
-
-
-
-
-
-

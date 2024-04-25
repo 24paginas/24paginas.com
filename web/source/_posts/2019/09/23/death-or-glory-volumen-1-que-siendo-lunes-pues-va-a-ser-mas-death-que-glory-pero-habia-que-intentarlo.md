@@ -39,6 +39,3 @@ Así que, teniendo todo esto en cuenta para evitar el tema de expectativas / rea
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

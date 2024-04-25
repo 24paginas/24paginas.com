@@ -26,10 +26,3 @@ Seguro que alguna vez, de tanto jugar a un juego, habéis terminado soñando que
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -34,6 +34,3 @@ Y, ya puestos a hablar de todo un poco, ¿para cuándo el segundo tomo, [@panini
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

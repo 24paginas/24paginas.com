@@ -29,6 +29,3 @@ Kevin Smith a los guiones, Phil Hester al dibujo y portadas de Matt Wagner. Sigu
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

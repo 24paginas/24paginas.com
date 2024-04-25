@@ -28,10 +28,3 @@ Nos vemos en el futuro... o en el pasado... yo qué sé...
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

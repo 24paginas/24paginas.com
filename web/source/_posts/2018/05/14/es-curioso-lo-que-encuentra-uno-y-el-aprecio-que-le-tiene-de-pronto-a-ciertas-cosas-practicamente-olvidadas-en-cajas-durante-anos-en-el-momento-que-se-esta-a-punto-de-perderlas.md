@@ -46,8 +46,3 @@ Por lo pronto recordad amiguitos, con lo que cuestan ahora las cajas de plástic
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

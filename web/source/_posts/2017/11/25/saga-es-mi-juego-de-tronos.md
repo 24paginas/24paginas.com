@@ -34,10 +34,3 @@ Sin duda una serie que merecerá una relectura completa una vez finalizada.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

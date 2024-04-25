@@ -32,6 +32,3 @@ Pero nadie tiene garras. No lo entiendo.
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

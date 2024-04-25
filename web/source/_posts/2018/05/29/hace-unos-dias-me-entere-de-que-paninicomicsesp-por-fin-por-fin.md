@@ -44,8 +44,3 @@ Así que si no lo habéis leído, o no lo tenéis, atentos a esa nueva edición.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

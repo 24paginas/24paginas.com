@@ -36,10 +36,3 @@ Otra visión del personaje, que retoma la introspección clásica, sí matizada 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

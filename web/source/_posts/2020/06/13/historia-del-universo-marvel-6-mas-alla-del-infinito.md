@@ -29,10 +29,3 @@ Destaca una vez más la capacidad de [@javiercaster](https://instagram.com/javie
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

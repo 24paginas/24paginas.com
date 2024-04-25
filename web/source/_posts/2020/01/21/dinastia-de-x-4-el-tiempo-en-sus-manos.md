@@ -34,10 +34,3 @@ Ay!
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

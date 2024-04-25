@@ -14,10 +14,3 @@ author: 24paginas
 ---
 
 Nuevo mes, [#nuevonumero](/tags/nuevonumero).
-
-
-
-
-
-
-

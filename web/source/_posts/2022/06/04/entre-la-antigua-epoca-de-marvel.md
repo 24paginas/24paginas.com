@@ -28,5 +28,3 @@ Entre la antigua época de Marvel, la de Dark Horse, la nueva Marvel, los libros
 Con guiones de Jean-David Morvan y arte de Pierre Alary, son álbumes europeos con todo lo que ello implica: mayor tamaño, mayor coste, muchas menos páginas e historias más comprimidas. Se vuelve a un tono, tal y como se nos recalca en los artículos incluidos, mas cercano a las obras originales de Howard, sin sagas ni orden cronológico alguno que ni falta que le hace. Te compras un álbum, te lo lees, y los demás dan igual y no van ni antes ni después, todos son ahora. 
 
 Pese a que el dibujo no es santo de mi devoción, irán cayendo los siguientes, porque este primero: La Reina de la Costa Negra, me ha gustado. 
-
-

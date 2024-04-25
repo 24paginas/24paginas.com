@@ -29,10 +29,3 @@ A pesar de eso es un número lleno de acción en el que Cliff Chiang se luce con
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

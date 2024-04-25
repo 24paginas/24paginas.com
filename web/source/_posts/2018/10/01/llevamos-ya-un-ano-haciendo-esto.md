@@ -13,6 +13,3 @@ author: 24paginas
 
 ¿Llevamos ya un año haciendo esto?
 Llevamos ya un año haciendo esto.
-
-
-

@@ -13,6 +13,3 @@ author: 24paginas
 ---
 
 Comenzamos nuevo mes.
-
-
-

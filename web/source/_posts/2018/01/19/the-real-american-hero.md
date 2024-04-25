@@ -45,8 +45,3 @@ Ains.. bendita nostalgia.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

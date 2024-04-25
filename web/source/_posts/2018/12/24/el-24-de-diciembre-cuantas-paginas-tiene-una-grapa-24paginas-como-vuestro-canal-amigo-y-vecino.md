@@ -25,6 +25,3 @@ Os deseamos felices fiestas al terminar nuestro particular calendario de advient
 
 
 Y recordad, ¡en navidad regalad tebeos!
-
-
-

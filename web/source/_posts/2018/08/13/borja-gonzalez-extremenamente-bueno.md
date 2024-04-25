@@ -28,10 +28,3 @@ The Black Holes se ha colado en nuestros corazones y en las recomendaciones de a
 
 
 Algo nos dice que nos quedan muchas "Teresas" por conocer.
-
-
-
-
-
-
-

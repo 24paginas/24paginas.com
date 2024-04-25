@@ -19,10 +19,3 @@ author: uncientovolando
 ---
 
 Historia del Universo Marvel [#4](/tags/4): Bendis, vidi, vici. ¿He rescatado el título de un artículo anterior? Sí, pero es que la época recogida en esta penúltima entrega de la miniserie de Mark Waid, [@javiercaster](https://instagram.com/javiercaster) y Álvaro López se centra justo en los tiempos en los que Bendis llegó para hacer explotar los Vengadores. Una época de eventos casi encadenados que también nos trajo la Civil War de Mark Millar. Blockbusters comiqueros antes de la llegada del MCU. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

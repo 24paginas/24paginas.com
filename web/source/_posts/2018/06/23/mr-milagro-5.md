@@ -30,6 +30,3 @@ El capítulo más humano hasta el momento, sin apenas máscaras. Tan solo un dí
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

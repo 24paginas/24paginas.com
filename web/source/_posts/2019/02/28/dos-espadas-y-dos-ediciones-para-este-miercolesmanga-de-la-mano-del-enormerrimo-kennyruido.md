@@ -36,6 +36,3 @@ Una gozada. Y en serio, queremos que continúe. PLEASE.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

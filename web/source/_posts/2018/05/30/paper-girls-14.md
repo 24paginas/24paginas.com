@@ -24,10 +24,3 @@ Nunca abandones el grupo
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

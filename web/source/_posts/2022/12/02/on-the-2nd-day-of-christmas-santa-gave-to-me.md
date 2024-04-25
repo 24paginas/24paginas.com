@@ -24,5 +24,3 @@ author: neverbot
 On the 2nd day of Christmas, Santa gave to me...
 
 El 2 de diciembre tenemos a los 2 tortolitos que se casaron "hace poco". Sigue doliéndome ver tapa dura para una grapa individual, pero la portada de Monteys bien lo valía.
-
-

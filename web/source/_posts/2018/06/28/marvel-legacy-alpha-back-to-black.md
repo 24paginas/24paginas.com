@@ -47,6 +47,3 @@ También os digo que con la edición normal vale, los extras de la edición espe
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

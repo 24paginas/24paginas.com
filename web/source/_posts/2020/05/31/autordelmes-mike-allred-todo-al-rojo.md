@@ -31,10 +31,3 @@ Además del reciente cómic biográfico sobre David Bowie, publicado aquí p
 
 
 Allons’y!
-
-
-
-
-
-
-

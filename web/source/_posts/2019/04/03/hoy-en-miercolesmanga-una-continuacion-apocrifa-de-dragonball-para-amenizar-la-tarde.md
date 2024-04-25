@@ -46,6 +46,3 @@ Y hasta aquí la curiosidad del día. Si os atrevéis a empezar a bucear en el m
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

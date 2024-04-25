@@ -26,9 +26,3 @@ A ver si llega el momento en el que alguien nos da la satisfacción de llevarse 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

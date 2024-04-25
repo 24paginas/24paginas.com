@@ -28,10 +28,3 @@ Seguimos acelerando conforme se acerca el final. [@planetadcomic](https://instag
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

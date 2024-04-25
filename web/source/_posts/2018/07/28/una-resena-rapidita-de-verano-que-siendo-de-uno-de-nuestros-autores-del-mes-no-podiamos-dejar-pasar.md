@@ -43,8 +43,3 @@ Estad atentos, porque estamos a punto de llegar a los 300 seguidores (si no hemo
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

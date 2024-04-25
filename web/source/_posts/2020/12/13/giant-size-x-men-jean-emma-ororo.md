@@ -24,10 +24,3 @@ Un díptico de Hickman y Dauterman (con color de Matt Wilson) centrado en las mu
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

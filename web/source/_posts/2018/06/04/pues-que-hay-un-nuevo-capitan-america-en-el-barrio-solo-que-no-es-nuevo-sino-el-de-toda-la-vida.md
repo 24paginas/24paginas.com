@@ -32,6 +32,3 @@ Bravo por Mark Waid (como siempre) y Chris Samnee ([@chrissamnee](https://instag
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

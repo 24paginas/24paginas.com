@@ -16,6 +16,3 @@ author: 24paginas
 ---
 
 [#24paginas](/tags/24paginas) n° 22: Summer Edition.
-
-
-

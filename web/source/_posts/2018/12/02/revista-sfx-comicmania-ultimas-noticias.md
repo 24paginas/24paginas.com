@@ -39,10 +39,3 @@ El mercado de las revistas es complicado y no se ha podido llegar más lejos, pe
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

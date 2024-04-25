@@ -31,8 +31,3 @@ Ale, espero que os sirva de ayuda si andáis pensando en darle una oportunidad a
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

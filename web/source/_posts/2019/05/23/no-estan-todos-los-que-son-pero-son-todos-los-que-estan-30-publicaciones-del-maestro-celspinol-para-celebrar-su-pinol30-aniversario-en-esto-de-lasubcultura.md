@@ -35,6 +35,3 @@ Empezamos suave con recopilaciones de sus tiras. Fan letal y Fan con nata, Cels 
 
 
 Hay que ver la de horas de entretenimiento y diversión que hay aquí, y como pasa el tiempo. ¡Y eso que esto no ha hecho más que empezar!
-
-
-

@@ -23,10 +23,3 @@ Frank Cho es conocido sobre todo por dibujar mujeres. Mujeres imponentes y exube
 
 El caso es que hace poco [#paninicomics](/tags/paninicomics) ha traído a nuestro país “Skybourne”, la serie de [@frankchoartist](https://instagram.com/frankchoartist) (esta vez también a los guiones, con desigual resultado) para [@boom_studios](https://instagram.com/boom_studios): Súper espías, dragones, mitología, aventuras... .
 El equivalente en cómic al cine de verano sí, pero es que ya huele a verano.
-
-
-
-
-
-
-

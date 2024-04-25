@@ -28,10 +28,3 @@ Ahora solo falta ver a sus personajes protagonizando esas aventuras en las que p
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

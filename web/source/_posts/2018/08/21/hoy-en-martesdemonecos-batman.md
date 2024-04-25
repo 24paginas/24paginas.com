@@ -25,10 +25,3 @@ Un diseño clásico del tristemente fallecido Darwyn Cooke, que se acerca al est
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -32,10 +32,3 @@ Paper Girls sigue siendo uno de esos comics en los que no sabes muy bien que est
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

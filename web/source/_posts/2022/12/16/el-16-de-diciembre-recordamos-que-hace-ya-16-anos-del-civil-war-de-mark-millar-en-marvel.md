@@ -23,5 +23,3 @@ El 16 de Diciembre, recordamos que hace ya 16 años del Civil War de Mark Millar
 Y podremos discutir todo lo que queráis, pero la verdad es que a mi me gustó. La mayor parte de mega eventos que ha habido desde entonces, salvando quizá Secret Wars por razones más nostálgicas que otra cosa, me han parecido de menor calado y con menos consecuencias argumentales para todos los personajes implicados. Parece mentira pero estoy alabando algo de Mark Millar. Quién lo diría.
 
 Sólo tuvo un número en 2007, la cuento como serie del 2006.
-
-

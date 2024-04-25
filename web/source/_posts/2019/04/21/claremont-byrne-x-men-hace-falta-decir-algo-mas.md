@@ -29,6 +29,3 @@ Un ejemplo de todo lo que tiene que tener un cómic. Así es como se hace afici�
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

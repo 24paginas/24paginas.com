@@ -42,6 +42,3 @@ Así que ahora solo nos queda disfrutar, coger aire, y escuchar aquello de... ¡
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

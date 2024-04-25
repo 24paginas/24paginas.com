@@ -36,6 +36,3 @@ Queda mucho Rock & Roll.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

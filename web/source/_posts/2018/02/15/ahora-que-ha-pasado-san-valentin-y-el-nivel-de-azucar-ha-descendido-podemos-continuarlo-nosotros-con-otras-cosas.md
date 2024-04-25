@@ -45,6 +45,3 @@ Y es que no sólo de shojo vive el manga, el shonen está repleto de deliciosas 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

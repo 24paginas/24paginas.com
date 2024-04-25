@@ -25,10 +25,3 @@ Mientras el cliffhanger del número 2 se resuelve entre sueños febriles, vamos 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

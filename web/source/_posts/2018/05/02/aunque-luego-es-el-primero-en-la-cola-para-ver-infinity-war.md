@@ -16,6 +16,3 @@ author: 24paginas
 ---
 
 Aunque luego es el primero en la cola para ver Infinity War...
-
-
-

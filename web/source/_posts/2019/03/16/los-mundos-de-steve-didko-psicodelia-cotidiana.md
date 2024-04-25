@@ -32,10 +32,3 @@ No soy muy fan de este tipo de recopilatorios que recogen un poco de aquí y all
 Pero aun así esta de [@paninicomicsespana](https://instagram.com/paninicomicsespana) me parece una buena recopilación: historias inquietantes para "Amazing Fantasy" junto a Stant Lee, el origen de Spiderman, clásicos del trepamuros como "Si este es mi destino" o "El capítulo final", el annual con el enfrentamiento a los Seis Siniestros con fichas de estos villanos o los secretos de Spiderman, varios números de Strange Tales protagonizados por el Dr. Extraño y rematados por un annual que cruza al Hechicero Supremo con Spidey... Y todo, como no podía ser de otra forma,  puesto en contexto por una magnifica introducción de Julian M. Clemente que repasa la historia y carrera del dibujante fallecido el pasado junio a los 90 años.
 
 Se echa en falta algún material extra como lápices o páginas sin colorear para apreciar mejor su trabajo, pero supongo que serán materiales difíciles de conseguir. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

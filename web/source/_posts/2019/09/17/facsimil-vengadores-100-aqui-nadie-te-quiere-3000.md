@@ -45,6 +45,3 @@ Vamos, que es interesante por ver cómo Clint recoge de nuevo el manto de Ojo de
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

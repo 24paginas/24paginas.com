@@ -33,6 +33,3 @@ En realidad no cambiamos de siglo ni milenio hasta la entrada del 2001, pero meh
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

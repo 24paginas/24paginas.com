@@ -12,6 +12,3 @@ author: 24paginas
 ---
 
 Llegó diciembre, temporada de fiestas regalos y ¡más tebeos!
-
-
-

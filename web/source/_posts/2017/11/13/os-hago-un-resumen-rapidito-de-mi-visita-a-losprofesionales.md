@@ -43,9 +43,3 @@ PD: Esos originales de [#Conan](/tags/conan) del señor [@sergiodavila1582](http
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

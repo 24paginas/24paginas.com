@@ -40,8 +40,3 @@ Una pena, porque realmente quería que me gustase.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

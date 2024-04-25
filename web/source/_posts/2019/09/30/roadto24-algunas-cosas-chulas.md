@@ -27,10 +27,3 @@ Se acerca la fecha. Mañana alcanzamos nuestro número 24 y, antes de llegar, me
 Además, nos permitió acercarnos y dar la chapa a gente tan genial como [@coelloiban](https://instagram.com/coelloiban), [@jorgefornes](https://instagram.com/jorgefornes) o nuestro queridísimo [@pepelarraz](https://instagram.com/pepelarraz), y hacernos sentir un poco parte de [#lodeloscomics](/tags/lodeloscomics).
 
 Ahora toca mirar hacia adelante, hay muuucho trabajo que hacer. Gracias a todos por el apoyo ;) ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

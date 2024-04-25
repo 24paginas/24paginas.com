@@ -28,8 +28,3 @@ author: 24paginas
 
  
 Pocas veces cinco letras son capaces de definir tan bien a un personaje como este SNIKT. Tanto lo caracteriza que cuando esté sufrió el cambio más trascendental de su historia, no nos lo mostraron de primeras. En su lugar, un sonido al que estábamos tan acostumbrados y teníamos tan asociado se rompió. Y nos impacto mucho más ese SCHLIKT fuera de campo, que cualquier viñeta posterior.
-
-
-
-
-

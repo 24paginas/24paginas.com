@@ -44,6 +44,3 @@ Y hasta aquí, que bastante me he enrollado ya.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

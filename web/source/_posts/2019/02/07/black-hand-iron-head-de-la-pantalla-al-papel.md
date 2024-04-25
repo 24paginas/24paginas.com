@@ -40,10 +40,3 @@ Sobre el tebeo ya os he hablado en alguna ocasión, una historia sobre como lidi
 
 PD: recordad que tendremos a David de gira madrileña desde hoy mismo, repasamos el [#DavidLopezMadridTour2019](/tags/davidlopezmadridtour2019):
 ▪️Hoy jueves 7, 20.00 en streaming con [@pepelarraz](https://instagram.com/pepelarraz) en [@rolazotv](https://instagram.com/rolazotv) ◾️Viernes 8, 19.00 en [@genxpuebla](https://instagram.com/genxpuebla) ◾️Sábado 9, 12.00 en [@delirityfalls](https://instagram.com/delirityfalls) ◾️Sábado 9, desde las 18.00 en [@atomcomics](https://instagram.com/atomcomics) ( ⬅️ A esta nos apuntamos )
-
-
-
-
-
-
-

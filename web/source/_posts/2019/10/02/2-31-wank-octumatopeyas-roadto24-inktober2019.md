@@ -29,10 +29,3 @@ En cualquier caso, esta onomatopeya se hizo famosa en la lucha del Capi contra e
 
 
 Pero el escudo de Steve Rogers es cosa de poca broma, solo tenéis que ver como luce el que [@hecdruiz](https://instagram.com/hecdruiz) tiene colgado en su salón. Deberíamos ir pensando en un [#MiercolesdeMerchandising](/tags/miercolesdemerchandising)...
-
-
-
-
-
-
-

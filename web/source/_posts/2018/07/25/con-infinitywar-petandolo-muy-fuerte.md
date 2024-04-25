@@ -38,8 +38,3 @@ Personalmente seguiré con ella para ver hacia donde va, pero más por los minis
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

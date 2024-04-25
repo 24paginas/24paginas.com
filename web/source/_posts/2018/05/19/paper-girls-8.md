@@ -24,10 +24,3 @@ Palos de hockey intertemporales
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -24,10 +24,3 @@ author: 24paginas
 
 Vamos con un clásico modernizado. "POW!" es una onomatopeya de golpe que podemos encontrar en gran cantidad de cómics de la edad dorada y plateada, además es una de las que aparecían en las peleas de Batman en su serie de TV del 66. .
 Pero en este caso está extraída de un cómic moderno, 'Superman smash the Klan'.
-
-
-
-
-
-
-

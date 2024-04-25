@@ -30,10 +30,3 @@ Reseñar una vez más la estupenda portada de este número, pura santidad.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

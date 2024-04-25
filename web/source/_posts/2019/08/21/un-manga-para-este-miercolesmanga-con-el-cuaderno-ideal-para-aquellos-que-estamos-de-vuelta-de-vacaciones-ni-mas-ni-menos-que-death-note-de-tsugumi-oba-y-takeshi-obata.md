@@ -34,6 +34,3 @@ De todas formas eso no quita para que sea una serie totalmente recomendable que,
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

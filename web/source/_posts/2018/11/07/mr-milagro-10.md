@@ -44,10 +44,3 @@ Eso sí, ningún niño de menos de un año dibuja tan "bien" como Jacob Free, po
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

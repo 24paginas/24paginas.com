@@ -45,6 +45,3 @@ Y con un gran continuará para que al siguiente número llegaran Mark Millar y F
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

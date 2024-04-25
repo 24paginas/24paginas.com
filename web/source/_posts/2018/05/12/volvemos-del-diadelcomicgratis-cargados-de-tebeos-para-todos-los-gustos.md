@@ -28,10 +28,3 @@ Entre ellos, el de Marvel/Panini con avances del Spider-Man de [@ryanottley](htt
 
 
 Y vosotros ¿os habéis hecho con alguno?
-
-
-
-
-
-
-

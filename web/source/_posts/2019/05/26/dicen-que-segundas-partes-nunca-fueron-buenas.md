@@ -36,6 +36,3 @@ Las ocho primera grapas son una gozada, pero Fanhunter (FH a partir de aquí), d
 
 
 Y eso sin contar libros, juegos, universos alternativos, y demás cositas. Aunque eso lo veremos más adelante...
-
-
-

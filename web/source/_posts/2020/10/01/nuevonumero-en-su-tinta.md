@@ -26,10 +26,3 @@ Hace un año nos encontrábamos en plena preparación de nuestro especial NÚMER
 
 
 ¡Salud y tebeos!
-
-
-
-
-
-
-

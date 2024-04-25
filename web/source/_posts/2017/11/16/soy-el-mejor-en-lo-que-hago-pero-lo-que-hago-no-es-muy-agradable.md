@@ -28,6 +28,3 @@ Los jueves soleados son para jugar con los moñecos.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -28,10 +28,3 @@ La Cosa se casa (como rezaba el titular que coló [@davidbaldeoncomic](https://i
 Remata el especial la portada de Carlos Pacheco, con la pareja y familia como protagonistas, Peter Parker recuperando sus labores de fotógrafo (la cosa está muy mal y hay que sacar dinero de donde sea) y unos invitados entre los que destacan Jack Kirby, Stan Lee y Flo Steinberg. Kirby también tiene un papel destacado en la preciosa y llena de detalles portada alternativa que sirve como contra, de la mano de otro español, Marcos Martín.
 
 Pero para la auténtica boda deberemos esperar otro número y cruzar para que no pase como con cierto vigilante de la ilustre competencia... Thing ring do your thing! ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

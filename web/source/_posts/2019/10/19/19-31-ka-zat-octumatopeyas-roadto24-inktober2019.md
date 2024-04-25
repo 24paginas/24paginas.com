@@ -20,8 +20,3 @@ author: 24paginas
 
 
 El lettering de hoy está inspirado por la etapa de [@dennishopelesscomics](https://instagram.com/dennishopelesscomics) y [@javiercaster](https://instagram.com/javiercaster) en Spider-woman, con la representación gráfica del poder de Jessica Drew. .
-
-
-
-
-

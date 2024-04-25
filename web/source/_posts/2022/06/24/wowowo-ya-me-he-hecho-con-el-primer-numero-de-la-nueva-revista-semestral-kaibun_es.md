@@ -25,5 +25,3 @@ Wowowo ya me he hecho con el primer número de la nueva revista semestral [@kaib
 Menos mal que tardará en salir todavía el siguiente número, porque aquí hay mandanga en cantidad para leer, sobre cultura japonesa en general y sobre el frikerío nipón en particular (manga, anime, videojuegos, etc).
 
 Aventuras en papel siempre son bien. A tope con esto. 
-
-

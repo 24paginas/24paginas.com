@@ -41,6 +41,3 @@ Vamos, que no se me ocurre nada mejor para empezar julio. Para mi por ahora ha s
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

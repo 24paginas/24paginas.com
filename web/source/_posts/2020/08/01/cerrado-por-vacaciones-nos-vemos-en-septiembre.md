@@ -28,10 +28,3 @@ Seguramente no desaparezcamos del todo, no podemos evitar la llamada de [#latont
 
 
 ¡Disfrutad de las vacaciones!
-
-
-
-
-
-
-

@@ -36,6 +36,3 @@ Por desgracia ahora quiero POSEER materialmente estos tebeos, yo es que no valgo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

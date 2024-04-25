@@ -36,6 +36,3 @@ El arte de Wang encaja a la perfección en el tono de "Lo cuqui", que en los úl
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -26,8 +26,3 @@ Continúa el juego de lealtades y se dejan ver algunas revelaciones que podrían
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-

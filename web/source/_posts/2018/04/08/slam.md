@@ -31,10 +31,3 @@ El primer número, de los 4 que incluye el volumen que edita [@fandogamia](https
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

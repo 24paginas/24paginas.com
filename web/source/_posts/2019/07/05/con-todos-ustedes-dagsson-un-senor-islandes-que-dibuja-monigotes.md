@@ -31,6 +31,3 @@ Por supuesto al lector que no le guste el humor negro, pues esto no. Pero oye, v
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

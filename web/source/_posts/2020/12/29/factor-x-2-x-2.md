@@ -21,10 +21,3 @@ El cómic de [@handaxe](https://instagram.com/handaxe) y [@davidbaldeoncomic](ht
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

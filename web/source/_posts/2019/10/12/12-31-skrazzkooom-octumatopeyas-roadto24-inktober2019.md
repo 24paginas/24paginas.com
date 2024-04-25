@@ -24,10 +24,3 @@ author: 24paginas
 
  
 No está claro el funcionamiento de los rayos ópticos de Scott Summers, lo que sí está claro es que tan solo con su sonido es capaz de dejar a cualquiera impactado.
-
-
-
-
-
-
-

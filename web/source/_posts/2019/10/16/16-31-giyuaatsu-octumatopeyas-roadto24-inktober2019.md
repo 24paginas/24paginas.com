@@ -34,10 +34,3 @@ Pero la onomatopeya de hoy no les queda lejos, ya que pertenece al número 15 de
 
 Las onomatopeyas son un elemento importante en la narrativa del manga y se mantienen sin traducir en muchas ocasiones por falta de sonidos similares en la lengua de destino y por la forma tan expresiva en la que están integradas en la acción. Existen más de 1200 onomatopeyas en japonés (aunque no todas se usan en el manga) divididas en 3 familias: Giseigo (que imitan voces de gente o animales), Giongo (que imitan sonidos) y
 Gitaigo (que replican algo visual o un sentimiento). Esta última tiene especial importancia en el manga para enfatizar algunos hechos que ya vemos dibujados.
-
-
-
-
-
-
-

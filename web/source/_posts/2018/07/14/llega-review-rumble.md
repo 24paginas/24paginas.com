@@ -30,6 +30,3 @@ En esta ocasión, [@hecdruiz](https://instagram.com/hecdruiz) y [@uncientovoland
 
 
 3! 2! 1! Fight!
-
-
-

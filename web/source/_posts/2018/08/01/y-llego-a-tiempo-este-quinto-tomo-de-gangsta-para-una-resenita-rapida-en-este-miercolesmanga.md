@@ -39,8 +39,3 @@ Sea como sea, que salga ya el siguiente, ¡que esto es un sin vivir!
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

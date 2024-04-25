@@ -35,10 +35,3 @@ Este chasquido también no sirve de excusa para recordaros esa bonita tienda de 
 
 
 Oh, snap!
-
-
-
-
-
-
-

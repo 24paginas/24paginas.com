@@ -42,6 +42,3 @@ A ver para cuando más obras de Panel Syndicate.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

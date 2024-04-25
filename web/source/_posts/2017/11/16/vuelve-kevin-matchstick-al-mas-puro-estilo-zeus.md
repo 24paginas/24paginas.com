@@ -36,9 +36,3 @@ Aunque actualmente aparecen agotados en la web de la editorial, buscando un poco
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-
-

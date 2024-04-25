@@ -35,6 +35,3 @@ Decía... un especial Mangazone sobre el mismo tebeo y serie de anime, incluyend
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

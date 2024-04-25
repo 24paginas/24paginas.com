@@ -52,6 +52,3 @@ A tope con esto [@paninicomicsespana](https://instagram.com/paninicomicsespana).
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

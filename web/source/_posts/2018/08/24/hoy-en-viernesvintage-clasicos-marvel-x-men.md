@@ -30,10 +30,3 @@ Además, incluía ¡un póster de Jean Grey obra de [@juanjoguarnido](https://in
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

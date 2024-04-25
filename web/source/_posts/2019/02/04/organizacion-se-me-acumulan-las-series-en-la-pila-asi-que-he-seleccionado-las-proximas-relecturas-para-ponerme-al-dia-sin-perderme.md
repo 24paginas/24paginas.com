@@ -24,6 +24,3 @@ Stay tuned!
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

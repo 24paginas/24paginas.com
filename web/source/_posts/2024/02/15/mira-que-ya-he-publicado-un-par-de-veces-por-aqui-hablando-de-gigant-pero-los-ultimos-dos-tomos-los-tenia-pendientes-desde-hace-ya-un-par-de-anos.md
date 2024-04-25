@@ -19,5 +19,3 @@ Mira que ya he publicado un par de veces por aquí hablando de Gigant, pero los 
 Y... bueno. A ver. Qué os voy a contar. La huída hacia adelante sin planificación alguna que se marca el autor, para terminar en el último tomo con un deus ex machina, es para verla. Muy divertida la locura, un arte impresionante, y leyendo sus páginas puedes pararte a meditar acerca de, qué sé yo, la ética de la industria del entretenimiento, la naturaleza humana, la búsqueda de la felicidad... o puedes encontrar algo de guión entre el tremendo fanservice que se marca, depende de a qué estés prestando atención.
 
 Recomendable: no, esto suspende. Pero que nos quiten lo bailao.
-
-

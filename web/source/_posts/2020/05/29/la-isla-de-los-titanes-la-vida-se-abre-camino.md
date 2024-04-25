@@ -24,10 +24,3 @@ Esto le lleva a la isla que da título a esta historia y a descubrir esos mister
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

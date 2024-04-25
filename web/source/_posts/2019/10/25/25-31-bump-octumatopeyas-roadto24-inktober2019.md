@@ -30,10 +30,3 @@ En la pieza de hoy recuperamos de nuevo una obra de [@javiercaster](https://inst
 
 
 Volvemos a la normalidad, pero va a ser un buen viaje...
-
-
-
-
-
-
-

@@ -38,8 +38,3 @@ Veremos el siguiente y si toca o no bajarse para buscar campos más verdes. Una 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

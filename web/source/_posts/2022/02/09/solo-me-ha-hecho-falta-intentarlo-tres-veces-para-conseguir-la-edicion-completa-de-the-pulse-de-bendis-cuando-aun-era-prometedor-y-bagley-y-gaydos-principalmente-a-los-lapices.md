@@ -29,5 +29,3 @@ Es una colección curiosa, porque suponía un cierto paso desde las afueras de M
 Lo intenté con las grapas originales, pero dejé la colección a medias. Lo intenté de nuevo con la reciente edición de Marvel Saga, pero... se me traspapeló el tomo y olvidé que la estaba haciendo. True story. Buscando donde comprar lo que me faltaba, encontré una buena oferta en Wallapop por todas las grapas, así que voy a quedarme con las que estén en mejor estado y dar salida a todo lo repetido.
 
 Porque no siempre el hype y la novedad lo es todo, se puede comprar de segunda mano también.
-
-

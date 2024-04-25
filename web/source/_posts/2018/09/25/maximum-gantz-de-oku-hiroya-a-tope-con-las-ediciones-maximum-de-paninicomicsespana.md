@@ -27,6 +27,3 @@ Maximum Gantz, de Oku Hiroya. A tope con las ediciones Maximum de [@paninicomics
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

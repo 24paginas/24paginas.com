@@ -40,6 +40,3 @@ Bienvenidos a Critical Role.. How do you want to do this?
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

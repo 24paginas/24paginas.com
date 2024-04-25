@@ -24,10 +24,3 @@ author: 24paginas
 
 
 Para el [#viernesvintage](/tags/viernesvintage) recuperamos una onomatopeya de los tiempos del Spider-Man de Ditko, con el ¿primer? encuentro entre el trepamuros y Daredevil (ASM [#16](/tags/16),1963).
-
-
-
-
-
-
-

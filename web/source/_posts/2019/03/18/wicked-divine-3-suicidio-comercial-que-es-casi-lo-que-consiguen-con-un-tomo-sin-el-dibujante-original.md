@@ -37,6 +37,3 @@ Bueno y porque me sigue picando un poco la historia de [@kierongillen](https://i
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

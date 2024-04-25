@@ -31,8 +31,3 @@ Si no conoces Bateadores (Touch), su obra más famosa y totalmente recomendable,
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

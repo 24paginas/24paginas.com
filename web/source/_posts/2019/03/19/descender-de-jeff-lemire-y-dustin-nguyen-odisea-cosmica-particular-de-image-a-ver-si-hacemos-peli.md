@@ -36,6 +36,3 @@ En cualquier caso me ha parecido una buena lectura y continuaré con siguientes 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

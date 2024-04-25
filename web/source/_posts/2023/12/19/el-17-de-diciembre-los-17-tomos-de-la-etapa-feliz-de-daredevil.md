@@ -31,5 +31,3 @@ Tras la época Marvel Knights donde Joe Quesada y Kevin Smith revitalizaron un p
 Y en estas que llegó Mark Waid para darle un giro de timón de 180 grados (todavía hay quien suele decir 360, hay que aprender un poco de matemáticas) y volver a los tonos felices del diablo de cuernitos, abandonar a los demonios, La Mano, el no saber si se ha descubierto su identidad secreta... y muchos cambios.
 
 Sorprendentemente, para la edición española se decidió cambiar de grapas a tomos... los caminos de los editores son inescrutables. 17 tomos de, sobre todo, Mark Waid y Charles Soule en los que hay páginas y páginas para leer un buen diablito guardian. Dan Defensor a tope.
-
-

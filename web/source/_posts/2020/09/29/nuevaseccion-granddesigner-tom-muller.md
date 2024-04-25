@@ -33,10 +33,3 @@ Además de plantear el universo gráfico mutante, trabajo por el que ha ganado e
 
 
 Os animamos a visitar su web, en proceso de renovación, hellomuller.com y sus redes sociales, [@hellomuller](https://instagram.com/hellomuller), para descubrir más sobre su trabajo.
-
-
-
-
-
-
-

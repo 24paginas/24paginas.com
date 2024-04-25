@@ -28,6 +28,3 @@ Me perdí en su momento una de las obras magnas de Naoki Urasawa, y estoy aprove
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

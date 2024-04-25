@@ -36,6 +36,3 @@ Fantástico primer número, que por primera vez en mucho tiempo me atrevo a reco
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

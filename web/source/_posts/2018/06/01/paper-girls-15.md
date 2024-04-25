@@ -27,10 +27,3 @@ Termina la trama prehistórica ¿y ahora qué?
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

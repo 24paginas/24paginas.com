@@ -30,10 +30,3 @@ Las tiras diarias funcionan a la perfección como historia continua y siguen fre
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

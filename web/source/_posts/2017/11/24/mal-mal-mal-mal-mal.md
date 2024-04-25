@@ -32,8 +32,3 @@ Totalmente prescindible.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

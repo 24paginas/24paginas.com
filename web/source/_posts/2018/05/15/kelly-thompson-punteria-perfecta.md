@@ -25,10 +25,3 @@ Ya iba siendo hora. 7 números y aún no teníamos una mujer entre los premiados
 
 
 La serie, de la que Panini acaba de publicar su segundo recopilatorio, ha terminado ya en Estados Unidos porque no existe la justicia, pero merece mucho la pena. Acción, comedia y Ojos de Halcón... Nuff said!
-
-
-
-
-
-
-

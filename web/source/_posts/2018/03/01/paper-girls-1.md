@@ -30,10 +30,3 @@ El primer número planta las bases de una aventura de ciencia ficción adolescen
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

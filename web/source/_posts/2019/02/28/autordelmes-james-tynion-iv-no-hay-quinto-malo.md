@@ -27,10 +27,3 @@ Estrechamente ligado a DC Comics y a cabeceras del Hombre Murcielago, [@jamesthe
 
 
 Historias frescas y alguna vuelta de tuerca a lo de siempre en el mundo superheróico. Vale la pena seguirle la pista.
-
-
-
-
-
-
-

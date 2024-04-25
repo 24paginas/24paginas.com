@@ -29,6 +29,3 @@ Un capítulo bien narrado y ambientado en una historia personal y poco superhero
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

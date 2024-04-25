@@ -28,10 +28,3 @@ Uno de ellos es Super Jaime, editado por [@latribu_ed](https://instagram.com/lat
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

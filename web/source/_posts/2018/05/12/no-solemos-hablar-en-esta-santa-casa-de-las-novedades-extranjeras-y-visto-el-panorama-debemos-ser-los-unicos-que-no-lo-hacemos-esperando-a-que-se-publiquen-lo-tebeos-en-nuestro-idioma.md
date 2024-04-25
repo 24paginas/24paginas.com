@@ -49,6 +49,3 @@ Pronóstico: 8$ que aquí será una edición en tapa dura de al menos 20€. Com
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

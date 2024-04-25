@@ -34,6 +34,3 @@ Pero. PERO. Se me ha quedado ahí en la frontera también... ¿compro el segundo
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

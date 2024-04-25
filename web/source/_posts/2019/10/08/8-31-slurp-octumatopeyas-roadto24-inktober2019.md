@@ -28,8 +28,3 @@ Al contrario que las onomatopeyas anteriores, esta pieza no emula ninguna existe
 
 
 ¡Reserva el tuyo!
-
-
-
-
-

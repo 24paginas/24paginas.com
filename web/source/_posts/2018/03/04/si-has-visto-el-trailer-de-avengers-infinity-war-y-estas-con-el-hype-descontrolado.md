@@ -41,8 +41,3 @@ Vamos, que esto hay que leérselo de todas todas. Estáis tardando.
 
 
 [@hecdruiz](https://instagram.com/hecdruiz)
-
-
-
-
-

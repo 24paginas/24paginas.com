@@ -38,10 +38,3 @@ Además, una aventura con mapas siempre es una mejor aventura.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

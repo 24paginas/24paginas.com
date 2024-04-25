@@ -39,6 +39,3 @@ Lo positivo: si te gusta el dibujo detallista de Miura no sé a qué estás espe
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

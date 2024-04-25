@@ -29,10 +29,3 @@ Sin noticias sobre la continuación de la serie, sí que llegará próximamente 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

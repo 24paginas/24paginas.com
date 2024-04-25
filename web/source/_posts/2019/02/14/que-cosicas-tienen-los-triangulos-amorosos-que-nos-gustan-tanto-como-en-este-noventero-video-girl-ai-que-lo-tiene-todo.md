@@ -38,6 +38,3 @@ Se te va a acabar metiendo algo en el ojo que hace que pique, y lo sabes.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

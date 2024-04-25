@@ -50,6 +50,3 @@ Ay, qué difícil ha sido leer al arquero esmeralda.
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

@@ -18,5 +18,3 @@ author: neverbot
 ---
 
 En esta santa casa somos muy fanses de los mutantes, hasta cuando no les hacen buenos tebeos. 
-
-

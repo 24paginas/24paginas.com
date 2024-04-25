@@ -23,10 +23,3 @@ Ya estamos más cerca de que las librerías vuelvan a abrir y que podamos volver
 
 
 ¡Salud y tebeos!
-
-
-
-
-
-
-

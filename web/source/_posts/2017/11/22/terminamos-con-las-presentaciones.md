@@ -17,6 +17,3 @@ Terminamos con las presentaciones.
 
 
 [@uncientovolando](https://instagram.com/uncientovolando) se perdió por el espacio-tiempo a principios de año y volvió sabiendo algunas cosas y habiendo olvidado otras.
-
-
-

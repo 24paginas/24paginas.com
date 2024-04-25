@@ -25,10 +25,3 @@ Y ahora sí, cerramos 2020 con nuestro último autor del mes. Mucho ha pasado de
 
 
 Nada mejor para despedir el año que ponernos así de guapos.
-
-
-
-
-
-
-

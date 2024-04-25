@@ -56,6 +56,3 @@ Meh. Hasta aquí el hate del domingo. La serie está ahora recopilada en tomo, p
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -49,6 +49,3 @@ Y ahora el nuevo The Wild Storm de Warren Ellis, ya completamente integrado dent
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -28,10 +28,3 @@ También es puro amor (aunque cueste al bolsillo) la edición de [@edicioneslacu
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

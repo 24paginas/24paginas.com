@@ -24,10 +24,3 @@ author: 24paginas
 
  
 Empezamos la semana con un lettering vintage de los tiempos de Los 4 Fantásticos de Lee y Kirby. También ha sido el primer intento de hacer un vídeo de proceso pero, al igual que pasa con el principio de incertidumbre, la mera presencia de un observador ha influido en el resultado. O dicho de otro modo, necesitamos otro set que no sea tan incomodo para trabajar. 😊
-
-
-
-
-
-
-

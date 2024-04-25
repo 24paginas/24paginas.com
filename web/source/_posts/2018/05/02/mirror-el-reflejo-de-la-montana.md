@@ -24,6 +24,3 @@ Aunque anterior y separada por mundos de distancia de Annihilation (la película
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

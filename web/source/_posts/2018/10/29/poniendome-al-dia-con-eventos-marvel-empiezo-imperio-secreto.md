@@ -38,6 +38,3 @@ Seguiremos con la saga.
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

@@ -26,10 +26,3 @@ Se nos ha echado el tiempo encima, termina octubre y todavía no habíamos premi
 
 
 [@strangelykatie](https://instagram.com/strangelykatie) mezcla en "La Sociedad de los Dragones de Té" un dibujo amable, una paleta preciosa y una historia encantadora en este cuento de hadas que le valió 2 [#EisnerAwards](/tags/eisnerawards) en la pasada edición y que podemos disfrutar aquí de la mano de [@edicioneslacupula](https://instagram.com/edicioneslacupula).
-
-
-
-
-
-
-

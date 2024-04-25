@@ -29,6 +29,3 @@ Si no recuerdo mal los fabricó Qee allá por el 2009... 10 años ya... [#vamosa
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

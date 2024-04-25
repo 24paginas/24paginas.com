@@ -33,6 +33,3 @@ Pero como punto de inicio para saber de qué estamos hablando pues... pues ya ex
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -28,10 +28,3 @@ No hemos esperado ni 2 días desde la salida en USA del primer número X-Facto
 
 
 En esta ocasión David también lo ha dado todo con el diseño del logo y el vestuario de los personajes, dotando de personalidad a cada miembro del equipo al primer vistazo. Además, todos los interiores que hemos podido ver tienen una pinta genial. Esperamos que pronto tengamos la colección aquí, mientras tanto seguiremos disfrutando de los avances que nos ofrece David en sus redes.
-
-
-
-
-
-
-

@@ -32,10 +32,3 @@ Mientras tanto, no dudéis en pasaros por su perfil de instagram (y twitter) y d
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

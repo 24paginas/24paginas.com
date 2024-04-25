@@ -19,5 +19,3 @@ author: neverbot
 El 6 de Diciembre, los 6 capítulos de Historia del Universo Marvel, de Mark Waid ([@waidmark](https://instagram.com/waidmark)) y Javier Rodríguez ([@javiercaster](https://instagram.com/javiercaster)).
 
 Fantástico. De esto no os voy a contar nada, me ha apetecido volver a leer la serie y voy a disfrutarla. Y más con los extensos detalles explicativos al final de cada número. El conocimiento enciclopédico de Waid se nota en cada página. Excelsior!
-
-

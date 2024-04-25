@@ -34,6 +34,3 @@ Por lo demás, no es una historia especialmente original, pero me parece un buen
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

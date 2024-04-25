@@ -10,6 +10,3 @@ author: 24paginas
 ---
 
 Con las vacaciones en la cabeza, comenzamos un nuevo mes de reseñas, stories y demás tontunas!
-
-
-

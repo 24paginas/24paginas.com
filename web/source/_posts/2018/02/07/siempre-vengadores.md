@@ -37,6 +37,3 @@ Viajes en el tiempo, paradojas y cientos de guiños en una edición muy cuidada 
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

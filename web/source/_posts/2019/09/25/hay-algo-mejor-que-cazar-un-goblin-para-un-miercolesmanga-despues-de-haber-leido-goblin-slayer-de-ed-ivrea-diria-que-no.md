@@ -42,6 +42,3 @@ Por cierto, que también tiene adaptación a anime, figuras y el típico pack co
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

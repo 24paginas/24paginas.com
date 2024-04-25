@@ -27,10 +27,3 @@ Desde 24 páginas aún no hemos podido catar su Batman, pero la mezcla épica y 
 
 
 Tom King es. Y lo será seguro por mucho tiempo.
-
-
-
-
-
-
-

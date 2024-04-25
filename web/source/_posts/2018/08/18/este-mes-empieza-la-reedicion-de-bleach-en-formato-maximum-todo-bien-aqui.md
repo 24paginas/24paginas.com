@@ -33,6 +33,3 @@ La reseña ya cuando lleve unos cuantos tomos y alcance lo que ya tenía en el f
 
 
 PD: Lo de poner Seinen en el lomo... ¿Bleach seinen? Seriously?
-
-
-

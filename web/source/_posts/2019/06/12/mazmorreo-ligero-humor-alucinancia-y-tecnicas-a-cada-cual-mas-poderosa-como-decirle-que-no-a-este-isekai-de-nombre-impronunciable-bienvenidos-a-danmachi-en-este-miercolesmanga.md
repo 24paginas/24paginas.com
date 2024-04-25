@@ -44,6 +44,3 @@ Por otra parte es cierto que, si no tienes noticia del anime, me parece un muy b
 
 
 [@hecdruiz](https://instagram.com/hecdruiz)
-
-
-

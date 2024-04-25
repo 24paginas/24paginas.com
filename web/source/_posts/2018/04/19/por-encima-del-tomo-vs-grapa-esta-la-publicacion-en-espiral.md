@@ -37,6 +37,3 @@ Tonterías que hacen feliz el día de un marvelita cualquiera.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

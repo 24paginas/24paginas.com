@@ -30,10 +30,3 @@ Hoy volvemos a reivindicar la figura de un rotulista, en este caso con un nombre
 
 
 Además de su carrera en la rotulación, tanto aquí como para Estados Unidos, Ferrán ha demostrado su amor al cómic desde su revista “PLOT 2.0” o recopilando y remasterizando las tiras dominicales de Sky Masters de Kirby, obra que le valió una nominación en los últimos [#eisnerawards](/tags/eisnerawards).
-
-
-
-
-
-
-

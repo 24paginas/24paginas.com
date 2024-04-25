@@ -24,10 +24,3 @@ Salto de fe
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

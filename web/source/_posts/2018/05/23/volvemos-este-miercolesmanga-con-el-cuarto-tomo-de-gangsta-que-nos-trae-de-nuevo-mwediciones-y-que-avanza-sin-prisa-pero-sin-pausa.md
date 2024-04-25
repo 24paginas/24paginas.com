@@ -36,8 +36,3 @@ Vamos, que con ganas ya del siguiente, porque sabe a poco.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

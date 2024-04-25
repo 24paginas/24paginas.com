@@ -29,5 +29,3 @@ Durante cuatro meses todas las series de mutantes se cancelaron, tras el viaje a
 Este cristal tiene que ser restaurado en todas las realidades que existen, o todas las realidades serán destruidas. Esto estaba cogido un poco con pinzas, ¿eh? ¿En ninguna realidad ha pasado? Vaya, vaya...
 
 Al final se consigue salvar el multiverso sobre la bocina, algunos personajes saltan a la realidad "oficial" que es restituida, y todo cambiará para seguir siendo igual. Carrusel de emociones.
-
-

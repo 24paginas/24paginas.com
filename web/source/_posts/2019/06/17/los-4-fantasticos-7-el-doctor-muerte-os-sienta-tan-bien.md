@@ -28,10 +28,3 @@ Slott recupera el Doctor Muerte canónico y grandilocuente, con un plan maestro 
 La serie parece recuperar ritmo y entidad fantástica tirando de los clásicos.
 
 SALVE DOOM! ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

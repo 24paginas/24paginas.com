@@ -32,8 +32,3 @@ Que más no siempre es mejor, y de hecho en este caso, creo que incluso ayuda a 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

@@ -48,6 +48,3 @@ Por otra parte, la fuerza estética del entorno y de los personajes, gran aciert
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

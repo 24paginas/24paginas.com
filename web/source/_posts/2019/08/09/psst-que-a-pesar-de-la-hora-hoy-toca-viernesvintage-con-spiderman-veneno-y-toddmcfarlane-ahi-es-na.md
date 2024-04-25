@@ -41,6 +41,3 @@ Vamos, que aquí cada página, y más a día de hoy con el trepamuros y todo su 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

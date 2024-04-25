@@ -35,6 +35,3 @@ La única pena es que no publique aún más, que creo que ya he leído casi toda
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

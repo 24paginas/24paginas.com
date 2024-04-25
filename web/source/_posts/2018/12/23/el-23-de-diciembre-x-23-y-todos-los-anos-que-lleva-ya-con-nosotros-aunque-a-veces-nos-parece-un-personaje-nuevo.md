@@ -44,6 +44,3 @@ Y todavía nos sigue pareciendo un personaje nuevo.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

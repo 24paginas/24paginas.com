@@ -24,10 +24,3 @@ Futuros enredados
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

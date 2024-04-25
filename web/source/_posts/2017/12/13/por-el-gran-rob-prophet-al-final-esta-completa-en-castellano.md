@@ -30,6 +30,3 @@ Os iré contando cómo avanza esta relectura durante los próximos días.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

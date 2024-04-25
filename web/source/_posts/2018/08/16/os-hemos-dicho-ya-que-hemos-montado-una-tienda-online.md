@@ -18,6 +18,3 @@ author: 24paginas
 
 
 En https://www.positivos.com/tienda/user/24paginas/ (link clickable en la bio) tienes camisetas molonas y nuestra chapita, por si no ganas nuestro concurso.
-
-
-

@@ -26,10 +26,3 @@ Otro sonido de arma, en este caso de fuego y repetición. Quizás su aparición 
 
 
 ⚡️
-
-
-
-
-
-
-

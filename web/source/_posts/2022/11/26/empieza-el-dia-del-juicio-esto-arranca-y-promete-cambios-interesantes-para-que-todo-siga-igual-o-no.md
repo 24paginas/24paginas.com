@@ -26,5 +26,3 @@ author: neverbot
 Contras: si estás desconectado de Patrulla-X, Vengadores o Eternos, no te enteras un carajo de qué hacen los mutantes en Marte siendo inmortales, por qué los Vengadores están en una montaña que es un celestial, y los Eternos... bueno, nunca ha habido quien se entere con ellos, eso no es novedad.
 
 Pros: Yo siempre he dicho que si los mutantes se ponen las pilas a soltar tollinas, ni la Liga de la Justicia podría toserles, y ya es hora de que lo demuestren. All in con esto.
-
-

@@ -24,5 +24,3 @@ Despues de algunos problemillas con las publicaciones programadas, retomamos nue
 Con el sello Cliffhanger de Wildstorm llegaba en 1998 una segunda hornada de creaciones en Image... creadores que mantenían los derechos de sus obras pero no eran los socios originales de Image: los Battle Chasers de Joe Madureira, la Danger Girl de Jeff Scott Campbell, Crimson de Humberto Ramos y en el 2000 este SteamPunk de Chris Bachalo. Todo pesos pesados de los lápices del momento.
 
 Y esto pues... bueno. Recuerdo el arte confuso, recuerdo que terminaba en un sí, pero no (estaba planeada para 24 números y se paró antes de tiempo) y si hasta ahora no ha continuado, por algo será. Pero espectacular era un rato.
-
-

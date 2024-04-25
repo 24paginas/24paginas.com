@@ -31,10 +31,3 @@ La serie cuenta con varios especiales navideños (uno de ellos publicado esta mi
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

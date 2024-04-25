@@ -29,8 +29,3 @@ Pena que no tuviese continuación, pero si no recuerdo mal hicieron un OVA por s
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

@@ -24,10 +24,3 @@ David ([@davizzzz](https://instagram.com/davizzzz)) López continúa su historia
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

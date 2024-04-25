@@ -32,10 +32,3 @@ Un libro interesante tanto por el lado del personaje, como por el del movimiento
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

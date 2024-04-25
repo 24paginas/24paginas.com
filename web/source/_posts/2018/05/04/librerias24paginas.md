@@ -30,10 +30,3 @@ Leed tebeos, comprad tebeos.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

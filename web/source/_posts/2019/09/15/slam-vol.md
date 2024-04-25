@@ -20,10 +20,3 @@ Slam vol. 2: Segundas partes... Recupero otra lectura pendiente, esta vez de la 
 En este caso no cuentan con Veronica Fish a los dibujos, uno de los puntos fuertes de la primera parte, y el estilo más abocetado de Marina Julia se me ha hecho personalmente algo cuesta arriba.
 
 Con todo, sigue siendo una lectura muy recomendable para lectoras y lectores jóvenes, aunque creo que, por mucho que me lo expliquen, voy a seguir siendo incapaz de entender las reglas del Roller Derby. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

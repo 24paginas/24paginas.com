@@ -42,6 +42,3 @@ Así que desde aquí rompo una lanza por esos editores valientes, y agradezco su
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

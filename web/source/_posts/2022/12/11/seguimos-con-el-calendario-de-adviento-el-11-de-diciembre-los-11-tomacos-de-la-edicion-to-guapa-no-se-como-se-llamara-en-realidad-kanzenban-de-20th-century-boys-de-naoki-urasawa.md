@@ -20,5 +20,3 @@ Seguimos con el calendario de adviento: el 11 de Diciembre, los 11 tomacos de la
 De Urasawa me gustan hasta los andares, y esto es una locura muy grande en la que nunca estás del todo seguro de qué carajo está pasando… y ojo que esto lo estoy diciendo sin haberla terminado de leer, que como podéis ver los dos últimos aún están precintados. 
 
 El 21st Century Boys lo tengo Justo al lado, esperando también. 
-
-

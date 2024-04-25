@@ -22,6 +22,3 @@ Aunque también es dibujante, hemos podido ver sus lápices en obras como el Sex
 
 
 Ahora, mientras en Estados Unidos ya se ha estrenado con un nuevo número 1 de Spider-Man, podemos disfrutar de Marvel 2-en-1, la aventura protagonizada por Ben Grimm y Johny Storm... Bueno, al menos hasta que irrumpe Victor Von Doom. Porque cuando Muerte entra en escena, Muerte es el protagonista.
-
-
-

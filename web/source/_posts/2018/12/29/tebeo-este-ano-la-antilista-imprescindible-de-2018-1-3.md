@@ -28,10 +28,3 @@ Para empezar, yo me he decidido por una de las revelaciones nacionales del año,
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

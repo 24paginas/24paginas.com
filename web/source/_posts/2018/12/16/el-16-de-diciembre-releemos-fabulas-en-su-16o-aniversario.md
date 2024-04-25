@@ -29,6 +29,3 @@ Buena relectura navideña. Tenéis una fantástica reedición de [@eccediciones]
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

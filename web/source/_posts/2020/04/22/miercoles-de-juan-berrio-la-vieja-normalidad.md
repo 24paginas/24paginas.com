@@ -28,10 +28,3 @@ El miércoles puede estar perdido en medio de la semana, ser mediocre o insustan
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

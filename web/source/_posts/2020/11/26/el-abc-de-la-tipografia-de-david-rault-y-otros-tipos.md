@@ -24,10 +24,3 @@ Muy recomendable para cualquiera que tenga un mínimo de curiosidad sobre la tip
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

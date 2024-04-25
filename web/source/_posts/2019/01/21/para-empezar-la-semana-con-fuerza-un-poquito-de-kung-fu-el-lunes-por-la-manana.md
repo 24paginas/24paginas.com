@@ -44,6 +44,3 @@ Vamos, que si no lo habéis leído, haceos un favor y echarle un ojo.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

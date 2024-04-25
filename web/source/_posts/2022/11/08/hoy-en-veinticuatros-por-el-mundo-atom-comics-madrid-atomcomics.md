@@ -27,5 +27,3 @@ En Madrid ciudad, en la zona desde Goya hasta La plaza de Manuel Becerra, están
 Mucho de todo: americano, manga, europeo, indie, gran trato al cliente y notitas con comentarios junto a los tebeos para que encontréis cosas que os pueden haber pasado inavertidas. Por su “culpe” me llevé el tomo de “Primer Cuchillo” de Image/Gigamesh que ni había oído hablar de él. 
 
 Muy recomendable si sois de Madrid o pasáis por la ciudad. 
-
-

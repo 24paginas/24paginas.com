@@ -31,10 +31,3 @@ Ahora, como con el número 2 de Nowhere Men, tan solo nos queda esperar y que No
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

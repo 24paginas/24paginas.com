@@ -22,4 +22,3 @@ Nuevo mes, un Sol que (super)cargaría a Superman a la misma velocidad que una b
 Buscad un lugar fresquito y leed tebeos.
 
 P.D.: Si queréis estar fresquísimos y guapos, echadle un vistazo a nuestras camisetas (LINK EN BIO) 
-

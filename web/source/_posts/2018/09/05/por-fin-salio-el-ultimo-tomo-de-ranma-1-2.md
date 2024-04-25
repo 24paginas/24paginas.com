@@ -39,8 +39,3 @@ Pero vamos, es Ranma. [#RumikoTakahashi](/tags/rumikotakahashi) en todo su esple
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

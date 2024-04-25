@@ -32,10 +32,3 @@ Y es que eso es Mr. Milagro, un sueño y una ficción consciente de sí misma qu
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

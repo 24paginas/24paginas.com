@@ -53,8 +53,3 @@ Vamos, que como acercamiento para los que no conocían el universo Fanhunter, mu
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

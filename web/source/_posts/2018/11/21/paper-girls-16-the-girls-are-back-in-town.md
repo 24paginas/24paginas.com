@@ -32,10 +32,3 @@ El caso es que, tras la espera a la que nos ha sometido [@planetadcomic](https:/
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

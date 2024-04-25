@@ -30,10 +30,3 @@ Una de nuestras intenciones con este [#inktober](/tags/inktober) era poner de ma
 
 
 Empezamos con Tom Orzechowski, rotulista mutante y uno de los pioneros en la rotulación digital, y un fragmento del festival de onomatopeyas que se marcaba en el número 9 de Excalibur.
-
-
-
-
-
-
-

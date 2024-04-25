@@ -41,6 +41,3 @@ Pero a mí en concreto, a estas alturas de la vida, este humor tan blanco y tan 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

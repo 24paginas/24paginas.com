@@ -51,8 +51,3 @@ Siendo egoísta he de decir que, como suele decirse en estos casos, "todo gran p
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

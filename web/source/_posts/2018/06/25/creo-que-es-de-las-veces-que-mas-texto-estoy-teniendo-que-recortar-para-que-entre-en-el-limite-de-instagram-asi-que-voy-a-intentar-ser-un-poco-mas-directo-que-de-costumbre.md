@@ -46,8 +46,3 @@ Y sólo por eso ya merece la pena continuar con la serie y rezar por que los gui
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz)).
-
-
-
-
-

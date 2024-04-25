@@ -14,8 +14,3 @@ author: neverbot
 ---
 
 ([@neverbot](https://instagram.com/neverbot)) pero habéis visto el logo guapo que tenemos? Aplausos y ovación cerrada para [@hecdruiz](https://instagram.com/hecdruiz) y abucheos para la cutre foto que le he hecho yo.
-
-
-
-
-

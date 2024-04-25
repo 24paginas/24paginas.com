@@ -33,10 +33,3 @@ Pero la conexión de la película y la revista con el cómic es total, ya que es
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

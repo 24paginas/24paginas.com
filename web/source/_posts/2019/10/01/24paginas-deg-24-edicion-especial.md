@@ -20,10 +20,3 @@ author: 24paginas
 [#24paginas](/tags/24paginas) Ⓝ° 24. EDICIÓN ESPECIAL.
 
 Lo hemos conseguido. Parece una tontería, pero llegar a nuestro número 24 nos hace mucha ilusión. Con motivo de la celebración, y del número en papel que estamos preparando, este mes variamos un poco la programación con contenidos especiales CADA DÍA (o casi). Desde esta misma tarde podréis descubrirlo. Assemble!
-
-
-
-
-
-
-

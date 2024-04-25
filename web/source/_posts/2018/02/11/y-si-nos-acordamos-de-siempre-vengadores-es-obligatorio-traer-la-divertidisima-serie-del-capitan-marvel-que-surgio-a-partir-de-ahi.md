@@ -50,8 +50,3 @@ Una pena, me pregunto como habría cambiado el tema con un buen colorista y Pach
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-
-
-

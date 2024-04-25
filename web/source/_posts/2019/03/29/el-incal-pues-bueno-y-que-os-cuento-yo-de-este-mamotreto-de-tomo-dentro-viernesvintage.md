@@ -54,6 +54,3 @@ Pero, como siempre, acepto opiniones más versadas que me pongan en mi sitio.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

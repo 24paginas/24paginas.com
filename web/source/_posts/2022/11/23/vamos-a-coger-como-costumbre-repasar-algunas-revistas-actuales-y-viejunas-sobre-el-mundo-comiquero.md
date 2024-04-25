@@ -23,5 +23,3 @@ Incluye las novedades de todas las líneas de cómic de Planeta y una entrevista
 Novedades significativas de este mes: Las Tiras de prensa de Mickey Mouse de Floyd Gottfredson, el crossover Crimson Reign de Star Wars, el comienzo de Las Aventuras de Fly en castellano décadas después (incluye póster), y termina El Puño de la Estrella del Norte con su tomo número 18.
 
 ¿Por qué no llamarlo Las Aventuras de Fly y publicarlo con un enorme The Adventure of Dai en inglés? Si se está publicando Dash Kappei poniendo bien pequeñito "Chicho Terremoto", no sé de qué me extraño.
-
-

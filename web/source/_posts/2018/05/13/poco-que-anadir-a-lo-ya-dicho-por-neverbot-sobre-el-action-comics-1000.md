@@ -28,10 +28,3 @@ Interesante pero no imprescindible.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

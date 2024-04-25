@@ -26,6 +26,3 @@ Y recordad que esta semana estrenan en cines nueva peli del trepamuros, en [@24p
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

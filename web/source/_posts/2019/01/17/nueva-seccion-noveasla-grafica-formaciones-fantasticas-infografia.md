@@ -45,10 +45,3 @@ Un mapa, todo lo completo posible, para no perderse en los casi 60 años de hist
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

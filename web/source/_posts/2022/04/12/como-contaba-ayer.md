@@ -25,5 +25,3 @@ Como contaba ayer, trato de ponerme al día con las colecciones que tenía a med
 La etapa de Hickman pues… opinaré un poco más cuando la termine completa, pero bueno. Yoquesé. He llegado a un punto en el que lo único que espero de un tebeo de los X-Men es que no sea insultante, así que no sé valorar con objetividad. Son mi grupo favorito de siempre, sólo quisiera leer cosas que no me hicieran arquear una ceja cada dos páginas.
 
 Sentimientos encontrados con esto. Una casa para la familia summers de varias realidades y tiempos… más Lobezno, because of reasons. Necesitaría impartir dos tardes de clases para explicar quién es cada personaje en esa casa de gran hermano.
-
-

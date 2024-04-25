@@ -32,6 +32,3 @@ A ver si consigo el tercero rapidito, que ya hay ganas.
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

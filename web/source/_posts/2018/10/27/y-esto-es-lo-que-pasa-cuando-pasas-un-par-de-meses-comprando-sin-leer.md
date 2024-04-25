@@ -34,6 +34,3 @@ He estado jugando un poco con [@whakoom](https://instagram.com/whakoom), aunque 
 
 
 [@neverbot](https://instagram.com/neverbot)
-
-
-

@@ -29,10 +29,3 @@ A diferencia de esa etapa anterior, aquí Shulkie no rompe la cuarta pared, pero
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

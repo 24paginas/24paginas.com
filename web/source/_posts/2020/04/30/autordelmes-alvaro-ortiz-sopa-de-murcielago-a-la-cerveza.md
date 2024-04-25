@@ -30,10 +30,3 @@ Además del próximo desenlace de su justiciero cervecero, podéis encontrar una
 
 
 ¡Larga vida al murciélago!
-
-
-
-
-
-
-

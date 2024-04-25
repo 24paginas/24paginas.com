@@ -23,10 +23,3 @@ Pero no esperéis grandes batallas, la guerra se decide en los despachos.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

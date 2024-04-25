@@ -27,10 +27,3 @@ En un mes llegará una nueva edición integral por parte de [@astiberri_edicione
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

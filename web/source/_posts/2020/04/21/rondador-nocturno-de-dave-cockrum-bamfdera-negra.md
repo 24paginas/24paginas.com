@@ -34,10 +34,3 @@ Interesante como base del personaje y para conocer el origen de ciertas criaturi
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

@@ -40,6 +40,3 @@ La ultima foto podría ser un posible spoiler que sorprende a Batman y a cualqui
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

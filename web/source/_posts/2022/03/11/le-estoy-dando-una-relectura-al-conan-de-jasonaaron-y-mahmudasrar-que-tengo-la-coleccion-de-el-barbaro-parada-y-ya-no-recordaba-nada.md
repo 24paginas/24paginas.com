@@ -17,5 +17,3 @@ author: neverbot
 Le estoy dando una relectura al Conan de  [@jasonaaron](https://instagram.com/jasonaaron) y [@mahmudasrar](https://instagram.com/mahmudasrar), que tengo la colección de “El Bárbaro” parada y ya no recordaba nada.
 
 Por donde voy (otra vez), esto me está sonando (otra vez) muy a Jason Aaron, con una historia en un presente y otras en pasados distintos y mucho flashback. Creo que voy al día con la grapa, pero no sé lo que me encontraré más adelante. ¿Cómo evolucionaba esto con otros autores?
-
-

@@ -32,10 +32,3 @@ Lo que escucháis, lo que veis, es el sonido de las Nega-Bandas chocando, de los
 
 KTHANG!
 🤜🏼💥🤛🏼
-
-
-
-
-
-
-

@@ -20,5 +20,3 @@ author: neverbot
 Y con la tercera entrega del último coleccionable de Salvat, completo una nueva edición de Watchmen para mi colección de ediciones de Watchmen. 
 
 Porque el resto de la colección de Salvat como que no. No le veo mucho interés, pero supongo que su público tendrá. 
-
-

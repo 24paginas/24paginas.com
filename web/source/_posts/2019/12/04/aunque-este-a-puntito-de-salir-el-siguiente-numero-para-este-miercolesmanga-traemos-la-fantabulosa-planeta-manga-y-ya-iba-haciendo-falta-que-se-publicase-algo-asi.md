@@ -34,6 +34,3 @@ Y ojo, que comentan que si alguna de estas series tiene éxito será recopilada 
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

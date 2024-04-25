@@ -24,5 +24,3 @@ El 22 de Diciembre, el kanzenban 22 de DragonBall, en el que Goku se transforma 
 Que sí, ya lo sé, supersaiyano. Pero en mi generación esto lo vimos en la tele cuando aún nadie tenía internet, y existe un antes y un después en la infancia de muchas personas al ver aquello en "directo" sin esperártelo para nada... e ir al día siguiente al colegio a comentarlo en el recreo. Y pasaré toda la vida llamándolos súperguerreros, qué le voy a hacer.
 
 Freezer, nunca debiste hacerle eso a Krilín. Te lo ganaste.
-
-

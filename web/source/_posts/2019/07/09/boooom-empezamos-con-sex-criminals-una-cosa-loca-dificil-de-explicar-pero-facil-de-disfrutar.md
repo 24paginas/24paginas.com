@@ -37,6 +37,3 @@ Y ganadora de un Eisner, nominada a premio Hugo, blablabla. Por si necesitabais 
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

@@ -44,6 +44,3 @@ Para mí gusto solo le faltó que tuviese más repercusión con la continuidad d
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

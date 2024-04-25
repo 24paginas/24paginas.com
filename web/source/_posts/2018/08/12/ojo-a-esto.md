@@ -37,6 +37,3 @@ Vamos que me ha gustado, y MUCHO. Y se supone que yo soy el hater de esta redacc
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

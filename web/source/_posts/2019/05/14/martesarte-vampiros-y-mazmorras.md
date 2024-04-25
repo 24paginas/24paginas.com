@@ -18,10 +18,3 @@ author: uncientovolando
 [#martesarte](/tags/martesarte): Vampiros y Mazmorras.
 
 El pasado octubre [@elmonteys](https://instagram.com/elmonteys) dedicó su [#inktober](/tags/inktober) a repasar el bestiario de D&D y, como era de esperar, cada dibujo que ponía a la venta (¡2 al día!) volaba en segundos. Finalmente tuve una tirada de suerte y este vampiro fue invitado a mi casa. ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

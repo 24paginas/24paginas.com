@@ -31,6 +31,3 @@ Y he caído en que a partir de ahora tengo que llevarme chapas cada vez que me v
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

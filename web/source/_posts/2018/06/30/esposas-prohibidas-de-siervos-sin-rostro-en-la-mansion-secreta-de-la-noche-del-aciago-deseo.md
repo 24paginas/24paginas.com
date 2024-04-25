@@ -25,6 +25,3 @@ Ideal para disfrutar durante una tormenta de verano.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-

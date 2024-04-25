@@ -26,5 +26,3 @@ En "El Multiverso" (Multiversity en inglés, cosa curiosa), [#Morrison](/tags/mo
 Una pena por un lado, porque a mi me encantan estas cosas del "worldbuilding" súper cohesionado, pero por otra parte al final hay más libertad para que cada uno cuente lo que le dé la gana con los personajes que quiera. Cuestión de gustos.
 
 Mencionaría algo sobre el número de Pax Americana, que fue el que más me costó conseguir, pero si mi memoria no me falla, en algún momento lo he hecho ya. Por ahí debe andar.
-
-

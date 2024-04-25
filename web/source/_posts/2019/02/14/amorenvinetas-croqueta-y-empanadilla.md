@@ -37,6 +37,3 @@ Y es que si hay mercado para el hate.. para el amor ya no os quiero ni contar ;-
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

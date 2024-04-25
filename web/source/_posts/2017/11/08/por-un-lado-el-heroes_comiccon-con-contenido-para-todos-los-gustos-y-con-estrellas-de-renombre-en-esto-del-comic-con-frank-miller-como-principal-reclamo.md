@@ -22,10 +22,4 @@ Por un lado el [@heroes_comiccon](https://instagram.com/heroes_comiccon) con con
 
 Por el otro tenéis el [@grafcomic](https://instagram.com/grafcomic) centrado en cómic de autor y edición independiente. Muchas charlas interesantes y a mi gusto indispensable la de Streaming Dibujantes con [@davizzzz](https://instagram.com/davizzzz) López. No os perdáis su canal de youtube.
 
-Y para terminar reunión de artistazos el sábado en [@omega_center_madrid](https://instagram.com/omega_center_madrid) con su evento Los Profesionales que, si os gusta de verdad esto de los tebeos, no deberíais perdéroslos. ¡Por aquí ya estamos cuadrando agendas a ver cómo llegamos a todo! .
-
-
-
-
-
-
+Y para terminar reunión de artistazos el sábado en [@omega_center_madrid](https://instagram.com/omega_center_madrid) con su evento Los Profesionales que, si os gusta de verdad esto de los tebeos, no deberíais perdéroslos. ¡Por aquí ya estamos cuadrando agendas a ver cómo llegamos a todo!

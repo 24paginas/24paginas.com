@@ -22,5 +22,3 @@ author: neverbot
 Dos rombos. 
 
 Gato, de Horacio Altuna. De aquí no os voy a enseñar fotos del interior, ni os voy a contar de que va. Nos lo imaginamos todos. Y hasta aquí puedo leer. 
-
-

@@ -36,10 +36,3 @@ Os recordamos que si tenéis algún evento sobre cómic que queráis incluir, gr
 
 
 Salud y tebeos.
-
-
-
-
-
-
-

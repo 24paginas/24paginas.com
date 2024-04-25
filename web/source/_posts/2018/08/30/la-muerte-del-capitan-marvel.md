@@ -29,10 +29,3 @@ La aceptación de que hasta los más grandes se van y que hay cosas que ni el ma
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

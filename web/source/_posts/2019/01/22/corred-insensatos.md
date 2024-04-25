@@ -30,6 +30,3 @@ Eso si, como digo, el peaje es excesivo e innecesario. Ahorraos el sufrimiento.
 
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
-
-
-

@@ -25,10 +25,3 @@ Aunque todavía no le hemos podido hincar el diente a esta ultima obra, la sola 
 El cómic, publicado en nuestras  fronteras por [@dolmeneditorial](https://instagram.com/dolmeneditorial), es un tebeo juvenil de aventuras mitológicas que cuenta la búsqueda de Ulises por parte de su hijo tras haberse marchado, sin regreso, a la guerra de Troya.
 
 Prometemos devorarlo en cuanto los vientos nos sean favorables.
-
-
-
-
-
-
-

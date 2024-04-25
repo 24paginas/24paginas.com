@@ -23,5 +23,3 @@ author: neverbot
 ---
 
 Ya había publicado estas fotos en mi cuenta personal ([@neverbot](https://instagram.com/neverbot)), pero creo que aquí os puede interesar a más gente. Mural de Dragon Ball pintado en Madrid por [@crono_sapiens](https://instagram.com/crono_sapiens).
-
-

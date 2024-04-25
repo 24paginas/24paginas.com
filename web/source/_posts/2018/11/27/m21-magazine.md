@@ -33,10 +33,3 @@ No te lo perdonaré jamás Manuela Carmena, ¡jamás!
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

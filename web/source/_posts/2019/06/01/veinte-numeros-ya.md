@@ -14,6 +14,3 @@ author: 24paginas
 ---
 
 ¿Veinte números ya?
-
-
-

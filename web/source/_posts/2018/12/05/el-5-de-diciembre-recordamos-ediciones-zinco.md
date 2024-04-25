@@ -31,6 +31,3 @@ Como curiosidad, colecciono ediciones de Watchmen, y en esa foto incluyo la prim
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

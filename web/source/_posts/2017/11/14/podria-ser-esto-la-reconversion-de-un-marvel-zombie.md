@@ -41,6 +41,3 @@ Que quede entre nosotros, pero yo creo que [#Bendis](/tags/bendis) ha cambiado d
 
 
 ([@neverbot](https://instagram.com/neverbot))
-
-
-

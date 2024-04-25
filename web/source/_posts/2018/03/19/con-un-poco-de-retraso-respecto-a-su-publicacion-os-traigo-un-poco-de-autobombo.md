@@ -33,10 +33,3 @@ Además, incluye un adelanto de “Monstruos de Hollywood”.
 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
-
-
-
-
-
-
-

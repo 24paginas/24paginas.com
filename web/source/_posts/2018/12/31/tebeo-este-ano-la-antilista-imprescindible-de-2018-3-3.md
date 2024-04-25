@@ -37,6 +37,3 @@ Ojalá en este próximo 2019 haya más cosas como esta.
 
 
 PD: También os digo que a punto he estado de escoger como mejor tebeo del año la película Spiderman: Into the Spiderverse, que me parece gloria bendita.
-
-
-
