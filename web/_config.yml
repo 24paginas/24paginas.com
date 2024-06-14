@@ -119,3 +119,11 @@ theme: 24paginas
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# giscus comments
+giscus:
+  repo: 24paginas/24paginas.com
+  repoid: MDEwOlJlcG9zaXRvcnkxODI0NDE5ODA=
+  category: Posts
+  categoryid: DIC_kwDOCt_X_M4CeOZW
+  mapping: title
