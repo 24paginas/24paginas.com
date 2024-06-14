@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "71187734_161430905054241_2805116450965631378_n_17890052797417533.jpg" %}
+
 16/31. ギュアアッ [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Aprovechamos que hemos superado la mitad del [#inktober](/tags/inktober) y es [#miercolesmanga](/tags/miercolesmanga) para traer algo especial. Podríamos hablar del estupendo trabajo que están realizando desde [@cerditosdeguinea](https://instagram.com/cerditosdeguinea) pero nos lo reservamos para cuando hagamos la review de su estupendo [#RedRibbonRising](/tags/redribbonrising).

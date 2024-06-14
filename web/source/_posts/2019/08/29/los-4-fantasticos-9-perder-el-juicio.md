@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "69245242_444843872796490_3674742469454171855_n_17849143003560135.jpg" "69421995_369556213714815_7347169684971977057_n_17852767822530708.jpg" %}
+
 Los 4 Fantásticos [#9](/tags/9), perder el Juicio.
 
 Pues ya ha concluido el Juicio de Muerte y los 4 Fantásticos solucionan la papeleta como mejor saben hacerlo, en familia.

@@ -8,4 +8,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "1240391D6897D8362607450BF4478886_video_dashinit_17910725146010624.mp4" %}
+
 Es un gran día para leer tebeos. ¿Qué tenéis en cola de lectura?

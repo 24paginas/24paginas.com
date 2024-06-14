@@ -16,6 +16,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "26864031_2004277763159792_2583975011014410240_n_17895287335183096.jpg" "26870062_1756092564700019_2148461010757877760_n_17924268496043861.jpg" %}
+
 Desde que era un crío disfruto con el tema del "mazmorreo" sea cual sea el género. Que Dragones y Mazmorras me pilló de enano y desde entonces, como otras tantas cosas, me dejaron enganchado. Pero ni con esas oye.
 
 Tengo que reconocer, y eso que soy bastante fan de [@mwediciones](https://instagram.com/mwediciones) como editorial por la calidad de sus ediciones y obras editadas, que en este caso no coincidimos en gustos.

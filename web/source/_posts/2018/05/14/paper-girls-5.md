@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "32359027_172159406829746_2216021245755916288_n_17944628902054246.jpg" %}
+
 Paper Girls [#5](/tags/5)
 
 Retomamos las micro-reseñas de Paper Girls tras un descanso mayor del deseado de una forma aún más micro, reduciéndolas a un titular:

@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "85203891_2572165116404911_6455368012483420645_n_17858916379743188.jpg" "85097078_147962106671310_262895016659950171_n_18023546581256250.jpg" %}
+
 Doctor Who: Vida tras la muerte.
 
 Nueva entrega del cómic del Doctor, esta vez centrado en su undécima iteración (al menos la que contamos como undécima, por que ya sabéis “timey wimey stuff”). Una historia ocurrida en el periodo de la boda de los Pond con, cómo suele ser habitual en los cómics, una nueva companion.

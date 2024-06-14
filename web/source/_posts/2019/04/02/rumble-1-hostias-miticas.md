@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "54247417_400884037142486_5172049776903237552_n_17987754796202821.jpg" "54511580_2187149734679532_4183775970804181886_n_17851143532385309.jpg" %}
+
 RUMBLE [#1](/tags/1): Hostias míticas.
 Para completar la referencia a [#Hellboy](/tags/hellboy) de nuestro compañero [@hecdruiz](https://instagram.com/hecdruiz), me he decidido a traer este heredero del espíritu de la obra de Mignola que ya estaba tardando en reseñar.
 

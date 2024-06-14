@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_18089218768018075.mp4" %}
+
 [#autordelmes](/tags/autordelmes): Ken Niimura, sabor a Eisner.
 
 Rara ha sido la vez, en los últimos años, que una obra creada al amparo de [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) no estuviera entre las nominaciones para los [#Eisner](/tags/eisner) y aun más rara la ocasión en que no se haya llevado algún premio.

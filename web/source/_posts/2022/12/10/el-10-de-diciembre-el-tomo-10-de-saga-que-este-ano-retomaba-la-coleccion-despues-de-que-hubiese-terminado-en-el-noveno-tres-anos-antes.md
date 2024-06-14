@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "318096051_1197188454252447_1050586459505704500_n_17954273207473194.jpg" %}
+
 El 10 de Diciembre, el tomo 10 de Saga, que este año retomaba la colección después de que hubiese terminado en el noveno, tres años antes.
 
 Brian K. Vaughan y Fiona Staples vuelven para contarnos unas cosas muy locas pero que hay que leer.

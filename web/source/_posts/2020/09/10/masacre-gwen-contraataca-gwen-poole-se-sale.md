@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "118987954_339029570621765_1413904235053339861_n_18075581407218505.jpg" "119065564_2959646880931369_6159333427648680978_n_17859379208140772.jpg" %}
+
 Masacre-Gwen Contraataca: Gwen Poole se sale.
 
 Si tuviera que hacer una lista de las cosas que más me gustan, los ejercicios metalingüísticos ocuparían uno de los puestos más destacados, entre los viajes en el tiempo y las croquetas. Este nuevo volumen de nuestra paisana de universo mudada al 616 mantiene y expande su capacidad de romper la cuarta pared de una forma poderosísima, pero esconde mucho más tras los juegos con los lectores y las bromas cómplices.

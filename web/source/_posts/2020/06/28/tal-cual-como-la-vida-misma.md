@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "106135542_4623466064345710_4257622557445859618_n_17855981849048186.jpg" "106106927_115423423342350_6970895731491288813_n_18068040466218659.jpg" "106053798_266874881249788_8917961936708152432_n_17850768698120207.jpg" %}
+
 Tal Cuál: como la vida misma.
 
 David Ramírez comenzó 2019 compartiendo sus mejores propósitos en forma de tira de humor con la que, a lo tonto, nos acompañó todo el año.

@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "74711744_163954581580897_4599292890795960062_n_18038238244236865.jpg" "82527217_766627593818872_7204446710246325626_n_17859963967671999.jpg" "83117044_223321415328016_7318987617433107024_n_17908001005393491.jpg" %}
+
 Dracula de Bram Stoker: He cruzado océanos de tiempo para reeditarte.
 
 Los vampiros siempre vuelven. Otros monstruos pueden ponerse de moda temporalmente, pero el señor de la noche es un mito poderoso. Ahí tenemos, por ejemplo, el remake comiquero de Buffy con Jordie Bellaire y David López ([@fandogamia](https://instagram.com/fandogamia), tráenos esto) o la relectura pasada de vueltas de Dracula por parte de Moffat (y, ay, Gatiss) para [@netflixes](https://instagram.com/netflixes).

@@ -23,6 +23,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "66273962_167428417634853_5731816274434613439_n_18021843502203119.jpg" "66314424_2416964895085632_4821919419990881403_n_17882407906388692.jpg" "66133428_896777334010432_398732906478557066_n_17882535076382600.jpg" "67500037_1324635721018085_7539979077833220911_n_17981596618264861.jpg" "66175955_699141283878756_3310722358057268596_n_18015685933221957.jpg" %}
+
 Érase una vez unos Guardianes de la Galaxia que molaban hasta que llegó Bendis... Por suerte aquí está Donny Cates para poner orden (y molonidad).
 
 Después de una época espectacular desde Aniquilación hasta El Imperativo Thanos, llegó Bendis y cortó el rollo. Pero bueno, eso terminó y gracias a Gerry Duggan y Aaron Kuder volvió la diversión... o eso parecía hasta ver que todo desembocó en un refrito de evento, con turra de las piedras (que son gemas COPÓN) del infinito incluida, que incluso a mí que soy fan de este rollo al 120% se me hizo bola.

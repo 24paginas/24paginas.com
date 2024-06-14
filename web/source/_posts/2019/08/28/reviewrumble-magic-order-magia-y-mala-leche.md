@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "69957780_2462917770604880_7581512248785227218_n_17925689044313053.jpg" "67839859_662833070908667_8571515682206910995_n_17890708018389156.jpg" "67217489_671216026711802_5282721551277751274_n_17991187069271086.jpg" "69748400_2169441926516159_1978715408826367065_n_17912841826339485.jpg" %}
+
 [#REVIEWRUMBLE](/tags/reviewrumble) Magic Order: magia y mala leche.
 
 Mark Millar se vuelve a marcar una licencia en su línea de proyectos pensados para la adaptación cinematográfica (o en este caso directamente para [@netflix](https://instagram.com/netflix), que ejerce aquí de editorial/productora), con un Olivier Coipel a los lápices totalmente inspirado y desbocado, demostrando que lo de Ares y Sentry podía superarse con creces... Ambos nos introducen en una historia de magos con varita en un entorno actual, demostrando que hay vida para este concepto más allá de Harry Potter.

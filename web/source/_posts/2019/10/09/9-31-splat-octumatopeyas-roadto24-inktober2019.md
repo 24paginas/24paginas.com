@@ -22,6 +22,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "70006902_139908273955693_1020935457639320725_n_17859299365536021.jpg" "72455697_153161435781609_2168126320850732733_n_18105029101058357.jpg" %}
+
 9/31. SPLAT! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Creo que no necesitamos ninguna excusa para hablaros de "Streaming de Dibujantes", el canal de youtube en el que [@davizzzz](https://instagram.com/davizzzz) y [@darkolafuente](https://instagram.com/darkolafuente), amen de otros dibujantes invitados, desgranan las tareas de dibujante de cómics y hablan de movidas. Pero ha querido la casualidad que hoy tengan video nuevo en el que Lafu (inspirador de la onomatopeya de hoy) habla sobre el manga que está dibujando para Japón, lo que nos viene genial para nuestro [#miercolesmanga](/tags/miercolesmanga). Además, parece que esta temporada [@pepelarraz](https://instagram.com/pepelarraz) está más activo y ya sabéis que en este canal es verdadera devoción lo que hay por Pepe.

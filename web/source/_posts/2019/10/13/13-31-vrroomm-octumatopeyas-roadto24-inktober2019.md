@@ -21,6 +21,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "71188562_294640518161002_9181876511491111441_n_18025500121229552.jpg" %}
+
 13/31. VRROOMM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Domingo, un buen día para dar una vuelta...

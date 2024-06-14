@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "76879952_133616484761765_1317064137493489326_n_17905783273402923.jpg" "77034674_158816525405979_5706604950720805802_n_18046228336211529.jpg" %}
+
 Potencias de X [#3](/tags/3): a las tres son las dos.
 
 Cambio de ritmo entre las miniseries de Hickman, que prioriza la lectura de este número frente a su homólogo de Dinastía de X. Mucho protagonismo de Apocalipsis en su nuevo papel, conectando más con la historia central y dando nuevos datos sobre [#lodeMoira](/tags/lodemoira).

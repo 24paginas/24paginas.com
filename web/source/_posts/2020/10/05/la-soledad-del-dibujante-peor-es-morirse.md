@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "120733112_1267636480260025_3530217540664510285_n_17889346303712558.jpg" "120762864_132702311896712_8548247464546889451_n_17854414646296527.jpg" %}
+
 La Soledad del Dibujante: peor es morirse.
 
 Existe el tópico en entrevistas y reseñas de decir que el último trabajo de tal o cual autor es su obra más personal. Me vería tentado de recurrir a él en este texto, pero Adrian Tomine ya nos había ofrecido el relato previo a su boda en “Escenas de un matrimonio inminente”. Cierto es que ahora va un paso más allá para diseccionar en esta libreta toda su vida y su relación con vos cómics.

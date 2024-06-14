@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "49913194_132263587804697_6214529467541204656_n_18022209163055881.jpg" "49818634_237473300504514_7774486088135579201_n_17996500981137914.jpg" "47693882_1047615768758213_6214620861214937092_n_17995498222142358.jpg" %}
+
 Pues quién iba a decir que Jeff Lemire ([@jefflemire](https://instagram.com/jefflemire)) además de guionista estrella era autor completo.
 
 Si es que no sé nada de la vida, menos mal que a veces uno encuentra tebeos random y con eso solucionamos lagunas de conocimiento.

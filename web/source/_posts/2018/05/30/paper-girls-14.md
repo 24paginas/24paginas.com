@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "32443728_169809723712386_5171638063201255424_n_17871693025245197.jpg" %}
+
 Paper Girls [#14](/tags/14)
 
 Nunca abandones el grupo

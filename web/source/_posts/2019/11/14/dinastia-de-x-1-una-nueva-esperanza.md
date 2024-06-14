@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "74917336_482546142620750_6310254402298443787_n_17848423696731247.jpg" "74715145_787087671752058_2689339566509529013_n_17926309879333485.jpg" %}
+
 Dinastía de X [#1](/tags/1):  Una nueva esperanza.
 
 Los mutantes lo han pasado mal. Temidos y odiados por un mundo que han jurado proteger... y, bueno, por Matthew Rosenberg.

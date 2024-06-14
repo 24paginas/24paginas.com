@@ -15,4 +15,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "31502047_1703758553049921_5539325626386743296_n_17924924401093044.jpg" %}
+
 Pero no le hagáis mucho caso, amiguitos. En digital también se puede leer. Pero el papel y la grapa son AMOR.

@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "123034719_198332225018819_8012697788017026036_n_17892960883721633.jpg" "123140120_1031717660647556_4852549519301413353_n_18169207093023613.jpg" %}
+
 Strange Adventures 1 de 12: Extraños Milagros.
 
 Por fin ha llegado la última colección de la terna de maxiseries de DC Comics que personalmente esperaba con más ganas. De hecho, desde esta semana ya tenéis el segundo número en librerías, pero la vida es una aventura extraña y todavía no he llegado a ese punto de la pila de lectura.

@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "81960370_2665765483543938_5011145004820691109_n_18053825116201344.jpg" "82984158_121619352700174_9139880269422827628_n_17939975617323771.jpg" "82809346_1916988421779239_68296033464090561_n_17902119112415440.jpg" "84057955_201516054320993_7254965971379127680_n_17853969598756579.jpg" %}
+
 Green Lantern: La ley universal de Grant Morrison.
 
 Lo primero, creo que debería de reconocer que no soy un gran fan de Green Lantern. Más allá de alguna etapa y de sagas en las que podía tener más o menos importancia, no he leído demasiado del personaje. Por eso tenia cierto miedo a entrar en esta serie y que fuera “café para los muy cafeteros”. Pero la insistencia de algunos conocidos me picaba la curiosidad, así que me hice de golpe con 7 números porque [#lagrapaesamor](/tags/lagrapaesamor) y de algo hay que morir.

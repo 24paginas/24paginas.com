@@ -14,6 +14,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "72900292_139251870712785_8904682458706076920_n_17877885400464677.jpg" %}
+
 Hemos pensado que llegar al número 24 era demasiado ESPECIAL para hacerlo durar solo un mes, así que prorrogamos nuestra vigésimo cuarta entrega un mes más a modo de ANNUAL.
 
 También aprovechamos para recordaros que estamos ultimando nuestro especial y que muy pronto estará impreso. Puedes hacerte con él, y con nuestra chapa, contactando con nosotros por mensaje directo.

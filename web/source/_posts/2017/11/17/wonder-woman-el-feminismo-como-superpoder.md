@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "23734475_127664421244837_7608237838458421248_n_17882392633145983.jpg" "23595728_550644335280474_1281759932097495040_n_17891671204080238.jpg" %}
+
 Wonder Woman, el feminismo como superpoder
 
 Aprovechando que hoy llega a los cines la película de la Liga de la Justicia, recupero una de mis lecturas de este verano.

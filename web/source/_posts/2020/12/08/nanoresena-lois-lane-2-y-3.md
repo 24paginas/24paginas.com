@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "129775843_1508664836190173_8268892136340874605_n_17914163395503381.jpg" %}
+
 [#nanoreseña](/tags/nanoresena): Lois Lane 2 y 3.
 
 Entre la trama criminal, los misterios y las consecuencias del evento de turno, Rucka saca tiempo para dar una buena clase de periodismo y “resolver” una de las relaciones personales más complejas de Lois. Todo bien.

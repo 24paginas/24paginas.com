@@ -16,6 +16,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "120393080_2126817330795343_6721641345630718040_n_17928341680431381.jpg" %}
+
 [#nuevonumero](/tags/nuevonumero), en su tinta.
 
 Llegó octubre, la cosa va arrancando pero seguimos sin saber muy bien qué pasará. Pero hemos acumulado algunas de las novedades del mes y seguiremos trayendo secciones en paralelo a las reseñas, que no hay manera de estar al día.

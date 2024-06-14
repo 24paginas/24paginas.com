@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "90497141_842733786193447_4097083519337874712_n_17886864133508158.jpg" "90434303_260174278317906_7010501993256310655_n_17861081908780948.jpg" "91141897_147045746633293_8540612333641152025_n_17860983862783615.jpg" "91129106_143455403869703_4151394439318291475_n_17855326933863517.jpg" %}
+
 Trust me, I'm the Doctor [#yomequedoencasa](/tags/yomequedoencasa).
 
 Recupero para instagram la publicación de stories y twitter. Son tiempos difíciles, va a ser duro para todos y posiblemente en algún momento todos necesitaremos unas palabras de ánimo.

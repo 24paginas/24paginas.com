@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "77062916_438542640366331_2617161857065434802_n_17881709479473160.jpg" %}
+
 Historia del Universo Marvel [#2](/tags/2): ¿Qué fue del Siglo XX?
 
 Segunda entrega de la miniserie de Mark Waid, Javi Rodríguez y Álvaro López. Tras recorrer el periodo entre la creación del universo y el pasado siglo, ahora nos centramos en la época previa a la Era Marvel. Una etapa marcada por guerras, reales y ficticias (los malabares que han tenido que hacer para adaptar el "tiempo Marvel" al tiempo real son realmente interesantes.

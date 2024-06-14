@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "29089652_2040543066215568_6755173478531334144_n_17931426469004708.jpg" "28766159_155229831817784_2480596316430794752_n_17931880930053773.jpg" "28764535_770730219783534_3376799426663153664_n_17907285979190465.jpg" "29094316_938212439637397_6931277054746820608_n_17859081823231473.jpg" %}
+
 Dolmen ha continuado la edición de Príncipe Valiente que hizo Planeta para quioscos.
 
 Por si alguien no lo sabía, con un diseño prácticamente idéntico para ponerlo en la estantería a continuación de los 75 tomos de la edición original de Planeta DeAgostini, recopilando las tiras dominicales a partir del año 2012.

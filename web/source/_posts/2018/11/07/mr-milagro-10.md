@@ -25,6 +25,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "44295151_249464455725915_5408155682789130442_n_17967103021181207.jpg" "43914980_1957904997622107_1006255385090752753_n_17970566881134659.jpg" "44772262_330874791046528_6963295563036231827_n_17997231643062812.jpg" %}
+
 Mr. Milagro [#10](/tags/10).
 
 Voy tarde otra vez, [@eccediciones](https://instagram.com/eccediciones) ya ha lanzado el número 11 y yo aquí con el 10 a rastras. Y seguramente el último capítulo (que sale en los USA dentro de una semana) me pillará con el anterior a medias.

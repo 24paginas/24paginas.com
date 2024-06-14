@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "318777573_1196379524333340_8516867907288477672_n_17907840914676504.jpg" %}
+
 El 8 de Diciembre, esta no os la esperábais, los 8 tomos dobles de B't X, de Masami Kurumada.
 
 Publicados en castellano en 2003 (que parece hace poco pero es hace 20 años) por la extinta Otakuland, el recuerdo que muchos tienen de esta serie es "ah sí, esa cosa que se publicó bastante feota, de una obra previa de [#Kurumada](/tags/kurumada)". Pero no, no es una obra previa, sino posterior a Saint Seiya.

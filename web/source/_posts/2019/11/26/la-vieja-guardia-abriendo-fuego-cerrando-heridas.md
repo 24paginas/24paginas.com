@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "74602377_132814171472616_2176382546661143473_n_17859433999615196.jpg" "67891452_161271314971701_2729126267988191167_n_17844828766801048.jpg" %}
+
 La Vieja Guardia: abriendo fuego, cerrando heridas.
 
 Creo que podría haber comprado este cómic solo por el diseño del hacha de portada. Posiblemente lo hiciera. Pero es que, además, es un cómic de Greg Rucka, y eso ya da ciertas garantías.

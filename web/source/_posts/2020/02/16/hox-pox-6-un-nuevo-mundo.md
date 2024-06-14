@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "83585367_206824277135396_8686804697964191494_n_17889796141469093.jpg" "82667622_501133510599402_466565379563916264_n_17847475501931860.jpg" %}
+
 HoX/PoX [#6](/tags/6): Un nuevo mundo.
 
 Llegó el final de la (las) miniserie destinada a revolucionar las colecciones mutantes. Pero, por mucho que suene a tópico, más que un final esto constituye un nuevo principio.

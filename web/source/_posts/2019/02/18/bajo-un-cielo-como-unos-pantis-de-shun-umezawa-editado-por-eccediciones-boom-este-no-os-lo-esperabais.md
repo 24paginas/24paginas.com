@@ -15,6 +15,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "51079087_147229846281675_8046651324167290184_n_17917079500303403.jpg" %}
+
 Bajo un cielo como unos pantis, de Shun Umezawa, editado por [@eccediciones](https://instagram.com/eccediciones). Boom, este no os lo esperabais.
 
 Dos volúmenes recopilatorios de historias cortas del autor, que no tenían cabida en otros sitios. Bajo un cielo como unos pantis es la primera de ellas, que no es ni mejor ni más representativa que las demás, pero algún título había que ponerle a los tomos.

@@ -26,6 +26,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "27574476_291161001434771_2761706036237697024_n_17898645730134206.jpg" "27880800_411742212597258_763570826460004352_n_17925448126055307.jpg" "27575281_1668906016481377_1559757793479622656_n_17926121164021644.jpg" "27576472_580949902252277_4406338967671144448_n_17923272217023081.jpg" "27881353_563784103958770_622867495979581440_n_17925297811034630.jpg" "27576947_1907566112588193_8299217429783904256_n_17911326652113963.jpg" %}
+
 Y si nos acordamos de Siempre Vengadores, es obligatorio traer la divertidísima serie del Capitán Marvel que surgió a partir de ahí.
 
 Con un rediseño de personaje TAN TAN TAN genial por parte de [#CarlosPacheco](/tags/carlospacheco), y teniendo de nuevo a Rick Jones de moda, hubiese sido un error editorial de bulto no aprovecharlo para lanzar esta serie. Aún así no es oro todo lo que reluce.

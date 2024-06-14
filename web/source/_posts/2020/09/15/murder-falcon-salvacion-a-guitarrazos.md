@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "119134044_679555176034167_3642086104318678534_n_17881687468783215.jpg" "119433824_355230982323591_7293522298024726483_n_18041293861263531.jpg" %}
+
 Murder Falcon: salvación a guitarrazos.
 
 Todos tenemos un refugio, un lugar “feliz” al que ir cuando las cosas vienen mal dadas. Puede ser la ficción de un cómic, libro o película, cocinar o la música. Son amuletos a los que nos aferramos cuando no podemos más. En el caso de Jake, el protagonista de Murder Falcon, aunque en su caso la música va más allá y se convierte en un arma para acabar con los monstruos que asedian el mundo.

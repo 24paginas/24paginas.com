@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "53366354_867141506965698_1563299544659737222_n_18042538357070139.jpg" "53905818_125462001880488_6168161901030943843_n_18031296049100860.jpg" %}
+
 Murderabilia: Objetos de colección y otros fluidos.
 
 Tenia ganas de hablar sobre [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_, y de recuperar alguno de sus cómics. Así que aprovecho su publicación por parte de [@baopublishing](https://instagram.com/baopublishing) en Italia para traer Murderabilia, publicado aquí por [@astiberri_ediciones](https://instagram.com/astiberri_ediciones).

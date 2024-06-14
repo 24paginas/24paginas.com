@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "68760945_909395699460441_2918440961921822467_n_17911521355353622.jpg" "70791338_526891628135269_7747804682321709101_n_17985350512275192.jpg" %}
+
 Marvel Comics [#1000](/tags/1000): Cálculo aproximado.
 
 Pues ya está. Marvel ha conseguido su número 1000, como Detective y Action Comics. Aunque la cabecera de Timely comics que dio nombre a La Casa de las Ideas no ha tenido continuidad hasta nuestros días, al contrario que las de DC, resulta una buena excusa para celebrar el aniversario de la editorial y mostrar músculo creativo.

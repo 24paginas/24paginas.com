@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "407396493_665305592411076_6462417053671036584_n_18046677850555765.jpg" %}
+
 On the 1st day of Christmas, Santa sent to me... ¡un (1) Metabarón!
 
 Retomamos la tradición navideña del calendario de adviento para inventarnos coincidencias a cada cuál más absurda, sólo por echarnos unas risas con esto de los tebeos, que son de lo bueno lo mejor, de lo mejor lo superior.

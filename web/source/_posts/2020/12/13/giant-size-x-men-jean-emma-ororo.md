@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "130806352_395351845111262_3316074630125165153_n_18178915555013950.jpg" %}
+
 GIANT-SIZE X-MEN: JEAN+EMMA+ORORO.
 
 Un díptico de Hickman y Dauterman (con color de Matt Wilson) centrado en las mujeres-X más poderosas y narrado de una forma preciosa, con una primera parte prácticamente muda. Gracias a [@comicsvalles](https://instagram.com/comicsvalles) por la parte de Emma y Jean y a la diosa por tener la suerte de encontrar la “segunda parte” en [@radar_comics](https://instagram.com/radar_comics) (con la espectacular portada de [@heyjenbartel](https://instagram.com/heyjenbartel) ❤️💜💛).

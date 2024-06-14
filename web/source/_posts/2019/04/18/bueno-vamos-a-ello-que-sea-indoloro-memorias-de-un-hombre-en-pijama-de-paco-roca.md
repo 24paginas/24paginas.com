@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "57449791_503816870153263_4840145018232498365_n_17962196479251845.jpg" "56400581_432441564182125_7806273162333826962_n_18027225010185252.jpg" "57618513_1038666179663771_330732474076558126_n_17856239620381600.jpg" "56957830_157928841892491_1200488259761079030_n_17978485999240816.jpg" "57583285_804040623312742_4130783591352395678_n_18056465056037888.jpg" %}
+
 Bueno, vamos a ello, que sea indoloro. Memorias de un hombre en pijama, de Paco Roca.
 
 Pues Paco Roca. Premio Nacional de Cómic, ¿eh? Que hablamos de palabras mayores. Novelas Gráficas con mayúsculas, de las de verdad. De las de regalar en Navidad y quedar como un señor.

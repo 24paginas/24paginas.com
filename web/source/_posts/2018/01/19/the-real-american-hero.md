@@ -24,6 +24,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "26273128_325540014517130_3601015583010717696_n_17904795052120096.jpg" "26262197_1141879665947036_3335344209048633344_n_17879466004198627.jpg" "26155449_155277591790709_153765687532191744_n_17892942784193346.jpg" "26183116_142702709746982_4511233261724237824_n_17919512242051473.jpg" "26157515_102205503920262_1446870788626972672_n_17894987593142550.jpg" %}
+
 The real american hero!
 
 Por culpa de [@netflixes](https://instagram.com/netflixes) y sus documentales de juguetes de los 80,  este [#viernesvintage](/tags/viernesvintage) vengo con la nostalgia subida a traeros uno de los tesoritos de mi infancia.

@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "82697567_128158132029381_7169507550224982865_n_17843532094966943.jpg" "82851088_202055981190796_219885025759325077_n_17844919054946542.jpg" %}
+
 Dinastía de X [#5](/tags/5): Cinco es el número.
 
 Después del número anterior que nos dejaba sin aliento, llega la resolución de muchos de los misterios que rodeaban a la nueva situación de los mutantes. .

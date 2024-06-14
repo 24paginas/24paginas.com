@@ -15,6 +15,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "116683097_3294271800619685_1314883483759359559_n_18153214345046021.jpg" %}
+
 🗝 CERRADO POR VACACIONES: nos vemos en septiembre.
 
 Hace un año, sin que todavía lo supierais, nos encontrábamos preparando nuestro especial NÚMERO 24. Antes de que este estuviera listo, y para calentar su llegada, nos lanzamos con un [#inktober](/tags/inktober) centrado en lettering y rotulación de onomatopeyas. Una segunda mitad de año intensa difícil de igualar. Pero, por lo que sea, este está siendo un año raro.

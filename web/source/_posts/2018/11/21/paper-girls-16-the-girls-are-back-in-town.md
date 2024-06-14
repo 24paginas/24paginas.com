@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "44360584_346157742818494_82440236921165112_n_18002080954041895.jpg" "45822404_739925423035296_7419205091912944698_n_17926578097240630.jpg" %}
+
 Paper Girls [#16](/tags/16): The girls are back in town.
 
 Pensamos en los viajes en el tiempo como algo inmediato. En un momento estás en 1985 y al siguiente en 2015. Pero en este caso hemos tenido que esperar todo un año entre que las repartidoras abandonaran la edad de piedra y que se plantaran en el año 2000. Aunque, mirándolo así, quizás no sea tanto...

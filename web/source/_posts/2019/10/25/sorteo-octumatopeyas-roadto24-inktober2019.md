@@ -21,6 +21,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "72479596_165331704658642_1505363965075773715_n_17920945924337192.jpg" %}
+
 SORTEO [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 ¿Quieres ganar el lettering de BAMF?
 

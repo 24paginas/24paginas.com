@@ -19,6 +19,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "AD4A16B08EAA8DC66A136D933EA16B97_video_dashinit_17897934832113081.mp4" %}
+
 Los méritos de [@jasonaaron](https://instagram.com/jasonaaron) al frente de Thor son innegables y van mucho más allá del truco de convertir a Thor en mujer.
 
 Si bien lleva desde 2012 explorando la mitología del Dios del Trueno, con sagas como "El carnicero de dioses" donde recorría distinta edades de Thor, su última etapa en el personaje tiene todo lo que una serie Marvel debería tener, momentos épicos, enemigos carismáticos, exploración de lo divino y lo humano, diversión a raudales y un absoluto sentido de la maravilla.

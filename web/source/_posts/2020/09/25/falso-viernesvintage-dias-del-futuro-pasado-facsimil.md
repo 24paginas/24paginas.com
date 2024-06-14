@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "120088011_621254948559518_7375954129504272428_n_17948877469373897.jpg" %}
+
 Falso [#ViernesVintage](/tags/viernesvintage): Días del Futuro Pasado Facsímil.
 
 Hay tebeos que no se tienen las suficientes veces, probablemente este es uno de ellos. También es, como comenta la pieza que acompaña esta edición, una de las portadas más homenajeadas de la historia del cómic, tanto dentro como fuera de Marvel. Para muestra el botón que se deja ver bajo esta edición facsímil del tebeo de Claremont y Byrne, aplicando el mismo tratamiento apocalíptico mutante a El Ministerio del Tiempo.

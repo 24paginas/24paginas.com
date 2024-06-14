@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "120276969_634712753781313_2495701207871186774_n_17872188511960326.jpg" "120130046_776670422899692_8340874225906418009_n_17938540471398515.jpg" %}
+
 Bella Muerte, La Rata. Venganza lírica.
 
 El tercer volumen del cómic de [@kellysued](https://instagram.com/kellysued) y [@emmartian](https://instagram.com/emmartian) avanza hasta el Hollywood clásico para meternos en una historia con una base de puro 'noir' que avanza hacia el universo mágico de los segadores.

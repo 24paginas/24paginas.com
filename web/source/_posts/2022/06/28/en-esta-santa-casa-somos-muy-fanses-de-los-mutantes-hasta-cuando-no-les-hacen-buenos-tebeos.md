@@ -17,4 +17,6 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "290455046_787025352678047_7866306254562021002_n_18244706224101751.jpg" %}
+
 En esta santa casa somos muy fanses de los mutantes, hasta cuando no les hacen buenos tebeos.

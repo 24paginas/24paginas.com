@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "26381469_172555460175405_2660827072749895680_n_17897545786138194.jpg" "26363522_1810844329212945_4501460583333232640_n_17879350096195324.jpg" "26868184_1875935035811311_6008294235013382144_n_17903613109082717.jpg" %}
+
 Si un escritor famoso como Cory Doctorow se animaba a publicar cómic, había que leerlo, ¿no?
 
 Le he dado una relectura al "En la vida real" (In real life) del famoso editor de Boing Boing a los guiones y Jen Wang ([@wangstagram](https://instagram.com/wangstagram)) al arte, editada en castellano por Sapristi Cómic (el sello de tebeos de [@rocaeditorial](https://instagram.com/rocaeditorial)) hace un par de años.

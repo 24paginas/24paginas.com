@@ -11,5 +11,7 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "42003475_333171870771003_8629444050332772190_n_17968872946114052.jpg" %}
+
 ¿Llevamos ya un año haciendo esto?
 Llevamos ya un año haciendo esto.

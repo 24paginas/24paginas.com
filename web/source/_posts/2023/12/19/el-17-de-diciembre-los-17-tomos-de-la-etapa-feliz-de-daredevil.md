@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "411454854_675299248078377_220757043320500519_n_18010761260293065.jpg" %}
+
 El 17 de Diciembre, los 17 tomos de la etapa feliz de Daredevil.
 
 La historia editorial de Daredevil en España es complicada, con bailes de formatos y dificultades para leer porque hay cosas que no están editadas... principalmente porque, como le pasa a Thor, hay etapas magníficas y otras lamentables.

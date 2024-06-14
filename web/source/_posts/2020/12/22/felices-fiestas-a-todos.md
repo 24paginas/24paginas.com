@@ -13,6 +13,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "131995976_672019646808648_5086331506053969415_n_17861034785288055.jpg" %}
+
 ¡Felices fiestas a todos!
 
 Salud y tebeos.

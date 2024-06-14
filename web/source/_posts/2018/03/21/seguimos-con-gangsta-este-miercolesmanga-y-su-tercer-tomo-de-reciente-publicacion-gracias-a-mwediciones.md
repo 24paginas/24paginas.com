@@ -22,6 +22,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "29090356_174098010054893_1188996090272153600_n_17902635085166893.jpg" "28766493_377013686107261_1861421740706496512_n_17891900089196552.jpg" "28766798_417447078684236_8790031728136683520_n_17906605297176118.jpg" "29400878_159484924679202_4959470316616155136_n_17904175294157384.jpg" "28766826_852541001597046_3934900430726758400_n_17931829327025619.jpg" "28764465_149675655860962_4133698944846790656_n_17904498769183138.jpg" %}
+
 Seguimos con Gangsta este [#miercolesmanga](/tags/miercolesmanga) y su tercer tomo de reciente publicación gracias a [@mwediciones](https://instagram.com/mwediciones).
 
 Un tercer tomo más pausado y centrado en el pasado de los protagonistas, dándonos nuevas pinceladas sobre su extraña y complicada relación, mientras el autor va situando todos los peones para la gran saga que se avecina.

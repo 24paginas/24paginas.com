@@ -14,4 +14,6 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "286933672_183342590705745_8713171553709652067_n_17968201483597277.jpg" %}
+
 Nuevo pijama. Cuarenta y dos años cuento. I regret nothing.

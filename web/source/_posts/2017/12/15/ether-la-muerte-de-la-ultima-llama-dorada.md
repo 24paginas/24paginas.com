@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "25013888_2029904573921760_8069904749278789632_n_17872706836196831.jpg" %}
+
 Ether. La muerte de la última Llama Dorada.
 
 Aprovechando la eleccion de [@davidrubinm](https://instagram.com/davidrubinm) cómo mejor dibujante de cómic de 2017 por parte de [@entertainmentweekly](https://instagram.com/entertainmentweekly), y que era algo que tenía pendiente desde que empezamos 24páginas, reseñamos una de las obras que ha afianzado su carrera americana.

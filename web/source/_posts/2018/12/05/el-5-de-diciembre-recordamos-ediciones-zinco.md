@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "46132182_201844327361131_2289283039189100623_n_17899591708279230.jpg" "46965490_148780752755920_460166749980698875_n_17976747847156306.jpg" %}
+
 El 5 de diciembre, recordamos ediciones Zinco.
 
 Que me dicen que no todo el mundo estaba pillando que este calendario de [#advienticuatropaginas](/tags/advienticuatropaginas) estaba haciendo referencias al número de cada día. Así lo hago notar.

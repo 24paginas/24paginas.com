@@ -17,6 +17,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "75450432_174406370313177_8303438773785664862_n_17915139976373803.jpg" "80693286_2708330779250541_8687096365598048723_n_17847608740794070.jpg" %}
+
 🗓 AGENDA 24 PÁGINAS - DIC. 21 y 22.
 
 Retomamos la agenda ya en pequeño formato, con eventos en librerías. Este fin de semana destacamos dos, uno en cada punta de la península. .

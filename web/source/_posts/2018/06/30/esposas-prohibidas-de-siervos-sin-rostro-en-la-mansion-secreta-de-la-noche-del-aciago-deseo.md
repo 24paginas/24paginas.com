@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "36085913_1737659822983191_7602604460568739840_n_17848805260272368.jpg" %}
+
 Esposas prohibidas de siervos sin rostro en la mansión secreta de la noche del aciago deseo.
 
 Huid del sol. Buscad un lugar apartado. Cerrad cortinas y bajad las persianas. Apartaos del calor reinante en el exterior y refugiaos en una habitación austeramente iluminada...

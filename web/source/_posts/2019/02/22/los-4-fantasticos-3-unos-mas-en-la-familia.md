@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "51939308_558205648010379_670476451510880418_n_17928234358277851.jpg" %}
+
 Los 4 Fantásticos [#3](/tags/3): Unos más en la familia.
 
 Como ya se dejaba ver en el segundo número, el enfrentamiento con La Doliente (que a todas luces podría ser una asesina autónoma de Saga) hizo que Reed reuniera a todo el equipo de [#Los4Fantásticos](/tags/los4fantasticos), y cuando decimos todo en realidad queremos decir TODOS.

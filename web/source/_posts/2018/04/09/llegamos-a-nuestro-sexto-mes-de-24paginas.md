@@ -12,4 +12,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "YzLvJeaARUCKAJDMywXQAt41P3ztkYYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHAA_17923521235111580.mp4" %}
+
 ¡Llegamos a nuestro sexto mes de [@24paginas](https://instagram.com/24paginas)!

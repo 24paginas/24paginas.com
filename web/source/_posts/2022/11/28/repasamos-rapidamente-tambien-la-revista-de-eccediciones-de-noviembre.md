@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "316825194_1190099808294645_5548510572562032148_n_18036664921405028.jpg" %}
+
 Repasamos rápidamente también la revista de [@eccediciones](https://instagram.com/eccediciones) de noviembre.
 
 Incluye un capítulo más de [#batman1989](/tags/batman1989), varios artículos sobre algunas de las novedades y una entrevista a [@danide_art](https://instagram.com/danide_art) acerca de Ex-Solteros y sus otras obras. Sólo tres páginas acerca de las novedades manga de la editorial, DC se lleva casi todo el contenido, que supongo que es entendible.

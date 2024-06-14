@@ -16,6 +16,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "74426623_419056832368821_2459640765063117938_n_17862819895579993.jpg" %}
+
 [#NOVEASLAgrafica](/tags/noveaslagrafica): [#autordelmes](/tags/autordelmes) checklist.
 
 Tras 24 números, cerramos la serie 1 de nuestros cromos. Para la siguiente entrega queremos estrenar diseño y contenidos, pero antes queríamos dar un repaso a los galardonados hasta en momento y situarlos gráficamente.

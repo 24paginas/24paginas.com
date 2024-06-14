@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "47583137_785197345170695_6775313464749268568_n_17973712096196479.jpg" %}
+
 Tebeo este año: La antilista imprescindible de 2018 (1/3).
 
 Faltan 3 días para terminar el año y somos 3 los que escribimos en este canal, así que hemos pensado en terminar el año trayéndoos cada uno nuestro tebeo imprescindible/importante/interesante de 2018.

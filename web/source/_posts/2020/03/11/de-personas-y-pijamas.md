@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "84362419_628415581055570_9192869094053760656_n_17880091843540947.jpg" %}
+
 De personas y pijamas.
 
 Se ha quedado bien día para recuperar esta obra autobiográfica de Paco Roca que, aunque tiene ideas que han envejecido regular, no podía estar más de actualidad.

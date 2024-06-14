@@ -20,6 +20,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "81038597_114210609888714_471391688991954262_n_17843769652924660.jpg" "82413001_101229461386514_2510820335734362645_n_18013285954271883.jpg" %}
+
 🗓 AGENDA 24 PÁGINAS - ENE. 17 y 18.
 
 Nueva agenda semanal, tras las fechas navideñas volvemos a la carga. En esta ocasión volvemos a Madrid, disculpad el centralismo, para dos eventos separados por un día y una calle.

@@ -23,6 +23,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "52730237_412095009366915_4080242213137851106_n_17860093702358180.jpg" "53109672_179881992984256_5779361444823907808_n_17875652011317842.jpg" "53217304_147474909620191_7551105524300204243_n_17911963963288832.jpg" %}
+
 Los Mundos de Steve Didko: Psicodelia cotidiana.
 
 Dado el éxito de la reseña del libro sobre [#spidermanintothespiderverse](/tags/spidermanintothespiderverse) volvemos a nuestro amigo y vecino, y más concretamente a su origen.

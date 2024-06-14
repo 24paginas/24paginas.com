@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "50720519_253041475616238_3676040991623305185_n_18017096890105037.jpg" "50804093_140649766966917_1650721845094445472_n_17932385077267025.jpg" "50559709_1209544052536170_1111953437594450541_n_18028425703070943.jpg" %}
+
 El vecino 3, próximamente en sus pantallas de [@netflixes](https://instagram.com/netflixes). Y el cuarto, ¿para cuándo?
 
 Decíamos que en el primer tomo que incluía los dos primeros números de El Vecino había cambios en el tono y la forma de las historias, y no iba a ser menos al llegar a esta tercera parte editada por [@astiberri_ediciones](https://instagram.com/astiberri_ediciones).

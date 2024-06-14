@@ -16,6 +16,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "65386008_448917532612719_4141336843423668565_n_18035481691194852.jpg" %}
+
 No sabemos ni en que mes estamos, Hulio.
 
 Nuevo mes, un Sol que (super)cargaría a Superman a la misma velocidad que una batería Tesla y el retorno de nuestro amistoso vecino Spiderman (léase espiderman) a las pantallas.

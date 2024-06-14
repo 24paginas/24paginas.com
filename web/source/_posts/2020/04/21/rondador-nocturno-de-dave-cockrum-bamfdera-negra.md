@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "94065429_596360124293602_7649343535546904748_n_17857374916891467.jpg" "93774539_217277246240153_1754179914367038725_n_17853435610970045.jpg" "94128361_2696501467247469_2765299886350389991_n_17879938525595749.jpg" %}
+
 Rondador Nocturno de Dave Cockrum: Bamfdera negra. 🏴‍☠️
 
 Es posible que si piensas en los mejores dibujantes de Marvel y DC durante los últimos años 70 y los 80, Dave Cockrum aparezca en la lista mucho después de nombre como George Pérez o Byrne (o no, que en las cosas del gusto cada uno tiene sus manías) pero es innegable la capacidad no sólo artística sino creadora de Cockrum.

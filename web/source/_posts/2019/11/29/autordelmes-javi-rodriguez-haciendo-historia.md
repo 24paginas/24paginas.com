@@ -17,6 +17,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17850043540735074.mp4" %}
+
 [#autordelmes](/tags/autordelmes): Javi Rodríguez, haciendo historia.
 
 Como dijo el propio Javi en la presentación de "Historia del Universo Marvel" en el 25 aniversario de [@genxpuebla](https://instagram.com/genxpuebla), los premios son de quienes los dan. Y aunque no se refería precisamente a eso, es un autentico premio contar con él entre nuestros Artistas del Mes, y más en una entrega tan especial.

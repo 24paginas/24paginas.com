@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "55962023_1131744077007268_7829577112438622792_n_18046247107079386.jpg" %}
+
 Los 4 Fantásticos [#5](/tags/5): Cosas de Boda.
 
 Es extraño, no recuerdo haber reseñado el número 4, pero aquí estoy con el número 5. Aunque claro, este no es realmente el número 5 sino una entrega especial metida dentro de la numeración de [@paninicomicsespana](https://instagram.com/paninicomicsespana). ¡Qué cosas!

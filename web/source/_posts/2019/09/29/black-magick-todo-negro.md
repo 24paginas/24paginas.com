@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "69703010_2783472185081105_6292968468521690429_n_18103861063037718.jpg" "69708463_542516146525054_413486169104524960_n_18083510452106424.jpg" %}
+
 Black Magick: todo negro.
 
 Greg Rucka siempre demuestra su buena mano con el policiaco y la capacidad de maridarlo con otros géneros. Si en otras ocasiones sólo hemos visto mezclarlo con el mundo de Batman (que siempre se presta a lo detectivesco), ahora lo hace con el submundo de la magia y las brujas.

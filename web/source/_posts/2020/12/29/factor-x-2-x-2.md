@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "133403497_147171357200637_4984736053872920952_n_17942356933424533.jpg" %}
+
 Factor-X 2 x 2.
 
 El cómic de [@handaxe](https://instagram.com/handaxe) y [@davidbaldeoncomic](https://instagram.com/davidbaldeoncomic) sigue como un tiro en esta doble grapaza. Me sigue doliendo el precio pero vale más de lo que cuesta.

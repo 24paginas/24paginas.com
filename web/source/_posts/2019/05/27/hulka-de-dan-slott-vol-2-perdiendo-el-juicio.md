@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "60947764_135582390868692_3339963737685586892_n_18047929933125933.jpg" "60393688_169630430715277_7660442635897289936_n_17878623862365290.jpg" %}
+
 Hulka de Dan Slott, vol.2: Perdiendo el juicio.
 
 Volvemos a nuestra abogada soltera poco después de los eventos de "Vengadores Desunidos" y la fatídica llegada de Bendis a Marvel hasta Civil War. Shulkie perdió la cabeza, algún otro vengador también, y ahora intenta recomponerse del trauma que le hace depender de un aparato para transformarse.

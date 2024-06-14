@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "82223813_169315371053054_673927637963868659_n_17913180469389742.jpg" "81244911_158053132291166_3809164838206557996_n_17861425690663686.jpg" "81060720_466669650937110_8461728236330139823_n_17874024124553218.jpg" %}
+
 🗓 AGENDA 24 PÁGINAS - ENE. 23, 24 y 25.
 
 Esta semana repartimos el juego por la península, desde Madrid a Sevilla, para terminar en Zaragoza.

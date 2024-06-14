@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_18038844628147788.mp4" %}
+
 [#autordelmes](/tags/autordelmes): Cels Piñol, entre Fan y Fan.
 
 No debería resultar ninguna sorpresa tras nuestras últimas publicaciones, pero queríamos rematar el [#Piñol30](/tags/pinol30) con alguien que nos ha hecho reír y sentirnos representados durante muchos años. Aun a costa de jugarse los pulgares ante algún editor en más de una ocasión.

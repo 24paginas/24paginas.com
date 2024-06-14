@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "410935267_675293004745668_4079571879119776821_n_17991750893271125.jpg" %}
+
 El 14 de Diciembre, los 14 tomos de Platinum End, de Takeshi Obata y Tsugumi Ohba.
 
 Después de lo mucho que disfruté con Death Note y con Bakuman, las dos obras anteriores del mismo tándem creativo, estaba claro que iba a caer con todos los tomos (y sus cofrecitos) que iba publicando [@normaedmanga](https://instagram.com/normaedmanga). Alguno del final me llegó a costar encontrarlo, así que no me atrevo a aventurar si las ventas y la tirada fueron buenas o malas, porque pocas reseñas he visto.

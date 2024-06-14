@@ -24,6 +24,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "PPCvfqoBBUCKAJDMywXQBgAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HAA_17968096819141979.mp4" "44550058_1894151334013939_4587287198212687695_n_17990176759066686.jpg" "43914022_1673902082908276_1066299274194367848_n_17887596943276671.jpg" "44000195_1437177613079883_2877436089319728032_n_17980525933104733.jpg" %}
+
 Noche de brujos: Doctor Extraño y los Hechiceros Supremos.
 
 No podíamos dejar pasar [#Halloween](/tags/halloween) sin hacer alguna reseña relacionada. Aunque dejamos un lado en terror para acercarnos a la brujería con el recopilatorio de [@paninicomicsespana](https://instagram.com/paninicomicsespana) de esta miniserie con guion de Robbie Thompson, [@rthompson1138](https://instagram.com/rthompson1138), y dibujo de Javier Rodríguez, [@javiercaster](https://instagram.com/javiercaster).

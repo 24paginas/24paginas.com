@@ -15,6 +15,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "69276381_325251344907149_4175609725754906376_n_18094988995030122.jpg" %}
+
 Y así, como quien no quiere la cosa, llega [#septiembre](/tags/septiembre).
 
 Pero esta vuelta a la rutina no tiene por qué se mala, hay muchas cosas por llegar...

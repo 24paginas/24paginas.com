@@ -18,6 +18,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "43745955_1712653265511802_2267982604512979787_n_17977915357089537.jpg" "44207516_694895334243854_6699667337683494797_n_17969171620154140.jpg" "44349429_500827973757127_5446800415221786776_n_17999231074060361.jpg" "44309784_359186081315532_8924290086579652989_n_17909514028250685.jpg" %}
+
 Nuevo evento mutante del año en estos días grises de invierno, de la mano de [@paninicomicsespana](https://instagram.com/paninicomicsespana).
 
 A nivel gráfico nada que no hayamos dicho más allá de que YA ERA HORA de tener al excelentísimo señor [@pepelarraz](https://instagram.com/pepelarraz) en la franquicia mutante. Y más viendo las joyitas que se está marcando en su instagram (ojo spoilers). A mi gusto, lo mejor y para ponerlo entre los ilustres que han tocado a los muties como Immonen, Pacheco, Madureira, Byrne o Cockrum. Con suerte antes o después tendrá su momento en Uncanny X-Men y lo esperamos con ansias en esta santa casa. Y por favor, de la mano de [@martegraciacolor](https://instagram.com/martegraciacolor), que vaya MA RA VILLA de color.

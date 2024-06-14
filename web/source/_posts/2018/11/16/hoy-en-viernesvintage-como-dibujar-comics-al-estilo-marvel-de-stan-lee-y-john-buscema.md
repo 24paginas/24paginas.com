@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "43817836_2345451479012016_3274227439041921468_n_17922820039244553.jpg" "45537637_311968039643688_4610387484193569879_n_17967278356161657.jpg" %}
+
 Hoy en [#ViernesVintage](/tags/viernesvintage): Cómo dibujar cómics al estilo MARVEL, de Stan Lee y John Buscema.
 
 Continuamos el homenaje a [#StanLeeForever](/tags/stanleeforever) en nuestra sección más aliterada: Viernes Vintage. Pero dejamos de lado el cómic para recuperar la faceta de evangelizador marvelita de Lee. Es irónico que un guionista o editor firme un libro sobre dibujo, pero ya en el prólogo dejaba ver que lo suyo era la capacidad de ver el potencial en otros, y tras ver unas charlas sobre dibujo de tebeos que impartía John Buscema, propuso sacar adelante este manual con dibujos de los mayores dibujantes Marvel y sus chispeantes comentarios.

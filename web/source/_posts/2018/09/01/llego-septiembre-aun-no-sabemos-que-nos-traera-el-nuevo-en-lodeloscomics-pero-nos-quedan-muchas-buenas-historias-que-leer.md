@@ -9,4 +9,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "38736125_276396022975733_3802017806195621888_n_17971120447066617.jpg" %}
+
 Llegó septiembre. Aún no sabemos qué nos traerá el nuevo en [#lodeloscomics](/tags/lodeloscomics), pero nos quedan muchas buenas historias que leer.

@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "79212880_2624899491165211_4339243716711025071_n_18081449185177279.jpg" %}
+
 [#NOVEASLAgrafica](/tags/noveaslagrafica): Pages of X, Genoma Hickman.
 
 Con la doble miniserie mutante en su ecuador (esta misma semana os contaremos impresiones sobre los terceros números y su cambio de numeración), hacemos un repaso a la estructura de la misma.

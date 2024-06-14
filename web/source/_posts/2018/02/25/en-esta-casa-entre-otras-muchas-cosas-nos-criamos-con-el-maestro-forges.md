@@ -13,6 +13,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "28154243_1904688306509859_7598842790771949568_n_17913937873099507.jpg" "28156936_364180364062022_3570046407790297088_n_17866362559220292.jpg" "27892559_223502481543995_6279424057142149120_n_17852385820242971.jpg" %}
+
 En esta casa, entre otras muchas cosas, nos criamos con el maestro Forges.
 
 No sé cuántos años pueden tener estos recopilatorios, ya que llegaron a mí a través de mi padre, pero por descontado más que yo.

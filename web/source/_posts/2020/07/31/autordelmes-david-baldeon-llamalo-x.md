@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "116357074_132369325208295_6204562632154757661_n_17865689110956869.jpg" "116147154_208652437248455_7446550410555765561_n_17922523114419627.jpg" %}
+
 [#autordelmes](/tags/autordelmes): David Baldeón, llámalo X.
 
 Una de las cosas buenas de dividir nuestra sección de autores del mes en “series” es que de vez en cuando podemos permitirnos el lujo repetir nombres. Y sí encima esa repetición es una de nuestras personas favoritas en [#lodeloscomics](/tags/lodeloscomics), ese lujo se convierte en un placer.

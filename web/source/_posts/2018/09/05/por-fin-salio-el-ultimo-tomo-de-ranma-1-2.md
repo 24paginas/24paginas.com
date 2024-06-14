@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "39638162_336050573609693_986345043714246371_n_17948305729182765.jpg" "40108072_2123317487888853_5198049580014997735_n_17914973965215911.jpg" "39963637_219662642241578_5054914930936818107_n_17918116429204578.jpg" "40947912_1096017307240527_4689696713874441037_n_17976393991004320.jpg" %}
+
 Por fin salió el último tomo de Ranma 1/2.
 
 Y demos gracias a los dioses nuevos y antiguos porque ha sido toda una odisea, pero por fin voy a poder leer esta mítica serie al completo. Que ya iba tocando.

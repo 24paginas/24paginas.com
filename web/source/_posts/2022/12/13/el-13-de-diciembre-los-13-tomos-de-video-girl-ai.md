@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "319004851_1284786062300742_5644548251132703431_n_18025415728447358.jpg" %}
+
 El 13 de Diciembre, los 13 tomos de Video Girl Ai.
 
 Que hayamos visto una edición Kanzenban/Ultimate/Maximum/Chachi de I''s antes que de Video Girl es una cosa que me hace estallar el cerebelo. ¿Por qué?

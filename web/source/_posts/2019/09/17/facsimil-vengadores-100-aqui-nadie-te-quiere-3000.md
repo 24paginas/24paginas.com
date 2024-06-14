@@ -26,6 +26,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "71209278_187764082251915_6362739511086170214_n_17883411118420735.jpg" "70127967_767908476995843_816023546393816454_n_18065063761149167.jpg" "69513840_390422901882325_8209608206775777434_n_18034051360207707.jpg" "69548843_227105564933066_2738964989465966601_n_17900880625374020.jpg" "69705749_121017842613518_1066191230786904463_n_18028095610216283.jpg" %}
+
 Facsímil Vengadores 100: aquí nadie te quiere 3000.
 
 Estoy enganchadillo a esto de los facsímil de [@paninicomicsespana](https://instagram.com/paninicomicsespana) por lo amigable que es el concepto para compras esporádicas y para los que nos gusta comprar en formato tomo pero, de vez en cuando, echamos de menos una grapilla. De paso rememoramos algún momento especialmente épico y/o reseñable o descubrimos algún clásico que se nos pasó. Not bad.

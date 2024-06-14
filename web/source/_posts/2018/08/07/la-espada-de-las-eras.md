@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "38057963_243680856277219_2932782142779817984_n_17907908209203496.jpg" "37328537_283477645719201_1583923006063771648_n_17966159656038602.jpg" %}
+
 La Espada de las Eras
 
 El pasado 5 de mayo, además de uno de los cumpleaños más importantes de mi agenda, se celebró el [#diadelcomicgratis](/tags/diadelcomicgratis). Sepultadas bajo una [#latorredelectura](/tags/latorredelectura) que no paraba de crecer llevaban desde entonces algunas grapas.

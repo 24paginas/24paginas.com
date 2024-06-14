@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "45298698_494141747760694_6294639757709678580_n_17924272552237090.jpg" %}
+
 ¡Vuelven los Immonen!
 
 Vale, es un CLICK BAIT como la cabeza de Galactus de grande, pero tenía que aprovechar la actualidad. Es cierto que el matrimonio Immonen ha vuelto a colaborar tras lo que fue la noticia del año, al menos para el 66% de nuestra “redacción”: Stuart Immonen terminaba su contrato con Marvel y se retiraba tras el [#AmazingSpiderman800](/tags/amazingspiderman800). Lo mejor es que su nuevo proyecto se puede leer directamente en Instagram, solo tenéis que seguir la cuenta [@grass.of.parnassus](https://instagram.com/grass.of.parnassus) y estar pendiente cada lunes de nuevas entregas de esta serie de Ciencia Ficción.

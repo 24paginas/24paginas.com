@@ -14,6 +14,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "412869326_677813641160271_314606570898708578_n_17948746655731731.jpg" %}
+
 El 20 de Diciembre, los 20 años que hace que se publicó Barrio Lejano en España.
 
 En 2003 publicaba [@ponentmon](https://instagram.com/ponentmon) por primera vez Barrio Lejano, una de las mejores obras del fantastiquérrimo Jiro Taniguchi. Os hago un poco de trampa porque la foto no es de la edición de 2003, sino de la integral en un único tomo de 2009, pero para el caso me perdonaréis la libertad que me he tomado.

@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "97289069_241358250469939_5182205721437864491_n_17874152263688436.jpg" %}
+
 Bone, pequeño espíritu de aventura.
 
 Entre lecturas pendientes y relecturas deseadas se nos ha colado un inesperado repaso en profundidad a los 2 primeros tomos de Bone gracias a nuestro más pequeño (todavía no) lector. Desde que lo vio la primera vez le cautivó y durante estos 60 días no ha descansado más de 12 horas en la estantería.

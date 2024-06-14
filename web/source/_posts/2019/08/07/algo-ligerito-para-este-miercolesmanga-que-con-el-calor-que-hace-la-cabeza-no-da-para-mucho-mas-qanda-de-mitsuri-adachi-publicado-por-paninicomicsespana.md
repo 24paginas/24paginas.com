@@ -16,6 +16,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "65896004_711180569305350_2870228449913179021_n_17979792763300753.jpg" %}
+
 Algo ligerito para este [#miercolesmanga](/tags/miercolesmanga) que con el calor que hace la cabeza no da para mucho más. Q&A de Mitsuri Adachi publicado por [@paninicomicsespana](https://instagram.com/paninicomicsespana)
 
 Se podrá acusar a Adachi de publicar siempre historias muy similares entre sí, pero si lo que haces, lo haces tan TAN bien, ¿por qué cambiar? Vale, que todo son comedias románticas adolescentes en relación con algún deporte (generalmente baseball), pero qué queréis que os diga...

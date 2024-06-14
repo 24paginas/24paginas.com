@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "23421458_205881359954255_2340348613261000704_n_17895545665109569.jpg" "23348171_1492207150886202_6475049054286905344_n_17907431362030816.jpg" "23416362_1183080818459666_5450135042732851200_n_17908710514017225.jpg" "23421558_492953231090980_2973392308398981120_n_17881570867145633.jpg" "23416433_2137528693141364_4735892018746621952_n_17890625809085699.jpg" %}
+
 Cosas más extrañas.
 
 Lo reconozco, hace unos 4 años que dejé de comprar grapa por cuestiones del espacio y el tiempo. Pero el año pasado me hice con el primer número de Paper Girls porque el diseño de la colección me pareció una maravilla.

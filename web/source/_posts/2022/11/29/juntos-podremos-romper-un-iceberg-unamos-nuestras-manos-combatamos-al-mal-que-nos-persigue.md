@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "316672577_1190091384962154_4005967178690234218_n_17986029133675702.jpg" %}
+
 Juntos podremos romper un iceberg. Unamos nuestras manos, combatamos al mal que nos persigue...
 
 ¡DragonBall 300 de [@planetadcomic](https://instagram.com/planetadcomic)! ¿Somos todos conscientes de que la serie Super lleva ya muchísimos más números que la serie roja original? (89 vs 58) Por poner las cosas en perspectiva. A estas alturas casi una tercera parte de las revistas de [#DragonBall](/tags/dragonball) (serie blanca + serie roja) no están dibujados por [#Toriyama](/tags/toriyama).

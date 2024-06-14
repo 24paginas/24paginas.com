@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "38778155_226217924763804_9079267087980953600_n_17952047635120108.jpg" "38244382_227900161253479_764743515740569600_n_17951414521121214.jpg" "38701713_513345025775257_95003285018116096_n_17968587607010718.jpg" "38261744_2167703886802438_7586966123866750976_n_17970493105019988.jpg" "38757445_273446403254998_3267603959086317568_n_17967889750021686.jpg" "38081419_1880835165336339_5544432574429921280_n_17870631688264063.jpg" "38618408_305462436667513_2765591276538560512_n_17948341291084055.jpg" "38489790_897043093814583_2357696918177447936_n_17942185210132752.jpg" %}
+
 Ojo a esto, que vengo a tumba abierta y lo mismo me paso de frenada, pero acabo de terminarlo y ahora mismo creo que, The Black Holes de [@borja_gonzalez_ilustraciones](https://instagram.com/borja_gonzalez_ilustraciones), es la obra más redonda que he leído en lo que va de año. A todos los niveles. Y eso que Universo dejo el top bien alto, pero creo que al ser más contenido, ayuda a que quede todo más atado en este caso.
 
 Simplemente la edición es cuidada y perfecta para la obra, desde el tipo de papel, el lomo, el diseño, hasta detalles como que el logo del lomo encaje perfectamente con la faja. Que son detalles, pero importantes y que de primeras ya te dejan ver el mimo y cuidado que se ha tenido con esta obra.

@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "32081109_1688904481189681_3781246962100076544_n_17945812696058278.jpg" "31702683_447278175730328_3916410489143296000_n_17925390574089514.jpg" "31296096_1765202436850893_7071575210897440768_n_17883781459220496.jpg" "31338746_1981212155453535_1887838319312633856_n_17930868829099060.jpg" "31310818_189383408375269_6764107023391916032_n_17845315336266413.jpg" "32100650_175082033205694_4708731852452528128_n_17884061266213183.jpg" "31123783_214500052489521_7821717070487224320_n_17944822453054896.jpg" "31300240_579578565742312_8427930779236958208_n_17939036251064223.jpg" "31326463_441905002946213_8928674376258158592_n_17918418502135662.jpg" %}
+
 No solemos hablar en esta santa casa de las novedades extranjeras (y visto el panorama debemos ser los únicos que no lo hacemos), esperando a que se publiquen lo tebeos en nuestro idioma. Hagamos una excepción en la que hemos caído varios "veinticuatros".
 
 Action Comics [#1000](/tags/1000), 80 añazos de personaje, que se dice pronto. Y para celebrarlo, un número especial dentro de la numeración habitual, que no incluye nada particularmente... en fin, qué se yo. Últimamente no leo nada que me llame la atención.

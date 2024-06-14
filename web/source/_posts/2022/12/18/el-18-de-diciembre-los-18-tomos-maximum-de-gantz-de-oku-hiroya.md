@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "319846700_462993379331630_3355698516181325201_n_17859776024849837.jpg" %}
+
 El 18 de Diciembre, los 18 tomos Maximum de Gantz, de Oku Hiroya.
 
 En esta magnífica edición de [@mangapaniniesp](https://instagram.com/mangapaniniesp) se volvía a publicar entre 2018 y 2021 la magnífica serie Gantz, que ha tenido adaptaciones múltiples a anime e imagen real.

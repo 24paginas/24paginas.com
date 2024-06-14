@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17997624808257036.mp4" %}
+
 [#autordelmes](/tags/autordelmes): Olivier Coipel, magia en los lápices.
 
 Tras pasar por colecciones como Amazing Spider-Man o Vengadores, este dibujante francés se hizo un nombre con la llegada de Dinastía de M.

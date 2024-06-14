@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "fGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXqBwA_17906286280216958.mp4" %}
+
 Borja González: Extremeñamente bueno.
 
 Tras una semana en la que hemos reseñado dos de sus obras, a nadie le sorprenderá nuestro [#autordelmes](/tags/autordelmes). Además de ser majísimo en redes, [@borja_gonzalez_ilustraciones](https://instagram.com/borja_gonzalez_ilustraciones) ha sido la gran revelación del cómic nacional de este año, aunque ya venía haciendo cosas bonitas desde hace tiempo.

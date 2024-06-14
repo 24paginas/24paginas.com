@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "95789324_618398542086193_3071005476124654163_n_17945310763346545.jpg" "95846015_583466142525411_7557637724631209023_n_17887684867545300.jpg" %}
+
 Genesis, de John Byrne: el principio del fin.
 
 Darkseid es. Lo es ahora y lo era a finales de los noventa cuando John Byrne viajó al Cuarto Mundo a jugar con la mitología Kirbiana.

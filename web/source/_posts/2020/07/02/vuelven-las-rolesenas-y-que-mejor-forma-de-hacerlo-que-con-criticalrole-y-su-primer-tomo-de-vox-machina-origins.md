@@ -18,6 +18,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "106151008_284217383017615_937203292479792531_n_18151804540034453.jpg" %}
+
 Vuelven las [#roleseñas](/tags/rolesenas) y qué mejor forma de hacerlo que con [#CriticalRole](/tags/criticalrole) y su primer tomo de Vox Machina Origins.
 
 Anunciado recientemente por la gran [@fandogamia](https://instagram.com/fandogamia), podemos esperar este preludio comiquero a la primera temporada de [@critical_role](https://instagram.com/critical_role) que publicó [@darkhorsecomics](https://instagram.com/darkhorsecomics) para septiembre de este mismo año. Y vaya si hay ganas.

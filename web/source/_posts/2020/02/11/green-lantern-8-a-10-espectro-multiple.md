@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "82525953_189357105462577_1489471030673139857_n_17892846514459046.jpg" %}
+
 Green Lantern [#8](/tags/8) a 10: Espectro múltiple.
 
 Vuelvo al Linterna Verde de Morrison y Sharp, y lo hago (hasta ponerme al día con la publicación de [@eccediciones](https://instagram.com/eccediciones)) con 3 números que avanzan hacia uno de los grandes tópicos de Grant Morrison: el Multiverso. Pero antes, en el número 8, revivimos el encuentro entre los héroes verdes (Linterna y Flecha) recuperando a unos seres venidos de la Edad de Plata de Green Arrow, los habitantes de la Dimensión Cero. Aunque aquí también recala un poco el Multiverso al presentarnos a la contrapartida de Hal Jordan en esa dimensión, Xeen Lantern.

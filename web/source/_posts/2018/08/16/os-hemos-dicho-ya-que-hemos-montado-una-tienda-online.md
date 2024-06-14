@@ -14,6 +14,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "39130517_469846010197772_5179249853351329792_n_17971922320056355.jpg" %}
+
 ¿Os hemos dicho ya que hemos montado una tienda online?
 
 En <https://www.positivos.com/tienda/user/24paginas/> (link clickable en la bio) tienes camisetas molonas y nuestra chapita, por si no ganas nuestro concurso.

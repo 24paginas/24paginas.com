@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "70038984_516466178922013_1031392886060931238_n_18031660552221572.jpg" "70850457_389382215069891_3040706065544672378_n_17876070322456374.jpg" %}
+
 1/31. SNAP! 💥
 [#octumatopeyas](/tags/octumatopeyas)
 [#roadto24](/tags/roadto24)

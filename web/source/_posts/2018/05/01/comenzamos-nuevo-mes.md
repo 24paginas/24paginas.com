@@ -12,4 +12,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "nKw7wDFQIoAkMzLBdADEWhysCDEhgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17933044192073519.mp4" %}
+
 Comenzamos nuevo mes.

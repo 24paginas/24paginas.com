@@ -21,6 +21,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "72787279_183705252796239_4511883986904299149_n_17932775905318000.jpg" %}
+
 20/31. KTANG! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Rick Jones es el Carlitos Alcántara del Universo Marvel. Estaba allí cuando una explosión convirtió al Dr. Bruce Banner en una gigantesca Masa Esmeralda, estuvo allí cuando Loki perpetró el plan que uniría a Los Vengadores y también cuando el Capitán Mar-Vell quedó atrapado en la Zona Negativa...

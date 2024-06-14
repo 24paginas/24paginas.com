@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "320413090_677733550748245_742154460937361358_n_17954007941148190.jpg" %}
+
 El 19 de Diciembre, recordamos el 19º álbum de Astérix: El Adivino.
 
 Esta edición, que como podéis ver ha visto mundo, tiene más años que yo, y es que una gran parte de mi colección de Astérix la heredé de mi padre y la he ido completando con el paso de los años. En El adivino, un magufo llega a la aldea y pretende que le mantengan diciendo obviedades vacías... pero que todo el mundo se cree. Esto se publicó originalmente en 1972 y no ha envejecido ni un día.

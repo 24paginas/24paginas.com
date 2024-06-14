@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "90232681_196911195086798_8882092110868527783_n_17859737203771165.jpg" %}
+
 [#pasandorevista](/tags/pasandorevista): un poco de todo.
 
 Hoy es lunes. Lo digo porque a mi ya me cuesta situarme en el día de la semana. Y aunque algunos se empeñen en decir que no hay lunes en la guerra (o sábados o el día que sea), ni esto es una guerra ni hay que perder de vista el calendario. .

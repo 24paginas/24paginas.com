@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "66294785_2380219978704850_7415438653075876386_n_18063354808121952.jpg" "66372767_183508185975970_754728416848228406_n_17849988547497175.jpg" %}
+
 Mañana de sábado, quiosco y revistas de cómics...
 
 ..y, bueno, un poco de autobombo porque ya ha llegado el Segundo número de [@comicmania_es](https://instagram.com/comicmania_es) en el que tengo el placer de colaborar de nuevo con [#SentidoRadar](/tags/sentidoradar), un repaso a podcast comiqueros, y el perfil editorial de la francesa [@dargaud](https://instagram.com/dargaud), ideal si echas de menos nuestras [#NOVEASLAgrafica](/tags/noveaslagrafica).

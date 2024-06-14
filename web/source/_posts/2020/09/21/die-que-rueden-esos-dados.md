@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "119964911_2063254570478702_3922134576387797046_n_17889925639668778.jpg" "119986982_1732793276874545_593890668513955278_n_17854269476215202.jpg" "119862810_352053399279631_6459675777572969261_n_17856294758188790.jpg" "120036019_351375265981783_8281900559919651822_n_17845816097354680.jpg" %}
+
 DIE: que rueden esos dados.
 
 Nueva [#roleseña](/tags/rolesena). Que no se diga que no le damos continuidad a las secciones (je). Una historia que podría resumirse en “el típico manga isekai a la americana”. Vamos, adolescentes del mundo real viajan al mundo de fantasía a vivir aventuras. Esta vez con un girito de tuerca añadido.

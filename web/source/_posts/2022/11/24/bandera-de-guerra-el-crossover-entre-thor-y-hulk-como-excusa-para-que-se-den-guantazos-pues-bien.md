@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "316052420_1186229498681676_2645085519518646309_n_18038147521397305.jpg" "316809761_1186230425348250_6840894336666281529_n_17942542955304966.jpg" "316136032_1186230698681556_6890626725932176860_n_18003377257524840.jpg" "315991155_1186231122014847_4429983714318863216_n_17974931686885036.jpg" "316132647_1186231432014816_3108800781281719829_n_18266902177101705.jpg" %}
+
 Bandera de Guerra, el crossover entre Thor y Hulk como excusa para que se den guantazos. Pues bien.
 
 Colecciono Thor desde hace ya unos cuantos años. Nótese que he dicho "colecciono" y no "leo" porque la verdad es que debo llevar fácilmente veinte o treinta grapas sin leerlo, se me van acumulando para cuando tenga un rato, y se me ha ido de las manos. Prometo ponerme al día.

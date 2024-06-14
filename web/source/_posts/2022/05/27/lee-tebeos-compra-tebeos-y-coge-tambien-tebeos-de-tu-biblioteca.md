@@ -18,4 +18,6 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "284024700_413181367326681_3859995136703332024_n_18210050707150128.jpg" %}
+
 Lee tebeos, compra tebeos, y coge también tebeos de tu biblioteca.

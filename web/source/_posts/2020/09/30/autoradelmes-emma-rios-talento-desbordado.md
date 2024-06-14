@@ -16,6 +16,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "120602039_336932970976434_5346915532332576226_n_17938716946395869.jpg" "120421492_671414070460971_3658473816849978869_n_17973023275324259.jpg" %}
+
 [#autoradelmes](/tags/autoradelmes): Emma Ríos, talento desbordado.
 
 Aunque hemos podido verla en cómics mainstream como Doctor Extraño o Capitana Marvel, Emma Ríos ha desatado todo su potencial en series propias y cocreaciones. Ese es el caso de Bella Muerte, con guión de Kelly Sue DeConnick y color de Jordie Bellair, cuyo tercer volumen fue editado recientemente por [@astiberri_ediciones](https://instagram.com/astiberri_ediciones).

@@ -13,4 +13,6 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "23164190_969863979818343_3892882482202148864_n_17897072890073155.jpg" %}
+
 ([@neverbot](https://instagram.com/neverbot)) pero habéis visto el logo guapo que tenemos? Aplausos y ovación cerrada para [@hecdruiz](https://instagram.com/hecdruiz) y abucheos para la cutre foto que le he hecho yo.

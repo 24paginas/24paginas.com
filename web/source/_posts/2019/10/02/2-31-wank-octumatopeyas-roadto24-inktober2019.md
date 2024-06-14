@@ -19,6 +19,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "69839932_2401311520129938_8840671415552775405_n_17854166839587066.jpg" "70816698_1191968037654843_6881967117948768628_n_18069020479177697.jpg" %}
+
 2/31. WANK 🛡[#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Como Peter Parker observaba en "Civil War", el escudo del Capitán America no parece obedecer a las leyes de la física. Quizás por eso el sonido que se produce al golpearlo es tan peculiar. O puede que sea una paja mental...

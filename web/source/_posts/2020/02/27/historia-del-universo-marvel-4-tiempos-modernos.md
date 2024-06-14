@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "88151589_862679464165781_8465255050174430993_n_18130478323055542.jpg" "84469628_2617762665012933_2600669726262945089_n_18130445881062882.jpg" %}
+
 Historia del Universo Marvel [#4](/tags/4): Tiempos Modernos.
 
 Con esta cuarta entrega llegamos a la era moderna de Marvel, con algunos eventos de la segunda mitad de los 70 pero centrándonos sobretodo en las décadas de los 80 y 90.

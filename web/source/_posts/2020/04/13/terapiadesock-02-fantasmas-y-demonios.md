@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "93259689_1119975928355307_1729996397556198709_n_18100753315081501.jpg" %}
+
 [#TerapiaDeSock](/tags/terapiadesock) 02: Fantasmas y demonios.
 
 Terminó la Semana Santa más rara de nuestras vidas, en la que he aprovechado para ponerme al día con Hellboy. Eso sí, con calcetines a juego. Pronto reseña.

@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "67908241_186698129020438_6654088964369301100_n_17898585964369947.jpg" "70121231_514644035775814_7702628408067312598_n_18027782494211006.jpg" %}
+
 Jóvenenes Vengadores, errores de tomo y lomo.
 
 ALL PUN INTENDED. Todos cometemos errores alguna vez, aunque tengamos las mejores intenciones. Y sino mirad a Wiccan. El pobre Billy Kaplan intenta ayudar a Teddy pero algo sale terriblemente mal. Multiversalmente mal.

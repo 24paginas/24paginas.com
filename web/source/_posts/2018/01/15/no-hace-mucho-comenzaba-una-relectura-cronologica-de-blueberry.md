@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "26187576_1579285118828578_2576035656593571840_n_17860650130201782.jpg" %}
+
 No hace mucho comenzaba una relectura cronológica de Blueberry. Habiendo terminado la primera media docena de álbumes que tenía, ¿me recomendáis continuar por orden de aparición de álbumes o siguiendo la historia del personaje?
 
 ¡Se aceptan opiniones!

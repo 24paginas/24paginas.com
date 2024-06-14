@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "44355567_793402414344320_9091217806240804201_n_17994994477013900.jpg" "43914687_2156026631329652_1860436711400047684_n_17921852635229627.jpg" "43985998_496619564177487_7185990392082335556_n_17987470099075273.jpg" "44305125_187180908830041_3495546312753650832_n_17969273407141815.jpg" "43218015_248231632525682_6169533417349297804_n_17917405849245535.jpg" "43779018_306959056567513_7692330350784634974_n_17963971702153924.jpg" %}
+
 Después de tanta lectura mala, ya tocaba volver con algo bueno: los 20th Century Boys de Naoki Urasawa y [@planetadcomic](https://instagram.com/planetadcomic).
 
 Y no hace falta entrar en muchos detalles, sigue siendo una lectura del copón. Tengo curiosidad por ver hacia dónde se enfocarán los pequeños detalles que parecen fantásticos por ahora.

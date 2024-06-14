@@ -26,6 +26,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "24126711_1769390003366018_6337653784927272960_n_17910007741013238.jpg" "24125350_1979021139018791_6590707210693640192_n_17909725588006837.jpg" "23970249_1444128172373961_6522658783942934528_n_17883907213178875.jpg" "24125357_1527108674046429_8810158855418806272_n_17898003994129066.jpg" "24174746_927741660714888_1182731244815777792_n_17853062746206488.jpg" %}
+
 Patrulla-X Azul
 
 Por mucho que me fastidie ya que sigo sin estar de acuerdo con que estos personajes sigan dentro de la "continuidad" actual, y muchos menos que tengan colección propia, debo decir que es el que más me ha sorprendido y gustado a partes iguales. No se si incluso por comparación, pero es todo lo que la colección Oro debería aspirar a ser.

@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "106275370_142081577488077_8961773449198425434_n_17857519184039409.jpg" %}
+
 El superpoder más importante: empatiza, copón.
 
 Cuando todo empezó a sonar en serio muchos dijeron que de esta saldríamos mejores. Luego la realidad mostró que eso no iba a ser tan fácil. Comportamientos mezquinos, notas pasivo-agresivas en los portales... Pero [#loshéroessiemprevuelven](/tags/losheroessiemprevuelven), ya sean los que nos salvan de verdad en el día a día o los que nos inspiran a ser mejores. .

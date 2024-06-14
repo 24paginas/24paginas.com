@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "35576022_163029827889012_3481981913021808640_n_17929358560142075.jpg" "34709265_2085800025028421_617893803591729152_n_17954558140039976.jpg" %}
+
 Mr. Milagro [#5](/tags/5)
 
 Lo sé, lo sé, ya ha salido el número 6 de las vivencias de Scott Free. De hecho lo tengo en cola de lectura. Pero todavía no os habíamos comentado el número 5.

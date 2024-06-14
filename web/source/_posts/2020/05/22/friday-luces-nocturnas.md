@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "98437419_140079740945238_4573281080288680985_n_17889723313531104.jpg" "99101568_251619682577807_2668418999053459139_n_17892810778504060.jpg" %}
+
 Friday: luces nocturnas.
 
 Marcos Martín y Muntsa Vicente vuelven a su casa en [@thepanelsyndicate](https://instagram.com/thepanelsyndicate), esta vez en formato vertical y acompañados por el guionista Es Brubaker. Con "Friday" nos traen una historia que mezcla misterio con un toque del policiaco que tan bien se le da a Brubaker.

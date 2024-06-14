@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "31310643_445115965927901_2959072775764967424_n_17929221568096163.jpg" %}
+
 Mirror: El reflejo de la montaña.
 
 Demasiado he tardado en leer esta maravilla que había oído recomendar a prácticamente todo el mundo. Emma Ríos ([@emmartian](https://instagram.com/emmartian)) y Hwei Lim ([@hweigh](https://instagram.com/hweigh)) narran una historia que mezcla elementos de fantasía, entes extraterrestres y animales antropomorfos con una épica calmada y una naturalidad que hipnotiza.

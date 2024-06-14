@@ -19,6 +19,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "56622621_2685649758128604_1486283241324684487_n_17856075223384533.jpg" "56603332_848844542127956_1560836644881525857_n_18029893420136325.jpg" "56576055_173989686927015_5118540459598283410_n_18058903756046055.jpg" %}
+
 Claremont, Byrne, X-men ¿Hace falta decir algo más?
 
 Este facsímil que nos trae [@paninicomicsespana](https://instagram.com/paninicomicsespana) es (obviamente) puro ORO y debería estar en la estantería de cualquier aficionado a los cómics si no está ya.

@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "95715328_2606345892952264_1692827696130468275_n_17847768731089370.jpg" "95478471_271618773883035_7797774702038518489_n_17922218224396176.jpg" "95499627_242081400339790_2053485707264268315_n_18102154678181833.jpg" %}
+
 Eva hace lo que puede, de Bea Tormo: Eva somos todos.
 
 Lo de sacar un cómic al mercado, que a los pocos días el gobierno decrete un Estado de Alarma y este se quede ahí parado durante prácticamente 2 meses no es una situación que muestre este tebeo, pero encaja totalmente con el espíritu del mismo.

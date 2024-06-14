@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "47692288_590094481433477_7507694265710851358_n_17912298910276349.jpg" %}
+
 Volvemos a nuestra programación habitual con el antihype que a veces nos (me) caracteriza. Esto no hay por dónde cogerlo.
 
 El fichaje del mercado de invierno de DC, el guionista estrella Brian Michael Bendis, que llega al equipo blanquiazul tras el pago de una importante cláusula de rescisión, se ha quedado en... en nada.

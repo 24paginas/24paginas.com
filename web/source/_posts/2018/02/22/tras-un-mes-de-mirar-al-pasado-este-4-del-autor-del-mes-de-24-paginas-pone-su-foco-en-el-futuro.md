@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "C647FAC5E81551F251891F1BF1BC0CB6_video_dashinit_17908621045084358.mp4" %}
+
 Tras un mes de mirar al pasado, este [#4](/tags/4) del autor del mes de 24 Páginas pone su foco en el futuro. En concreto en uno de los Young Guns de Marvel para 2018, el joven pero sobradamente alucinante [@pepelarraz](https://instagram.com/pepelarraz).
 
 Curtido en series como Thor, Kanan: the last padawan o Lobezno y los X-Men, ahora demuestra todo su potencial en Avengers No Surrender, serie que pronto nos llegará de la mano de [#PaniniComics](/tags/paninicomics).

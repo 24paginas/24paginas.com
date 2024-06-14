@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "61951935_637842233398451_5206971295200180734_n_17895832417335994.jpg" "60789441_146113966542709_7261103253035469674_n_17846677498465892.jpg" "61022294_421748438672917_1184454068331428454_n_18056309884101404.jpg" "60976350_204204393883521_7213807945828642799_n_17970271444267200.jpg" "61922313_111669956594351_389786950366936642_n_18068356204066442.jpg" %}
+
 En un rayo de Sol: Viaje al centro de lo cuqui.
 
 Tenía listas las fotos del primer tomo de esta historia desde hace un mes, pero creo que es mejor hablar de este cómic en su conjunto. De hecho es también la mejor forma de leerlo, haciéndolo todo seguido.

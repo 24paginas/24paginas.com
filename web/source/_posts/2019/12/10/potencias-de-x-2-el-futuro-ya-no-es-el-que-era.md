@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "74340434_170345947380058_6139381706410304445_n_17850449488743418.jpg" %}
+
 Potencias de X [#2](/tags/2): el futuro ya no es el que era.
 
 La revelación del número de Dinastía de X eclipsa un tanto esta historia que, sin embargo, explora un poco las repercusiones de la misma.

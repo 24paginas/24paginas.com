@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "75349238_535519323956744_8903649889749574322_n_17901866896401471.jpg" "73420471_101601467956054_4836989766943362436_n_17843936290834961.jpg" %}
+
 Sentient: El octavo pasajero.
 
 Tenía muchas ganas de hacerme con alguno de los tebeos que ha publicado la recientemente creada editorial TKO. Ya solo su forma de lanzar las obras llama la atención. Cuatro obras lanzadas completas y a la vez, simultaneando la edición en TPB y caja de grapas... Supongo que eso explica el nombre de la editorial, un golpe certero, un KO técnico.

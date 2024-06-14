@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "33210120_370335473485969_7089738880995295232_n_17948695810012212.jpg" "32759625_592158317821456_6002462098922143744_n_17929890280094297.jpg" "33735181_204381970373954_4563861140974600192_n_17935584877097905.jpg" %}
+
 He tardado en subir las fotos de Faith, pero es que no sabía qué contaros de esto.
 
 Tengo la loca teoría de que hay un limite al número de "mitologías" que uno puede almacenar en la cabeza, y si ya sabes enumerar a los Valar, las casas de Gryffindor te van a dar igual. Y si te sabes los nombres de todas las gemas del infinito o los colores de todos los lanterns pues algo "nuevo" como Valiant meh.

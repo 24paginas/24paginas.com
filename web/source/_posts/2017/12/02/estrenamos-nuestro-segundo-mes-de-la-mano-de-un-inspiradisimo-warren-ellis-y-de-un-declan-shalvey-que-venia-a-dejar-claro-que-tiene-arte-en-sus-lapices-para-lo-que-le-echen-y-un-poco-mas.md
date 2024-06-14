@@ -22,6 +22,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "24178090_1692382777474154_4466761877556297728_n_17898108775116744.jpg" "24254021_417475485336114_6960611402205626368_n_17910828709036131.jpg" "24253881_2015316898713026_4904471331950559232_n_17910982795016737.jpg" "24274106_526536801048449_8879631437490290688_n_17870975959196010.jpg" "24177412_442692339460911_7495343218628755456_n_17884907605144878.jpg" "24274034_202148660350279_3730595936036978688_n_17911574620005702.jpg" "24253991_170584563532998_7819807188725006336_n_17905313083070836.jpg" %}
+
 Estrenamos nuestro segundo mes de la mano de un inspiradísimo Warren Ellis, y de un Declan Shalvey que venía a dejar claro que tiene arte en sus lápices para lo que le echen y un poco más. Y es que os vengo a hablar de esta joyita en forma de tebeo que fue un intento más de traer al frente al Caballero Luna.
 
 Y digo intento porque es una pena que después de una primera saga que es ORO puro, no hubiese continuidad de actores a los mandos de esta colección, ya que como quedó demostrado, no es tan fácil sustituir a estos dos pesos pesados de los cómics y más si están en estado de gracia. Porque estos primeros números son un claro ejemplo de que no hay malos personajes, sino malos guionistas. Por suerte aquí el caso es totalmente opuesto y Warren Ellis parece tocado con una varita mágica de inspiración.

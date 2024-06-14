@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "43581686_378229886049777_4152491393705635228_n_17918353357225124.jpg" "43338297_556134598157082_6465714585364289551_n_17929113676211856.jpg" %}
+
 Runaways: De vuelta a casa.
 
 Parece menos, pero los Runaways llevaban ya 10 años fuera de circulación. Junto con Jóvenes Vengadores, fue el buque insignia adolescente de la Casa de las Ideas durante la década pasada.

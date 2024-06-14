@@ -12,6 +12,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "49907295_1161555340677230_7318412791660041267_n_17994904894164984.jpg" %}
+
 Fabuloso Febrero: Comenzamos mes corto pero intenso aligerándonos al máximo.
 
 ¡Bienvenidos!

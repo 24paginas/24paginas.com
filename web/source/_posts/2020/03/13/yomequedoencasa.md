@@ -9,6 +9,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "90091715_640823766754227_5387263436163754060_n_17856571000817910.jpg" %}
+
 🗓 [#yomequedoencasa](/tags/yomequedoencasa).
 
 Para ayudar en el confinamiento, hemos preparado una lista de tebeos que podéis leer en formato digital durante estos días. Podéis proponernos más títulos y recursos e intentaremos hacer crecer el hilo. Tenéis el LINK EN NUESTRA BIO.

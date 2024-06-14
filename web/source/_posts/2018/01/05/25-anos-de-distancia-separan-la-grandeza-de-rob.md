@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "25038093_558975807773329_4148389657144459264_n_17890780993155449.jpg" "26065494_337275093416769_7493544039648591872_n_17917567414029630.jpg" "26157665_1659638074092769_1409570539554471936_n_17858780353205659.jpg" %}
+
 25 años de distancia separan la grandeza de Rob!
 
 Desde el final de Los Nuevos Mutantes con la aparición de X-Force a los guiones de Fabian Nicieza, hasta la colaboración con Robert Kirkman para el sello Skybound de este último.

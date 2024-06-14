@@ -13,4 +13,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "30884577_164886254186906_8678032385649934336_n_17926498909114190.jpg" %}
+
 NUFF SAID.

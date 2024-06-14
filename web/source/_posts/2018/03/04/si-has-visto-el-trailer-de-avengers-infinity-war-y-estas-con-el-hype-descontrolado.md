@@ -23,6 +23,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "28157776_1605309812921708_5281183145410953216_n_17896750732171596.jpg" "28427555_340219826496826_3488791068273541120_n_17855228200238069.jpg" "28158277_2035500486706761_8447627155659030528_n_17868548017210269.jpg" %}
+
 Si has visto el trailer de Avengers: Infinity War y estás con el hype descontrolado, si simplemente quieres leer la historia original que dio pie a la trama general de las películas Marvel de la última década, o si quieres sencillamente leer una de las mejores, si no la mejor, saga cósmica que ha tenido la Casa de las Ideas, aquí es donde tienes que empezar.
 
 Con Starlin en su momento dulce después de romper moldes en Batman con la saga "Una muerte en la familia" vino este señor a recuperar sus personajes fetiches, (Thanos y posteriormente Adam Warlock) a Marvel y sentar los pilares de la ambientación cósmica de Marvel como no se ha vuelto hacer. A esto se le llama sentar cátedra y lo demás son tonterías.

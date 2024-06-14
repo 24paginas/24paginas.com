@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "60367229_470764417061857_5028348746729466326_n_17858551504423206.jpg" "61196766_146774643153933_2478035921130695672_n_18044020633142304.jpg" "60777806_1122872711229862_2869976719479811721_n_17862968677408453.jpg" %}
+
 POP ¡No me quito esa canción de la cabeza! Cachitos de hierro y cromo.
 
 No lo puedo evitar, cada texto que leía de este cómic sonaba en mi cabeza como cuando leo las notas de "Cachitos". Ambos comparten un cierto tono de macarrada ligera, aunque el cómic vaya mucho más allá en lo macarra, y complicidad sobre la cultura pop.

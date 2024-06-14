@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "44799497_520648795093609_7842802604433966643_n_17912845960260804.jpg" "45424776_300256440594171_1673784661609889566_n_17975930449176542.jpg" %}
+
 Mr. Milagro [#11](/tags/11): Visita a casa del abuelo.
 
 Se acerca (mucho) el final y entramos de lleno el “enfrentamiento”. Una lucha tensa, divertida y tramposa que muestra lo mejor de esta serie y del propio [@tomking_tk](https://instagram.com/tomking_tk).

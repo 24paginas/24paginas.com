@@ -24,6 +24,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "53405510_533872227394981_6151964992361570891_n_17967857788225056.jpg" "52362100_983108878549780_6843653279170266905_n_18012956746179107.jpg" "52771933_121948852248533_75493472762368087_n_18023899258121613.jpg" "53402126_149415962751279_3516608696295040162_n_17983238596200667.jpg" "52629691_678462132552022_4913987677170350013_n_17934075616276246.jpg" "52995632_608376066300975_3506385918757688464_n_18015368191135614.jpg" %}
+
 Quería traer algo de [#Marvel](/tags/marvel) para celebrar el estreno de [#capitanamarvel](/tags/capitanamarvel), pero me ha dejado tan mal sabor de boca que, siendo lunes, mejor paso a algo que sí merece una lectura te pongas como te pongas: Arrowsmith.
 
 Perteneciente a los últimos coletazos que dio el fantástico sello [#Cliffhanger](/tags/cliffhanger) de [@imagecomics](https://instagram.com/imagecomics) en su día, Kurt Busiek (que por fin puedo pronunciarlo correctamente gracias a [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks)) y nuestros enormérrimos Carlos Pacheco y [@jss_merino](https://instagram.com/jss_merino) nos trajeron esta preciosa joyita de sólo seis números allá por el 2004.

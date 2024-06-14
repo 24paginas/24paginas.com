@@ -17,4 +17,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "33919708_446632665798000_3342058802005409792_n_17943725344074471.jpg" %}
+
 Hoy nos hemos pasado por la Feria del Libro para asistir a la sesión de firmas de [@elmonteys](https://instagram.com/elmonteys) y hemos aprovechado para darle la chapa en calidad de [#autordelmes](/tags/autordelmes).

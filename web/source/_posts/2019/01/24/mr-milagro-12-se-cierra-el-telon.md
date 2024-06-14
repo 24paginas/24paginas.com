@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "50762758_2215580092085836_5518058835144008177_n_18030890569050432.jpg" "50773349_538636813321220_5413356356567020831_n_18025315069043702.jpg" "49326659_438724843335292_2124482170577053962_n_18026075956020004.jpg" %}
+
 Mr Milagro [#12](/tags/12): Se cierra el telón.
 
 “Si nosotros, vanas sombras, os hemos ofendido, pensad sólo esto y todo está arreglado: que os habéis quedado aquí dormidos mientras han aparecido esas visiones. Y esta débil y humilde ficción no tendrá sino la inconsistencia de un sueño; amables espectadores, no nos reprendáis; si nos perdonais, nos enmendaremos. Y, a fe de honrado Puck, que si hemos tenido la fortuna de escaparnos ahora del silbido de la serpiente, procuraremos corregirnos de inmediato. De lo contrario, llamad a Puck embustero. Así, pues, buenas noches a todos.”

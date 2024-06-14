@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "51431248_2165169003797607_7098836728574130000_n_18012562036126756.jpg" "50875599_292903278016525_3113104385991105357_n_18008301829095619.jpg" "51261565_383968402181001_803498388209357141_n_18033024385009015.jpg" "50867103_102463317510207_8708157043417974579_n_17994575497175779.jpg" %}
+
 Drifting Dragons, de Taku Kawubara. Meeeeeh. En el primer tomo se va a quedar.
 
 Las razones que tengo para acercarme a un manga son dos, y tienen que darse simultáneamente.

@@ -20,6 +20,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "79190766_829468777473010_3411639011410930236_n_17848633915756384.jpg" "75523284_2465320073683071_5161822017621836004_n_17876640682500627.jpg" "80609502_2672659576181982_4796802346492903325_n_17857921735632524.jpg" %}
+
 🗓 Vuelve la AGENDA 24 PÁGINAS.
 
 ¿Vuelve? Bueno, hasta ahora solo habíamos preparado nuestra agenda una vez (hace 2 años), pero parece buen momento para recuperarla. Tenemos por delante un fin de semana marcado por dos grandes eventos comiqueros: la [@heroes_comiccon](https://instagram.com/heroes_comiccon) y el [#salondecomicdezaragoza](/tags/salondecomicdezaragoza). Ambos con multitud de actividades, editoriales, autores invitados... Así que hemos querido seleccionar algunas de las actividades que más nos llaman la atención. Aunque podéis consultar su programa completo en sus respectivas webs.

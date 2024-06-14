@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "76794626_701582193685520_7015941941418782465_n_18071158507165849.jpg" "76709219_547318325834451_3485776554215743792_n_18117828763012198.jpg" %}
+
 Estela Plateada • Negro [#1](/tags/1): Todo negro.
 
 Con todo el lío de las últimas semanas habíamos pasado por alto una de las novedades de [@paninicomicespana](https://instagram.com/paninicomicespana), aunque es cierto que ya habíamos hablado de ella con su lanzamiento en USA y nuestro premio a Tradd Moore como [#autordelmes](/tags/autordelmes).

@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "411494368_675304504744518_1262128242662054727_n_17999167763345183.jpg" %}
+
 El 18 de Diciembre, hace ya 18 añazos de los Young Avengers.
 
 En el 2005 (¿pero por qué sigue pasando el tiempo y sigue naciendo gente?) desembarcaba en Marvel un Allan Heinberg espectacular que venía de guionizar televisión (The O.C. ni más ni menos) y Jim Cheung, uno de los [#YoungGuns](/tags/youngguns), como fueron bautizados por la editorial, a darle unos lápices que ya los quisiera cualquier otra colección.

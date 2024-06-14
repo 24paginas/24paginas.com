@@ -25,6 +25,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "53607368_1397368730399870_8152842843150501691_n_17934771085273772.jpg" "53249243_535385840201268_562974556090020666_n_18028327738099155.jpg" "52941826_391939344958264_4717393893714240122_n_18043977949005304.jpg" "52925189_363841280872075_261691456561635654_n_17982909307201208.jpg" "53207714_1113508575503661_7392265722151664402_n_18019819717084797.jpg" "53109609_401224744000693_3827303825516064119_n_18044753152014588.jpg" %}
+
 Into the Spiderverse: Un portal dimensional a la maravilla [#Artbook](/tags/artbook)
 
 En [@24paginas](https://instagram.com/24paginas) no solemos hablar sobre las películas que adaptan cómics. Salvo que nos vuelvan tan locos como lo hizo en su momento [#spidermanintothespiderverse](/tags/spidermanintothespiderverse). Aun queda más de un mes para que nos llegue en formato doméstico de la mano de [@sonypicturesspain](https://instagram.com/sonypicturesspain), pero no podía esperar a estrenar nueva sección y logo, así que os traigo a [#24paginasporsegundo](/tags/24paginasporsegundo) el libro de arte de la película.

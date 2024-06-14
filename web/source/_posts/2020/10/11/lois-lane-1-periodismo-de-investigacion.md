@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "121103908_1053334078459882_4873980077692421906_n_17936429752402271.jpg" %}
+
 Lois Lane [#1](/tags/1): Periodismo de investigación.
 
 Otra de las miniseries (en realidad maxi, pero resumida aquí a 6 grapas dobles) mas esperadas de DC con personaje cercano a Superman como protagonista. Esta vez hablamos de la Lois Lane de Greg Rucka y Mike Perkins, con el primero haciendo lo que mejor se le da: investigación, tramas criminales y personajes femeninos fuertes pero no estereotipados.

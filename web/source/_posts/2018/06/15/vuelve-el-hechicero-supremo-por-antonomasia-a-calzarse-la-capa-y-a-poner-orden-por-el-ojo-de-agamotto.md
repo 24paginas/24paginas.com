@@ -23,6 +23,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "34067372_394740734361146_2226328445711810560_n_17944167226077628.jpg" "32431850_231788430886640_8136287806755438592_n_17881010305225656.jpg" "35166328_1833646320271791_7537043202134507520_n_17936437684122961.jpg" "35000751_241601566395635_7381115595569233920_n_17924635774180262.jpg" %}
+
 ¡Vuelve el Hechicero Supremo por antonomasia a calzarse la capa y a poner orden, por el Ojo de Agamotto!
 
 Si, lo se, de doctores va la semana, pero no os voy a engañar.. que perecita me ha dado este número.

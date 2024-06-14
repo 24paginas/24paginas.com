@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "59602580_172176413779342_1513855298978083462_n_17862729283383020.jpg" %}
+
 Pues de esto habrá que hablar en algún momento, ¿no?
 
 Este tomo de Invencible incluye hasta el 120 USA, y se publicó hace ya más de un año, quedando 24 grapas americanas sin aparecer aún.

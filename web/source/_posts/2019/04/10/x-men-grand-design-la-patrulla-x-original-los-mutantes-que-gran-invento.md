@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "54512193_833572846980948_1423958537505628588_n_17959052335257495.jpg" "56184608_156949342003481_5783629499616276663_n_18055448473056758.jpg" "55829768_868210180188921_8553416801442320012_n_17991405760207849.jpg" %}
+
 X-Men Grand Design / La Patrulla-X Original: Los mutantes, que gran invento.
 
 Cualquiera que haya leído o conozca mínimamente los X-Men sabe que son cuanto menos complicados. Y lo han sido durante toda su historia, incluso antes de empezar a multiplicarse y a interferir con la línea temporal.

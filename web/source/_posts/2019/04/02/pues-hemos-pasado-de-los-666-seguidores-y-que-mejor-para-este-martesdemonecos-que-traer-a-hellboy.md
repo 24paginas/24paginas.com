@@ -19,6 +19,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "53848840_267213557499489_904971439789879169_n_17931027142303935.jpg" %}
+
 Pues hemos pasado de los 666 seguidores y que mejor, para este [#martesdemoñecos](/tags/martesdemonecos), que traer a Hellboy.
 
 Pero no un [#hellboy](/tags/hellboy) cualquiera sino los llaveritos más cuquimolones que se han hecho de este personaje y su colega Abe.

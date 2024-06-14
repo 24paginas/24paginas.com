@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "30982408_235536427000027_1296230119299350528_n_17943084604035581.jpg" %}
+
 [#librerias24paginas](/tags/librerias24paginas)
 Librería TBO.
 Calle de la Merced 28, Pamplona.

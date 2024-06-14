@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "56300318_173067267014489_5775953728022992045_n_18035838859104786.jpg" "56466420_818278268517467_4957273937385125076_n_17973870946236173.jpg" %}
+
 Paper Girls [#20](/tags/20): Defecto 2000.
 
 No se me ocurre mejor momento que este domingo lluvioso tras un salto temporal para volver a reseñar la grapa de las repartidoras de periódicos.

@@ -27,6 +27,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "68693625_2401248243483682_8978444419070384780_n_17874428989459778.jpg" "69547155_2851532284860215_5402671634175711650_n_17846103085637820.jpg" %}
+
 [#reviewderevistas](/tags/reviewderevistas): COMICMANÍA [#4](/tags/4).
 
 Se acerca el final del mes y no os había traído la dosis bimestral de [#autobombo](/tags/autobombo): desde primeros de septiembre está disponible el tercer número de [@comicmania_es](https://instagram.com/comicmania_es) como revista independiente.

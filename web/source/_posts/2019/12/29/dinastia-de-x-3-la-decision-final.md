@@ -24,6 +24,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "76975391_828362270945989_2863215522698663493_n_17890189996443734.jpg" "79016200_223683248627118_7450323013853433693_n_17894054092438942.jpg" %}
+
 Dinastía de X [#3](/tags/3): La decisión final.
 
 Jonathan Hickman tiene un plan, un gran esquema para estas series, pero cuando lo deja un poco de lado y aborda una historia más clásica de la Patrulla-X, como en este caso, dan ganas de aplaudir. Personajes bien caracterizados, un Cíclope como el mejor líder de grupo, buena dinámica de grupo, acción a raudales y una misión casi imposible.

@@ -20,6 +20,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "407382023_665708739037428_1910764045155126160_n_17869499138979815.jpg" %}
+
 El 4 de Diciembre, los 4 meses de la Era del Apocalipsis.
 
 Con lo críticos que éramos con estas etapas y los crossovers y bla, bla, bla... al final con el paso de los años tengo esto muy arriba en el recuerdo, qué buen disfrute dio el dibujo un Joe Madureira [@joemadx](https://instagram.com/joemadx) que estaba a tope.

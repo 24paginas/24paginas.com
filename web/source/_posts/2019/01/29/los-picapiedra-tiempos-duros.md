@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "49858371_141208520226468_5940690553448264754_n_17906175658286758.jpg" "50076018_410412999694906_2279892026158386212_n_17864379985315438.jpg" %}
+
 Los Picapiedra: Tiempos duros.
 
 Tengo que reconocer que mi recuerdo de los Picapiedra está borroso, tanto el de la enésima reposición de la serie de animación de Hanna-Barbera como el de la película protagonizada por John Goodman. Así que, a priori, esta miniserie recopilada por [@eccediciones](https://instagram.com/eccediciones) no me atraía demasiado. Pero las buenas reseñas de algún medio americano y la insistente recomendación por parte de varios libreros de [@atomcomics](https://instagram.com/atomcomics) me despertó cierta curiosidad. Claro que esa curiosidad ha tenido que lidiar con la acumulación de comics en [#LaTorreDeLectura](/tags/latorredelectura).

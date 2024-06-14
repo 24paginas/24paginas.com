@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "24124765_1791413177537454_8777894073248776192_n_17908786135013862.jpg" "23967453_1305553392924222_1087692663756423168_n_17883025783155942.jpg" "23969882_131558874186271_8724670791272103936_n_17910420979055332.jpg" "224CBFA3501D01A5B8B8CCE2EF09B798_video_dashinit_17897015005102256.mp4" "23824990_293675331122139_6046560087223304192_n_17883960400181091.jpg" %}
+
 Saga es mi Juego de Tronos.
 
 Si la ficción de G. R. R. Martin no deja de ser un culebrón sobre intrigas familiares aderezado con dragones, aquí Brian K. Vaughan añade una ambientación de epopeya espacial deliciosamente ilustrada por Fiona Staples.

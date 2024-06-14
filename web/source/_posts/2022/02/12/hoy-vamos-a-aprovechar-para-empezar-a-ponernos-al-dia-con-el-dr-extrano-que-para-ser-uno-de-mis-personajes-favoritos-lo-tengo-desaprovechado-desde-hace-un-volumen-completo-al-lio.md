@@ -16,4 +16,6 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "273868190_643153456934319_7604937287527125210_n_17842897604734055.jpg" %}
+
 Hoy vamos a aprovechar para empezar a ponernos al día con el Dr. Extraño, que para ser uno de mis personajes favoritos, lo tengo desaprovechado desde hace un volumen completo. Al lío.

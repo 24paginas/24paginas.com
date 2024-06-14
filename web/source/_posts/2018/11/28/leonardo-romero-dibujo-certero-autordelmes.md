@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "5F4A0111924E3E534EE1A4344B73EEA2_video_dashinit_17979906460140526.mp4" %}
+
 Leonardo Romero: Dibujo certero [#autordelmes](/tags/autordelmes)
 
 Hace unos meses tuvimos por la sección a Kelly Thompson por su trabajo en "Kate Bishop: Ojo de Halcón", pero ya tocaba traer a su compañero de aventuras en esa colección. Y es que la frescura de la historia de nuestra arquera de cabecera no se quedaba solo en los guiones.

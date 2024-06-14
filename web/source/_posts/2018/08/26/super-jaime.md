@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "39960653_2176147822643573_6428507504472227840_n_17913254737200451.jpg" %}
+
 Súper Jaime
 
 Es verano y posiblemente muchos os encontréis con pequeñas criaturas que corren a vuestro alrededor. Primos, sobrinos o vuestros propios hijos. Un buen momento, porque nunca resulta demasiado pronto, para iniciarlos en las viñetas.

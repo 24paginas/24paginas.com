@@ -14,6 +14,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "100988684_161551115368429_8941691100128486411_n_18146107138007069.jpg" %}
+
 ✉️ Abrimos comunicaciones.
 
 ¿Hechas de menos escribir tus cartas al correo del lector y esperar meses a ser respondido (o no)? Queremos recuperar esa sensación y de paso ampliar una de las cabeceras que creamos para nuestro especial.

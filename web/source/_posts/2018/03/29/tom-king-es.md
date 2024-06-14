@@ -17,6 +17,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "rV9JkBFQIoAkMzLBdAEHCj1wo9cRgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17902067290173451.mp4" %}
+
 Tom King es.
 
 Tom King es, posiblemente, el guionista que más ruido está haciendo últimamente en el panorama súperheroico americano. Aunque a veces cueste distinguir si es un genio o nos está tomando el pelo.

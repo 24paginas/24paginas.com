@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "80754651_175128230230377_3740225542477601176_n_17877265513495266.jpg" %}
+
 Nothing ever ends...
 
 Volvemos de nuevo a [#Watchmen](/tags/watchmen), y a los memes que ha generado la serie, para hacer un repaso a (algunas) ediciones de la obra de Moore y Gibbons en nuestro país.

@@ -23,6 +23,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "45729331_162450541384290_3628436286807012632_n_17941720369217051.jpg" "46121632_988450441356368_8668841664190496499_n_17977985002180254.jpg" %}
+
 Revista SFX/COMICMANÍA: Últimas noticias.
 
 Si ayer [@neverbot](https://instagram.com/neverbot) iniciaba nuestro particular [#calendariodeadviento](/tags/calendariodeadviento) con el principio de la nueva publicación de El Hombre de Acero, a mi me toca continuarlo con un final, el de la edición española de SFX (que casualmente lleva en portada al último hijo de Chitón).

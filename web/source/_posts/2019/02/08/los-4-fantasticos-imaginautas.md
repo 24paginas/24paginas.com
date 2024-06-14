@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "50512986_598133447316008_4560317003216477534_n_18014773954113657.jpg" "50779262_2684279714922483_6556845545945502506_n_18016120672098731.jpg" %}
+
 Los 4 Fantásticos: Imaginautas.
 
 Hoy traemos algo que es un poco [#viernesvintage](/tags/viernesvintage) (ya hace 15 años de esto) y un poco [#viernesvariant](/tags/viernesvariant). Sentaos niños, voy a contaros una historia:

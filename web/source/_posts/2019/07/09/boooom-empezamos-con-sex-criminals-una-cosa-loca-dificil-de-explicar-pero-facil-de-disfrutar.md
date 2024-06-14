@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "65002369_122039772388584_3294513562109256984_n_18064170616119256.jpg" "65806820_2445957582128437_6788944414558322028_n_18053894686092221.jpg" "64221462_955689911429745_492136931182601241_n_17901520546341024.jpg" "65876653_2299958010255055_6701036090166317180_n_18054566455086954.jpg" "65457094_2302812033300742_7632914855212687814_n_17870509615415498.jpg" %}
+
 ¡Boooom! Empezamos con Sex Criminals, una cosa loca difícil de explicar pero fácil de disfrutar.
 
 Guiones de Matt Fraction (que a mí ya me tiene con el hola) y dibujines de Chip [@zdarsky](https://instagram.com/zdarsky) (que no podría encajar mejor como dibujante en ningún otro tebeo pasado o futuro), y... pues...

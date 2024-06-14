@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "70847724_1838416172970130_7302454192774624648_n_18126234547037962.jpg" "67619287_240227960273191_824573111726476616_n_18080587180190873.jpg" %}
+
 Historia del Universo Marvel [#1](/tags/1): A hombros de gigantes.
 
 Se han cumplido 80 años desde que naciera Marvel Comics, antes Timely, y aunque el Marvel Comics [#1000](/tags/1000) pretendía ser la celebración de dicho hito creo que el auténtico homenaje está aquí.

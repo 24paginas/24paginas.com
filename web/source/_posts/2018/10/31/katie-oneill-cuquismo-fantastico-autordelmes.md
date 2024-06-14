@@ -19,6 +19,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "AB49D14367544780CB622602C16A9EA9_video_dashinit_17964623908157043.mp4" %}
+
 Katie O’Neill: Cuquismo fantástico [#autordelmes](/tags/autordelmes)
 
 Se nos ha echado el tiempo encima, termina octubre y todavía no habíamos premiado a nuestro autor del mes. En esta ocasión nos rendimos al cuquismo y, aprovechando el [#leoautorasoct](/tags/leoautorasoct), tenemos de nuevo una [#autoradelmes](/tags/autoradelmes).

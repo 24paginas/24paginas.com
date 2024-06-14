@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "52800614_399716987506806_3125134689872767576_n_18001719724194204.jpg" "53421891_2358615127504906_5570865603458605091_n_17969400991224772.jpg" %}
+
 LA PATRULLA CONDENADA | Desde las cenizas: Piedra, papel, tijeras.
 
 Desde hace un tiempo me vengo imaginando un triunvirato de magos británicos formado por Alan Moore, Neil Gaiman y Grant Morrison. El primero es el mago que de primeras resulta hosco y parece malvado pero en el fondo es todo corazón, el segundo es el mago de apariencia amigable que esconde un pasado oscuro y bordea la locura, y el tercero...

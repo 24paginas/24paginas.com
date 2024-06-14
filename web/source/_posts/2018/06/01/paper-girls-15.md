@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "33878709_1988232718172569_1375932570440564736_n_17942159932073648.jpg" %}
+
 Paper Girls [#15](/tags/15)
 
 La brecha...

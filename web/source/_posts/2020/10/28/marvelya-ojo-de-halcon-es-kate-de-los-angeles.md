@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "123001386_390745858626334_8199789977621943856_n_18132495004123774.jpg" "122720943_2050819505765570_635032259761947381_n_18122486599144381.jpg" %}
+
 [#MarvelYA](/tags/marvelya) Ojo de Halcón: Es Kate de Los Ángeles.
 
 Ojo de Halcón mola. Lo hacía ya antes de que llegara Kate, claro. Clint era capaz de ser el líder de un grupo de superhéroes sin tener (casi nunca) superpoderes. Siendo algo más que el tipo de las flechas. También siendo un perdedor con suerte, o un ganador sin ella, en la etapa de Fraction y Aja. Esta serie marcó la relación entre Clint y Kate y el principio del nuevo camino de la última, la Ojo de Halcón que mola.

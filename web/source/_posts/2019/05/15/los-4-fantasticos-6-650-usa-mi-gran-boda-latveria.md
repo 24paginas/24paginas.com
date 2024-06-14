@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "60534486_303682630543466_227657274394631589_n_18057769039074900.jpg" "59371036_141154813711173_2822148135619970524_n_18066385708005173.jpg" "58961855_782258225493131_6119918131715629468_n_17864668771387277.jpg" %}
+
 Los 4 Fantásticos [#6](/tags/6) (650 USA): Mi Gran Boda Latveria.
 
 Aunque con el one-shot que nos coló [@paninicomicsespana](https://instagram.com/paninicomicsespana) como número 5 podiamos dar por casados a Ben y Alicia, aquí llega la boda de verdad.

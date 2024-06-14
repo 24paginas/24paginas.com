@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "53670403_135239950938745_3968881676260258061_n_17976703570237010.jpg" "54731796_377219456453486_5607707551601910941_n_18036924553105760.jpg" "54513181_1191587527664245_4444406407904692343_n_17943361306275571.jpg" "56264467_449474999124485_1360258726740006557_n_18033344395125048.jpg" %}
+
 American Vampire, de Scott Snyder, Rafael Albuquerque y a ratos Stephen King. Très bien.
 
 Los tebeos que más me sorprenden últimamente son aquellos de los que no esperaba nada. Y, sin esperar nada, la historia de los primeros vampiros creados en el nuevo mundo, durante los estertores del salvaje oeste, me reconcilia con un género necesitado de olvidarse de bichos que brillan bajo el sol.

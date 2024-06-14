@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "38681602_1794530093935839_6120161880917934080_n_17893593490245283.jpg" %}
+
 Marvel Collection: Hulka de Dan Slott.
 
 Este es otro volumen que tenía pendiente en [#LaTorreDeLectura](/tags/latorredelectura), y qué quería disfrutar como se merece. La “polémica” tuitera con la falta de comprensión sobre la Hulka de Byrne no ha hecho sino darme más ganas de leer esta etapa.

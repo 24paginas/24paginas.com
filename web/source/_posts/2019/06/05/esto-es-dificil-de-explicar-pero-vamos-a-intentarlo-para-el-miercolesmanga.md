@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "61495792_2220837074704316_8183110028377269544_n_17883699778357349.jpg" "42890829_100499984537813_3026147417427193399_n_17842461082479402.jpg" "61120392_1156321367873954_5389246108346370042_n_17842406698481490.jpg" "61183506_205088637130078_8353503258451364646_n_17970451291268621.jpg" "60845042_2335263143427877_4619295402822131076_n_17895320245336262.jpg" %}
+
 Esto es difícil de explicar, pero vamos a intentarlo para el [#miercolesmanga](/tags/miercolesmanga).
 
 Ciencia ficción apocalíptica, un vejete en calzoncillos venido del futuro, un estudiante de instituto y una actriz porno gigante. Pues ya está. No era tan difícil. Ya me tenías con el hola.

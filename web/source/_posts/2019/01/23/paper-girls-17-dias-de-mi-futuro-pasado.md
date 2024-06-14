@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "49907102_110219146753170_7112318554265655476_n_18002501419085686.jpg" "49802191_235715610686756_2373016836092222463_n_17916896554276966.jpg" %}
+
 Paper Girls [#17](/tags/17): Días de mi futuro pasado.
 
 Ha vuelto a suceder, ha salido un nuevo número de Paper Girls y aún no había reseñado el anterior. Entre navidades, propósitos de Año Nuevo e infografías lo he ido dejando pasar.

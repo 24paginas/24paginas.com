@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "316540345_1187376375233655_4756109926104130172_n_18118908961291472.jpg" %}
+
 ¡Se me había saltado! Con este tomo ya tengo (creo) todas las apariciones del [#SuperGrupo](/tags/supergrupo).
 
 Los dos álbumes originales (yo los tengo en edición de [#Bruguera](/tags/bruguera) y recopiladas en Clásicos del Humor), los tres que ha publicado efepé principalmente con otros autores (aunque alguna página hay de Jan) en editoriales y sellos más pequeños, y los cinco en los que están los dos creadores originales ([#Efepé](/tags/efepe) y [#Jan](/tags/jan)), incluyendo este La Guerra de las Latas.

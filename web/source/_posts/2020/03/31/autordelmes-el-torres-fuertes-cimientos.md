@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "91201450_157562518809038_5176921802278967041_n_18097195864130143.jpg" "91258341_2802545409865518_416411702634785643_n_17854659484894215.jpg" %}
+
 [#autordelmes](/tags/autordelmes): El Torres, fuertes cimientos.
 
 Seguimos en estos días raros de confinamiento y, aunque estemos más centrados en otros asuntos, no queríamos olvidar nuestra habitual sección para nominar al Autor del mes.

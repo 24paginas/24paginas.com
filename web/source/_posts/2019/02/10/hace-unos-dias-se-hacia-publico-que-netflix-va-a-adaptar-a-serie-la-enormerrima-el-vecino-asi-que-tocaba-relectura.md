@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "50898620_1980329555607885_1773782103839157002_n_18032411470040304.jpg" "51126638_388171975293629_3780489538650977234_n_18015879157104964.jpg" "51658551_756721508060141_2800236183353152406_n_18003220417131176.jpg" "51778014_2325321914178492_2643115579677173149_n_17970314098206805.jpg" %}
+
 Hace unos días se hacía público que Netflix va a adaptar a serie la enormérrima “El Vecino”, así que tocaba relectura.
 
 Tenía mis reticencias sobre una adaptación española de un tebeo español (en fin, soy así, qué os voy a contar), hasta que he visto que los implicados son el inefable [@nacho_vigalondo](https://instagram.com/nacho_vigalondo) con el equipo de guionistas de “El fin de la comedia” y ya me he quedado más tranquilo.

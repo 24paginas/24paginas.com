@@ -19,6 +19,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "79641334_2553523194703452_8609615623686050314_n_18015860290251596.jpg" %}
+
 Dinastía de X [#2](/tags/2): Más Moira que nunca.
 
 No voy a decir nada más sobre la historia de este cómic. Si os interesan o os han interesado los X-Men tenéis que leerlo. Con calma y quizás un par de veces. Porque, aunque sabíamos que Hickman venía a poner todo esto patas arriba, pocos podían esperar que llegase a esto.

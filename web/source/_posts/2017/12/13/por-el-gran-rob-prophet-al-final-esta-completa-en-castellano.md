@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "25006296_566079393733217_2509186389006876672_n_17852972425221879.jpg" %}
+
 Por el gran Rob! Prophet al final está completa en castellano.
 
 Aprovechando la tardía edición del último tomo de Prophet por parte de Aleta Ediciones (que no están en instagram, ejem) toca una relectura de la etapa completa.

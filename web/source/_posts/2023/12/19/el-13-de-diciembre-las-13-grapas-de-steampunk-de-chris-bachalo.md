@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "411476323_675289441412691_2726294837554000707_n_17912521670855791.jpg" %}
+
 El 13 de Diciembre, las 13 grapas de SteamPunk, de Chris Bachalo.
 
 Despues de algunos problemillas con las publicaciones programadas, retomamos nuestra programación habitual.

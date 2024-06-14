@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "273476822_137089102126813_2560889778917258803_n_18278835190014082.jpg" "273576688_148582637547161_709343512297460165_n_17935980058840597.jpg" "273503023_1737971749741814_7502991781636583957_n_18213449584142177.jpg" "273533648_995970174366209_3012585430945071159_n_17988421903439922.jpg" %}
+
 Sólo me ha hecho falta intentarlo tres veces para conseguir la edición completa de The Pulse, de Bendis (cuando aún era prometedor) y Bagley y Gaydos principalmente a los lápices.
 
 Es una colección curiosa, porque suponía un cierto paso desde las afueras de Marvel (la colección original de Alias) hacia integrar un poco más a Jessica Jones con el resto del universo Marvel más tradicional. Y, por tanto, acercar también a Bendis. Además, el primer número de The Pulse coincidía con el mes en que Marvel pasaba de Planeta/forum a [@paninicomicsespana](https://instagram.com/paninicomicsespana), donde siguen hoy en día. 1 de enero de 2005. Parece que fue anteayer, pero ya peinamos canas.

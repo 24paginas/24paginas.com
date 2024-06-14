@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "31665302_171445066904173_6072557665999912960_n_17913391669165230.jpg" "31973784_737933119734719_286541049550077952_n_17943427888001503.jpg" "30926933_863494877179451_6764424593273782272_n_17931457144099834.jpg" %}
+
 ¡Tenemos SORTEO!
 
 Aprovechando la salida del nuevo número de SFX/COMICMANÍA en el que nuestro [@uncientovolando](https://instagram.com/uncientovolando) escribe la pieza de portada sobre la historia de los Vengadores, hemos decidido hacer un humilde sorteo.

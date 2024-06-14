@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "33714234_871603253043363_4113501002143891456_n_17951983636029825.jpg" %}
+
 DOCTOR WHO: Revoluciones de terror.
 
 ¿Qué puedo decir? Soy tan fan de Tennant que incluso podía oír su voz mientras leía el cómic. No entiendo como en este mismo grupo hay personas que no han visto su etapa en Doctor Who...

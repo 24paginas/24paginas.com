@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "33473394_605111809863447_659834399755337728_n_17922964264153055.jpg" "33019993_482276322190869_1740401145832013824_n_17950249243063018.jpg" "33155880_206307576653439_7717251671868309504_n_17922953830179821.jpg" %}
+
 ¡Vuelven los dinosaurios!
 
 Todos los que pertenecemos a la generación dispersa nacida en los 80 (ampliable año arriba, año abajo) caímos en su momento en la Dinomanía. El mundo se llenó de seres del jusrásico (o bueno, del mesozoico...) y desde entonces no nos han dejado. O no los hemos dejado nosotros, porque los dinosaurios molan.

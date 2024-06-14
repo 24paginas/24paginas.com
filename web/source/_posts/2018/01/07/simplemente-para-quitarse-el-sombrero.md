@@ -22,6 +22,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "26156995_895724923926069_6568861233204690944_n_17843854267236251.jpg" "26186301_145233672844993_7126603401340649472_n_17900055118083842.jpg" "26155904_1499088346857005_6884594599940063232_n_17890060261181463.jpg" "26071999_187775201962522_6617708566276997120_n_17917378711021564.jpg" "26182528_1575625909211416_8293107761495932928_n_17910040810075062.jpg" %}
+
 Simplemente para quitarse el sombrero.
 
 Y es que [@gerardway](https://instagram.com/gerardway) y [@gabriel_ba](https://instagram.com/gabriel_ba) con las portadas de [@jamesjeanart](https://instagram.com/jamesjeanart) se marcaron un señor tebeo hace diez añitos ya (si, diez.. vamos a morir todos), como la copa de un pino.

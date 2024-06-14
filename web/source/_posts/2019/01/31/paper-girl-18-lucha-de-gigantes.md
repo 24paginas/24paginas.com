@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "50337860_797931113873975_1208050164024316539_n_17935960267257509.jpg" "50545401_287944651882882_2274597823826128297_n_18012939079110654.jpg" %}
+
 Paper Girl [#18](/tags/18): Lucha de gigantes.
 
 En esta casa es auténtica devoción la que se tiene por Brian K. Vaughan. Pero leer en grapa, mes a mes, alguna de sus series puede resultar a veces un suplicio. .

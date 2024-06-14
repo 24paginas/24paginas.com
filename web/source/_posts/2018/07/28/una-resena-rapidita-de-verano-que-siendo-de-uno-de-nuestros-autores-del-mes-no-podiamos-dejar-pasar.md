@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "37604828_192217234974327_7063944660330217472_n_17963498014027889.jpg" "37706102_2130819497174288_1384860785246732288_n_17949583396104276.jpg" "37126889_299525210620803_7754161701687132160_n_17939762857141387.jpg" "37656142_1997456010272994_5810088830107123712_n_17904454879204813.jpg" "36922636_2223420937888009_6428420136247492608_n_17932504720161283.jpg" "37359312_261178011347041_580563588532404224_n_17950591450113323.jpg" %}
+
 Una reseña rapidita de verano que, siendo de uno de nuestros autores del mes, no podíamos dejar pasar.
 
 Ostias a punta pala, violencia, chistes gamberros, un cura, dragones, mujeres indestructibles, espadas mágicas y un dibujo espectacular. Todo eso y más es Skybourne de [@frankchoartist](https://instagram.com/frankchoartist). Claramente de Frank Cho. Sólo podría ser más de Frank Cho si tuviese gorilas y/o dinosaurios. Y a ver.. que los dragones prácticamente son dinosaurios con alas.

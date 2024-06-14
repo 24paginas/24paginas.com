@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "54513726_431738344253570_5321877910690431171_n_18038029333096018.jpg" "56915025_438394396930676_9220364082376909165_n_17960954017248003.jpg" %}
+
 El Quinto Beatle: No hay quinto malo.
 La fama de los Beatles se extiende por el mundo y permanece a través de diferentes generaciones. en tan solo unos años consiguieron alcanzar cuotas de éxito que ni su separación ni la muerte de alguno de sus miembros ha logrado debilitar.
 

@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "50953000_1173525649491292_1565193025348667295_n_18034006393049145.jpg" "50967387_310929216278244_114325659314101899_n_18007219804186756.jpg" "50929707_338893733385460_8289945236901627149_n_18034489990057108.jpg" %}
+
 [#AmorEnViñetas](/tags/amorenvinetas): Croqueta y Empanadilla.
 
 Que mejor para continuar con nuestro particular homenaje a esto de [#SanValentin](/tags/sanvalentin) que la obra más conocida de [@ana_oncina](https://instagram.com/ana_oncina). Porque si esto no es amor, del bueno, del de verdad... yo ya no sé.

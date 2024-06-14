@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "316290392_1187635201874439_6712901463813971299_n_17966027519012646.jpg" %}
+
 ¡Empieza El Día del Juicio! Esto arranca y promete cambios interesantes para que todo siga igual, o no.
 
 Contras: si estás desconectado de Patrulla-X, Vengadores o Eternos, no te enteras un carajo de qué hacen los mutantes en Marte siendo inmortales, por qué los Vengadores están en una montaña que es un celestial, y los Eternos... bueno, nunca ha habido quien se entere con ellos, eso no es novedad.

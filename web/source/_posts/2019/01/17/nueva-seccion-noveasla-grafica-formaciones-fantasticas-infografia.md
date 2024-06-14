@@ -32,6 +32,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "47693045_339056756934959_3576381490610121962_n_18003984550123170.jpg" "49678879_230706787859341_1371955774680801069_n_17930625811258337.jpg" "47694083_529487700904568_119682404671247482_n_17988738037163730.jpg" "49735941_433744120697255_4274375153433534980_n_17930613730262578.jpg" "50247609_336770183589165_9069952804170555298_n_17923741738270201.jpg" %}
+
 Nueva sección - NOVEASLA GRÁFICA: Formaciones Fantásticas [#infografia](/tags/infografia)
 
 Además de reseñar lo que va cayendo en nuestras manos, queremos ofreceros nuevos contenidos. Uno de ellos es esta sección de infografía en las que os contamos de forma visual algo relacionado con los cómics.

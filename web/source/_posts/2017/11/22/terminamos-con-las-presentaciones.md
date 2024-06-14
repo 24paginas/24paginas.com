@@ -13,6 +13,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "20687064_164910430774640_5288984794590347264_n_17879858191173088.jpg" %}
+
 Terminamos con las presentaciones.
 
 [@uncientovolando](https://instagram.com/uncientovolando) se perdió por el espacio-tiempo a principios de año y volvió sabiendo algunas cosas y habiendo olvidado otras.

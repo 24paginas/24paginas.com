@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "88279145_103061367918001_6706057483686779298_n_17891475415473764.jpg" %}
+
 [#PropuestaNoPedida](/tags/propuestanopedida): Sota de Espadas.
 
 Este pasado fin de semana, durante el C2E2, Marvel anunció su próximo gran evento mutante: [#XofSwords](/tags/xofswords). Un crossover donde la Patrulla-X entra en contacto con 10 espadas legendarias que les serán necesarias en la lucha por el futuro de Krakoa.

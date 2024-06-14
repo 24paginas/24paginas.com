@@ -20,6 +20,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "69369981_931041053927705_7693750541038199894_n_17846086048654031.jpg" "70149600_687480048405844_3138784080378573781_n_18029804329219346.jpg" "71015356_388642908718523_1331152061425832743_n_17866866202480600.jpg" "69827253_143776600178437_5793991261865330370_n_17851185031591285.jpg" "69783065_180923742944404_2618152950445679956_n_17879133874442176.jpg" %}
+
 Death or Glory volumen 1, que siendo Lunes pues va a ser más Death que Glory, pero había que intentarlo.
 
 Le tenía muchas ganas a este cómic. [@rickremender](https://instagram.com/rickremender) suele crear historias muy de mi gusto, y si encima va de la mano de un arte como el de [@bengalgram](https://instagram.com/bengalgram) es inevitable tener las expectativas altas al empezar a leer este tomo. Pero esta vez no pudo ser. La historia está bien contada, tiene buen ritmo y desde luego el arte no decepciona, pero no consigo "enganchar" con ella. Y no termino de entender por qué, pero vamos a intentarlo.

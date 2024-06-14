@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "53344763_329245641046688_8038027363264684505_n_18033268495074431.jpg" %}
+
 Detective Comics | La Ascensión de los Hombres Murciélago: Bat-Familia y otros animales.
 
 Tengo que reconocer que leo muy poquito de DC en general, y que abandoné Batman tras unos cuantos números de la etapa Morrison. Así que me daba cierto miedo entrar de nuevo en la Bat-Familia, pero las recomendaciones de gente como [@bamf_comic_freaks](https://instagram.com/bamf_comic_freaks) me picaron la curiosidad.

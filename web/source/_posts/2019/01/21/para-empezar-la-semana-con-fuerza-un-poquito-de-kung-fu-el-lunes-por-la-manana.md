@@ -22,6 +22,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "49327557_114120896331895_2478467182236429829_n_17961780424210530.jpg" "49783505_2130508287261080_6350077625653947884_n_18024613192013121.jpg" "49690950_2240453509560551_7761079296122689013_n_17925600055264895.jpg" "46597954_613716329098488_6503077187545946974_n_18028245484038210.jpg" "50030101_112121319874504_2487331705011725095_n_17996030818193576.jpg" "50262137_140548743620797_7029589786614932651_n_17997962416191518.jpg" %}
+
 Para empezar la semana con fuerza, un poquito de kung-fu el lunes por la mañana.
 
 Y que mejor ejemplo que el maestro del kung-fu más molón que tiene Marvel (si nos olvidamos de su adaptación a serie de televisión), y que no es otro de el señor Daniel Rand, también conocido como Puño de Hierro.

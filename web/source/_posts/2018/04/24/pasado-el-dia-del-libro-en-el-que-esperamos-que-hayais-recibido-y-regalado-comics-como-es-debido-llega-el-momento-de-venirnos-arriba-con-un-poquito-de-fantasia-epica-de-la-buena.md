@@ -23,6 +23,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "30589955_162274411121040_4359129378643247104_n_17940726637031226.jpg" "30592179_649003325439760_8209876938886479872_n_17928316579100010.jpg" "30953881_381279355704160_727194261644115968_n_17940557647014182.jpg" "30920557_339517649904515_6050884294656655360_n_17911527664155881.jpg" "30591746_585959241770659_3640485997453508608_n_17941863052042019.jpg" "30830468_223904051717516_5760337500908290048_n_17939890786011414.jpg" "30603002_1611065629011451_7855488295256457216_n_17868294169226216.jpg" "30592130_196644234450169_205212751423864832_n_17866153174241005.jpg" "30593611_180424406108201_7586812608850690048_n_17850439324253970.jpg" %}
+
 Pasado el día del libro en el que esperamos que hayáis recibido ( y regalado ) cómics como es debido, llega el momento de venirnos arriba con un poquito de fantasía épica de la buena.
 
 ¿Y que hay más épico que una historia ambientada en las leyendas y mitología nórdica? Pues que esté protagonizada por un clan de elfos guerreros a golpe de espada. ¿Y si encima es [@victorsantoscomics](https://instagram.com/victorsantoscomics) el autor? Pues eso, epicidad y alucinancia por los cuatro costados.

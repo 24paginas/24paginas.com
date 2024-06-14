@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "123138412_2713577335548180_8866787162546264656_n_17852810639320141.jpg" "123194004_356467595688384_3982787690570298134_n_17971623133330696.jpg" %}
+
 [#autordelmes](/tags/autordelmes) Daniel Warren Johnson: Rompiendo la barrera del sonido.
 
 Prácticamente desconocido por nuestros lares hasta hace algo más de un año, Daniel Wareen Johnson ha irrumpido en la actualidad de los tebeos como el trueno. Dibujo expresivo, suciedad cuidada y monstruos, muchos monstruos. Se ha abierto paso a guitarra os con obras como 'Extremity', 'Murder Falcon' o 'Wonder Woman: Tierra muerta' (estas dos ultimas reseñadas por aquí recientemente).

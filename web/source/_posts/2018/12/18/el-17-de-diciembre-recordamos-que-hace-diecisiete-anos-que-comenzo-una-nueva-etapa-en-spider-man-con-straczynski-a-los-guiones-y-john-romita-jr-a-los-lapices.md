@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "47080206_317302689119912_1876957629956279312_n_18013029466057109.jpg" %}
+
 El 17 de diciembre, recordamos que hace diecisiete años que comenzó una nueva etapa en Spider-Man con Straczynski a los guiones y John Romita Jr a los lápices.
 
 Un personaje que venía prácticamente de la más anodina mediocridad, en pocos años levantó el vuelo de nuevo como pocas veces.

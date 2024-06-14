@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "32144318_185261952297081_5416277523480707072_n_17947579147011575.jpg" %}
+
 Promethea [#1y](/tags/1y) [#2](/tags/2)
 
 Alan Moore es un mago. Uno de los de verdad. Capaz de invocar cualquier ente tan solo con darle nombre. Y de esa magia nace Promethea.

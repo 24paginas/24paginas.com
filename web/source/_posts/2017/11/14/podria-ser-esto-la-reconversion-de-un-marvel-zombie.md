@@ -25,6 +25,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "23507884_829146480579333_114595212130516992_n_17893622587121005.jpg" %}
+
 ¿Podría ser esto la reconversión de un Marvel zombie?
 
 Toda la vida leyendo tebeos de Marvel, que a mí de los mutantes me gustan hasta los andares, y desde Renacimiento me ha dado por subirme al carro de las publicaciones de DC (siempre en grapa).

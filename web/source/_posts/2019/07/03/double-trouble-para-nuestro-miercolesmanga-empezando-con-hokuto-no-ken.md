@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "65803045_2345456822441412_7074898928272213700_n_17912954194312603.jpg" "64721980_650608248788986_3087847003517965101_n_18075838882064528.jpg" "65194658_1948285621939658_8698746994592915268_n_17878214497384862.jpg" "65264212_121731355746900_1453524171700685835_n_17866080346425013.jpg" %}
+
 Double trouble para nuestro [#miercolesmanga](/tags/miercolesmanga), empezando con Hokuto No Ken.
 
 La semana pasada todos en la redacción teníamos varios compromisos y no pudimos cumplir ni con nuestro [#miercolesmanga](/tags/miercolesmanga) ni con el [#viernesvintage](/tags/viernesvintage), y eso que este tebeo cumple de sobras con ambas categorías. Para compensar, hoy traemos turra por duplicado.

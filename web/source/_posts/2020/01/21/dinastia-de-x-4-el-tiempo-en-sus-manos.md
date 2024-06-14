@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "82885683_129089211554914_8095377221159417598_n_17877329338525885.jpg" "80829588_1150583005318180_9085990458968393300_n_17852578792809140.jpg" %}
+
 Dinastía de X [#4](/tags/4): El tiempo en sus manos.
 
 Como a la propia Patrulla-X, se nos echa el tiempo encima. Esta misma semana tendremos el penúltimo número de la miniserie y todavía no habíamos revisado este.

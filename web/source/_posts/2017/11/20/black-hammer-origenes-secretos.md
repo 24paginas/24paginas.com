@@ -12,6 +12,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "23735333_1485860414831664_7047722160831332352_n_17908595668015023.jpg" %}
+
 Black Hammer: Orígenes secretos
 
 El cómic de [@jefflemire](https://instagram.com/jefflemire) y Dean Ormston explora el género súper-heroico a partir de un grupo atrapado en un pueblo típicamente americano.

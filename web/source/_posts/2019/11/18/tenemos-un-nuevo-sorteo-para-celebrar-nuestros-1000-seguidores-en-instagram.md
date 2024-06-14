@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "72699403_2456063364606746_7398834384497089354_n_17882610019457278.jpg" %}
+
 ¡Tenemos un nuevo SORTEO para celebrar nuestros 1000 seguidores en INSTAGRAM! 🎁
 
 Queremos agradeceros vuestro apoyo y hemos preparado, junto a [@omega_center_estrella](https://instagram.com/omega_center_estrella), este estupendo pack que incluye: - Dinastía de X [#1](/tags/1) firmado por el mismísimo [@pepelarraz](https://instagram.com/pepelarraz).

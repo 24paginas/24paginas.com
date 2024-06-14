@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "52782527_602512230221719_3601730212107353123_n_17926026355301208.jpg" %}
+
 Los Enciclopedistas: Se ha ilustrado un crimen.
 
 A finales del año pasado [@astiberri_ediciones](https://instagram.com/astiberri_ediciones) lanzó este cómic de [@mimesacojea](https://instagram.com/mimesacojea) y [@alexorbef](https://instagram.com/alexorbef) en el que se mezcla Historia e intriga. La historia nos sitúa en el París de mediados del S. XVIII, décadas antes de la Revolución Francesa, pero con un ambiente cada vez más convulso. Y usa la creación de "L’Encyclopédie" como excusa para contar una historia de conspiraciones, crímenes y, sobretodo, de la lucha de la razón contra la superstición.

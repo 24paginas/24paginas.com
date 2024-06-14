@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "62262155_192885644986985_4749955900797158831_n_18076478500048330.jpg" "61874489_195655278024744_1197975585330509925_n_17973089548271611.jpg" "62243796_174632916878439_4827335725856996617_n_18007992412222770.jpg" "64950763_2536659256561291_1678669708047754826_n_17873607424385861.jpg" %}
+
 Mientras esperamos un nueva tirada del agotadísimo Conan Rey de Truman y Giorello de [@planetadcomic](https://instagram.com/planetadcomic), tenemos el clásico.
 
 La colección original de Conan Rey, de Thomas y Buscema entre otros, que saldrá esperemos que completa en ¿quizá? unos cuatros tomarracos como este.

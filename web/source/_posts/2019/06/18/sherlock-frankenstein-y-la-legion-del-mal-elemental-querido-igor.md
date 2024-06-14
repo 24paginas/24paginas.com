@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "64500160_423280011561374_1790553582078708600_n_17874406657387242.jpg" "62375185_113170089745207_5732352194675806969_n_18076969036019998.jpg" %}
+
 Sherlock Frankenstein y la Legión del Mal: Elemental, querido Igor.
 
 Este spin-off es una lectura ligerita dentro del universo Black Hammer. La investigación de Lucy, hija de Martillo Negro, le lleva a conocer más sobre su némesis en un intento de saber que pasó con los héroes de su mundo.

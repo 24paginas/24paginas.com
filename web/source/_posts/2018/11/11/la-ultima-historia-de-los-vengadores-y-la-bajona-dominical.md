@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "44607123_261433091227070_5304131304952687636_n_17972481067132965.jpg" %}
+
 La Última Historia de los Vengadores y la bajona dominical.
 
 Ay, los 90. Con sus falsos milagros económicos y sus futuros distópicos... Estos posiblemente nos acompañaban ya de antes, pero ya no nos han abandonado desde entonces.

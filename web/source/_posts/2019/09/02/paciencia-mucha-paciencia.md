@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "69867009_513986396035385_1768422791360032541_n_18068374651186110.jpg" "67824758_155561855509465_8464130931537087552_n_17868733765455097.jpg" %}
+
 Paciencia, mucha paciencia.
 
 Primer lunes de septiembre, la mayoría de nosotros hemos terminado las vacaciones y vuelven los actos rutinarios de la vida diaria. Un estado de ánimo (o desánimo) ideal para acercarse a la obra de Daniel Clowes.

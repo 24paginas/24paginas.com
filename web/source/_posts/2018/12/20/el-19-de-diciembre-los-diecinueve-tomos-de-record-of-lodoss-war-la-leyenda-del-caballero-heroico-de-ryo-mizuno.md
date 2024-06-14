@@ -25,6 +25,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "46604367_378881706253180_2787352612383495778_n_18013142557021119.jpg" "46706197_1023326261186726_1015459226229019093_n_17983892791133764.jpg" "46626585_141522293504963_2971965880598681905_n_18012524620053716.jpg" %}
+
 El 19 de diciembre, los diecinueve tomos de Record of Lodoss War: La Leyenda del Caballero Heroico, de Ryo Mizuno.
 
 Intentar entender todo el entramado multimedia de Lodoss es una locura. Empezaron como una serie de novelas de Ryo Mizuno para una ambientación para juegos de rol japoneses, y fue creciendo hacia el manga (junto a distintos dibujantes, aquí Masato Natsumoto), el anime y los videojuegos. Y luego unos spin-offs llamados Rune Soldier ambientados en otro continente, y Legend of Crystania, otro tanto de lo mismo, y todos ellos acabaron siendo la ambientación para el juego de rol japonés Sword World, y... enough internet for today.

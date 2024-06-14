@@ -8,6 +8,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAMp64UeuFHxgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_18007559593092766.mp4" %}
+
 ¡GRACIAS!
 
 Poco a poco cada día somos más y nos anima muchísimo a seguir esforzándonos para traeros contenido interesante y original de nuestro puño y letra.

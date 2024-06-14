@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "84682160_2813574575356454_3525063144536587336_n_17934781996346555.jpg" "84530292_125411058848823_7534750461020457244_n_17864388937667262.jpg" "84626819_1285427271653024_6797183880577567626_n_18074908525194078.jpg" "84966389_194915305195587_8234033693565602582_n_17871828970590534.jpg" %}
+
 Head Looper 2: La Torre Carmesí, o como un poquito menos de todo pueden tirar por la borda todo el empuje de una primera parte memorable.
 
 Y ojo que hablamos tanto del fondo como la forma. Si ya de por sí echamos en falta solapas en el primer tomo, en este no sólo sigue sin ellas sino que además la portada sea en brillo no ayuda nada. Que no es un gran defecto, pero son dos detallitos que le vendrían pero que muy bien a esta serie para entrar por los ojos.

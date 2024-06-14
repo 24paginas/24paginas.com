@@ -30,6 +30,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "46481DC37C11B736BA1609ECFA7BDCBB_video_dashinit_17916525289022959.mp4" "25006330_143238349712655_2148945246845665280_n_17856470254211631.jpg" "25017268_373678893044397_3124825863049183232_n_17875498282195646.jpg" "25011700_182883592448398_3568312224550223872_n_17855970694220300.jpg" "25022456_536915940000011_2898220184466620416_n_17910858220068483.jpg" "25037741_363389530793073_6879650182049300480_n_17892186289136573.jpg" %}
+
 Como autorazo del mes de diciembre, nos hemos puesto de acuerdo en [@24paginas](https://instagram.com/24paginas) para celebrar el arte de Stuart Immonen.
 
 Aprovechando la publicación en castellano de su Empress con [@mrmarkmillar](https://instagram.com/mrmarkmillar) y su llegada a un Spiderman al que ya falta le hacía la presencia de un hot-artist para remover la franquicia, repasamos algunos de los momentos álgidos de la carrera de este dibujante canadiense.

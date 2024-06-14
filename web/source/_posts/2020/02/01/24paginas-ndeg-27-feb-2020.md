@@ -14,4 +14,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "83799117_185530102540348_4788123936466459972_n_17853161704819494.jpg" %}
+
 [#24paginas](/tags/24paginas) N° 27 - FEB. 2020.

@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "408128524_669328185342150_8916182333548600431_n_18244929349212457.jpg" %}
+
 El 10 de Diciembre, los 10 tomos de Gigant, de Hiroya Oku.
 
 Jejeje... voy a copiar el primer párrafo que escribí por aquí hace unos años, en 2019, cuando leí el primer tomo:

@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "66421291_779329549131677_1124117843388279371_n_17842812838543499.jpg" "66498632_1260493790797156_5191540911836683217_n_17864399953441432.jpg" %}
+
 [#martesdemoñecos](/tags/martesdemonecos): Hulka más en la familia.
 
 Después de añadir a Gata Infernal a la estantería, su [#BFF](/tags/bff) Jennifer Walters ha llegado para hacerle compañía.

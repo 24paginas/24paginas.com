@@ -21,6 +21,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "BgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17920533985005391.mp4" %}
+
 Aprovechando la reedición (por fin) de Thanos Quest en el tomo El Renacimiento de Thanos, por parte de [#paninicomics](/tags/paninicomics), y ya que estamos de mes [#flashback](/tags/flashback), hemos decidido que el autor de este primer mes del año sea ni más ni menos que el grandísimo Jim Starlin.
 
 Y es que el señor Starlin y su personaje fetiche, Thanos de Titán, están ahora más de moda que nunca gracias a las películas de Marvel.

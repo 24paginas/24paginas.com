@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "84154541_635173250592533_7751263586481393782_n_18130426141029956.jpg" "83885862_643759533067394_487002799260531824_n_18103679986113998.jpg" "83768352_2326814357616661_6097432708735184680_n_17852960905847478.jpg" "85209751_1121381238210894_5709056891593674655_n_18130930861032021.jpg" %}
+
 [#NOVEASLAgrafica](/tags/noveaslagrafica): Crisis en crisis infinitas.
 
 Mundos vivirán, mundos morirán y el universo DC nunca volverá a ser el mismo. O sí. Nunca se sabe. El caso es que ayer mismo saltaba la noticia de la destitución de Dan Didio como editor ejecutivo de DC comics y nos pilló con esta infografía entre manos.

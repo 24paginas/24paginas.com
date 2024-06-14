@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "AF4280E6237B617B3546E17E1AB6BE9F_video_dashinit_17911561651157153.mp4" %}
+
 Albert Monteys: El candidato del consenso.
 
 Cada número, la elección del [#artistadelmes](/tags/artistadelmes) resulta en un pequeño debate entre los que formamos esta cuenta. ¿Está de actualidad? ¿Aquí o en Estados Unidos? ¿Artista o guionista? ¿Nos estamos pasando de peloteo?

@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "91501047_900092870439325_2256338188597572435_n_17851164763949710.jpg" "91292274_2828123270608053_445614850859663133_n_17856184216860989.jpg" "91235065_178466976946751_7905118732570770822_n_18113562814097077.jpg" %}
+
 Hulka de Dan Slott, parte 3: Prados más verdes.
 
 Puede que este cierre de etapa sea la parte más floja de la colección guión izada por Slott, en parte por el cambio de dibujantes y la pérdida de Bobillo y su personalidad a los lápices, pero resulta muy divertido (aunque algunas gracias han envejecido regular) y el giro final resulta bastante interesante, recogiendo alguno de los chistes recurrentes de la serie.

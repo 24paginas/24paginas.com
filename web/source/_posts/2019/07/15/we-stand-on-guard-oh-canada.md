@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "66854721_501762977238194_6803198584728977244_n_17856545131467796.jpg" %}
+
 WE STAND ON GUARD: Oh Canada.
 
 ¡Es la guerra! O lo será. Dentro de 100 años, un acto terrorista en la Casa Blanca atribuido a fuerzas canadienses desata una guerra entre los dos países.

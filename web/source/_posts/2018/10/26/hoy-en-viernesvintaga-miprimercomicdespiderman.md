@@ -23,6 +23,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "42078537_2195041137434373_2982462588178978564_n_17988219589071552.jpg" "43486887_798004453924724_6804874089002320297_n_17984176612072823.jpg" "43913175_303290953839131_7321017466926376304_n_17862195937290012.jpg" %}
+
 Hoy, en [#viernesvintaga](/tags/viernesvintaga): [#MiPrimerComicDeSpiderman](/tags/miprimercomicdespiderman)...
 
 Juraría que ya había publicado esto, pero no lo encuentro por ninguna parte. Me gustaría decir que mi primer cómic del trepamuros fue alguno mítico, alguna reedición de Ditko, incluso (por época) el de McFarlane. Pero no.

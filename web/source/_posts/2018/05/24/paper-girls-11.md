@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "31296141_368043170382596_185217453867925504_n_17932568797116201.jpg" %}
+
 Paper Girls [#11](/tags/11)
 
 La muchacha salvaje

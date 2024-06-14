@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "105542175_816668985403584_817319807714772718_n_17860091554965179.jpg" "105557072_2843395025769471_2912976374865570672_n_18148890742054833.jpg" %}
+
 Black Magick 2: la hora bruja.
 
 La serie negra, y de magia negra, de Rucka y Nicola Scott evoluciona para profundizar en las familias mágicas y la trama en este segundo volumen. .

@@ -8,4 +8,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "26340537_646842365706321_3138645001928441856_n_17877795133195115.jpg" %}
+
 MES

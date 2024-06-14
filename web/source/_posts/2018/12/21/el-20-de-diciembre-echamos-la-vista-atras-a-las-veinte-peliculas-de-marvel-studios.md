@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "46129490_306457016640531_3629675383356456726_n_17994236311125068.jpg" %}
+
 El 20 de diciembre, echamos la vista atrás a las veinte películas de Marvel Studios.
 
 Que se dice pronto, tras tres de iron man, tres del capi, tres de thor, tres de los vengadores, dos de los guardianes, dos de ant-man, doctor extraño, spiderman y pantera negra.

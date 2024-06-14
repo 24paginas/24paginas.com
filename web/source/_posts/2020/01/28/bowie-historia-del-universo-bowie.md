@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "83908444_167392487896181_4188822979640204979_n_18007335154277864.jpg" "83245254_198613881321887_4824257741953602700_n_17869524001593378.jpg" "83688935_231529311202791_3878802449061623567_n_17880872338505683.jpg" %}
+
 ⚡️BOWIE: Historia del Universo Bowie.
 
 La combinación de David Bowie y Mike Allred no podía traer más que cosas buenas. Ya lo hacía de alguna forma en Red Rocket 7, donde el extraterrestre protagonista servía de inspiración al Duque Blanco para la creación de Ziggy Startdust, pero aquí va un paso más allá con una obra biográfica que deja hueco para momentos oníricos que intentan dar más profundidad en la búsqueda del artista.

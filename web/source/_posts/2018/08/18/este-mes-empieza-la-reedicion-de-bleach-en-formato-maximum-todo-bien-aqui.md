@@ -17,6 +17,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "38518779_1363443617118912_565399128457084928_n_17928697906198067.jpg" %}
+
 Este mes empieza la reedición de Bleach en formato Maximum. Todo bien aquí.
 
 Después de muchos años leyendo los tankoubon pequeños ahora nos acostumbramos a leer ediciones kanzenban/maximum/llámalocomoquieras y la diferencia se nota. La página debe ser fácilmente casi el doble de grande y hay mucho más espacio para apreciar mejor el dibujo y leer mejor los diálogos.

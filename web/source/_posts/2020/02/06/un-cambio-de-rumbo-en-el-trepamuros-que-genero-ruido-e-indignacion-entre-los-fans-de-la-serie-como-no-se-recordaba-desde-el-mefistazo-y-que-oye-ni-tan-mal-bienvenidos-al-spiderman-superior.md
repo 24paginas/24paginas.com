@@ -18,6 +18,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "83255469_125260759001589_2297229809735012112_n_17914754521391611.jpg" "84330356_1007970632917986_477256129355440787_n_17869389031588885.jpg" "82718698_208710580269319_6437706797030224241_n_17946005416314925.jpg" %}
+
 Un cambio de rumbo en el trepamuros que generó ruido e indignación entre los fans de la serie como no se recordaba desde el Mefistazo, y que oye, ni tan mal.  Bienvenidos al Spiderman Superior.
 
 Cuando menos nos lo esperábamos, Slott le da una vuelta de tuerca a Spiderman refrescando la franquicia y la colección, adoptando un nuevo Spiderman que es a la vez el de siempre. Y aunque se va un poco a la parodia de pasar a ser un Batman acomplejado y megalómano, consiguió generar tanta polémica que se habló de ello en todas partes.

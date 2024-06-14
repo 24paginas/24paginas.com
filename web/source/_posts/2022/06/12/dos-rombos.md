@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "287447289_176532071424227_7407869891904267147_n_17971871398608204.jpg" %}
+
 Dos rombos.
 
 Gato, de Horacio Altuna. De aquí no os voy a enseñar fotos del interior, ni os voy a contar de que va. Nos lo imaginamos todos. Y hasta aquí puedo leer.

@@ -23,6 +23,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "45358927_2000731453308600_6644150531105903138_n_17931516172240228.jpg" "45322423_345571602926861_1200163530131779484_n_17984522275087431.jpg" "45488512_292071221413704_6485526422530667241_n_17962015747195917.jpg" %}
+
 El 2 de diciembre, dos opciones entre las que escoger para que el fandom pueda discutir toda la vida.
 
 He dudado entre una imagen con Barry Allen y Wally West (y aquí Wally es el mejor flash), pero al final me he decantado por Mary Jane y Gwen Stacy, entre quienes los pre y post adolescentes del mundo pueden discutir sobre waifus hasta quedarse calvos.

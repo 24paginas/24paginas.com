@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "51730946_421439351961366_709645959724041334_n_18004695850156570.jpg" %}
+
 Doctor Who | Cuatro Doctores: Uno menos en Canarias.
 
 Doctor Who está plagado de singularidades y paradojas. En este caso podríamos decir que la primera es que sus cómics se publiquen aquí. Hablamos de una serie que si bien tiene un fandom relativamente extenso, nunca ha tenido una emisión decente en nuestro país. También podríamos considerar singular que sea una editorial pequeña como [@fandogamia](https://instagram.com/fandogamia) la que apueste por la franquicia, pero el resultado es muy digno.

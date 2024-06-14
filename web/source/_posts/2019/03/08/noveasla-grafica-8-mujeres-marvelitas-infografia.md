@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "52859545_422284491877544_1193033014628133954_n_17967905335228597.jpg" "52106120_1276835572467611_887380549761049938_n_18026349958097739.jpg" "53169515_2252515675068336_6634262771106653486_n_18010484281183156.jpg" %}
+
 NOVEASLA GRÁFICA: 8 mujeres marvelitas [#infografia](/tags/infografia)
 
 Con motivo del [#DiaInternacionalDeLaMujery](/tags/diainternacionaldelamujery) el estreno cinematográfico de "Capitana Marvel" os traemos una nueva [#NOVEASLAgrafica](/tags/noveaslagrafica) con un ranking de los personales femeninos más poderosos de La Casa de las Ideas, según sus propios datos.

@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "29716063_192459611366392_1622894650249445376_n_17922918850117445.jpg" %}
+
 SLAM!
 
 Se acerca peligrosamente el lunes. El fin de semana ha pasado volando y el siguiente parece estar a años luz de aquí. ¿Que mejor que un poco de roller derby para rematar la semana?

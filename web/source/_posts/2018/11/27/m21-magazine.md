@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "47086161_335258190600066_8366229916055754618_n_18005149726059561.jpg" %}
+
 M21 Magazine.
 
 Esta semana pensaba traeros 2 revistas 2. Pero he pensado empezar con esta ya que la otra tiene cierta cantidad de [#lapromosio](/tags/lapromosio) y otro tanto de ego-trip.

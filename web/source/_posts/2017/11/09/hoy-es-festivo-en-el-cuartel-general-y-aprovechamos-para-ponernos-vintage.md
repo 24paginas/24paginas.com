@@ -28,6 +28,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "23348244_1669127009841119_2833438548495958016_n_17906681869025895.jpg" %}
+
 Hoy es festivo en el cuartel general y aprovechamos para ponernos vintage.
 
 ¿Y que hay más [#vintage](/tags/vintage) en Marvel que decir Chris Claremont, Larry Hama o Tom DeFalco?

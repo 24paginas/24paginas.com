@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "408109826_669323702009265_7153934340426564179_n_18404072752024584.jpg" %}
+
 El 9 de Diciembre, las 9 grapas de las... ¿cuartas? Secret Wars.
 
 Buen viaje el que nos marcamos con Jonathan Hickman y Esad Ribic en el que, de nuevo, volvemos a ver por qué el Dr. Doom es el más grande villano de Marvel, y en esta colina moriré.

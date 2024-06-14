@@ -28,6 +28,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "26070440_367397987004929_4236528837099257856_n_17861236369205100.jpg" "26151356_326539391162837_4574650536908816384_n_17893066876135237.jpg" "26228426_131610547639370_8482414664179777536_n_17878061005198733.jpg" "26228326_174954569669338_7114400673403240448_n_17894201575139477.jpg" "26154315_550387255321499_8454288211848462336_n_17887971787170380.jpg" "26319234_169410547156031_91465803924242432_n_17887682578169199.jpg" "26158391_2063918203843164_1290479909709283328_n_17894486851139317.jpg" "26294823_1168594673271922_8129296854128001024_n_17894345362138989.jpg" %}
+
 En un ejercicio de nostalgia os traigo estas dos obras de Juan Carlos Cereza y Juan Román Cano en su edición original dentro de la línea Laberinto, que en su momento publicó [@planetadcomic](https://instagram.com/planetadcomic) y posteriormente fueron recopiladas por parte de Aleta hace unos tres años en un tomo.
 
 Ojo aquí, que estamos hablado de unos cómics con más de veinte años de antigüedad... [#vamosamorirtodos](/tags/vamosamorirtodos)

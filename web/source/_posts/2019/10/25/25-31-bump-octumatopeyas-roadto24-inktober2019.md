@@ -20,6 +20,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "75458054_115020319920903_8390160496411705688_n_17873724289476326.jpg" %}
+
 25/31. BUMP! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Ya solo queda una semana para pasar página y volver a la ¿normalidad? En unos días dejaremos de lado este experimento de lettering y os ofreceremos nuestra habituales reseñas y secciones.

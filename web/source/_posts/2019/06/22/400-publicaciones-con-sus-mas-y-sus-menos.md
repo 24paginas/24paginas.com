@@ -16,6 +16,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "62509159_1576843452446037_3832537145691218780_n_18059298718129312.jpg" "62377718_375132853207448_6889131742519777385_n_17868325048409393.jpg" "62272790_459339194639617_6453817416697239850_n_18060802384107340.jpg" "62222702_338712097029450_2498183069120295136_n_17860877320434517.jpg" %}
+
 400 publicaciones, con sus más y sus menos. Como los 400 números de Amazing Spiderman que nos llevaron a "Una muerte en la familia", y aquí si que nada volvió a ser lo mismo. Y gracias, porque telita...
 
 Una época increíblemente convulsa en la historia de Spiderman, que había llevado al personaje a multitud de dramas continuos que se iban solapando unos a otros sin descanso para el personaje y muchísimo menos para sus lectores. Vamos, una turra de cuidado.

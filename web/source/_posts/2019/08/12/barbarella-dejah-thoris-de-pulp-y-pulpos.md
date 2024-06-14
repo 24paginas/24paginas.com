@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "67788163_150880902773345_196807343865507125_n_18061802551089685.jpg" "67502413_382779488943172_2045220404160652813_n_17843958019586899.jpg" "67177422_1429978810474021_6862626882311523782_n_17843995591584105.jpg" "66427914_146156276583308_4205062831694598766_n_17843380087587649.jpg" %}
+
 Barbarella/Dejah Thoris: De Pulp y pulpos.
 
 Aunque intentamos ir al ritmo de lo publicado aquí, hay veces que no nos queda otra que recurrir a la importación. Este es el caso de la serie limitada de Barbarella y Dejah Thoris. En este caso no por la serie en sí, sino por el dibujante. Porque esta colección supone el esperado regreso de Germán García al cómic americano.

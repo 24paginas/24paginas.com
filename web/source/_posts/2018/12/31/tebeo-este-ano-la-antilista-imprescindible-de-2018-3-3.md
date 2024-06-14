@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "46573751_2099813356732304_5967390710037957632_n_17986980664144124.jpg" %}
+
 Tebeo este año: La antilista imprescindible de 2018 (3/3).
 
 Se acaba el año y echamos la vista atrás a los tebeos que más nos han gustado, emocionado y divertido durante la última rotación de la tierra alrededor del sol. Y en mi caso ha sido fácil. Desde Enero tenía claro que probablemente no iba a encontrar nada que me tocara más la patata que el Una Hermana de Bastien Vivés ([@bastienvives](https://instagram.com/bastienvives)), publicado aquí por [@diaboloediciones](https://instagram.com/diaboloediciones).

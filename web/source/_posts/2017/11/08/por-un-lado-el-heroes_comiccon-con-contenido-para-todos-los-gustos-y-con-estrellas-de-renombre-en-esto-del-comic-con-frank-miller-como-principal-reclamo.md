@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "4D44C68C57E1EDED0BD8D05D73D40F85_video_dashinit_17878007371170262.mp4" %}
+
 Por un lado el [@heroes_comiccon](https://instagram.com/heroes_comiccon) con contenido para todos los gustos y con estrellas de renombre en esto del cómic con Frank Miller como principal reclamo. Ojo que viene Jenna Coleman, una de las companion más queridas de Doctor Who ([@bbcdoctorwho](https://instagram.com/bbcdoctorwho)), y Lena Headey, nada más y nada menos que la actriz que da vida a Cersei Lannister en Juego de Tronos.
 
 Por el otro tenéis el [@grafcomic](https://instagram.com/grafcomic) centrado en cómic de autor y edición independiente. Muchas charlas interesantes y a mi gusto indispensable la de Streaming Dibujantes con [@davizzzz](https://instagram.com/davizzzz) López. No os perdáis su canal de youtube.

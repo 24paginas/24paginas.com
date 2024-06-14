@@ -14,6 +14,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "31660008.jpg" %}
+
 Empezamos relectura de Spawn. ¿Estamos locos? Estamos locos.
 
 No sé hasta dónde podré llegar, porque el primer volumen no lo tengo completo en grapa (al menos los 50 o 60 primeros números recuerdo tenerlos, a partir de ahí quizá habría que completar colección).

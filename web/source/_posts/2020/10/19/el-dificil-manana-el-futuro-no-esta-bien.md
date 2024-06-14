@@ -15,6 +15,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "122153384_977980996046185_925489939319815296_n_17879319139859747.jpg" "122008906_630416420987221_8864902952623954018_n_17869739327018563.jpg" %}
+
 El Difícil Mañana: el futuro no está bien.
 
 Es curioso que antes de la pequeña distopía en la que vivimos hayan surgido otras que, sin asemejarse en el fondo, se le parezcan en la forma. Distopías de baja intensidad, con tan sólo algunos elementos que nos apartan de la normalidad, fuera eso lo que quiera que fuese.

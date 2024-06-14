@@ -17,6 +17,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "74611884_191430338553662_5691899969056709896_n_17872763617478796.jpg" %}
+
 29/31. SHOOM! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Aunque los rayos repulsores de Ironman siempre han sido un arma interesante, no han tenido un sonido claro. Al menos en los cómics. .

@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "51687487_2297894013790969_5012925411619349766_n_18021684010098183.jpg" "52829590_691609671236162_5591350976731755939_n_18036884926036862.jpg" "52355828_515104125680914_7110271148547031938_n_17937057319270096.jpg" %}
+
 Paper Girls [#19](/tags/19): Doble exposición.
 
 La cosa sigue avanzando poquito, pero al menos volvemos a tener a todas las chicas reunidas y de nuevo una de ellas se tiene que enfrentar con su potencial futuro.

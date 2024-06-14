@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "47692380_759278514449394_5176190783112238101_n_18014729596074376.jpg" %}
+
 X-Men TAS: un  [#domingodedibus](/tags/domingodedibus) que convalida el [#viernesvintage](/tags/viernesvintage).
 
 Como muchos, me inicié en los mutantes por la serie de animación. Y debió tener un gran impacto en mi, porque la cabecera principal de los hombres(y mujeres)-X es la más repetida en mi colección.

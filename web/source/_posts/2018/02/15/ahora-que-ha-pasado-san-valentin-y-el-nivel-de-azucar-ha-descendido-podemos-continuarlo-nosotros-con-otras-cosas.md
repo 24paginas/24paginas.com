@@ -35,6 +35,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "28153608_339370069893879_3524086413727367168_n_17900543713136749.jpg" %}
+
 Ahora que ha pasado San Valentín y el nivel de azúcar ha descendido, podemos continuarlo nosotros con otras cosas.
 
 Y es que no sólo de shojo vive el manga, el shonen está repleto de deliciosas ñoñeces a las que de vez en cuando se les puede dar una nueva visita.

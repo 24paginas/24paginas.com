@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "80844160_100817464754928_3935502587920296516_n_17979203482294570.jpg" "79850309_997583067293913_8551423359203772242_n_17845893775879929.jpg" "80461496_609515339827612_1136521147610133194_n_17857724200709177.jpg" %}
+
 Historia del Universo Marvel [#3](/tags/3): La Edad de la Maravilla.
 
 Llegamos a la mitad de esta miniserie y alcanzamos el punto en el que TODO cambió. En la década de los 60 se produjo la explosión creativa que nos dejaría el universo que conocemos.

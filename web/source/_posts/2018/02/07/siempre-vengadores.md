@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "27574513_1517544285011581_7057374343914848256_n_17850825124230607.jpg" "80482A4E23A2CCD1D71AB5E62429BF84_video_dashinit_17924104414059595.mp4" "A64722762D85F13A02D52021107A37B9_video_dashinit_17883195193196084.mp4" %}
+
 Siempre Vengadores.
 
 Hace casi 20 años, Kurt Busiek y Carlos Pacheco sorprendían con esta serie limitada con los héroes más poderosos del mundo que hace poco recopiló Panini en uno de sus tomos integrales.

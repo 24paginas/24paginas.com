@@ -18,6 +18,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "411479737_675294868078815_5421288849774299428_n_18009209593970189.jpg" %}
+
 El 15 de Diciembre, los 15 volúmenes de I''s, de Masakazu Katsura.
 
 Katsura es amor. Amor adolescente y ridículo, con triángulos imposibles y absurdos, pero amor al fin y al cabo. Escribía hace poco no recuerdo en dónde que no había encontrado ningún manga o anime que acompañara en las frías tardes de otoño, cuando tenía aquí una posible relectura fantástica. Mismo tono que Video Girl si le quitamos los temas de ciencia ficción y lo dejamos "sólo" en una historia de amores de instituto.

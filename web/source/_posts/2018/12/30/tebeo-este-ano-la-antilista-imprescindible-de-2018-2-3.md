@@ -18,6 +18,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "47582720_219937408940782_8157315758191205508_n_17924087797262603.jpg" "47583640_121105492263475_880327564072539690_n_17989761502142552.jpg" "47582062_747759582262557_9057302001150354852_n_17988686206134791.jpg" "47581959_603999686720762_6797834638686754694_n_18017141989057004.jpg" "47581697_166882164278027_3400749333946671254_n_17997087058123015.jpg" %}
+
 Tebeo este año: La antilista imprescindible de 2018 (2/3).
 
 Faltan 2 días para terminar el año y quedamos 2 de los 3 que escribimos en este canal, así que he pensado en terminar el año por mi parte, aprovechando que son unas fechas llenas de ilusión, para traeros el momento comiquero que más ilusión me produjo el 2018.

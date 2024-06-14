@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "56640874_356743018517898_5723490736893301916_n_17971406143245062.jpg" "54513803_324968111401616_7717747516803171508_n_18025515175191541.jpg" "54511643_2511900808833840_1298182808253721024_n_17842694548412367.jpg" "55862942_127181731776274_5348440674826699707_n_17977262518225042.jpg" %}
+
 INYECCIÓN: Wibbly wobbly, timey wimey stuff.
 
 Si hace unos días, o semanas, o meses (el tiempo es relativo) os hablaba sobre el trio de magos que forman Moore, Gaiman y Morrison, ahora toca alguien que pese a huir de la magia se deja impregnar por esa esencia artúrica de las islas británicas: Warren Ellis.

@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "75412676_453851075292770_3700908470138979284_n_17991819496304562.jpg" "77152283_120943622721688_3232856157726154882_n_18083980501131034.jpg" %}
+
 Paper Girls [#24](/tags/24): Ventajas de viajar en el tiempo.
 
 Seguimos con un episodio centrado en la búsqueda de una cura para Mac, pero que también cuenta como cierto personaje del pasado de las protagonistas llegó hasta donde está ahora, o en el futuro, esto siempre es lioso.

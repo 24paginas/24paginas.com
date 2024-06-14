@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "32928604_488798048206240_7147356485746425856_n_17923449967138167.jpg" %}
+
 Paper Girls [#13](/tags/13)
 
 Futuros enredados

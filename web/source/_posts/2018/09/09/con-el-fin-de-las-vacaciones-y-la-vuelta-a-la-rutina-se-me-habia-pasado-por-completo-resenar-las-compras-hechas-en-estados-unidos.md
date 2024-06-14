@@ -29,6 +29,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "40872868_2205355303042185_5166953117593064665_n_17950971094177628.jpg" "40474002_304156817052329_1180851229464958936_n_17978768155014798.jpg" "41516222_282773762324074_2894045618363847525_n_17949385063151071.jpg" "40337918_460736634446152_6388227142944339182_n_17977248241028337.jpg" %}
+
 Con el fin de las vacaciones y la vuelta a la rutina se me había pasado por completo reseñar las compras hechas en Estados Unidos.
 
 Una compra de grapa muy contenida, pero siempre hace ilusión comprar tebeos fuera. Además de los ejemplares del número 1 de Fantastic Four que pudisteis ver hace poco, esta fué mi selección:

@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "115809347_171948751062329_2854601237637047218_n_17851141712172669.jpg" %}
+
 [#lunesdelibros](/tags/lunesdelibros): Escribir con viñetas, pensar en bocadillos.
 
 Si has pensado alguna vez en escribir cómics, estás de suerte. David Muñoz, guionista todoterreno, pone su experiencia al servicio de este manual de guion de cómic que repasa los formatos más comunes en nuestro “mercado”. Un repaso que incluye tanto su método como el de otros guionistas y que completa con ejemplos de guion y entrevistas a sus autores.

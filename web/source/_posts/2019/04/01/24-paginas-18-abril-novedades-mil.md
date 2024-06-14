@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "53819697_1280983835402424_9090444914326749259_n_18050486128007795.jpg" %}
+
 24 páginas [#18](/tags/18): Abril, novedades mil.
 
 Cambiamos de mes, acabamos de cambiar de hora y estación, y nos esperan infinidad de estrenos y eventos.

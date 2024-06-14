@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "319155814_3446242739029197_970783883825033018_n_17982499720815379.jpg" %}
+
 El 15 de Diciembre, las 15 grapas con las que Conan el Bárbaro volvía a Marvel muchos años después.
 
 Jason Aaron y Mahmud Asrar comenzaban una saga que luego ha ido incorporando a otros autores, y hacía que volviera a existir una colección llamada "Conan el Bárbaro", que históricamente siempre ha sido la "principal" del personaje. Tras la última grapa hemos tenido cuatro de "Conan Rey", que históricamente era una colección paralela que contaba lo que sucedía en otros momentos de la cronología del personaje (cuando llega a ser Rey, valga la redundancia)... sorprendía que las colecciones no fueran paralelas sino que sustituyeran la una a la otra y... finalmente terminasen las dos.

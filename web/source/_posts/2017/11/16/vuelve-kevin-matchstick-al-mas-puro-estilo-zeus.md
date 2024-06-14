@@ -21,6 +21,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "23596307_1506895812720341_115211505577754624_n_17895513298104436.jpg" "23668219_2028685260700906_6427441180056748032_n_17907322174048843.jpg" "23507902_591996657798554_3543288224665305088_n_17881733368156006.jpg" "23595010_168782723709329_8926127572320780288_n_17907692881016789.jpg" %}
+
 Vuelve Kevin Matchstick al más puro estilo Zeus. Si, Zeus. Como el padre de Apolo, el del Monte Olimpo. El de "¡No me toques los cojones que te meto un rayo por el culo!"... Ains, perdón, siempre quise usar esa cita en algún sitio.
 
 Bueno al tema, que empieza la tercera y última saga de Mage (en principio de otras 15 entregas como las dos anteriores), y no podría empezar mejor. Con un prólogo que nos devuelve al Pendragón en todo su esplendor, y un primer número que nos recuerda todas las virtudes de esta serie (llena de acción y chulería), Wagner nos sitúa en el nuevo status quo de nuestro protagonista después de tantos años dejando claro que no ha perdido mano con el personaje.

@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "46510281_391899044715451_6309354217821124146_n_17935598485240033.jpg" %}
+
 El 15 de diciembre, el número quince de Amazing Fantasy, en el que debutó nuestro amigo y vecino Spider-Man.
 
 Obviamente la foto es de un cromo que reproduce la portada, tendréis que perdonarme que ni tenga ni quiera tener tebeos tan caros.

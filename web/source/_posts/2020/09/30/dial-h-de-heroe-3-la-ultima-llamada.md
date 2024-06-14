@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "120303525_665269951054216_7475377282274393740_n_18011326537291096.jpg" "120291706_334599384539516_9111239970120727237_n_18136326514100223.jpg" %}
+
 Dial H de Héroe [#3](/tags/3): La última llamada.
 
 Termina la serie con este recopilatorio que, como el anterior, se resiente un poco con la ausencia en algún número del dibujante principal.

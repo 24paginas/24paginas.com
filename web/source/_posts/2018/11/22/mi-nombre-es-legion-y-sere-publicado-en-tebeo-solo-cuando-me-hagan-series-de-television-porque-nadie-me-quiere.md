@@ -23,6 +23,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "45616341_252137218796369_845399412189992844_n_17976342205143364.jpg" "44583684_1889626854424325_6363203307025116464_n_17939315749214459.jpg" "44862933_1037449636425956_5045574645457539668_n_17910653047260863.jpg" "43778967_2342707145966077_7588966423049754160_n_17976674416190539.jpg" %}
+
 Mi nombre es Legión. Y seré publicado en tebeo sólo cuando me hagan series de televisión porque nadie me quiere.
 
 Y así nos llegó a España durante el 2017 la maxiserie (¿recordáis cuando se usaban términos como “maxiserie”?) de Legión del 2013, a rebufo de la más que digna serie de FX.

@@ -20,6 +20,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "25009423_202866853618012_7113269237283553280_n_17913467536038712.jpg" "25010428_196814587542803_8179199997535846400_n_17913810493062613.jpg" "25012859_1908404072810704_302928368418947072_n_17883612346172478.jpg" "25010107_1956861334575575_6456646944784646144_n_17887880608153225.jpg" %}
+
 Mafias, sicarios con habilidades especiales, humor negro y mucha, mucha acción.
 
 Un guión ágil y duro con personajes bien caracterizados donde cada cual arrastra los traumas de su pasado (que vamos descubriendo a cuentagotas), con la dosis suficiente para mantenernos con ganas de más mientras el argumento principal y las escenas de acción avanzan a ritmo endiablado.

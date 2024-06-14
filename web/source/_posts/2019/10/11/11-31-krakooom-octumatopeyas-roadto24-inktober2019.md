@@ -22,6 +22,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "73067460_407439053277050_2238180947811378700_n_17966176726295885.jpg" %}
+
 11/31. KRAKOOOM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Vamos a por el fin de semana con el sonido del trueno, el sonido de la transformación de Jane Foster en The Mighty Thor [#703](/tags/703).

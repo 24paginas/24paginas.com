@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "71066014_2360290370888712_2006448307388136039_n_17860287013529451.jpg" "73067055_416316592406946_6762830005012531781_n_18035005738215185.jpg" %}
+
 8/31. SLURP! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
 
 Aunque ya celebramos en su momento los 30 años de [@celspinol](https://instagram.com/celspinol) como profesional, volvemos a su Fanhunter para nuestro proyecto de lettering. En esta ocasión con un SLURP!, el sonido representativo de la Gusa, mascota extraterrestre de Cels Denbrough.

@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "50297413_380067772771111_4812114610364458609_n_18005102101138966.jpg" "51119595_2225414534340263_8600796445753176872_n_17922755275279097.jpg" %}
+
 Black Hand / Iron Head: De la pantalla al papel.
 
 Lo he vuelto a hacer. He vuelto a comprarme un cómic de [@thepanelsyndicate](https://instagram.com/thepanelsyndicate) que ya he leído y atesoro en digital. Debe ser algo primario relacionado con el olor a tinta y esas cosas que siempre decímos los lectores de comic. También puede tener que ver con la adoración que sentimos por aquí hacia [@davizzzz](https://instagram.com/davizzzz) López, [#autordelmes](/tags/autordelmes), streamer de dibujantes y referente vital. O con que no puedo llevarle a firmar el iPad...

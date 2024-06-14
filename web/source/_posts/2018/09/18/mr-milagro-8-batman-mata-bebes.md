@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "40615413_321570171938669_3924495026309374720_n_17908785151230884.jpg" %}
+
 Mr. Milagro [#8](/tags/8) - “Batman mata bebés”.
 
 ¿Os acordáis hace unos años cuando empezaron a salir “manuales para padres frikis”? Pues [@tomking_tk](https://instagram.com/tomking_tk) ha decidido hacer algo parecido integrándolo en su serie limitada del gran escapista.

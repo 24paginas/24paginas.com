@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "104203355_141435004209944_4941112788469529779_n_17848780478129520.jpg" "104171079_280398970045158_4574453482591276901_n_17871702268773475.jpg" "103940848_306512680507836_5228474488710372872_n_18068557072209743.jpg" %}
+
 El Murcielago sale a por birras: El Cruzado de la Chapa (de cerveza, claro).
 
 Pues resulta que a lo tonto nos hemos pasado confinados casi tres meses, más lo que queda de desescalada, y hay gente que se ha liado a hacer cosas. A muchos les ha dado por el pan y la repostería hasta agotar las provisiones de harina de los supermercados, a otros por los directos de Instagram, por limpiar y desinfectar hasta niveles cuánticos o por dibujar.

@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "116435669_755210891967974_1419813391305998466_n_17923285510425588.jpg" "116225467_3378759398873213_740086868486298420_n_17901936469515061.jpg" %}
+
 📜 Lezo: Buen ojo para la aventura.
 
 Qué mala pata, la primera línea y ya he agotado los chascarrillos típicos sobre Blas de Lezo. Mejor, por otra parte, porque el retrato del personaje que hace este cómic no se presta al chiste. Tampoco es el héroe que algunos reivindican. Lezo se muestra aquí como alguien que tiene que enfrentarse a las consecuencias de las malas decisiones de otros y hacer las cosas lo mejor posible aunque no de la forma que le gustaría.

@@ -20,6 +20,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "844061AE31AAFB4AC388C05494601691_video_dashinit_17981392024033133.mp4" %}
+
 David López: Espirales digitales [#autordelmes](/tags/autordelmes)
 
 Septiembre, vaya mes. Os habréis fijado que nuestro ritmo de publicación ha bajado considerablemente. Podríamos decir que estamos preparando grandes cosas, pero n os vamos a mentir, este septiembre se nos está haciendo particularmente cuesta arriba.

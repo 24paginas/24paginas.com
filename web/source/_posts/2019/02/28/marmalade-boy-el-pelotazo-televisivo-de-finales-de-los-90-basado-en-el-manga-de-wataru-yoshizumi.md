@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "52047743_384686369031814_4316517336307842125_n_18034673284065643.jpg" "51914369_2191954320827219_6462653780192625531_n_17930519509272513.jpg" %}
+
 Marmalade Boy, el pelotazo televisivo de finales de los 90 basado en el manga de Wataru Yoshizumi.
 
 A medio camino entre el [#miercolesmanga](/tags/miercolesmanga) y el [#viernesvintage](/tags/viernesvintage) está el jueves de... de los mangas viejunos. Ocho tomos de cuando las cosas todavía se pagaban en pesetas, que para la serie de televisión se ampliaron enormemente con una cantidad insana de relleno, cosa normal por otra parte porque ocho tomos no dan para mucho más.

@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "3067502731.jpg" %}
+
 RevistaManía: forum Junio 2024.
 
 Cosas que me podría interesar de este mes: más Spawn y más Usagi Yojimbo, que debería comprar ambas pero no lo estoy haciendo. Quizá algún día. Y un nuevo álbum del Conan europeo, ese sí caerá.

@@ -27,6 +27,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "26866319_785992014917717_8959244695045668864_n_17903855590093147.jpg" "26869773_1517999428317260_8327121235305562112_n_17916656320069855.jpg" "26865302_307215489800056_3346751496157921280_n_17861554144217771.jpg" "26863121_1684190904971775_2044643911682490368_n_17892611854160793.jpg" "26863847_575195209484437_8056490874923646976_n_17922383092037629.jpg" %}
+
 Comienza el evento Noches oscuras: Metal 🤘🏻 de DC
 
 Parece que DC se sube al carro de los megaeventos periódicos al estilo Marvel, pero esta vez sin pulsar el botón de reset de todo un universo (o varios), que ya casi nos habían acostumbrado a esto.

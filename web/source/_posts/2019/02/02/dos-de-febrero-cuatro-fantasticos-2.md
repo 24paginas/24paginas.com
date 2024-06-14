@@ -19,6 +19,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "51399161_557877581392807_3334985451432868349_n_17862954796317505.jpg" %}
+
 Dos de febrero: Cuatro Fantásticos [#2](/tags/2)
 
 Grandes efes nos rodean hoy, aunque no la gran F de [@fandogamia](https://instagram.com/fandogamia) sino las de [#febrero](/tags/febrero) y [#FantasticFour](/tags/fantasticfour).

@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "408187360_667681532173482_4099407990267892238_n_17916785762834131.jpg" %}
+
 El 7 de Diciembre, los 7 días de La Semana más Larga, el SuperLópez clásico de Jan.
 
 Mucho se ha hablado de SuperLópez tras el último álbum, aparentemente final del personaje decidido por su autor, en el... ¿número 85? Cáspita, 85 álbumes son unos cuantos, ¿eh?

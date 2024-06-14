@@ -19,6 +19,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "28763096_431890557270910_6423631101683564544_n_17931860746010156.jpg" "29090434_203152490442785_5518877497543884800_n_17871828931208553.jpg" "28754402_151698662191376_4497457948691267584_n_17908306588140707.jpg" "28765030_993966204103355_7509250503121829888_n_17859763894224349.jpg" "28753775_428402960906974_4740089636313890816_n_17905183768150369.jpg" "29093360_1488947451214540_3960213576399978496_n_17891451526194529.jpg" %}
+
 Este martes continuamos con las reseñas de esas colecciones molonérrimas que nos trajo el malogrado sello [#Cliffhanger](/tags/cliffhanger).
 
 Le toca el turno a [#Steampunk](/tags/steampunk), una epopeya victoriana enrevesada y oscura, que llega de la mano de la tecnología más fantástica impulsada por vapor. Por desgracia, y aunque el arte es muy de mi gusto a pesar de las enrevesadas estructuras que plantea el grandísimo [#ChrisBachalo](/tags/chrisbachalo) ([@cbi0](https://instagram.com/cbi0)), la historia de [#JoeKelly](/tags/joekelly) es aún más enrevesada y densa.

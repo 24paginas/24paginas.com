@@ -13,4 +13,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "57972728_627803237694585_3740309583085856532_n_17984952913231826.jpg" %}
+
 Nuevo mes, nuevas aventuras.

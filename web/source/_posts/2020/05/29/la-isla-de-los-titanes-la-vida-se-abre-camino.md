@@ -14,6 +14,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "100963449_249862956076104_1225930831004354047_n_17996543578295605.jpg" "101047340_1144980392567017_5499318052110195337_n_17890288183545796.jpg" %}
+
 La Isla de los Titanes: La vida se abre camino.
 
 La vida se abre camino, sí. Poco a poco. Como los cómics pendientes en la pila de lectura. Así a llegado por fin este tebeo de Marcos García editado via crowdfunding por [@spaceman_project](https://instagram.com/spaceman_project). La aventura de una joven llamada Diana, aunque bien podría llamarse Amelia por sus puntos en común con Amelia Earhart y Amelia Folch, que busca el paradero de su padre, un investigador de criaturas misteriosas.

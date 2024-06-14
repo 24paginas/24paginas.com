@@ -15,6 +15,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "319674670_3375339756038476_1994187153996670891_n_17966817785024532.jpg" %}
+
 Actualizado: Qué mala fecha ha resultado ser para publicar esto, pero ya estaba hecho desde primeros de diciembre 🥲
 
 El 14 de Diciembre, 14 de Julio, de Bastien Vivès ([@bastienvives](https://instagram.com/bastienvives)).

@@ -21,6 +21,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_18044801872099994.mp4" %}
+
 [#autordelmes](/tags/autordelmes): Gabriel Rodríguez, ya Era hora.
 
 Hace poco más de una semana (parece más con todo lo que ha pasado estos días) reseñamos la edición española de "La Espada de las Eras", de la mano de [@normaedusa](https://instagram.com/normaedusa).

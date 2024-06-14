@@ -23,6 +23,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "31783096_257551714792737_8722057174823469056_n_17932478506122777.jpg" "32778498_141948433331184_3582771425225736192_n_17922336850132847.jpg" "32687564_209761316471801_7419459435795316736_n_17923484011186924.jpg" %}
+
 Hace unos días me enteré de que [#PaniniComicsEsp](/tags/paninicomicsesp) por fin (¡POR FIN!) iba a reeditar la obra maestra que es la última iteración de X-Factor con [#PeterDavid](/tags/peterdavid) a los mandos de la nave. De primeras me he dicho: de esto hay que hacer reseña si o si.
 
 Pero entre que iba a tardar unos meses y soy un ansioso, y la horrible banda de un color al azar que le están poniendo a las colecciones dentro de la línea Marvel Collection... pues aquí estamos.

@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "80376467_603237773808212_6430879932144450717_n_18069179782194867.jpg" "71102533_1818623278271922_5287665849898831166_n_17846535115819608.jpg" %}
+
 Klaus: Is coming to town...
 
 Queda menos de una semana para Navidad, las luces y adornos están listos desde hace tiempo, la gente apura la primera tanda de regalos y compra papel para envolverlos. Es el momento perfecto para un tebeo como 'Klaus'.

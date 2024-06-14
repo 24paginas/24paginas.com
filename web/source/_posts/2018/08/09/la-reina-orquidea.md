@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "38174518_1114021192086667_2069618455018995712_n_17968423459044008.jpg" "37887825_2090168921002670_3749241037608976384_n_17895098839229662.jpg" %}
+
 La Reina Orquídea.
 
 La obra de Borja González ha entrado como una tormenta de verano en la redacción de 24 páginas. Tras el descubrimiento de The Black Holes, que aun tenemos pendiente reseñar por aquí, tanto [@hecdruiz](https://instagram.com/hecdruiz) como yo decidimos hacernos con el resto de sus obras publicadas, bueno autopublicadas.

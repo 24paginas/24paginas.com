@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "320983026_1220551355533241_2044731389036146502_n_17961241568275992.jpg" %}
+
 El 23 de Diciembre, las 23 grapas del primer volumen de WildC.A.T.s en España.
 
 ¡De 1994! Cómo hemos cambiado, o no, pero seguro que somos más viejos.

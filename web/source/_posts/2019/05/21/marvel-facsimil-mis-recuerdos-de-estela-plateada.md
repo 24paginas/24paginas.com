@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "60285938_2194725450614088_9054137681358904587_n_17933339182295044.jpg" %}
+
 Marvel Facsímil: Mis recuerdos de Estela Plateada.
 
 Estela Plateada es uno de esos casos en los que la traducción del nombre del personaje aporta mucho más que el original. Aunque ha sido muchos personajes (Héroe épico, trasunto de El Doctor, ...), la imagen más clara es la del personaje trágico, contemplativo y algo turras que se marcaba en Los 4 Fantasticos y su primera serie propia.

@@ -9,4 +9,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "128666359_801470204034334_3566811786460543775_n_18175979317040335.jpg" %}
+
 [#nuevonumero](/tags/nuevonumero): EL FIN (de año) ESTÁ CERCA.

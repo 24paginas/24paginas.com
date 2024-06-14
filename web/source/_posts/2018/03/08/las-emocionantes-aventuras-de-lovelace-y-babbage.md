@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "28427594_1772453576131387_2561731572956921856_n_17868704068217260.jpg" %}
+
 Las emocionantes aventuras de Lovelace y Babbage.
 
 Hoy tocaría reseña de Paper Girls pero, por mucho que pegue en un día como hoy, he decidido colar este libro.

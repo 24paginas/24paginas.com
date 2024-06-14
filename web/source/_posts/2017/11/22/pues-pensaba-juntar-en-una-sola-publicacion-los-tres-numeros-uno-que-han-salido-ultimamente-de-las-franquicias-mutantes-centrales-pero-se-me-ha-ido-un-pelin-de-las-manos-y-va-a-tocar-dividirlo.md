@@ -19,6 +19,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "23733901_1126596287475199_7233076452357308416_n_17849395165220242.jpg" "23734432_151006265519289_4201919234713845760_n_17849400835216800.jpg" "23734178_862131573947013_4539957427474268160_n_17881275931161785.jpg" %}
+
 Pues pensaba juntar en una sola publicación los tres números uno que han salido últimamente de las franquicias mutantes "centrales" pero se me ha ido un pelín de las manos y va a tocar dividirlo.
 
 Este número uno que podría resumirse en una palabra: Acción, acción, acción y más acción. Es un cómic trepidante que no para ni un segundo. Un dibujo TOP como es el de Jim Cheung, espectacular por los cuatro costados. Y un bombazo final que te deja con el culo torcido.

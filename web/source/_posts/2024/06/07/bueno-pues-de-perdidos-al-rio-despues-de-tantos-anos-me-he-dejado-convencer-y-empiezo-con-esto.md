@@ -12,6 +12,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "1920707492.jpg" %}
+
 Bueno, pues de perdidos al río. Después de tantos años me he dejado convencer y empiezo con esto.
 
 No tenía suficientes frentes abiertos, no. Ale, al lío.

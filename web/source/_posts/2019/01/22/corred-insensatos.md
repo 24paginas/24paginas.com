@@ -14,6 +14,8 @@ template: instagram
 author: hecdruiz
 ---
 
+{% gallery "49783508_570948863314459_588808940234765438_n_17962241788214231.jpg" "50325217_1700257080119651_5638776074473031307_n_17997478042132001.jpg" %}
+
 ¡Corred insensatos!
 
 Esto va a ser rapidito y más que nada por ver si alguien se solidariza conmigo por el drama que ha sido terminar este tomo.

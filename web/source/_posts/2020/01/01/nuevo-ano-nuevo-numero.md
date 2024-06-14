@@ -12,6 +12,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "79602224_205581373809113_4795587082891929792_n_17898938440412996.jpg" %}
+
 Nuevo año, nuevo número.
 
 Comenzamos 2020 con las mejores esperanzas. ¡Feliz año!

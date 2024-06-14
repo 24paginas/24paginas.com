@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "25011860_324907744584819_6234215686650986496_n_17874366127194521.jpg" %}
+
 Cuando tengas que viajar en tren, compra tebeos al azar.
 
 Compra algo que no leerías normalmente, pero que te suene haber leído alguna buena reseña. Como el Faith de Jody Houser ([@mindeclipse](https://instagram.com/mindeclipse)) y [@francisportelaart](https://instagram.com/francisportelaart), o el Batman y las Tortugas Ninja de Matthew K. Manning y Jon [@sommariva](https://instagram.com/sommariva).

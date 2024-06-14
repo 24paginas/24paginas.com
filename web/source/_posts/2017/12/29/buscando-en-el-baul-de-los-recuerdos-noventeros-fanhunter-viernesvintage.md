@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "26065445_1332673010171971_2440153001701146624_n_17914422505045009.jpg" %}
+
 Buscando en el baúl de los recuerdos noventeros, Fanhunter [#viernesvintage](/tags/viernesvintage)
 
 Ordenando el armario ha aparecido esta camiseta de finales de los 90 del juego de rol basado en [#fanhunter](/tags/fanhunter), de [@celspinol](https://instagram.com/celspinol) y Chemapamundi (creo que [@retrospectr](https://instagram.com/retrospectr)), no sé si quizá la primera camiseta que se hizo de Fanhunter, o quizá al menos la primera que se comercializó en Madrid.

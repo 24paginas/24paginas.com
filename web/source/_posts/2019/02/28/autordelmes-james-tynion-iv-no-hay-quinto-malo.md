@@ -17,6 +17,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17974427893212228.mp4" %}
+
 [#autordelmes](/tags/autordelmes): James Tynion IV, no hay quinto malo.
 
 Si el mes hubiera durado un par de días más, como corresponde a un mes normal, esta publicación aparecería justo después de la reseña (aun a medio escribir) del tomo de "Detective Comics" que sacó recientemente [@eccediciones](https://instagram.com/eccediciones) y todo tendría más sentido. Pero febrero es corto y la vida no tiene sentido.

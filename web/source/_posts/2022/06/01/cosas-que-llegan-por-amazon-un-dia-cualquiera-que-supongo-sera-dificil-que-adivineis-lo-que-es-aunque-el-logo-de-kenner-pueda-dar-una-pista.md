@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "284932098_1151710732290322_4080110982493974460_n_18161172754219174.jpg" %}
+
 Cosas que llegan por Amazon un día cualquiera… que supongo será difícil que adivinéis lo que es, aunque el logo de [#kenner](/tags/kenner) pueda dar una pista.
 
 Cuando tenga un rato abro la caja y le hago fotos.

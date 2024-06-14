@@ -19,6 +19,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "32019331_155813561932164_7418614555598651392_n_17947099516011704.jpg" %}
+
 BLACKHAND/IRONHEAD.
 
 Pensaréis que hago esta reseña para llevarle la contraria a [@neverbot](https://instagram.com/neverbot), pero no. O bueno, no solo...

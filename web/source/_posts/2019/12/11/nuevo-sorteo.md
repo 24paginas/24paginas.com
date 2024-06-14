@@ -18,6 +18,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "75214699_750189878800293_4289065750346900781_n_17847392539813061.jpg" "74627685_186578745858309_187627935265342021_n_17843027344856096.jpg" %}
+
 ✨NUEVO SORTEO✨
 
 Se cumplen 50 años de la llegada de los cómics Marvel a España y nuestro especial coincide con COMICMANÍA en celebrarlo. Ahora puedes llevarte un pack de ambas revistas para descubrir toda la historia.

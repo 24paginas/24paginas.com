@@ -16,6 +16,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "318520081_1195040714467221_6539404374885568398_n_17950288523348847.jpg" %}
+
 El 7 de Diciembre, las 7 Ciudades Celestiales del Puño de Hierro, Iron Fist.
 
 Esta serie de Brubaker y Fraction y el inmensísimo David Aja [@dav.aja](https://instagram.com/dav.aja) fue un antes y un después en el personaje, que siempre se ha movido en el limbo de los protagonistas-secundarios-molones-pero-que-no-venden-mucho en Marvel... y supongo que si no fuera por la cosa infame que hicieron en Netflix como serie, a lo mejor podríamos haber seguido disfrutando del personaje, porque la verdad es que le he perdido la pista en los últimos años.

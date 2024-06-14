@@ -22,6 +22,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "FQIoAkMzLBdAECn752yLRBgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_17992553692090456.mp4" %}
+
 Brian Michael Bendis: Bendis Is Coming [#autordelmes](/tags/autordelmes)
 
 Tentados estábamos de colar un autor loquísimo, o a algún youtuber, aprovechando el [#diadelosinocentes](/tags/diadelosinocentes), aunque hay que reconocer que [@brianmbendis](https://instagram.com/brianmbendis) tiene su coña. Amado por muchos, odiado por otros tantos (incluso amado y odiado a la vez por algunos), el de Cleveland es uno de los creadores de referencia de la última década.

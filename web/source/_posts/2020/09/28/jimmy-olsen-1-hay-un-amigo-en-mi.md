@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "120367199_120307536290485_2796753496815917285_n_17939837065382007.jpg" "120238018_124994116012552_281688156326849541_n_17895842902607487.jpg" "120433572_186814849575430_889152358289156733_n_17860788200111262.jpg" %}
+
 Jimmy Olsen [#1](/tags/1): Hay un amigo en mí.
 
 Me he sorprendido en los últimos tiempos comprando más DC que Marvel, con lo que yo he sido, y haciéndolo encima en grapa. Claro está que esto lo estoy haciendo con miniseries que sé, más o menos, cuando terminaran, pero no deja de parecerme curioso.

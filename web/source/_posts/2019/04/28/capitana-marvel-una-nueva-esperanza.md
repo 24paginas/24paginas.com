@@ -22,6 +22,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "56902602_421773101733070_1204238224737331537_n_18060206572010719.jpg" %}
+
 Capitana Marvel: Una nueva esperanza.
 
 Si hubiera escrito esta reseña hace unos días (no muchos, terminé la relectura el miércoles) sería diferente y probablemente iría con un título más obvio como [#higherfurtherfastermore](/tags/higherfurtherfastermore).

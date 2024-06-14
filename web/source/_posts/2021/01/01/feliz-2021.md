@@ -11,6 +11,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "135078088_2767258943536751_1145778514156357689_n_18173454343067928.jpg" %}
+
 Feliz 2021.
 
 Salud y tebeos.

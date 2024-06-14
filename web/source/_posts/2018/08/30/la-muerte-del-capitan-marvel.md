@@ -16,6 +16,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "39506365_294049384728984_1976111983283404800_n_17946358840145358.jpg" %}
+
 La Muerte del Capitán Marvel.
 
 Poco puedo decir de este cómic que no se haya dicho. Una emotiva despedida de un personaje que resultó muy importante en su época (y sirvió a Roy Thomas para desfogarse antes de reinventar a Los Vengadores) llena de apariciones de amigos y enemigos.

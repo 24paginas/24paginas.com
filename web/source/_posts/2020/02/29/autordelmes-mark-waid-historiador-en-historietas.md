@@ -16,6 +16,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "87652269_190837008868212_2536526543043537819_n_17858789602762698.jpg" "88203617_577767892813869_8949861040256596822_n_17842642697028843.jpg" %}
+
 [#autordelmes](/tags/autordelmes): Mark Waid, historiador en historietas.
 
 Mark Waid es uno de esos guionistas que parecen atesorar un conocimiento casi universal sobre mundos ficticios. Ha sido responsable de largas y recordadas etapas en series tanto de Marvel como de DC, donde ha sabido jugar con la continuidad de ambos universos.

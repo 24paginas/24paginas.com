@@ -24,6 +24,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "64591007_140027953766495_6125232317858082982_n_18074195173053423.jpg" "61792704_840312936327636_4695802710286932082_n_18010841824200097.jpg" "61587307_627261841126018_7894061397776765895_n_18075147598010737.jpg" "62470144_139704250469597_53771238344585582_n_18047238019139585.jpg" %}
+
 Para el [#viernesvintage](/tags/viernesvintage), la saga Desafío de Carlos Olivares y Roke González, para la añorada Línea Laberinto.
 
 Que tampoco era nada del otro mundo, pero aquel dibujo rupturista con una especie de [#amerimanga](/tags/amerimanga) a la española, muy heredero del dibujo graffitero nos explotó el cerebro en tres miniseries: Desafío, Desafío II y Desafío School Fighter.

@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "65095600_126310451927286_554973243836110541_n_17910140929321145.jpg" "62644456_337223317193130_5890453380752084685_n_17856992053456606.jpg" "65306671_2537322482959118_8307552685230009640_n_18061602892116798.jpg" "65093238_401134080495756_2143993558045158392_n_17887139197370444.jpg" %}
+
 Con todos ustedes: Dagsson. Un señor islandés que dibuja monigotes.
 
 Es un humor negro con el que comulgo mucho, soy creyente y practicante de la ofensa gratuita, pero en este recopilatorio salvando una docena de páginas que son a mi parecer magistrales, el resto pasan un poco sin pena ni gloria. Pero a tope con las buenas.

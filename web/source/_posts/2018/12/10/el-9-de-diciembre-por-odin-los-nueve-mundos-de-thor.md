@@ -25,6 +25,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "47153732_523535231456104_2505436920384738574_n_17977680355155335.jpg" "46707249_2016459415319061_1929538767585968116_n_18010992037012919.jpg" %}
+
 EL 9 DE DICIEMBRE, POR ODÍN, ¡LOS NUEVE MUNDOS DE THOR!
 
 Asgard, Vanaheim, Alfheim, Nidavellir, nuestro hogar Midgard, Jotunheim, Svartalheim, Muspelheim y el profundo y tenebroso Hel.

@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "24838381_382692828854570_2509277133075906560_n_17882017222172590.jpg" "24331594_1942651372662635_5114607120917987328_n_17871883747196036.jpg" "24838924_343302676133472_3244826222802239488_n_17894226055088872.jpg" %}
+
 Bienvenido a 1990, Marty. Este era el Spiderman de tus padres.
 
 Más viejo que los [#millennials](/tags/millennials) que nos puedan leer, leído hoy el Spiderman: Tormento es una cosa que... que... que da igual lo que pensemos hoy, esta etapa cambió al personaje y cambió al medio, y nadie había dibujado antes de este modo tan feísta y ortopédico, y creó una corriente y una escuela con un terremoto cuyas secuelas se pueden notar aún hoy.

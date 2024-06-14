@@ -20,6 +20,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "57052433_213658786278854_6965714265522278283_n_17947253827272778.jpg" "56935390_2150258351748950_321671014569653175_n_17981231458237304.jpg" "56520210_100667154464405_4537422492862632769_n_18038764822116512.jpg" %}
+
 La Espada de las Eras | Avalon: El Imperio Contraataca.
 
 Casi un año hemos tenido que esperar desde que norma sacase el primer número de "La Espada de las Eras" dentro del [#diadelcomicgratis](/tags/diadelcomicgratis).

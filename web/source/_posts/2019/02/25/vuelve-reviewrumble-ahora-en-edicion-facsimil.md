@@ -23,6 +23,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "51533429_813915412304973_8591390740984988614_n_17973416047212907.jpg" "51548261_170098583971764_7115486316619731042_n_18036943684045103.jpg" "52161746_777249112639441_5909911505162327877_n_18005754022154632.jpg" "51782845_428404254398922_3127296520227857550_n_18023377483097139.jpg" %}
+
 Vuelve [#REVIEWRUMBLE](/tags/reviewrumble), ahora en edición facsímil.
 
 Pocas cosas hay que criticar de esta nueva colección que nos trae [@paninicomicsespana](https://instagram.com/paninicomicsespana). Y bastantes que alabar. Emula bien las ediciones de la época pero con el extra de calidad que dan los medios actuales. El grosor tanto de portada como de página le dan bastante entidad para tratarse de una grapa doble, aunque hacen que no se termine de quedar bien doblado y cerrado.

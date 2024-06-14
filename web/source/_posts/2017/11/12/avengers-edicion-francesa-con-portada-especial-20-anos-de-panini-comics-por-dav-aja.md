@@ -13,4 +13,6 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "23498483_1569861966440551_7373441098896637952_n_17902722304067275.jpg" %}
+
 Avengers edición francesa con portada especial 20 años de panini cómics por [@dav.aja](https://instagram.com/dav.aja) .

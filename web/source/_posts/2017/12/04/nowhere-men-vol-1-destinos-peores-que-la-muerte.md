@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "24327073_1520724344662313_5599853264754442240_n_17885533735191465.jpg" %}
+
 Nowhere Men. Vol. 1 - Destinos peores que la muerte.
 
 Hace ya la friolera de 3 años que [@norma_editorial](https://instagram.com/norma_editorial) publicó el primer volumen de Nowhere Men y yo sigo recomendándolo. El retraso en la salida de nuevos materiales paralizó la serie durante un tiempo, pero en primavera [@imagecomics](https://instagram.com/imagecomics) sacó a la venta en el mercado americano el segundo volumen en TPB. Así que supongo que es cuestión de tiempo que Norma nos lo traiga.

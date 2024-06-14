@@ -18,6 +18,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "66899994_1205153009674145_1687694505382114189_n_18018498367211794.jpg" "66514741_1425818654223668_3600438319089495634_n_17876982466406038.jpg" %}
+
 Los 4 Fantásticos [#8](/tags/8): un plan de Muerte.
 
 Dan Slott funciona bien tirando del Doctor Muerte clásico, el de los planes y discursos grandilocuentes. Aquí, con la primera familia atrapada en su castillo, desata esa faceta del dictador latverio. .

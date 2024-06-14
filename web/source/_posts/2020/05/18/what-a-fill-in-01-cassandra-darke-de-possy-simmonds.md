@@ -15,6 +15,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "99084713_241077206991550_7520580885489884039_n_17867942068788788.jpg" "97913823_103237754684731_9113529476452786571_n_17944468051351515.jpg" %}
+
 What a fill-in [#01](/tags/01): Cassandra Darke, de Possy Simmonds.
 
 Posy Simmonds tiene cierta predilección por los títulos con nombre y apellido. Después de "Gemma Bovery" y "Tamara Drewe" (ambas novelas gráficas antes que películas) , ha optado por una protagonista cuya encarnación cinematográfica difícilmente podrá ser Gemma Arterton, al menos en los próximos 30 años.

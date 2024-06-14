@@ -23,6 +23,8 @@ template: instagram
 author: 24paginas
 ---
 
+{% gallery "83184744_2165791053523307_2322748737482823641_n_17936627653338175.jpg" "82912132_3495816550492685_7241998169657556281_n_17849312392884254.jpg" %}
+
 🗓 AGENDA 24 PÁGINAS - FEB. 07.
 
 Esta semana vamos con una agenda comprimida en el tiempo (solo mañana, u hoy si leéis esto tarde), pero dilatada en el espacio.

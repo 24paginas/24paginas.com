@@ -17,6 +17,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "80607879_2502697476506562_3925172342588723055_n_17858138068723420.jpg" %}
+
 [#TerapiaDeSock](/tags/terapiadesock) 01: Pulpos y vigilantes.
 
 Cuando pensamos nuevas secciones solemos darle vueltas infinitas hasta estar seguros de cómo van a ser. Casi siempre...

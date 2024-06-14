@@ -24,6 +24,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "24327118_330760410752040_3368423493111644160_n_17897243929093612.jpg" "25015518_578431485830113_2877248198462668800_n_17899544338120783.jpg" "25014319_1766626013634195_6104499183161442304_n_17888590504177764.jpg" "25023114_1484790068286607_1883963391228248064_n_17900381128126156.jpg" "25022192_1738728436147821_4121954292351369216_n_17897391139086815.jpg" %}
+
 Estela Plateada: Poder más que cósmico.
 
 Con la Navidad se acerca uno de mis momentos preferidos del año desde 2005. El especial navideño de Doctor Who. Pero la perspectiva de no tener más episodios hasta sabe quién cuándo puede ser desalentadora.

@@ -21,6 +21,8 @@ template: instagram
 author: uncientovolando
 ---
 
+{% gallery "98153992_717645359044879_3404185350816378870_n_17891432926519803.jpg" "96396304_685335175630451_3812827499859296792_n_17849226317061283.jpg" %}
+
 X-Men, Hijos del Átomo: Año Cero Mutante.
 
 Con la nueva edición de [@paninicomicsespana](https://instagram.com/paninicomicsespana), recupero la recopilación de Forum de esta serie limitada publicada por primera vez en pleno cambio de siglo. Una precuela, no canónica según sus autores, que nos pone en los instantes previos de la formación de la Patrulla-X.

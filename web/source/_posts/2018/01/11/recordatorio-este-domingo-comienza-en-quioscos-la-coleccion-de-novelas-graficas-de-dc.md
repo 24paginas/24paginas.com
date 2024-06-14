@@ -21,6 +21,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "26319801_328758117626485_4326276959047778304_n_17845031908226382.jpg" %}
+
 Recordatorio: este domingo comienza en quioscos la colección de novelas gráficas de DC.
 
 Por si necesitáis información, es la misma colección que se distribuyó en quioscos de la mano de Salvat a principios del 2016, esta vez para compra conjunta con El País cada domingo.

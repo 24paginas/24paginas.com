@@ -14,6 +14,8 @@ template: instagram
 author: neverbot
 ---
 
+{% gallery "278832282_702679194256087_1841693660248891086_n_17933271308123873.jpg" "278902791_477185104197753_9156717021078436407_n_17967815227536123.jpg" "278796399_689909202348198_6514736429730631435_n_17984934259487414.jpg" "278880897_864378531037671_2812088403705692927_n_17845124720767080.jpg" %}
+
 No siempre se puede acertar. A veces te llevas un tebeo y te comes un mojón.
 
 Yo no soy del hate por el placer del hate, no tengo necesidad de hablar de las cosas que no me gustan. Pero esta semana no me he leído nada más y me apetecía publicar algo.
