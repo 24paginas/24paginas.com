@@ -19,6 +19,7 @@ tags:
   - tienda
   - viaje
   - 24sporelmundo
+  - veinticuatrosporelmundo
 template: instagram
 author: neverbot
 ---
