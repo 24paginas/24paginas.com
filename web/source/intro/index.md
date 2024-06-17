@@ -5,7 +5,7 @@ date: 2022-02-20 11:56:47
 
 {% base_asset_img logo-intro.png %}
 
-[{% fa_inline chevron-down fas %}](https://twitter.com/24paginas){ .chevron-down }
+*{% fa_inline chevron-down fas %}*{ .chevron-down }
 
 # 24 páginas es un sitio de internet donde hablamos de tebeos
 
