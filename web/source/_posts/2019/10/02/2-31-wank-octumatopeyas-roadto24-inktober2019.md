@@ -16,7 +16,7 @@ tags:
   - inktober2019
   - miercolesdemerchandising
 template: instagram
-author: hecdruiz
+author: uncientovolando
 ---
 
 {% gallery "69839932_2401311520129938_8840671415552775405_n_17854166839587066.jpg" "70816698_1191968037654843_6881967117948768628_n_18069020479177697.jpg" %}

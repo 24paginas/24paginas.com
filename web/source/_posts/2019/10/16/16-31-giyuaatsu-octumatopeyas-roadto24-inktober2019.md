@@ -20,7 +20,7 @@ tags:
   - miercolesmanga
   - redribbonrising
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "71187734_161430905054241_2805116450965631378_n_17890052797417533.jpg" %}

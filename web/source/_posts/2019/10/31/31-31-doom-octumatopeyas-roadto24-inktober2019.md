@@ -17,7 +17,7 @@ tags:
   - comicsoundeffects
   - edicionespecial
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "71757710_2697155553683860_655832960239608329_n_18037693969220332.jpg" "75341380_570354023709279_216737789167162029_n_17902597915383137.jpg" %}

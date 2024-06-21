@@ -15,7 +15,7 @@ tags:
   - inktober2019
   - noveaslagrafica
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "70848184_2992535487638752_3446656450613674389_n_17853677443598615.jpg" %}

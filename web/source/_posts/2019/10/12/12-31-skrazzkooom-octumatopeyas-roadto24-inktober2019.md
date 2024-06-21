@@ -17,7 +17,7 @@ tags:
   - roadto24
   - inktober2019
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "71018462_2500872203314008_607821523158611022_n_17879370922443410.jpg" %}

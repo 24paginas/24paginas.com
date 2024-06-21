@@ -12,7 +12,7 @@ tags:
   - roadto24
   - octumatopeyas
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "71786665_139383387433824_7665456687057239099_n_17873984383468816.jpg" %}

@@ -19,7 +19,7 @@ tags:
   - 703
   - noveaslagrafica
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "73067460_407439053277050_2238180947811378700_n_17966176726295885.jpg" %}

@@ -19,7 +19,7 @@ tags:
   - inktober2019
   - miercolesmanga
 template: instagram
-author: 24paginas
+author: uncientovolando
 ---
 
 {% gallery "70006902_139908273955693_1020935457639320725_n_17859299365536021.jpg" "72455697_153161435781609_2168126320850732733_n_18105029101058357.jpg" %}
