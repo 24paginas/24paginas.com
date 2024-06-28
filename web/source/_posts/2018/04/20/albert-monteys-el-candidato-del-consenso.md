@@ -13,7 +13,7 @@ tags:
   - albertmonteys
   - tebeos
   - comic
-  - artistadelmes
+  - autordelmes
 template: instagram
 author: 24paginas
 ---
@@ -22,7 +22,7 @@ author: 24paginas
 
 Albert Monteys: El candidato del consenso.
 
-Cada número, la elección del [#artistadelmes](/tags/artistadelmes) resulta en un pequeño debate entre los que formamos esta cuenta. ¿Está de actualidad? ¿Aquí o en Estados Unidos? ¿Artista o guionista? ¿Nos estamos pasando de peloteo?
+Cada número, la elección del [#autordelmes](/tags/autordelmes) resulta en un pequeño debate entre los que formamos esta cuenta. ¿Está de actualidad? ¿Aquí o en Estados Unidos? ¿Artista o guionista? ¿Nos estamos pasando de peloteo?
 
 Este mes en cambio, lo teníamos bastante claro. Sin duda es el mes de [@elmonteys](https://instagram.com/elmonteys)... ¿Qué digo el mes? ¡El año!
 
