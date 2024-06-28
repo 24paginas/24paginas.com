@@ -14,4 +14,6 @@ date: 2022-02-20 11:56:47
 [![](/sidebar/banner-adviento.jpg)](/tags/adviento2023) Adviento
 [2018](/tags/adviento2018) / [2022](/tags/adviento2022) / [2023](/tags/adviento2023)
 
+[![](/sidebar/banner-autor-del-mes.jpg)](/tags/autordelmes) [Autor del mes](/tags/autordelmes)
+
 [![](/sidebar/banner-octumatopeyas.jpg)](/tags/octumatopeyas) [Octumatopeyas](/tags/octumatopeyas) de [@uncientovolando](https://instagram.com/uncientovolando)
