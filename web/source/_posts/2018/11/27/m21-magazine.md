@@ -4,7 +4,7 @@ date: 2018-11-27 17:54:33
 media: 
   - 47086161_335258190600066_8366229916055754618_n_18005149726059561.jpg
 tags: 
-  - aylamochilloaylamochilloaylamochillolamochillolamochilloaylamochilloaylamochilloaylamochillo
+  - aylamochillo
   - granvia
   - m21magazine
   - m21radio
