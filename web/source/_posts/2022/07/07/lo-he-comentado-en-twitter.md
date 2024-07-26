@@ -16,7 +16,7 @@ tags:
   - comics
   - albumeuropeo
   - jeanvanhamme
-  - grzegorzrosi
+  - grzegorzrosinski
 template: instagram
 author: neverbot
 ---
@@ -27,4 +27,4 @@ Lo he comentado en Twitter, pero por si fuera de utilidad para alguien lo apunto
 
 Las ediciones son indistinguibles por fuera, la nueva por dentro es en papel satinado. En la ultima foto, la de abajo es la edición correcta.
 
-[#bd](/etiquetas/bd) [#bandedessinee](/etiquetas/bandedessinee) [#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#albumeuropeo](/etiquetas/albumeuropeo) [#jeanvanhamme](/etiquetas/jeanvanhamme) [#grzegorzrosi](/etiquetas/grzegorzrosi)ński
+[#bd](/etiquetas/bd) [#bandedessinee](/etiquetas/bandedessinee) [#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#albumeuropeo](/etiquetas/albumeuropeo) [#jeanvanhamme](/etiquetas/jeanvanhamme) [#grzegorzrosinski](/etiquetas/grzegorzrosinski)
