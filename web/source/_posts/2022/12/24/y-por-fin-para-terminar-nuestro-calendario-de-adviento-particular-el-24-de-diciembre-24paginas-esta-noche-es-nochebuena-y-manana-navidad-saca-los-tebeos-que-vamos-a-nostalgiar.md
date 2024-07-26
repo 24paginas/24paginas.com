@@ -14,7 +14,7 @@ tags:
   - americano
   - japones
   - europeo
-  - bandedesinee
+  - bandedessinee
   - bd
   - manga
   - comics

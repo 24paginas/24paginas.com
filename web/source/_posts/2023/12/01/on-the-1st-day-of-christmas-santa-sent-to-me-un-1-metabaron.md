@@ -9,7 +9,7 @@ tags:
   - valentinsecher
   - jerryfrissen
   - jodorowsky
-  - bandedesinee
+  - bandedessinee
   - bd
   - comics
   - tebeos

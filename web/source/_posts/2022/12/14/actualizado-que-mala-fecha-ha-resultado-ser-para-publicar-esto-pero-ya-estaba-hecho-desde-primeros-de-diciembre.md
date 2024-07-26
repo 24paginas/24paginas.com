@@ -7,7 +7,7 @@ tags:
   - martinquenehen
   - catorcedejulio
   - bastienvives
-  - bandedesinee
+  - bandedessinee
   - bd
   - comics
   - tebeos

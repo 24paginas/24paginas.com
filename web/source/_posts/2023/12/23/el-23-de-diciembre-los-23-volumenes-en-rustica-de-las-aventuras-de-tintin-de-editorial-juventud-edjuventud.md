@@ -7,7 +7,7 @@ tags:
   - editorialjuventud
   - herge
   - tintin
-  - bandedesinee
+  - bandedessinee
   - bd
   - comics
   - tebeos

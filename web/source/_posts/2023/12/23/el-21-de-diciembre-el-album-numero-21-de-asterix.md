@@ -8,7 +8,7 @@ tags:
   - renegoscinny
   - album
   - asterix
-  - bandedesinee
+  - bandedessinee
   - bd
   - comics
   - tebeos

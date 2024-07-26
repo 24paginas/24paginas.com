@@ -9,7 +9,7 @@ tags:
   - renegoscinny
   - comiceuropeo
   - asterix
-  - bandedesinee
+  - bandedessinee
   - bd
   - comics
   - tebeos
