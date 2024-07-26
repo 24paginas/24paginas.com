@@ -10,7 +10,7 @@ tags:
   - novelagrafica
   - guiondecomic
   - escribir
-  - vin
+  - viñetas
   - bocadillos
 template: instagram
 author: uncientovolando
@@ -28,6 +28,6 @@ El Método Muñoz se remata con la experiencia de otro David ([@davizzzz](http
 
 Un libro completo y ameno que te dejará pensando en bocadillos... Mmmmm... bocadiiiiillos...
 
-([@uncientovolando](https://instagram.com/uncientovolando))
+[@espopediciones](https://instagram.com/espopediciones)
 
-[#comic](/tags/comic) [#tebeos](/tags/tebeos) [#novelagrafica](/tags/novelagrafica) [#guiondecomic](/tags/guiondecomic) [#escribir](/tags/escribir) [#vin](/tags/vin)̃etas [#bocadillos](/tags/bocadillos) [@espopediciones](https://instagram.com/espopediciones)
+([@uncientovolando](https://instagram.com/uncientovolando))
