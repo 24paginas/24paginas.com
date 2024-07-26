@@ -34,9 +34,8 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: etiquetas
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
+archive_dir: archivo
+category_dir: categorias
 i18n_dir: :lang
 skip_render:
 
