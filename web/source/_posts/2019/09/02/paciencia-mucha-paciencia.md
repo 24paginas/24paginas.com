@@ -24,4 +24,4 @@ En "Paciencia" se mezclan la angustia existencial y el costumbrismo turbio habit
 
 Lo dicho, paciencia. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#septiembre](/tags/septiembre) [#paciencia](/tags/paciencia) [#danielclowes](/tags/danielclowes) [#timetravel](/tags/timetravel) [#comics](/tags/comics) [@fulgenciopimentel](https://instagram.com/fulgenciopimentel)
+[#septiembre](/etiquetas/septiembre) [#paciencia](/etiquetas/paciencia) [#danielclowes](/etiquetas/danielclowes) [#timetravel](/etiquetas/timetravel) [#comics](/etiquetas/comics) [@fulgenciopimentel](https://instagram.com/fulgenciopimentel)

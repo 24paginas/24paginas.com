@@ -30,4 +30,4 @@ Una vez más, un cómic excelente de una autora que ya se ha vuelto imprescind
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#novelagrafica](/tags/novelagrafica) [#roadtrip](/tags/roadtrip) [#magia](/tags/magia) [#gatetes](/tags/gatetes) [#carretera](/tags/carretera) [#texas](/tags/texas) [#tilliewalden](/tags/tilliewalden) [@edicioneslacupula](https://instagram.com/edicioneslacupula)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#novelagrafica](/etiquetas/novelagrafica) [#roadtrip](/etiquetas/roadtrip) [#magia](/etiquetas/magia) [#gatetes](/etiquetas/gatetes) [#carretera](/etiquetas/carretera) [#texas](/etiquetas/texas) [#tilliewalden](/etiquetas/tilliewalden) [@edicioneslacupula](https://instagram.com/edicioneslacupula)

@@ -25,5 +25,5 @@ Afrontamos el parón de "Saga" con un poco de metadona gráfica con el sello de 
 
 Premisas interesantes para una aventura por lo desconocido. Buenas noches y bienvenidos a la Nave del Misterio. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic)[#conspiracion](/tags/conspiracion)[#misterio](/tags/misterio)[#cienciaficcion](/tags/cienciaficcion)[#robots](/tags/robots)[#roboces](/tags/roboces)[#superpoderes](/tags/superpoderes)[#fionastaples](/tags/fionastaples)
+[#comic](/etiquetas/comic)[#conspiracion](/etiquetas/conspiracion)[#misterio](/etiquetas/misterio)[#cienciaficcion](/etiquetas/cienciaficcion)[#robots](/etiquetas/robots)[#roboces](/etiquetas/roboces)[#superpoderes](/etiquetas/superpoderes)[#fionastaples](/etiquetas/fionastaples)
 [@planetadcomic](https://instagram.com/planetadcomic)

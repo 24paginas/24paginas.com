@@ -28,4 +28,4 @@ Allons’y! Digo... Geronimo!
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#doctorwho](/tags/doctorwho) [#tardis](/tags/tardis) [#cifi](/tags/cifi) [#viajeseneltiempo](/tags/viajeseneltiempo) [#alienigenas](/tags/alienigenas) [@fandogamia](https://instagram.com/fandogamia)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#doctorwho](/etiquetas/doctorwho) [#tardis](/etiquetas/tardis) [#cifi](/etiquetas/cifi) [#viajeseneltiempo](/etiquetas/viajeseneltiempo) [#alienigenas](/etiquetas/alienigenas) [@fandogamia](https://instagram.com/fandogamia)

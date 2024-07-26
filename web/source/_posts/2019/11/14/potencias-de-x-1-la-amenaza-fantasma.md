@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "73480805_2491153787604659_1614013554692001997_n_17847506602731346.jpg" "71794098_1429464467222299_777260861141026023_n_18113163052009441.jpg" %}
 
-Potencias de X [#1](/tags/1):  La amenaza fantasma.
+Potencias de X [#1](/etiquetas/1):  La amenaza fantasma.
 
 Como la propia serie, hemos dividido esta reseña en dos complementarias. Y, como la propia serie, esta reseña supone un contraste con la anterior.
 
@@ -32,4 +32,4 @@ Pero esa cercanía de estilos, unida al estupendo trabajo de Marte Gracia con el
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#marvel](/tags/marvel) [#xmen](/tags/xmen) [#powersofX](/tags/powersofx) [#potenciasdex](/tags/potenciasdex) [#hickman](/tags/hickman) [#mutantes](/tags/mutantes) # [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@martegraciacolor](https://instagram.com/martegraciacolor) [@rbsilva_comics](https://instagram.com/rbsilva_comics)
+[#comic](/etiquetas/comic) [#marvel](/etiquetas/marvel) [#xmen](/etiquetas/xmen) [#powersofX](/etiquetas/powersofx) [#potenciasdex](/etiquetas/potenciasdex) [#hickman](/etiquetas/hickman) [#mutantes](/etiquetas/mutantes) # [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@martegraciacolor](https://instagram.com/martegraciacolor) [@rbsilva_comics](https://instagram.com/rbsilva_comics)

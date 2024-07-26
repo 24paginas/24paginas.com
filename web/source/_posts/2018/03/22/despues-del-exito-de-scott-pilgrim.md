@@ -29,7 +29,7 @@ Seconds es una historia cerrada y costumbrista acerca de las miserias humanas qu
 
 Por contra, en este caso huye totalmente de esas referencias, que tanto éxito le dieron en su anterior obra, hacia el mundo de los cómics, videojuegos y demás. Pero aunque eran de mi gusto, he de decir que comparto la elección y no sólo no se echan en falta, si no que no hubiesen pegado (a mi entender) en absoluto con el cariz dramático de la historia.
 
-Para mi fue toda una delicia de lectura, de esas que te dejan satisfecho y te tocan un poquito [#losfeelings](/tags/losfeelings), dejándote un poso de haber leído un cuentecito muy bien contado. A esto hay que añadir que, a nivel artístico se puede ver una evolución de su estilo muy interesante, adaptándose a la vez al tono de la historia, siendo más comedido en ciertos aspectos, pero con algunos planteamientos visuales y estructuras narrativas que son una maravilla. Algunas paginas directamente son para enmarcar.
+Para mi fue toda una delicia de lectura, de esas que te dejan satisfecho y te tocan un poquito [#losfeelings](/etiquetas/losfeelings), dejándote un poso de haber leído un cuentecito muy bien contado. A esto hay que añadir que, a nivel artístico se puede ver una evolución de su estilo muy interesante, adaptándose a la vez al tono de la historia, siendo más comedido en ciertos aspectos, pero con algunos planteamientos visuales y estructuras narrativas que son una maravilla. Algunas paginas directamente son para enmarcar.
 
 En resumen, preparad una mantita, un café o un chocolate caliente, y echadle un ojo en alguna de esas tarde frías en las que no apetece salir de casa. No os decepcionará.
 

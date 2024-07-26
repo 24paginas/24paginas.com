@@ -29,4 +29,4 @@ Ahora solo falta esperar a la segunda parte...
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#wonderwoman](/tags/wonderwoman) [#dccomics](/tags/dccomics) [#trinity](/tags/trinity) [#monstruos](/tags/monstruos) [#elapocalipsisvaallegar](/tags/elapocalipsisvaallegar) [@eccediciones](https://instagram.com/eccediciones)
+[#comic](/etiquetas/comic) [#wonderwoman](/etiquetas/wonderwoman) [#dccomics](/etiquetas/dccomics) [#trinity](/etiquetas/trinity) [#monstruos](/etiquetas/monstruos) [#elapocalipsisvaallegar](/etiquetas/elapocalipsisvaallegar) [@eccediciones](https://instagram.com/eccediciones)

@@ -22,8 +22,8 @@ author: uncientovolando
 
 {% gallery "71953718_781304492305765_4192467721716119083_n_18102131353064978.jpg" %}
 
-24/31. GENTLE [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+24/31. GENTLE [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
-Bizarro, el duplicado imperfecto y reflejo aberrante de Superman, tiene la peculiaridad de decir justo lo contrario de lo que pretende explicar. Este leguaje bizarro se ha usado en ocasiones también en sus onomatopeyas, cómo esta del Superman [#44](/tags/44) publicada el pasado año.
+Bizarro, el duplicado imperfecto y reflejo aberrante de Superman, tiene la peculiaridad de decir justo lo contrario de lo que pretende explicar. Este leguaje bizarro se ha usado en ocasiones también en sus onomatopeyas, cómo esta del Superman [#44](/etiquetas/44) publicada el pasado año.
 
-[#lettering](/tags/lettering) [#superman](/tags/superman) [#dccomics](/tags/dccomics) [#bizarro](/tags/bizarro) [#buzarroworld](/tags/buzarroworld) [#comic](/tags/comic) [#comicsoundeffects](/tags/comicsoundeffects) [#edicionespecial](/tags/edicionespecial) [@eccediciones](https://instagram.com/eccediciones)
+[#lettering](/etiquetas/lettering) [#superman](/etiquetas/superman) [#dccomics](/etiquetas/dccomics) [#bizarro](/etiquetas/bizarro) [#buzarroworld](/etiquetas/buzarroworld) [#comic](/etiquetas/comic) [#comicsoundeffects](/etiquetas/comicsoundeffects) [#edicionespecial](/etiquetas/edicionespecial) [@eccediciones](https://instagram.com/eccediciones)

@@ -18,7 +18,7 @@ author: uncientovolando
 
 {% gallery "120936156_365774988166593_7415276189073601181_n_17877915022895913.jpg" %}
 
-Marvel [#MUSTHAVE](/tags/musthave): Universo Spiderman. El Multiverso en tus manos.
+Marvel [#MUSTHAVE](/etiquetas/musthave): Universo Spiderman. El Multiverso en tus manos.
 
 Hace un par de años, “Spider-Man: Into the Spiderverse” nos sorprendía llevando al cine parte del Multiverso arácnido que habíamos podido ver antes en la serie del trepamuros. Pero este arco del cómic, que ahora recoge [@paninicomicsespana](https://instagram.com/paninicomicsespana) en su nueva línea Must-Have, tenía un tono más místico y paranormal.
 

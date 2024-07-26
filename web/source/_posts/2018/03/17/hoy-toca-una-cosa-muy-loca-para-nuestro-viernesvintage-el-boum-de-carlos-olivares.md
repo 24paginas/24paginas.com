@@ -28,7 +28,7 @@ author: neverbot
 
 {% gallery "28754145_1993837904161330_5586373754709082112_n_17930562034055481.jpg" "28753408_170872706899492_4975754813967958016_n_17853127063244369.jpg" "28753848_2005417999715020_195661938158469120_n_17923185385075905.jpg" %}
 
-Hoy toca una cosa muy loca para nuestro [#viernesvintage](/tags/viernesvintage): El Boum! De Carlos Olivares.
+Hoy toca una cosa muy loca para nuestro [#viernesvintage](/etiquetas/viernesvintage): El Boum! De Carlos Olivares.
 
 En 1995, antes incluso de la famosa línea Laberinto de forum, Camaleón ediciones se atrevía a publicar unas cuantas cosas (de calidad discutible) nacidas a rebufo del boom del manga en España y los primeros pasos de un incipiente "amerimanga" en USA.
 

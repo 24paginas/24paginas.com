@@ -40,6 +40,6 @@ Como decíamos cuando hablamos sobre el número cero, la introducción al evento
 
 Clint, cuando te preguntes “¿Cómo llegamos a esto?” recuerda que no fue culpa tuya, sino de la Capitana Marvel. Y como premio ella tiene peli y tú no saliste en la última de los Vengadores.
 
-[#teamclintbarton](/tags/teamclintbarton)
+[#teamclintbarton](/etiquetas/teamclintbarton)
 
 [@neverbot](https://instagram.com/neverbot)

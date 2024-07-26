@@ -23,7 +23,7 @@ author: uncientovolando
 
 {% gallery "74917336_482546142620750_6310254402298443787_n_17848423696731247.jpg" "74715145_787087671752058_2689339566509529013_n_17926309879333485.jpg" %}
 
-Dinastía de X [#1](/tags/1):  Una nueva esperanza.
+Dinastía de X [#1](/etiquetas/1):  Una nueva esperanza.
 
 Los mutantes lo han pasado mal. Temidos y odiados por un mundo que han jurado proteger... y, bueno, por Matthew Rosenberg.
 
@@ -35,4 +35,4 @@ Un buen arranque para esta doble miniserie, que se completa con "Potencias de X"
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#marvel](/tags/marvel) [#xmen](/tags/xmen) [#houseofx](/tags/houseofx) [#dinastiadex](/tags/dinastiadex) [#hickman](/tags/hickman) [#mutantes](/tags/mutantes) [#mageneto](/tags/mageneto) [#ciplope](/tags/ciplope) [#lobezno](/tags/lobezno) [#krakoa](/tags/krakoa) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@pepelarraz](https://instagram.com/pepelarraz) [@martegraciacolor](https://instagram.com/martegraciacolor)
+[#comic](/etiquetas/comic) [#marvel](/etiquetas/marvel) [#xmen](/etiquetas/xmen) [#houseofx](/etiquetas/houseofx) [#dinastiadex](/etiquetas/dinastiadex) [#hickman](/etiquetas/hickman) [#mutantes](/etiquetas/mutantes) [#mageneto](/etiquetas/mageneto) [#ciplope](/etiquetas/ciplope) [#lobezno](/etiquetas/lobezno) [#krakoa](/etiquetas/krakoa) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@pepelarraz](https://instagram.com/pepelarraz) [@martegraciacolor](https://instagram.com/martegraciacolor)

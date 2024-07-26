@@ -17,7 +17,7 @@ author: hecdruiz
 
 {% gallery "70871764_386399552028913_8390270802972688578_n_17890640641391988.jpg" "70021772_520089455458546_6609940147579301324_n_18004843411251624.jpg" "70375935_479388859317098_6882967688475989160_n_17877073222445540.jpg" "69864801_158489901889667_8419095936739188515_n_17852741260595279.jpg" "71178322_1014494902223304_7831086909042188256_n_18102995455005509.jpg" "71001758_2708440339180097_6892866286696258431_n_17915016622343032.jpg" %}
 
-¿Una distopía postapocalíptica a lo Mad Max, y van los de Marvel y meten ahí a los X-men? Pues eso fue X-men 2099, que os traigo hoy para este [#viernesvintage](/tags/viernesvintage)
+¿Una distopía postapocalíptica a lo Mad Max, y van los de Marvel y meten ahí a los X-men? Pues eso fue X-men 2099, que os traigo hoy para este [#viernesvintage](/etiquetas/viernesvintage)
 
 Corría el año 1993 y Marvel, junto con mi querídisima Forum nos traían una road movie punkapocalíptica con una generación de mutantes en el nuevo universo futurísta que se habían sacado de la manga y que, aunque ahora nos suena bastante más cercano aquello de 2099, por aquél entonces era un lejano futuro para el que aún quedaba más de un siglo.
 

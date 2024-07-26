@@ -25,7 +25,7 @@ author: uncientovolando
 
 {% gallery "70326284_267568114203755_7734857744786786731_n_17858346340575938.jpg" "75196169_2475811285821506_5579486050715265940_n_17846650285698538.jpg" "71196185_805446616578652_8193789507665611921_n_17883615091440104.jpg" %}
 
-18/31. BAMF [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+18/31. BAMF [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
 Vamos con algo especial para empezar el fin de semana. “Bamf!” es una de las onomatopeyas más reconocibles, pero también el nombre de cierto yutuber y divulgador de cómic que podemos contar entre nuestros amigos.
 

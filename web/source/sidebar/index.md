@@ -7,13 +7,13 @@ date: 2022-02-20 11:56:47
 
 - [![](/sidebar/banner-24s-por-el-mundo.jpg)](/articulos/veinticuatrosporelmundo) [Por el mundo](/articulos/veinticuatrosporelmundo)
 
-- [![](/sidebar/banner-manga.jpg)](/tags/manga) [Manga en 24páginas](/tags/manga)
+- [![](/sidebar/banner-manga.jpg)](/etiquetas/manga) [Manga en 24páginas](/etiquetas/manga)
 
-- [![](/sidebar/banner-spawn.jpg)](/tags/spawn) [Relectura de Spawn](/tags/spawn)
+- [![](/sidebar/banner-spawn.jpg)](/etiquetas/spawn) [Relectura de Spawn](/etiquetas/spawn)
 
-- [![](/sidebar/banner-adviento.jpg)](/tags/adviento2023) Adviento
-[2018](/tags/adviento2018) / [2022](/tags/adviento2022) / [2023](/tags/adviento2023)
+- [![](/sidebar/banner-adviento.jpg)](/etiquetas/adviento2023) Adviento
+[2018](/etiquetas/adviento2018) / [2022](/etiquetas/adviento2022) / [2023](/etiquetas/adviento2023)
 
-- [![](/sidebar/banner-autor-del-mes.jpg)](/tags/autordelmes) [Autor del mes](/tags/autordelmes)
+- [![](/sidebar/banner-autor-del-mes.jpg)](/etiquetas/autordelmes) [Autor del mes](/etiquetas/autordelmes)
 
-- [![](/sidebar/banner-octumatopeyas.jpg)](/tags/octumatopeyas) [Octumatopeyas](/tags/octumatopeyas) de [@uncientovolando](https://instagram.com/uncientovolando)
+- [![](/sidebar/banner-octumatopeyas.jpg)](/etiquetas/octumatopeyas) [Octumatopeyas](/etiquetas/octumatopeyas) de [@uncientovolando](https://instagram.com/uncientovolando)

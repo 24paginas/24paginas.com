@@ -34,7 +34,7 @@ Ha supuesto mucho trabajo, rascar horas de otras cosas y dar mucho la chapa, per
 
 Con él, hemos querido escribir nuestra particular carta de amor a la grapa. Aunque sean tiempos difíciles, y caros, para este formato.
 
-Repasamos gráficamente los 50 años de Marvel en España, entrevistamos a Pere Olivé y a algunos de sus colaboradores sobre la Generación Forum y repasamos estos dos últimos años en [#lodeloscomics](/tags/lodeloscomics) con nuestros no-premios: los 24 de 24 páginas.
+Repasamos gráficamente los 50 años de Marvel en España, entrevistamos a Pere Olivé y a algunos de sus colaboradores sobre la Generación Forum y repasamos estos dos últimos años en [#lodeloscomics](/etiquetas/lodeloscomics) con nuestros no-premios: los 24 de 24 páginas.
 
 Pronto empezaremos a enviar los ejemplares reservados y podréis encontrar algún ejemplar en tiendas como [@idsecretatebeos](https://instagram.com/idsecretatebeos). Aunque todavía tenemos algunos ejemplares disponibles que podéis comprar mediante el LINK EN NUESTRA BIO.
 

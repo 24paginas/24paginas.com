@@ -30,4 +30,4 @@ Y es que echábamos de menos al dibujante asturiano. Su vuelta es tan fresca com
 
 Pura dinamita! ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic)[#tebeos](/tags/tebeos)[#germangarcia](/tags/germangarcia)[#pulp](/tags/pulp)[#bikini](/tags/bikini)[#crossover](/tags/crossover)[#barbarella](/tags/barbarella)[#dejahthoris](/tags/dejahthoris)[#swimsuitspecial](/tags/swimsuitspecial) [@radar_comics](https://instagram.com/radar_comics) [@dynamitecomics](https://instagram.com/dynamitecomics)
+[#comic](/etiquetas/comic)[#tebeos](/etiquetas/tebeos)[#germangarcia](/etiquetas/germangarcia)[#pulp](/etiquetas/pulp)[#bikini](/etiquetas/bikini)[#crossover](/etiquetas/crossover)[#barbarella](/etiquetas/barbarella)[#dejahthoris](/etiquetas/dejahthoris)[#swimsuitspecial](/etiquetas/swimsuitspecial) [@radar_comics](https://instagram.com/radar_comics) [@dynamitecomics](https://instagram.com/dynamitecomics)

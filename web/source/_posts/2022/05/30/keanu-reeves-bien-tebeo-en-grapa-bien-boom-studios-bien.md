@@ -24,4 +24,4 @@ author: neverbot
 
 Keanu Reeves bien, tebeo en grapa bien, Boom Studios bien. No podía salir algo malo de aquí. El primer número es algo muy markmilleresco claramente preparado para traducirlo a una película, apenas con una muy visual presentación de personaje… pero me vale para ir a por el segundo. A tope con esto.
 
-[#brzrkr](/tags/brzrkr) [#keanureeves](/tags/keanureeves) [#mattkindt](/tags/mattkindt) [#rongarney](/tags/rongarney) [#boomstudios](/tags/boomstudios) [@boom_studios](https://instagram.com/boom_studios) [#planetacomic](/tags/planetacomic) [@planetadcomic](https://instagram.com/planetadcomic)
+[#brzrkr](/etiquetas/brzrkr) [#keanureeves](/etiquetas/keanureeves) [#mattkindt](/etiquetas/mattkindt) [#rongarney](/etiquetas/rongarney) [#boomstudios](/etiquetas/boomstudios) [@boom_studios](https://instagram.com/boom_studios) [#planetacomic](/etiquetas/planetacomic) [@planetadcomic](https://instagram.com/planetadcomic)

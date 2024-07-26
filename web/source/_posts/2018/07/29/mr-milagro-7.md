@@ -21,7 +21,7 @@ author: uncientovolando
 
 {% gallery "37738109_417337795453955_362885579295162368_n_17890462288225188.jpg" "37391934_242885226329643_3729727639678615552_n_17874655225252946.jpg" %}
 
-Mr. Milagro [#7](/tags/7)
+Mr. Milagro [#7](/etiquetas/7)
 
 Debería haber escrito hace un par de días, pero soy un desastre. Entonces, podría haber dicho que hacía exactamente un año y medio que me encontraba como Scott Free en este número. Por suerte en mi caso no había ni rastro de Furias Femeninas.
 

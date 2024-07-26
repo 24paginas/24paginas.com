@@ -25,7 +25,7 @@ author: neverbot
 
 {% gallery "57558557_369196067138548_3309174077185710409_n_18056996758055639.jpg" "57125876_1953469461425411_4458793413590862709_n_17982937255231807.jpg" "57038502_846363762363827_4167702172708678071_n_18058538206002308.jpg" "57029186_297804704495755_1084217983427249824_n_17965652857247766.jpg" "58410867_351271582181668_3744985502882152127_n_18041502550105542.jpg" %}
 
-Gigantomaquia, o cómo sería Shingeki no Kyojin con un dibujante decente [#miercolesmanga](/tags/miercolesmanga)
+Gigantomaquia, o cómo sería Shingeki no Kyojin con un dibujante decente [#miercolesmanga](/etiquetas/miercolesmanga)
 
 Tomo que empieza y “termina”, aunque dando toda la impresión de que era un intento de serie abierta porque Kentaro Miura ya no sabía por dónde continuar (o no le apetecía) con Berserk.
 

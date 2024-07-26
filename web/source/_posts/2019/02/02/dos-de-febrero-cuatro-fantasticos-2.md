@@ -21,9 +21,9 @@ author: uncientovolando
 
 {% gallery "51399161_557877581392807_3334985451432868349_n_17862954796317505.jpg" %}
 
-Dos de febrero: Cuatro Fantásticos [#2](/tags/2)
+Dos de febrero: Cuatro Fantásticos [#2](/etiquetas/2)
 
-Grandes efes nos rodean hoy, aunque no la gran F de [@fandogamia](https://instagram.com/fandogamia) sino las de [#febrero](/tags/febrero) y [#FantasticFour](/tags/fantasticfour).
+Grandes efes nos rodean hoy, aunque no la gran F de [@fandogamia](https://instagram.com/fandogamia) sino las de [#febrero](/etiquetas/febrero) y [#FantasticFour](/etiquetas/fantasticfour).
 
 Hace poco nos llegó, de la mano de [@paninicomicsespana](https://instagram.com/paninicomicsespana) , el segundo número del relanzamiento de la primera familia marvelita, donde se narra la reunión (al fin) del equipo.
 

@@ -21,4 +21,4 @@ Qué mejor forma de retomar el ritmo de publicación que con Los Combates Cotidi
 
 No te cuenta nada y te lo cuenta todo. Porque hoy en día todos somos un poco como su protagonista, tenemos nuestras alegrías y nuestras penas, nuestros problemas y nuestros conflictos. Y parece que hay que poner una sonrisa y decir “jajaja, problemas del primer mundo”, pero no. Si son nuestros problemas, es igual de qué mundo sean.
 
-[#combatescotidianos](/tags/combatescotidianos) [#manularcenet](/tags/manularcenet) [@norma_editorial](https://instagram.com/norma_editorial)
+[#combatescotidianos](/etiquetas/combatescotidianos) [#manularcenet](/etiquetas/manularcenet) [@norma_editorial](https://instagram.com/norma_editorial)

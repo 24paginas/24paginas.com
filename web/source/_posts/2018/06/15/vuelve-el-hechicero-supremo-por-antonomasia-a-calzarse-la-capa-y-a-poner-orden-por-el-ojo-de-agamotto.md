@@ -29,7 +29,7 @@ author: hecdruiz
 
 Si, lo se, de doctores va la semana, pero no os voy a engañar.. que perecita me ha dado este número.
 
-Lo mejor, sin duda, la edición con la portada [#younggun](/tags/younggun) del enormérrimo Javier Garrón que se marca una obra maestra digna de colgarse en pared. Una MA-RA-VI-LLA.
+Lo mejor, sin duda, la edición con la portada [#younggun](/etiquetas/younggun) del enormérrimo Javier Garrón que se marca una obra maestra digna de colgarse en pared. Una MA-RA-VI-LLA.
 
 El tema es que luego echo de menos a Walta desde la primera página. Que siendo tan fan de Bachalo ya se me hizo durillo el pasar a Walta, pero tengo que reconocer que le he cogido el gusto, tanto a su estilo, como a su manera de narrar. Habrá que ver que nos va ofreciendo Henrichon con su estilo algo más sucio, pero de primeras no me parece una mejora. No es que me disguste, pero tampoco me enamora.
 

@@ -22,7 +22,7 @@ author: uncientovolando
 
 La Espada de las Eras
 
-El pasado 5 de mayo, además de uno de los cumpleaños más importantes de mi agenda, se celebró el [#diadelcomicgratis](/tags/diadelcomicgratis). Sepultadas bajo una [#latorredelectura](/tags/latorredelectura) que no paraba de crecer llevaban desde entonces algunas grapas.
+El pasado 5 de mayo, además de uno de los cumpleaños más importantes de mi agenda, se celebró el [#diadelcomicgratis](/etiquetas/diadelcomicgratis). Sepultadas bajo una [#latorredelectura](/etiquetas/latorredelectura) que no paraba de crecer llevaban desde entonces algunas grapas.
 
 Una de las más destacables era la de [@norma_editorial](https://instagram.com/norma_editorial), La Espada de las Eras. La obra del chileno [@gr_comics](https://instagram.com/gr_comics) que aun espera su edición en España. Seres míticos, naves espaciales y aventuras se mezclan en esta serie con cierto aire "europeo" y gran personalidad en el dibujo.
 

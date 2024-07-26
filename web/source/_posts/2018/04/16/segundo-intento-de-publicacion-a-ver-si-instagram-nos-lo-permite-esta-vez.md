@@ -39,7 +39,7 @@ Por suerte la acción avanza endiablada y antes de que podamos darnos cuenta, no
 
 Como principal carta de presentación tenemos al señor Ramos a los lápices, con un estilo más tosco que lo que podríamos disfrutar posteriormente en Spiderman, pero que para mi gusto le va de perlas a esta historia, siendo un poco más sucio y exagerado.
 
-A eso habría que añadirle un argumento que brillo especialmente en un punto que a la postre, haría destacar a esta serie como ninguna otra dentro del sello [#Cliffhanger](/tags/cliffhanger): continuidad.
+A eso habría que añadirle un argumento que brillo especialmente en un punto que a la postre, haría destacar a esta serie como ninguna otra dentro del sello [#Cliffhanger](/etiquetas/cliffhanger): continuidad.
 
 Y es que aquí tenemos la primera serie de dicho sello que consiguió llegar a un cierre y mantenerse firme durante un par de años, mes a mes. Ojo que no es cosa baladí, que si nos fijamos en las otras series con las que se inició el sello, aún están esperando un cierre a día de hoy y apenas llegan a la mitad de las entregas que nos dio Crimson.
 

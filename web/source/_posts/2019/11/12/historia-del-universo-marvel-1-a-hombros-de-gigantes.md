@@ -22,9 +22,9 @@ author: uncientovolando
 
 {% gallery "70847724_1838416172970130_7302454192774624648_n_18126234547037962.jpg" "67619287_240227960273191_824573111726476616_n_18080587180190873.jpg" %}
 
-Historia del Universo Marvel [#1](/tags/1): A hombros de gigantes.
+Historia del Universo Marvel [#1](/etiquetas/1): A hombros de gigantes.
 
-Se han cumplido 80 años desde que naciera Marvel Comics, antes Timely, y aunque el Marvel Comics [#1000](/tags/1000) pretendía ser la celebración de dicho hito creo que el auténtico homenaje está aquí.
+Se han cumplido 80 años desde que naciera Marvel Comics, antes Timely, y aunque el Marvel Comics [#1000](/etiquetas/1000) pretendía ser la celebración de dicho hito creo que el auténtico homenaje está aquí.
 
 80 años de historias, multiplicadas por el "tiempo Marvel", no son algo facil de condensar en tan solo 6 números pero Mark Waid y Javi Rodríguez (con la inestimable ayuda de Álvaro López) consiguen que todo quepa y funcione.
 
@@ -40,4 +40,4 @@ Un cómic que da lo suyo tanto a iniciados como a recién llegados. Make Mine Ma
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#marvel](/tags/marvel) [#comics](/tags/comics) [#infinitystones](/tags/infinitystones) [#galactus](/tags/galactus) [#bigbang](/tags/bigbang) [#historia](/tags/historia) [#celestiales](/tags/celestiales) [#stanlee](/tags/stanlee) [#marveluniverse](/tags/marveluniverse) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#marvel](/etiquetas/marvel) [#comics](/etiquetas/comics) [#infinitystones](/etiquetas/infinitystones) [#galactus](/etiquetas/galactus) [#bigbang](/etiquetas/bigbang) [#historia](/etiquetas/historia) [#celestiales](/etiquetas/celestiales) [#stanlee](/etiquetas/stanlee) [#marveluniverse](/etiquetas/marveluniverse) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

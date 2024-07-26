@@ -27,7 +27,7 @@ author: uncientovolando
 
 Los Mundos de Steve Didko: Psicodelia cotidiana.
 
-Dado el éxito de la reseña del libro sobre [#spidermanintothespiderverse](/tags/spidermanintothespiderverse) volvemos a nuestro amigo y vecino, y más concretamente a su origen.
+Dado el éxito de la reseña del libro sobre [#spidermanintothespiderverse](/etiquetas/spidermanintothespiderverse) volvemos a nuestro amigo y vecino, y más concretamente a su origen.
 
 No soy muy fan de este tipo de recopilatorios que recogen un poco de aquí y allá para crear un perfil de un autor.
 

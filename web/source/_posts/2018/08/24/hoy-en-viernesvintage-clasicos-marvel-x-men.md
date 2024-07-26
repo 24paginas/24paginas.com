@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "38963887_447857828956132_2926509111115776000_n_17948615308143331.jpg" %}
 
-Hoy en [#viernesvintage](/tags/viernesvintage): Clásicos MARVEL - X-Men
+Hoy en [#viernesvintage](/etiquetas/viernesvintage): Clásicos MARVEL - X-Men
 
 Otra portada de Pacheco, en este caso para ilustrar el viaje a la Tierra Salvaje de La Patrulla-X. Con Ka-Zar y Zabu en primer plano, y los mutantes detrás recortados de cintura para abajo.
 

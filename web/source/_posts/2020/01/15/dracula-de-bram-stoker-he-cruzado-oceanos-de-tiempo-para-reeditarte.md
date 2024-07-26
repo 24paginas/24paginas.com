@@ -31,4 +31,4 @@ Tras mucho tiempo sin una reedición, [@norma_editorial](https://instagram.com/n
 
 Una interesante forma de ver la gran tentación de nuestro señor Jesu... Keanu Reeves. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#24paginas](/tags/24paginas) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#mikemignola](/tags/mikemignola) [#coppola](/tags/coppola) [#dracula](/tags/dracula) [#vampiros](/tags/vampiros) [#adaptacion](/tags/adaptacion) [#terror](/tags/terror) [@normaedusa](https://instagram.com/normaedusa)
+[#24paginas](/etiquetas/24paginas) [#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#mikemignola](/etiquetas/mikemignola) [#coppola](/etiquetas/coppola) [#dracula](/etiquetas/dracula) [#vampiros](/etiquetas/vampiros) [#adaptacion](/etiquetas/adaptacion) [#terror](/etiquetas/terror) [@normaedusa](https://instagram.com/normaedusa)

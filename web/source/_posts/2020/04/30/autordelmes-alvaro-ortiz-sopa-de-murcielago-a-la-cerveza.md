@@ -19,7 +19,7 @@ author: 24paginas
 
 {% gallery "94920197_560527541260081_2296164373388163553_n_17890414765502590.jpg" "95065047_2873707716075139_1355101501760120844_n_17941647853355530.jpg" %}
 
-[#autordelmes](/tags/autordelmes): Álvaro Ortiz, sopa de murciélago a la cerveza.
+[#autordelmes](/etiquetas/autordelmes): Álvaro Ortiz, sopa de murciélago a la cerveza.
 
 Cerramos un mes en el que nos hemos tomado la cosa con mucha, y necesaria, calma reivindicando a quienes no han parado de hacer cosas. Y como los que no han parado son muchos, dejamos en vuestras manos la selección entre [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_, [@davidramirezros](https://instagram.com/davidramirezros) y [@lauriellemaven](https://instagram.com/lauriellemaven).
 

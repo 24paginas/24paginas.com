@@ -31,6 +31,6 @@ Mil gracias a [@planetadcomic](https://instagram.com/planetadcomic) por continua
 
 Y poco más, que me apetecía celebrarlo. Ahora a darle una buena lectura con la nostalgia over nine thousand y ya os contaré que  tal.
 
-Pero vamos, es Ranma. [#RumikoTakahashi](/tags/rumikotakahashi) en todo su esplendor. Difícil será que no me saque una sonrisa por lo menos, y eso a día de hoy ya es toda una hazaña.
+Pero vamos, es Ranma. [#RumikoTakahashi](/etiquetas/rumikotakahashi) en todo su esplendor. Difícil será que no me saque una sonrisa por lo menos, y eso a día de hoy ya es toda una hazaña.
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

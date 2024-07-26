@@ -20,8 +20,8 @@ author: neverbot
 
 {% gallery "318346256_1196414730996486_3355551108936674532_n_17956144184333148.jpg" %}
 
-Novedades de [#PlanetaComic](/tags/planetacomic) para el mes de Enero.
+Novedades de [#PlanetaComic](/etiquetas/planetacomic) para el mes de Enero.
 
-Reseñables: continúa la reedición de [#Mage](/tags/mage) en tres integrales, nuevo tomo de [#Spawn](/tags/spawn) (sigh, no lo tendremos en grapa), termina la nueva serie de [#Azzarello](/tags/azzarello) y [#Risso](/tags/risso) y el cuarto álbum del [#Conan](/tags/conan) europeo de Glénat (lo que me recuerda que me he saltado el tercero).
+Reseñables: continúa la reedición de [#Mage](/etiquetas/mage) en tres integrales, nuevo tomo de [#Spawn](/etiquetas/spawn) (sigh, no lo tendremos en grapa), termina la nueva serie de [#Azzarello](/etiquetas/azzarello) y [#Risso](/etiquetas/risso) y el cuarto álbum del [#Conan](/etiquetas/conan) europeo de Glénat (lo que me recuerda que me he saltado el tercero).
 
 Incluye entrevista a Paulina Palacios y una nueva mini sección para descubrir Librerías, que siempre es de agradecer.

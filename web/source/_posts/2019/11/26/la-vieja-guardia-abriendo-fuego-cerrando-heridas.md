@@ -29,4 +29,4 @@ Aunque la serie continúa, este primer arco se puede leer perfectamente como una
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#cómic](/tags/comic) [#bélico](/tags/belico) [#gregrucka](/tags/gregrucka) [#inmortales](/tags/inmortales) [#regeneracion](/tags/regeneracion) [#guerra](/tags/guerra) [@normaedusa](https://instagram.com/normaedusa)
+[#cómic](/etiquetas/comic) [#bélico](/etiquetas/belico) [#gregrucka](/etiquetas/gregrucka) [#inmortales](/etiquetas/inmortales) [#regeneracion](/etiquetas/regeneracion) [#guerra](/etiquetas/guerra) [@normaedusa](https://instagram.com/normaedusa)

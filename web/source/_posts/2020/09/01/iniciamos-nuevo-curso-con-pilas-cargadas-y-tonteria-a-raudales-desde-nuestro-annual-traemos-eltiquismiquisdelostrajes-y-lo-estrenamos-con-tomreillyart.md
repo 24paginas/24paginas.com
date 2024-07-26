@@ -20,7 +20,7 @@ author: hecdruiz
 
 {% gallery "118601642_305408883858927_2173633478504813262_n_17883619495732668.jpg" "118553069_917845332058775_5386198761733332810_n_17857495361153392.jpg" %}
 
-Iniciamos nuevo curso con pilas cargadas y tontería a raudales! Desde nuestro annual traemos [#eltiquismiquisdelostrajes](/tags/eltiquismiquisdelostrajes) y lo estrenamos con [@tomreillyart](https://instagram.com/tomreillyart)!
+Iniciamos nuevo curso con pilas cargadas y tontería a raudales! Desde nuestro annual traemos [#eltiquismiquisdelostrajes](/etiquetas/eltiquismiquisdelostrajes) y lo estrenamos con [@tomreillyart](https://instagram.com/tomreillyart)!
 
 Cargadas las pilas, empezamos este curso con una nueva sección donde, desde la tontería y el cariño, os traeremos propuestas de rediseños de trajes superheróicos que nos han gustado especialmente o llamado la atención, junto a como habríamos terminado de poner dicha propuesta a nuestro gusto. Sí, somos así de pinchauvas con los detallitos…
 

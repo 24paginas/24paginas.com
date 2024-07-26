@@ -23,7 +23,7 @@ author: uncientovolando
 
 Green Lantern: La ley universal de Grant Morrison.
 
-Lo primero, creo que debería de reconocer que no soy un gran fan de Green Lantern. Más allá de alguna etapa y de sagas en las que podía tener más o menos importancia, no he leído demasiado del personaje. Por eso tenia cierto miedo a entrar en esta serie y que fuera “café para los muy cafeteros”. Pero la insistencia de algunos conocidos me picaba la curiosidad, así que me hice de golpe con 7 números porque [#lagrapaesamor](/tags/lagrapaesamor) y de algo hay que morir.
+Lo primero, creo que debería de reconocer que no soy un gran fan de Green Lantern. Más allá de alguna etapa y de sagas en las que podía tener más o menos importancia, no he leído demasiado del personaje. Por eso tenia cierto miedo a entrar en esta serie y que fuera “café para los muy cafeteros”. Pero la insistencia de algunos conocidos me picaba la curiosidad, así que me hice de golpe con 7 números porque [#lagrapaesamor](/etiquetas/lagrapaesamor) y de algo hay que morir.
 
 Es cierto que la intensidad del universo de los guardianes está ahí, pero mi poco conocimiento no me ha impedido disfrutar de la serie. La capacidad de Morrison para hacer algo no demasiado comprensible pero tremendamente disfrutable democratiza micho el acceso a esta serie. Da igual que Sean un experto en Oa o un novato, te vas a enterar igual de poco. Pero sí te gusta Morrison, es posible que disfrutes por el camino.
 
@@ -35,4 +35,4 @@ Una colección interesante para noches oscuras o días luminosos.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comics](/tags/comics) [#tebeos](/tags/tebeos) [#greenlantern](/tags/greenlantern) [#dccomics](/tags/dccomics) [#grantmorrison](/tags/grantmorrison) [#liamsharp](/tags/liamsharp) [#cifi](/tags/cifi) [@eccediciones](https://instagram.com/eccediciones)
+[#comics](/etiquetas/comics) [#tebeos](/etiquetas/tebeos) [#greenlantern](/etiquetas/greenlantern) [#dccomics](/etiquetas/dccomics) [#grantmorrison](/etiquetas/grantmorrison) [#liamsharp](/etiquetas/liamsharp) [#cifi](/etiquetas/cifi) [@eccediciones](https://instagram.com/eccediciones)

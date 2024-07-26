@@ -24,11 +24,11 @@ author: uncientovolando
 
 {% gallery "71106847_2657468820979346_8982445398360680637_n_17861779171556297.jpg" %}
 
-21/31. HAHA [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+21/31. HAHA [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
-Hemos hecho muchas coñas con La Broma Asesina y sus múltiples ediciones (corred a ver nuestra [#NOVEASLAgrafica](/tags/noveaslagrafica) al respecto, es de las mejores que hemos hecho!), pero es cierto que se trata de una obra tremendamente icónica. La risa del Joker, corriendo en paralelo a la sirena de policía, llenándolo todo... Poca broma.
+Hemos hecho muchas coñas con La Broma Asesina y sus múltiples ediciones (corred a ver nuestra [#NOVEASLAgrafica](/etiquetas/noveaslagrafica) al respecto, es de las mejores que hemos hecho!), pero es cierto que se trata de una obra tremendamente icónica. La risa del Joker, corriendo en paralelo a la sirena de policía, llenándolo todo... Poca broma.
 
 HAHA!
 
-[#lettering](/tags/lettering) [#batman](/tags/batman) [#joker](/tags/joker) [#killingjoke](/tags/killingjoke) [#dccomics](/tags/dccomics) [#alanmoore](/tags/alanmoore) [#labromaasesina](/tags/labromaasesina) [#comic](/tags/comic) [#comicsoundeffects](/tags/comicsoundeffects) [#edicionespecial](/tags/edicionespecial)
+[#lettering](/etiquetas/lettering) [#batman](/etiquetas/batman) [#joker](/etiquetas/joker) [#killingjoke](/etiquetas/killingjoke) [#dccomics](/etiquetas/dccomics) [#alanmoore](/etiquetas/alanmoore) [#labromaasesina](/etiquetas/labromaasesina) [#comic](/etiquetas/comic) [#comicsoundeffects](/etiquetas/comicsoundeffects) [#edicionespecial](/etiquetas/edicionespecial)
 [@eccediciones](https://instagram.com/eccediciones)

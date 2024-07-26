@@ -22,7 +22,7 @@ author: hecdruiz
 
 {% gallery "69389351_1145071432549264_1379201573072550587_n_17863293922472421.jpg" "67495815_155160818907869_3512070757055943039_n_18074525251097362.jpg" "67288528_219740502335554_856955680379862624_n_17956598602291857.jpg" "67804948_2350747925165366_6923948428695427976_n_17990128411270905.jpg" "67887682_660339457797216_334131666348340304_n_17860405630481712.jpg" "67934535_151946522556829_3314763890613829111_n_18092762434003556.jpg" %}
 
-Un manga para este [#miercolesmanga](/tags/miercolesmanga) con el cuaderno ideal para aquellos que estamos de vuelta de vacaciones. Ni más ni menos que Death Note de Tsugumi Ōba y Takeshi Obata.
+Un manga para este [#miercolesmanga](/etiquetas/miercolesmanga) con el cuaderno ideal para aquellos que estamos de vuelta de vacaciones. Ni más ni menos que Death Note de Tsugumi Ōba y Takeshi Obata.
 
 Manga que en su momento supuso un boom a todos los niveles, y que os traigo en la primera edición que sacó por estas tierras [@normaedmanga](https://instagram.com/normaedmanga) en 13 tomitos de los de toda la vida. No estaba mal pero desde luego la black edition que sacaron posteriormente merece mucho más la pena si queréis haceros con ella.
 

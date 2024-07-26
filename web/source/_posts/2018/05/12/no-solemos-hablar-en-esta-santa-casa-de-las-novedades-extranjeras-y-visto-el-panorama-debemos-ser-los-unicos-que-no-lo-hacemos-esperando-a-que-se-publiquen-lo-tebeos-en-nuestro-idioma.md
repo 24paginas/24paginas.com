@@ -28,7 +28,7 @@ author: neverbot
 
 No solemos hablar en esta santa casa de las novedades extranjeras (y visto el panorama debemos ser los únicos que no lo hacemos), esperando a que se publiquen lo tebeos en nuestro idioma. Hagamos una excepción en la que hemos caído varios "veinticuatros".
 
-Action Comics [#1000](/tags/1000), 80 añazos de personaje, que se dice pronto. Y para celebrarlo, un número especial dentro de la numeración habitual, que no incluye nada particularmente... en fin, qué se yo. Últimamente no leo nada que me llame la atención.
+Action Comics [#1000](/etiquetas/1000), 80 añazos de personaje, que se dice pronto. Y para celebrarlo, un número especial dentro de la numeración habitual, que no incluye nada particularmente... en fin, qué se yo. Últimamente no leo nada que me llame la atención.
 
 Diez historias cortas, de autores relevantes en la historia más o menos reciente del personaje, en las que las más acertadas tampoco es que tengan mucho espacio para llegar a brillar.
 

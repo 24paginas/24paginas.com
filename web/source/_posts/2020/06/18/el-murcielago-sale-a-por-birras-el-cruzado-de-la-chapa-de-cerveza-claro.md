@@ -23,7 +23,7 @@ El Murcielago sale a por birras: El Cruzado de la Chapa (de cerveza, claro).
 
 Pues resulta que a lo tonto nos hemos pasado confinados casi tres meses, más lo que queda de desescalada, y hay gente que se ha liado a hacer cosas. A muchos les ha dado por el pan y la repostería hasta agotar las provisiones de harina de los supermercados, a otros por los directos de Instagram, por limpiar y desinfectar hasta niveles cuánticos o por dibujar.
 
-De estos últimos ya hablamos cuando propusimos nuestro penúltimo [#autordelmes](/tags/autordelmes), el primero por votación popular, que fue a parar virtualmente a [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_. Los chicos de [@carambacomics](https://instagram.com/carambacomics) (el sello de [@astiberri_ediciones](https://instagram.com/astiberri_ediciones) dedicado al humor gráfico) estuvieron rápidos y listos y para cuando empezamos a salir de casa y volver a las librerías ya tenían un recopilatorio preparado.
+De estos últimos ya hablamos cuando propusimos nuestro penúltimo [#autordelmes](/etiquetas/autordelmes), el primero por votación popular, que fue a parar virtualmente a [@alvaro_ortiz](https://instagram.com/alvaro_ortiz)_. Los chicos de [@carambacomics](https://instagram.com/carambacomics) (el sello de [@astiberri_ediciones](https://instagram.com/astiberri_ediciones) dedicado al humor gráfico) estuvieron rápidos y listos y para cuando empezamos a salir de casa y volver a las librerías ya tenían un recopilatorio preparado.
 
 Las tiras diarias funcionan a la perfección como historia continua y siguen frescas en la segunda lectura de esta versión del Caballero Oscuro que va más allá de la parodia. Ojalá más cómics de Batman tan divertidos como este.
 

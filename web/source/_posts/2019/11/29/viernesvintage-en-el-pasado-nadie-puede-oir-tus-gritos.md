@@ -22,7 +22,7 @@ author: uncientovolando
 
 {% gallery "75358237_756378898170117_5504780658554869211_n_18117518821018600.jpg" "69095435_2262700270695459_2385253104150371044_n_17858326720621770.jpg" "75352143_731154420713100_3196701007133092125_n_17845176994790244.jpg" %}
 
-[#viernesvintage](/tags/viernesvintage): En el pasado nadie puede oir tus gritos.
+[#viernesvintage](/etiquetas/viernesvintage): En el pasado nadie puede oir tus gritos.
 
 Si ayer hablábamos del Sentient de Lemire y Walta, hoy traemos algo que bien podría haber servido de referencia para el arte de dicho cómic.
 

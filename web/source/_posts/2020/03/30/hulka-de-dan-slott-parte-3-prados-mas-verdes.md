@@ -31,4 +31,4 @@ No es fácil ser verde.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#marvel](/tags/marvel) [#shehulk](/tags/shehulk) [#hulka](/tags/hulka) [#shulkie](/tags/shulkie) [#hulk](/tags/hulk) [#ironman](/tags/ironman) [#shield](/tags/shield) [#laabogadasolteraluchaporsucliente](/tags/laabogadasolteraluchaporsucliente) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#comic](/etiquetas/comic) [#marvel](/etiquetas/marvel) [#shehulk](/etiquetas/shehulk) [#hulka](/etiquetas/hulka) [#shulkie](/etiquetas/shulkie) [#hulk](/etiquetas/hulk) [#ironman](/etiquetas/ironman) [#shield](/etiquetas/shield) [#laabogadasolteraluchaporsucliente](/etiquetas/laabogadasolteraluchaporsucliente) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

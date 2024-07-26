@@ -31,4 +31,4 @@ Si te gustó cualquiera de las obras anteriores de King, lánzate de cabeza. Est
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#dccomics](/tags/dccomics) [#mrmilagro](/tags/mrmilagro) [#strangeadventures](/tags/strangeadventures) [#adamstrange](/tags/adamstrange) [#tomking](/tags/tomking) [#mitchgerads](/tags/mitchgerads) [#docshaner](/tags/docshaner) [@eccediciones](https://instagram.com/eccediciones)
+[#comic](/etiquetas/comic) [#dccomics](/etiquetas/dccomics) [#mrmilagro](/etiquetas/mrmilagro) [#strangeadventures](/etiquetas/strangeadventures) [#adamstrange](/etiquetas/adamstrange) [#tomking](/etiquetas/tomking) [#mitchgerads](/etiquetas/mitchgerads) [#docshaner](/etiquetas/docshaner) [@eccediciones](https://instagram.com/eccediciones)

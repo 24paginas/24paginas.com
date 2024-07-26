@@ -28,6 +28,6 @@ author: neverbot
 
 Seguimos con el calendario de adviento: el 4 de Diciembre tenemos los 4 números de Los 4 Fantásticos vs X-Men.
 
-Recuerdos de un tiempo lejano, etapa [#forum](/tags/forum) de [#Marvel](/tags/marvel) en España, guiones de Chris Claremont y dibujo de John Bogdanove y Terry Austin en 1987 (88 aquí), de cuando Reed Richards fumaba en pipa y no pasaba nada. Definitivamente eran otros tiempo y otros tebeos, y si teníamos a Franklin Richards en el aire montando a Lockheed no pasaba nada, porque aquí veníamos a pasarlo bien.
+Recuerdos de un tiempo lejano, etapa [#forum](/etiquetas/forum) de [#Marvel](/etiquetas/marvel) en España, guiones de Chris Claremont y dibujo de John Bogdanove y Terry Austin en 1987 (88 aquí), de cuando Reed Richards fumaba en pipa y no pasaba nada. Definitivamente eran otros tiempo y otros tebeos, y si teníamos a Franklin Richards en el aire montando a Lockheed no pasaba nada, porque aquí veníamos a pasarlo bien.
 
 ¿Y de la portada de Kano ([@kano_es](https://instagram.com/kano_es)) qué me dices, eh?

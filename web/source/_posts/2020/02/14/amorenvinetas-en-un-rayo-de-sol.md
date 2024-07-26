@@ -17,7 +17,7 @@ author: uncientovolando
 
 {% gallery "82635298_2522916437996232_6617185945689080482_n_17853457135839075.jpg" %}
 
-[#AmorEnViñetas](/tags/amorenvinetas): En un rayo de sol.
+[#AmorEnViñetas](/etiquetas/amorenvinetas): En un rayo de sol.
 
 Recuperamos la obra de Tillie Walden para este día de San Valentín, porque qué mejor que repartir amor.
 

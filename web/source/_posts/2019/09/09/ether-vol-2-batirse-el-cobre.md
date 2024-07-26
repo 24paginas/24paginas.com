@@ -25,4 +25,4 @@ Tenía pendiente, en la estantería, este segundo volumen de Ether prácticament
 
 Presentes oscuros y aventuras macarras, nada mal para un lunes. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#fantasia](/tags/fantasia) [#hadas](/tags/hadas) [#minotauro](/tags/minotauro) [#magia](/tags/magia) [#ether](/tags/ether) [#golems](/tags/golems) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#fantasia](/etiquetas/fantasia) [#hadas](/etiquetas/hadas) [#minotauro](/etiquetas/minotauro) [#magia](/etiquetas/magia) [#ether](/etiquetas/ether) [#golems](/etiquetas/golems) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

@@ -28,7 +28,7 @@ author: hecdruiz
 
 The real american hero!
 
-Por culpa de [@netflixes](https://instagram.com/netflixes) y sus documentales de juguetes de los 80,  este [#viernesvintage](/tags/viernesvintage) vengo con la nostalgia subida a traeros uno de los tesoritos de mi infancia.
+Por culpa de [@netflixes](https://instagram.com/netflixes) y sus documentales de juguetes de los 80,  este [#viernesvintage](/etiquetas/viernesvintage) vengo con la nostalgia subida a traeros uno de los tesoritos de mi infancia.
 
 Nada más y nada menos que los primeros números de G. I. Joe que nos trajo Forum en su momento, en ese formato un pelín más grande que todos los que compramos tebeos por aquella época recordamos.
 

@@ -19,7 +19,7 @@ author: neverbot
 
 {% gallery "318939391_1196407854330507_368774952662662290_n_17965718593936128.jpg" %}
 
-RevistaManía: [@norma_editorial](https://instagram.com/norma_editorial) saca de vez en cuando unos TOMARRACOS con previews bastante largas de las cosas que va a publicar, con el nombre de [#DescubrePlus](/tags/descubreplus), incluyendo también entrevistas a muchos de los autores.
+RevistaManía: [@norma_editorial](https://instagram.com/norma_editorial) saca de vez en cuando unos TOMARRACOS con previews bastante largas de las cosas que va a publicar, con el nombre de [#DescubrePlus](/etiquetas/descubreplus), incluyendo también entrevistas a muchos de los autores.
 
 En los de Otoño, me llama la atención un libro sobre el arte de Álex de la Iglesia y el Corto Maltés de Canales y Pellejero.
 

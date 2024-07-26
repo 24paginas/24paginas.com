@@ -24,7 +24,7 @@ El 10 de Diciembre, los 10 tomos de Gigant, de Hiroya Oku.
 
 Jejeje... voy a copiar el primer párrafo que escribí por aquí hace unos años, en 2019, cuando leí el primer tomo:
 
-"Esto es difícil de explicar, pero vamos a intentarlo para el [#miercolesmanga](/tags/miercolesmanga).
+"Esto es difícil de explicar, pero vamos a intentarlo para el [#miercolesmanga](/etiquetas/miercolesmanga).
 
 Ciencia ficción apocalíptica, un vejete en calzoncillos venido del futuro, un estudiante de instituto y una actriz porno gigante. Pues ya está. No era tan difícil. Ya me tenías con el hola."
 

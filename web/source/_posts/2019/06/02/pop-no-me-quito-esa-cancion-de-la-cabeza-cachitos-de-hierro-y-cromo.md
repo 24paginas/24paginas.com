@@ -24,8 +24,8 @@ POP ¡No me quito esa canción de la cabeza! Cachitos de hierro y cromo.
 
 No lo puedo evitar, cada texto que leía de este cómic sonaba en mi cabeza como cuando leo las notas de "Cachitos". Ambos comparten un cierto tono de macarrada ligera, aunque el cómic vaya mucho más allá en lo macarra, y complicidad sobre la cultura pop.
 
-El formato cuadrado, además de acercarlo al mundo musical porque [#todosloscomicsdemusicasoncuadrados](/tags/todosloscomicsdemusicasoncuadrados), le permite a Luis Bustos jugar con la composición de viñetas y la lectura, haciéndote girar y voltear el cómic para completar algunas páginas. Se ve mucha diversión y cantidades enormes de trabajo.
+El formato cuadrado, además de acercarlo al mundo musical porque [#todosloscomicsdemusicasoncuadrados](/etiquetas/todosloscomicsdemusicasoncuadrados), le permite a Luis Bustos jugar con la composición de viñetas y la lectura, haciéndote girar y voltear el cómic para completar algunas páginas. Se ve mucha diversión y cantidades enormes de trabajo.
 
 Un cómic redondo, bueno cuadrado, bueno... ya me entendéis... ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#LuisBustos](/tags/luisbustos) [#musica](/tags/musica) [#comic](/tags/comic) [#tebeos](/tags/tebeos) [#carambacomics](/tags/carambacomics) [#pop](/tags/pop) [#cachitosdehierroycromo](/tags/cachitosdehierroycromo) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#LuisBustos](/etiquetas/luisbustos) [#musica](/etiquetas/musica) [#comic](/etiquetas/comic) [#tebeos](/etiquetas/tebeos) [#carambacomics](/etiquetas/carambacomics) [#pop](/etiquetas/pop) [#cachitosdehierroycromo](/etiquetas/cachitosdehierroycromo) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

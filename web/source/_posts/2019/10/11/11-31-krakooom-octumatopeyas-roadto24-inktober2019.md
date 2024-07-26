@@ -24,8 +24,8 @@ author: uncientovolando
 
 {% gallery "73067460_407439053277050_2238180947811378700_n_17966176726295885.jpg" %}
 
-11/31. KRAKOOOM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+11/31. KRAKOOOM [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
-Vamos a por el fin de semana con el sonido del trueno, el sonido de la transformación de Jane Foster en The Mighty Thor [#703](/tags/703).
+Vamos a por el fin de semana con el sonido del trueno, el sonido de la transformación de Jane Foster en The Mighty Thor [#703](/etiquetas/703).
 
-Para saber más sobre la etapa de Jason Aaron, buscad la [#NOVEASLAgrafica](/tags/noveaslagrafica) que hicimos en colaboración con [@zonanegativa](https://instagram.com/zonanegativa).
+Para saber más sobre la etapa de Jason Aaron, buscad la [#NOVEASLAgrafica](/etiquetas/noveaslagrafica) que hicimos en colaboración con [@zonanegativa](https://instagram.com/zonanegativa).

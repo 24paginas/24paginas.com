@@ -22,11 +22,11 @@ author: hecdruiz
 
 {% gallery "32080012_177937652787967_4527863972094803968_n_17919697360190838.jpg" "32809400_1946577138708021_8162113449401253888_n_17926533580086713.jpg" "32284992_1693774774025647_3895433512387346432_n_17929861000121300.jpg" "31680521_2212108412151771_6295762941664821248_n_17926357963094977.jpg" %}
 
-Navegando (literalmente) entre tebeos antiguos encontré varias series que se publicaron en la mítica línea [#laberinto](/tags/laberinto) de [@planetadcomic](https://instagram.com/planetadcomic).
+Navegando (literalmente) entre tebeos antiguos encontré varias series que se publicaron en la mítica línea [#laberinto](/etiquetas/laberinto) de [@planetadcomic](https://instagram.com/planetadcomic).
 
 De entre todo lo que encontré, os traigo la primera saga de Crónicas de Mesene. Serie creada por Roke González y Mateo Guerrero allá por el siglo pasado, en 1998, cuando aún se ponía el precio en pesetas.
 
-Una serie muy sencillita que combina fantasía y humor, de esa de dragones, elfos y enanos, pero que con una pareja de protagonistas carismáticos (aunque algo cliché e inspirada claramente en Fafhrd y el Ratonero Gris), fue de lo que más perduró de dicha línea de publicaciones, con distintas limitadas que continuaron la historia. Posteriormente pasó a [#dudecomics](/tags/dudecomics) y después a [@dolmeneditorial](https://instagram.com/dolmeneditorial) donde finalmente terminaría su andadura.
+Una serie muy sencillita que combina fantasía y humor, de esa de dragones, elfos y enanos, pero que con una pareja de protagonistas carismáticos (aunque algo cliché e inspirada claramente en Fafhrd y el Ratonero Gris), fue de lo que más perduró de dicha línea de publicaciones, con distintas limitadas que continuaron la historia. Posteriormente pasó a [#dudecomics](/etiquetas/dudecomics) y después a [@dolmeneditorial](https://instagram.com/dolmeneditorial) donde finalmente terminaría su andadura.
 
 La historia de esta primera limitada no va más allá de una presentación de personajes y un paso rápido a la acción, dándonos una pinceladita de cada uno y el trasfondo general con guiñitos de humor, pero sólo con eso (que no es poco), ya resultó tener el suficiente gancho para convencernos a unos cuantos.
 

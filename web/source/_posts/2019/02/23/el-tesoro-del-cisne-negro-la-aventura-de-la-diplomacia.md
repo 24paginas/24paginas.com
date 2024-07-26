@@ -27,4 +27,4 @@ Es un thriller de despachos que deja espacio también a la aventura exterior, in
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#aventuras](/tags/aventuras) [#espias](/tags/espias) [#tesoros](/tags/tesoros) [#tintin](/tags/tintin) [#pacoroca](/tags/pacoroca) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#aventuras](/etiquetas/aventuras) [#espias](/etiquetas/espias) [#tesoros](/etiquetas/tesoros) [#tintin](/etiquetas/tintin) [#pacoroca](/etiquetas/pacoroca) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

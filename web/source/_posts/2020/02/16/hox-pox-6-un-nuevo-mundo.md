@@ -23,7 +23,7 @@ author: uncientovolando
 
 {% gallery "83585367_206824277135396_8686804697964191494_n_17889796141469093.jpg" "82667622_501133510599402_466565379563916264_n_17847475501931860.jpg" %}
 
-HoX/PoX [#6](/tags/6): Un nuevo mundo.
+HoX/PoX [#6](/etiquetas/6): Un nuevo mundo.
 
 Llegó el final de la (las) miniserie destinada a revolucionar las colecciones mutantes. Pero, por mucho que suene a tópico, más que un final esto constituye un nuevo principio.
 
@@ -36,4 +36,4 @@ A mi, mis mutantes!
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#marvel](/tags/marvel) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#xmen](/tags/xmen) [#ciclope](/tags/ciclope) [#charlesxavier](/tags/charlesxavier) [#mutantes](/tags/mutantes) [#dientesdesable](/tags/dientesdesable) [#apocalipsis](/tags/apocalipsis) [#krakoa](/tags/krakoa) [#mutantandproud](/tags/mutantandproud) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#marvel](/etiquetas/marvel) [#comics](/etiquetas/comics) [#tebeos](/etiquetas/tebeos) [#xmen](/etiquetas/xmen) [#ciclope](/etiquetas/ciclope) [#charlesxavier](/etiquetas/charlesxavier) [#mutantes](/etiquetas/mutantes) [#dientesdesable](/etiquetas/dientesdesable) [#apocalipsis](/etiquetas/apocalipsis) [#krakoa](/etiquetas/krakoa) [#mutantandproud](/etiquetas/mutantandproud) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

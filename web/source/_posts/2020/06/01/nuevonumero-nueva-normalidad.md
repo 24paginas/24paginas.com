@@ -18,7 +18,7 @@ author: 24paginas
 
 {% gallery "101107580_2631109750539481_1202279767686122857_n_17868447301768515.jpg" %}
 
-[#nuevonumero](/tags/nuevonumero), nueva normalidad.
+[#nuevonumero](/etiquetas/nuevonumero), nueva normalidad.
 
 Todo vuelve, poco a poco. Y las librerías necesitan que los lectores también volvamos. Apoyad a los pequeños negocios y cuidaos mucho.
 

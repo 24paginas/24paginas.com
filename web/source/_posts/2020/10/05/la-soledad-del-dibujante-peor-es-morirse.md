@@ -26,4 +26,4 @@ Tomine explora sus inseguridades y ese continuo síndrome del impostor que azot
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#independiente](/tags/independiente) [#adriantomine](/tags/adriantomine) [#adriantominecomics](/tags/adriantominecomics) [#moleskine](/tags/moleskine) [@sapristicomic](https://instagram.com/sapristicomic)
+[#comic](/etiquetas/comic) [#independiente](/etiquetas/independiente) [#adriantomine](/etiquetas/adriantomine) [#adriantominecomics](/etiquetas/adriantominecomics) [#moleskine](/etiquetas/moleskine) [@sapristicomic](https://instagram.com/sapristicomic)

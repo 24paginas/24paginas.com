@@ -21,11 +21,11 @@ author: neverbot
 
 {% gallery "53819697_1280983835402424_9090444914326749259_n_18050486128007795.jpg" %}
 
-24 páginas [#18](/tags/18): Abril, novedades mil.
+24 páginas [#18](/etiquetas/18): Abril, novedades mil.
 
 Cambiamos de mes, acabamos de cambiar de hora y estación, y nos esperan infinidad de estrenos y eventos.
 
-Esta misma semana se estrena [#SHAZAM](/tags/shazam) (el auténtico Capitán Marvel para [@neverbot](https://instagram.com/neverbot)) y llega el renovado ̶G̶r̶a̶f̶... digo ̶S̶a̶l̶ó̶... digo ([@ficomic](https://instagram.com/ficomic)) ComicBCN!
-También este mes llega en formato doméstico [#IntoTheSpiderverse](/tags/intothespiderverse) y se estrena ese evento en forma de película llamado [#AvengersEndgame](/tags/avengersendgame).
+Esta misma semana se estrena [#SHAZAM](/etiquetas/shazam) (el auténtico Capitán Marvel para [@neverbot](https://instagram.com/neverbot)) y llega el renovado ̶G̶r̶a̶f̶... digo ̶S̶a̶l̶ó̶... digo ([@ficomic](https://instagram.com/ficomic)) ComicBCN!
+También este mes llega en formato doméstico [#IntoTheSpiderverse](/etiquetas/intothespiderverse) y se estrena ese evento en forma de película llamado [#AvengersEndgame](/etiquetas/avengersendgame).
 
 Nosotros también tenemos alguna sorpresa preparada, y creo que no tendréis que esperar mucho para descubrirla...

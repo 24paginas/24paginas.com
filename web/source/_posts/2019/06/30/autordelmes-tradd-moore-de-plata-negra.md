@@ -19,7 +19,7 @@ author: 24paginas
 
 {% gallery "FQIoAkMzLBdAEAAAAAAAABgSZGFzaF9iYXNlbGluZV8xX3YxEQB16gcA_18079616626026849.mp4" %}
 
-[#autordelmes](/tags/autordelmes): Tradd Moore, de plata negra.
+[#autordelmes](/etiquetas/autordelmes): Tradd Moore, de plata negra.
 
 Termina un mes especialmente caluroso y daríamos lo que fuera por un paseo por el frío espacio. Así que traemos lo más parecido que hemos encontrado, el trabajo de Tradd Moore para la nueva miniserie de Estela Plateada recién publicada en EEUU.
 Un trabajo fresquisimo y diferente que juega con los elementos del Universo Marvel más cósmico de la mano de Donny Cates, que sigue enlazando detalles de sus series.

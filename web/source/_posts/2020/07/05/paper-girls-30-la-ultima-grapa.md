@@ -21,7 +21,7 @@ author: uncientovolando
 
 {% gallery "106462400_567423644140130_4777950747640321395_n_17844013007273977.jpg" "106916738_117706416421022_1037450723188461051_n_17853051002121686.jpg" %}
 
-Paper Girls [#30](/tags/30): la última grapa.
+Paper Girls [#30](/etiquetas/30): la última grapa.
 
 Las despedidas son duras, más incluso si son dulces como esta. Aunque casi más duro ha sido titular esta reseña, no solo por no poder usar referencias como el “Time after time” que me rondaba la cabeza sino porque lo de “la última grapa” es casi literal para mí. Esta es la última grapa que voy a comprar en una temporada pero no se me ocurre mejor número, no por nada fue Paper Girls la serie que me devolvió el gusto por la grapa, con ese precioso y cuidado diseño.
 
@@ -33,4 +33,4 @@ Hasta siempre.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#briankvaughan](/tags/briankvaughan) [#cliffchiang](/tags/cliffchiang) [#timetravel](/tags/timetravel) [#papergirls](/tags/papergirls) [#los80](/tags/los80) [#lagrapaesamor](/tags/lagrapaesamor) [#hastalavistababy](/tags/hastalavistababy) [@planetadcomic](https://instagram.com/planetadcomic)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#briankvaughan](/etiquetas/briankvaughan) [#cliffchiang](/etiquetas/cliffchiang) [#timetravel](/etiquetas/timetravel) [#papergirls](/etiquetas/papergirls) [#los80](/etiquetas/los80) [#lagrapaesamor](/etiquetas/lagrapaesamor) [#hastalavistababy](/etiquetas/hastalavistababy) [@planetadcomic](https://instagram.com/planetadcomic)

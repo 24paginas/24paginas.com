@@ -31,9 +31,9 @@ author: hecdruiz
 
 Hoy vamos con dos grapas rapidito, más por ahorraros perder el tiempo que otra cosa.
 
-Masacre [#1](/tags/1), del que sólo cabe reseñar un dibujo solvente de Nic Klein aunque no especialmente espectacular, y un guión a cargo de Skottie Young que te deja pensando "por qué no habrán puesto a este señor a los lápices". En la línea de acercarse lo más posible a las referencias del cine tanto para los guiños como los cameos, nos cuenta una historia que nos da igual tanto a nosotros como al resto de universo Marvel.
+Masacre [#1](/etiquetas/1), del que sólo cabe reseñar un dibujo solvente de Nic Klein aunque no especialmente espectacular, y un guión a cargo de Skottie Young que te deja pensando "por qué no habrán puesto a este señor a los lápices". En la línea de acercarse lo más posible a las referencias del cine tanto para los guiños como los cameos, nos cuenta una historia que nos da igual tanto a nosotros como al resto de universo Marvel.
 
-La Búsqueda de Lobezno [#alfa](/tags/alfa), de da igual quien porque vaya tontería de historia. Esto es algo que directamente no tenía que haber ocurrido, por lo menos hasta dentro de otros cinco años. Y más viendo como se está desarrollando a partir de aquí.
+La Búsqueda de Lobezno [#alfa](/etiquetas/alfa), de da igual quien porque vaya tontería de historia. Esto es algo que directamente no tenía que haber ocurrido, por lo menos hasta dentro de otros cinco años. Y más viendo como se está desarrollando a partir de aquí.
 
 Totalmente prescindible excepto para los muy fans del personaje que quieran saber todos los detalles de este melodrama de tarde dominguera.
 

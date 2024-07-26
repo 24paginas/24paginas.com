@@ -22,7 +22,7 @@ author: uncientovolando
 
 {% gallery "64963287_326553094911779_4080199082183925211_n_17874179737379134.jpg" "61936415_143687150142913_2775144596542648762_n_18008917027208736.jpg" %}
 
-Los 4 Fantásticos [#7](/tags/7): El Doctor Muerte os sienta tan bien.
+Los 4 Fantásticos [#7](/etiquetas/7): El Doctor Muerte os sienta tan bien.
 
 Grapa doble que [@paninicomicsespana](https://instagram.com/paninicomicsespana) aprovecha para recuperar la numeración tras todo lo relacionado con la boda de la Cosa con el arranque del nuevo arco. Un hambriento, y todavía malvado, Galactus aparece esta vez en Latveria y Muerte tiene algo que ver.
 

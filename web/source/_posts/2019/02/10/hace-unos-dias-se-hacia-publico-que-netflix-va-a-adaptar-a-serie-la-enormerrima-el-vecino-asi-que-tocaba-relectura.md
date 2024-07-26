@@ -35,4 +35,4 @@ Para hablar del tercer número, seguid atentos a este batcanal.
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#24paginas](/tags/24paginas) [#astiberri](/tags/astiberri) [#elvecino](/tags/elvecino) [#elvecinonetflix](/tags/elvecinonetflix) [#netflix](/tags/netflix) [#netflixespaña](/tags/netflixespana) [@netflixes](https://instagram.com/netflixes)
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#24paginas](/etiquetas/24paginas) [#astiberri](/etiquetas/astiberri) [#elvecino](/etiquetas/elvecino) [#elvecinonetflix](/etiquetas/elvecinonetflix) [#netflix](/etiquetas/netflix) [#netflixespaña](/etiquetas/netflixespana) [@netflixes](https://instagram.com/netflixes)

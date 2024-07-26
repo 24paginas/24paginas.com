@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "32136151_756678621388637_1736040375342071808_n_17914169572175556.jpg" %}
 
-Paper Girls [#10](/tags/10)
+Paper Girls [#10](/etiquetas/10)
 
 Salto de fe
 

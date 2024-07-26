@@ -30,7 +30,7 @@ Diez números de saga principal, un número cero de introducción y un Omega de 
 
 Este número debería ponernos en contexto acerca de dónde vienen todos los personajes y situaciones, y falla estrepitosamente. Yo me descolgué de Capitán América tras el primer arco de Remender, y solo sabía que que había pasado a ser viejo y luego joven de nuevo.
 
-Número confuso, mala narrativa, y poco artículo para todo lo que habría que explicar. Prescindible, para esto se puede empezar directamente por Imperio Secreto [#1](/tags/1).
+Número confuso, mala narrativa, y poco artículo para todo lo que habría que explicar. Prescindible, para esto se puede empezar directamente por Imperio Secreto [#1](/etiquetas/1).
 
 Seguiremos con la saga.
 

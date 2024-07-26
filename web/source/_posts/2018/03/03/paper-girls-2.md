@@ -20,7 +20,7 @@ author: uncientovolando
 
 {% gallery "28153686_1738291686222000_8772638845754671104_n_17928672796036189.jpg" "28766449_131680707660028_8302892354126217216_n_17900504098153889.jpg" %}
 
-Paper Girls [#2](/tags/2)
+Paper Girls [#2](/etiquetas/2)
 
 Recordad esta máxima de la narrativa: si un revólver se muestra durante la historia, este debe ser disparado.
 

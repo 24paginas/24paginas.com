@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "31709212_1690125064428586_6726924842970382336_n_17915367898160181.jpg" %}
 
-Paper Girls [#8](/tags/8)
+Paper Girls [#8](/etiquetas/8)
 
 Palos de hockey intertemporales
 

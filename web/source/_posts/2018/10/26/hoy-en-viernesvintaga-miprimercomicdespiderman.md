@@ -25,11 +25,11 @@ author: uncientovolando
 
 {% gallery "42078537_2195041137434373_2982462588178978564_n_17988219589071552.jpg" "43486887_798004453924724_6804874089002320297_n_17984176612072823.jpg" "43913175_303290953839131_7321017466926376304_n_17862195937290012.jpg" %}
 
-Hoy, en [#viernesvintaga](/tags/viernesvintaga): [#MiPrimerComicDeSpiderman](/tags/miprimercomicdespiderman)...
+Hoy, en [#viernesvintaga](/etiquetas/viernesvintaga): [#MiPrimerComicDeSpiderman](/etiquetas/miprimercomicdespiderman)...
 
 Juraría que ya había publicado esto, pero no lo encuentro por ninguna parte. Me gustaría decir que mi primer cómic del trepamuros fue alguno mítico, alguna reedición de Ditko, incluso (por época) el de McFarlane. Pero no.
 
-[#MiPrimerComicDeSpiderman](/tags/miprimercomicdespiderman), y de hecho mi primer cómic Marvel, fue el segundo número de una miniserie en la que perseguían a Spidey por un crimen que no había cometido.
+[#MiPrimerComicDeSpiderman](/etiquetas/miprimercomicdespiderman), y de hecho mi primer cómic Marvel, fue el segundo número de una miniserie en la que perseguían a Spidey por un crimen que no había cometido.
 
 Me hice con él en una feria de libros de segunda mano en Laredo, donde solíamos ir de vacaciones. Conociendo al personaje solo por la serie de animación, este festival de músculos noventero se me hizo tan raro como fascinante. Nada más abrirlo te encontrabas con MJ en medio de la selva más armada que vestida, y páginas después veías a un cuerpo de policía de Nueva York con más músculos de los que pueden existir.
 

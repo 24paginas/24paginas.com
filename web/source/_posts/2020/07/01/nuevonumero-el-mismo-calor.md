@@ -15,7 +15,7 @@ author: 24paginas
 
 {% gallery "106813375_271466030626243_178587773739080896_n_17853538703108938.jpg" %}
 
-[#nuevonumero](/tags/nuevonumero), el mismo calor.
+[#nuevonumero](/etiquetas/nuevonumero), el mismo calor.
 
 Julio, eh? Qué movida. Empieza la segunda mitad de un año que por un lado parece pasar volando y por otro se está haciendo largo.
 

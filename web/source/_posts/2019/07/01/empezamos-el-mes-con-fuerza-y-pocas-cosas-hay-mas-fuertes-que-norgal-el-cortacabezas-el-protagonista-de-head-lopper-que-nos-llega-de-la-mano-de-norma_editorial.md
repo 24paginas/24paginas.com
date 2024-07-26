@@ -26,7 +26,7 @@ author: hecdruiz
 
 Empezamos el mes con fuerza, y pocas cosas hay más fuertes que Norgal el Cortacabezas, el protagonista de Head Lopper que nos llega de la mano de [@norma_editorial](https://instagram.com/norma_editorial).
 
-[@andrewmaclean](https://instagram.com/andrewmaclean) es el autor de esta maravilla que de primeras te entra por los ojos junto al color de [@spicercolor](https://instagram.com/spicercolor). entre ambos consiguen un estilo visual que me recordó a lo que saldría si combinas con gusto lo mejor de [#Mignola](/tags/mignola) con [#HoradeAventuras](/tags/horadeaventuras). Una auténtica gozada que consigue escenas pausadas e inquietantes y  acción desenfrenada en una combinación que hará las delicias de cualquier amante del cómic de aventuras.
+[@andrewmaclean](https://instagram.com/andrewmaclean) es el autor de esta maravilla que de primeras te entra por los ojos junto al color de [@spicercolor](https://instagram.com/spicercolor). entre ambos consiguen un estilo visual que me recordó a lo que saldría si combinas con gusto lo mejor de [#Mignola](/etiquetas/mignola) con [#HoradeAventuras](/etiquetas/horadeaventuras). Una auténtica gozada que consigue escenas pausadas e inquietantes y  acción desenfrenada en una combinación que hará las delicias de cualquier amante del cómic de aventuras.
 
 Pero es que además, esta historia de espada y brujería (nunca mejor dicho), tiene todo lo que tiene que tener este género: un buen mapa, personajes carismáticos a más no poder liándose a espadazos y la mejor bruja que recuerdo en un cómic.
 

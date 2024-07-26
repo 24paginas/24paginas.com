@@ -29,4 +29,4 @@ Nicola Scott dibuja la historia en un blanco y negro casi completo que usa toque
 
 La única pega es la sensación de estar ante un episodio piloto, que presenta muy bien historia y personajes pero apenas profundiza en una historia que parece ir para largo. ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#comicindependiente](/tags/comicindependiente) [#policiaco](/tags/policiaco) [#magia](/tags/magia) [#brujeria](/tags/brujeria) [#crimen](/tags/crimen) [#nicolascott](/tags/nicolascott) [#gregrucka](/tags/gregrucka) [@norma_editorial](https://instagram.com/norma_editorial) [@normaedusa](https://instagram.com/normaedusa)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#comicindependiente](/etiquetas/comicindependiente) [#policiaco](/etiquetas/policiaco) [#magia](/etiquetas/magia) [#brujeria](/etiquetas/brujeria) [#crimen](/etiquetas/crimen) [#nicolascott](/etiquetas/nicolascott) [#gregrucka](/etiquetas/gregrucka) [@norma_editorial](https://instagram.com/norma_editorial) [@normaedusa](https://instagram.com/normaedusa)

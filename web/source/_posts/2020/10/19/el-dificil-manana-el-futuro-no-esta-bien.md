@@ -31,4 +31,4 @@ Como decían en el segmento de Regreso al Futuro 4, dirigido por [@nacho_vigalon
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#diadelasescritoras](/tags/diadelasescritoras) [#comic](/tags/comic) [#zuckerberg](/tags/zuckerberg) [#lucha](/tags/lucha) [#vivir](/tags/vivir) [#americanotanprofunda](/tags/americanotanprofunda) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#diadelasescritoras](/etiquetas/diadelasescritoras) [#comic](/etiquetas/comic) [#zuckerberg](/etiquetas/zuckerberg) [#lucha](/etiquetas/lucha) [#vivir](/etiquetas/vivir) [#americanotanprofunda](/etiquetas/americanotanprofunda) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

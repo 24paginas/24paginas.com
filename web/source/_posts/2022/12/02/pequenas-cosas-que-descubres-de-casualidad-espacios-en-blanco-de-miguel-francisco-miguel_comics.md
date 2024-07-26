@@ -31,4 +31,4 @@ Por ponerle alguna pega, hay algún momento confuso que no queda claro en qué �
 
 Es necesario crear este tipo de obras, para que las tradiciones orales familiares queden sobre papel de algún modo, y no se pierdan para siempre. Ojalá más.
 
-[#espaciosenblanco](/tags/espaciosenblanco) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#miguelfrancisco](/tags/miguelfrancisco) [#astiberri](/tags/astiberri) [#guerracivilespañola](/tags/guerracivilespanola) [#guerracivil](/tags/guerracivil) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#espaciosenblanco](/etiquetas/espaciosenblanco) [#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#miguelfrancisco](/etiquetas/miguelfrancisco) [#astiberri](/etiquetas/astiberri) [#guerracivilespañola](/etiquetas/guerracivilespanola) [#guerracivil](/etiquetas/guerracivil) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

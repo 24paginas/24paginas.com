@@ -10,4 +10,4 @@ tag: veinticuatrosporelmundo
 
 Desde las tiendas más grandes y modernas de las grandes ciudades hasta las pequeñas y acogedoras en los pueblos más recónditos, cada visita nos da una nueva perspectiva sobre cómo los cómics pueden unir a las personas y cultivar una comunidad. En "**Veinticuatros por el mundo**", compartimos nuestras experiencias y recomendaciones para que cada lector pueda encontrar un nuevo refugio, sin importar dónde se encuentre.
 
-Ya seas un coleccionista veterano, un lector casual o alguien que apenas comienza a adentrarse en este maravilloso mundo, aquí tienes una nueva mirada a la cultura del cómic. ¡Prepárate para explorar con nosotros y encontrar tu próxima librería favorita!
+Ya seas un coleccionista veterano, un lector casual o alguien que apenas comienza a adentrarse en este maravilloso mundo, aquí tienes una nueva mirada a la cultura del cómic. ¡Explora con nosotros y encuentra tu próxima librería favorita!

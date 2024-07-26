@@ -28,4 +28,4 @@ Los misterios flotan en el ambiente y el más importante es ¿cuando llegará el
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#misterio](/tags/misterio) [#edbrubaker](/tags/edbrubaker) [#marcosmartin](/tags/marcosmartin) [#muntsavicente](/tags/muntsavicente) [#end](/tags/end) igitaltambienselee
+[#comic](/etiquetas/comic) [#misterio](/etiquetas/misterio) [#edbrubaker](/etiquetas/edbrubaker) [#marcosmartin](/etiquetas/marcosmartin) [#muntsavicente](/etiquetas/muntsavicente) [#end](/etiquetas/end) igitaltambienselee

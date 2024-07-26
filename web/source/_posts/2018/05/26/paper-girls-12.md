@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "33131290_423406294793358_1658760358770245632_n_17922926485130716.jpg" %}
 
-Paper Girls [#12](/tags/12)
+Paper Girls [#12](/etiquetas/12)
 
 Hombres malos, nuevas mujeres
 

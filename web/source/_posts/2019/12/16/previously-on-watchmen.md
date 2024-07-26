@@ -17,7 +17,7 @@ author: uncientovolando
 
 {% gallery "75394638_2762251110505001_8436571810291109769_n_17865133939572423.jpg" "75200970_171364253970198_1054887591387145987_n_17856120268677464.jpg" %}
 
-Previously on [#WATCHMEN](/tags/watchmen)...
+Previously on [#WATCHMEN](/etiquetas/watchmen)...
 
 Ahora que ha terminado la serie de HBO, al menos la primera temporada porque “Nothing ever ends”, toca relectura del cómic de Alan Moore y Dave Gibbons.
 
@@ -25,4 +25,4 @@ Con calma, “grapa” a “grapa”. Aunque sea en la enorme, y completísima, 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#watchmenhbo](/tags/watchmenhbo) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#vigilantes](/tags/vigilantes) [#pulpoafeira](/tags/pulpoafeira)🐙
+[#watchmenhbo](/etiquetas/watchmenhbo) [#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#vigilantes](/etiquetas/vigilantes) [#pulpoafeira](/etiquetas/pulpoafeira)🐙

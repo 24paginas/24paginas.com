@@ -17,6 +17,6 @@ author: uncientovolando
 
 {% gallery "72853208_154665992448587_6915593447642879095_n_17854089700622921.jpg" %}
 
-28/31. KA-BLAM! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+28/31. KA-BLAM! [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
 Parece que viene una semana E•X•P•L•O•S•I•V•A...

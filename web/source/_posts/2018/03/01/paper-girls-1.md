@@ -22,7 +22,7 @@ author: uncientovolando
 
 {% gallery "28151445_225342424699998_2378568208673144832_n_17902981372190193.jpg" "28155917_186686008605735_217854751436439552_n_17922863032071930.jpg" %}
 
-Paper Girls [#1](/tags/1).
+Paper Girls [#1](/etiquetas/1).
 
 Comenzamos nuestro quinto mes con una revisión de lo publicado en nuestro país de Paper Girls. Grapa a grapa y cada dos días, intentaremos reseñar cada capitulo de la serie de Brian K. Vaughan, [@cliffchiang](https://instagram.com/cliffchiang) y [@fatheadwilson](https://instagram.com/fatheadwilson):
 

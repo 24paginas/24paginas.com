@@ -29,4 +29,4 @@ Lo bello, lo siniestro, la magia y la venganza se juntan en uno de los cómics m
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#independiente](/tags/independiente) [#imagecomics](/tags/imagecomics) [#hollywoodland](/tags/hollywoodland) [#noir](/tags/noir) [#magia](/tags/magia) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#independiente](/etiquetas/independiente) [#imagecomics](/etiquetas/imagecomics) [#hollywoodland](/etiquetas/hollywoodland) [#noir](/etiquetas/noir) [#magia](/etiquetas/magia) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

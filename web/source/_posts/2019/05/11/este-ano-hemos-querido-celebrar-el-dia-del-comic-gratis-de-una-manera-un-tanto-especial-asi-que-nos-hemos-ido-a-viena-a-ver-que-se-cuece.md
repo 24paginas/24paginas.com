@@ -24,7 +24,7 @@ author: hecdruiz
 
 {% gallery "59921993_342470139788373_7592232874384254912_n_17863359133388193.jpg" "59429155_2555861854423947_2588281980292008940_n_18047493901101198.jpg" "58409150_650050262102567_3607676048285808908_n_18037127959136495.jpg" "58410329_3276376825721819_3902878772456606119_n_18023446591173144.jpg" "58870413_464894510919075_1298699713706975739_n_17852106436423642.jpg" %}
 
-Este año hemos querido celebrar el Día del Cómic Gratis de una manera un tanto especial, así que nos hemos ido a [#Viena](/tags/viena) a ver que se cuece.
+Este año hemos querido celebrar el Día del Cómic Gratis de una manera un tanto especial, así que nos hemos ido a [#Viena](/etiquetas/viena) a ver que se cuece.
 
 Nos hemos acercado a la increíblemente recomendable [@comictreff](https://instagram.com/comictreff) (parada obligada si pasas por esta preciosa ciudad y te va esto de los tebeos), y hemos llegado a tiempo de conseguir aún algunas copias a pesar de llegar prácticamente cuando estaban cerrando.
 

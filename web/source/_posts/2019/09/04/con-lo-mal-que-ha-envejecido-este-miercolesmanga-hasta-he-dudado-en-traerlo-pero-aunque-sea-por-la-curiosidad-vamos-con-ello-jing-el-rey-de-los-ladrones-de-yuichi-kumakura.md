@@ -22,7 +22,7 @@ author: hecdruiz
 
 {% gallery "67434243_413574955960275_3172821496926684915_n_18067964632139283.jpg" "69464223_907584702954256_534308514070391253_n_18067379152081929.jpg" %}
 
-Con lo mal que ha envejecido este [#miercolesmanga](/tags/miercolesmanga) hasta he dudado en traerlo, pero aunque sea por la curiosidad, vamos con ello. Jing, el rey de los ladrones, de Yuichi Kumakura.
+Con lo mal que ha envejecido este [#miercolesmanga](/etiquetas/miercolesmanga) hasta he dudado en traerlo, pero aunque sea por la curiosidad, vamos con ello. Jing, el rey de los ladrones, de Yuichi Kumakura.
 
 Este manga del que sólo llegaron dos números a la lengua de Cervantes (que yo sepa), y donde el mismo editor reconocer que, sin tener un apartado gráfico muy comercial, han decidido tirarse a la piscina y probar con esta serie sólo por ver si funciona, me llamó lo suficiente con su segunda portada como para probar.
 

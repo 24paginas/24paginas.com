@@ -35,14 +35,14 @@ One. Punch. Man.
 
 No, en serio. ONE. PUNCH. MAN.
 
-¿Un tipo con el poder de vencer a quien sea de un sólo puñetazo? ¿Tan poderoso que hasta se aburre? ¿Y además vestido de superhéroe? Con esto debería bastar para que cogieseis este [#miercolesmanga](/tags/miercolesmanga) esta serie, y a darse un atracón si os va el rollo de heroes pijameros, el manga, o simplemente echaros unas risas como no está escrito.
+¿Un tipo con el poder de vencer a quien sea de un sólo puñetazo? ¿Tan poderoso que hasta se aburre? ¿Y además vestido de superhéroe? Con esto debería bastar para que cogieseis este [#miercolesmanga](/etiquetas/miercolesmanga) esta serie, y a darse un atracón si os va el rollo de heroes pijameros, el manga, o simplemente echaros unas risas como no está escrito.
 
 Pero es que si todo eso os gusta, y aparte queréis disfrutar de una epicidad y alucinancia fuera de toda escala, con un dibujo B R U T A L a la par que divertido, ya tenéis a que hincarle el diente. Que si, que de primeras parece una chorrada, pero hacedme caso y dadle un tiento, que no decepciona.
 
-Para ser un manga que nació como webcomic de la mano del autor simplemente conocido bajo el pseudónimo de [#One](/tags/one), vaya seriaza se están marcando este señor y [#YusukeMurata](/tags/yusukemurata) a los lápices.
+Para ser un manga que nació como webcomic de la mano del autor simplemente conocido bajo el pseudónimo de [#One](/etiquetas/one), vaya seriaza se están marcando este señor y [#YusukeMurata](/etiquetas/yusukemurata) a los lápices.
 
 Y es que por lo visto parece que Murata vio el webcomic y flipó tanto que se puso en contacto con el creador con una oferta del rollo: mira, te explico como darle el punto que le falta a esta pasada de historia. Y ale, a petarlo muy fuerte incluso con anime de éxito a nivel internacional.
 
-Lo dicho, una pura gozada entre carcajada y carcajada, un "must" en toda regla que nos ha traído [#Ivrea](/tags/ivrea) y que no debe faltar en la estantería.
+Lo dicho, una pura gozada entre carcajada y carcajada, un "must" en toda regla que nos ha traído [#Ivrea](/etiquetas/ivrea) y que no debe faltar en la estantería.
 
 ([@hecdruiz](https://instagram.com/hecdruiz))

@@ -30,4 +30,4 @@ Mucha acidez, acción a paladas para mostrar el sinsentido de la guerra y person
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic)[#belico](/tags/belico)[#briankvaughan](/tags/briankvaughan)[#steveskroce](/tags/steveskroce)[#robots](/tags/robots)[#roboces](/tags/roboces)[#canada](/tags/canada)[#noalaguerra](/tags/noalaguerra) [@planetadcomic](https://instagram.com/planetadcomic)
+[#comic](/etiquetas/comic)[#belico](/etiquetas/belico)[#briankvaughan](/etiquetas/briankvaughan)[#steveskroce](/etiquetas/steveskroce)[#robots](/etiquetas/robots)[#roboces](/etiquetas/roboces)[#canada](/etiquetas/canada)[#noalaguerra](/etiquetas/noalaguerra) [@planetadcomic](https://instagram.com/planetadcomic)

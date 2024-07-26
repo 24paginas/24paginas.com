@@ -28,7 +28,7 @@ author: 24paginas
 
 {% gallery "54446485_341347883031316_7771763794015081348_n_18051992992049599.jpg" "54446795_1243680232452640_2026643355680854037_n_17860025773366830.jpg" "52448214_274959053386269_7229631832336767354_n_17984835955221991.jpg" "54248156_110708973443768_3082103983089399787_n_17885531140311549.jpg" "54512087_399506914174830_393396309542110753_n_17866097881356373.jpg" "56161947_2192092837769004_6455573943820864021_n_17846162905400099.jpg" "54446577_204727570486876_5486285555425083191_n_18034420870099071.jpg" %}
 
-NOVEASLAGRÁFICA: Jason Aaron, el sonido del trueno [#infografia](/tags/infografia)
+NOVEASLAGRÁFICA: Jason Aaron, el sonido del trueno [#infografia](/etiquetas/infografia)
 
 La vida está llena de principios y fines. Y parece que "War of the Realms" será el fin de la etapa de [@jasonaaron](https://instagram.com/jasonaaron) en la cabecera del Dios del Trueno.
 
@@ -38,4 +38,4 @@ Irónicamente, este final marca un principio para [@24paginas](https://instagram
 
 Nos vemos al otro lado del Bifröst.
 
-[#thor](/tags/thor) [#marvel](/tags/marvel) [#jasonaaron](/tags/jasonaaron) [#esadribic](/tags/esadribic) [#russeldauterman](/tags/russeldauterman) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#ladythor](/tags/ladythor) [#janefoster](/tags/janefoster) [#mjolnir](/tags/mjolnir) [#NOVEASLAgrafica](/tags/noveaslagrafica) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#thor](/etiquetas/thor) [#marvel](/etiquetas/marvel) [#jasonaaron](/etiquetas/jasonaaron) [#esadribic](/etiquetas/esadribic) [#russeldauterman](/etiquetas/russeldauterman) [#comics](/etiquetas/comics) [#tebeos](/etiquetas/tebeos) [#ladythor](/etiquetas/ladythor) [#janefoster](/etiquetas/janefoster) [#mjolnir](/etiquetas/mjolnir) [#NOVEASLAgrafica](/etiquetas/noveaslagrafica) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

@@ -11,4 +11,4 @@ author: 24paginas
 
 {% gallery "45887125_2045882095476886_2890750865692926880_n_17987302819150308.jpg" %}
 
-Desde [@24paginas](https://instagram.com/24paginas) os deseamos un [#feliz2019](/tags/feliz2019) lleno de tebeos.
+Desde [@24paginas](https://instagram.com/24paginas) os deseamos un [#feliz2019](/etiquetas/feliz2019) lleno de tebeos.

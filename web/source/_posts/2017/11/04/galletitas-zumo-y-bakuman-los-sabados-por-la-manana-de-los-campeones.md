@@ -21,6 +21,6 @@ author: neverbot
 
 Galletitas, zumo y Bakuman. Los sábados por la mañana de los campeones.
 
-Sigo con mi relectura de Bakuman, ya por el tomo 10. Todo lo bueno y todo lo malo de [#Ohba](/tags/ohba) y [#Obata](/tags/obata), pero a quién le importa. Muy lastrada por las malas traducciones que suele tener el [#manga](/tags/manga) en España, demasiado literales y que ponen en boca de adolescentes largas frases grandilocuentes que nunca dirían en realidad. Y ya de por sí los diálogos son densos así que os lo podéis imaginar. Pero yo por el dibujo de Takeshi Obata MA-TO.
+Sigo con mi relectura de Bakuman, ya por el tomo 10. Todo lo bueno y todo lo malo de [#Ohba](/etiquetas/ohba) y [#Obata](/etiquetas/obata), pero a quién le importa. Muy lastrada por las malas traducciones que suele tener el [#manga](/etiquetas/manga) en España, demasiado literales y que ponen en boca de adolescentes largas frases grandilocuentes que nunca dirían en realidad. Y ya de por sí los diálogos son densos así que os lo podéis imaginar. Pero yo por el dibujo de Takeshi Obata MA-TO.
 
 ([@neverbot](https://instagram.com/neverbot))

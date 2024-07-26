@@ -21,7 +21,7 @@ author: hecdruiz
 
 {% gallery "41402084_2277476352326184_7814042660454249302_n_17973643792076020.jpg" "41657841_236923156990370_6689219476274965949_n_17975081473077783.jpg" "41411582_1192178194255043_4125750445267213385_n_17968495558104737.jpg" "42147381_272103620088736_5661531954920054971_n_17905410433244846.jpg" "42080496_2333689363312008_8280143989638809133_n_17852356717293976.jpg" %}
 
-Outlaw Star de Takehiko Itō, una serie de contrabandistas espaciales, humor gamberro,  naves que combaten a puñetazos y un poquito de ecchi noventero para este [#miercolesmanga](/tags/miercolesmanga).
+Outlaw Star de Takehiko Itō, una serie de contrabandistas espaciales, humor gamberro,  naves que combaten a puñetazos y un poquito de ecchi noventero para este [#miercolesmanga](/etiquetas/miercolesmanga).
 
 La clásica historia de una tripulación de forajidos en busca de un tesoro perdido mientras escapan de la ley y antiguos enemigos, en el espacio. No sé si os suena...
 

@@ -24,7 +24,7 @@ author: hecdruiz
 
 {% gallery "61596748_932369960428298_8625440447595021717_n_17866812643404900.jpg" "64440099_319333782310706_6477527801512960075_n_18007336762211053.jpg" "61261054_2419591384745961_5496393429489105988_n_18053160583127964.jpg" "64435332_141505700270182_2627490547279000594_n_17881065151370300.jpg" "61717698_561359274389065_4614736082184160253_n_18075788131018683.jpg" %}
 
-Mazmorreo ligero, humor, alucinancia y técnicas a cada cual más poderosa, ¿cómo decirle que no a este isekai  de nombre impronunciable? Bienvenidos a Danmachi en este [#miercolesmanga](/tags/miercolesmanga).
+Mazmorreo ligero, humor, alucinancia y técnicas a cada cual más poderosa, ¿cómo decirle que no a este isekai  de nombre impronunciable? Bienvenidos a Danmachi en este [#miercolesmanga](/etiquetas/miercolesmanga).
 
 Publicado en España por [@norma_editorial](https://instagram.com/norma_editorial) con el título “¿Qué tiene de malo intentar ligar en una mazmorra? Danmachi”, esta obra viene a ser una adaptación al manga del anime Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka licenciado aquí por [@selectavision](https://instagram.com/selectavision) con la misma traducción para el título, y que por razones obvias al final todo el mundo usa su apodo mucho más corto.
 

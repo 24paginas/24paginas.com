@@ -25,8 +25,8 @@ David Ramírez comenzó 2019 compartiendo sus mejores propósitos en forma de ti
 
 Después llegaría el “Tal Cual” que le da título, la reacción más extendida entre los lectores de la tira. Y es que, a través de la autoficción y el humor de lo cotidiano, [@davidramirezros](https://instagram.com/davidramirezros) consigue que cualquiera se sienta identificado con alguno de los momentos de vida profesional, familiar y de pareja que narra.
 
-Este recopilatorio nos llega recién salidos del confinamiento, durante el cual David Ramírez nos ha traído la secuela espiritual de Tal Cual en [#COnviVIenDo](/tags/conviviendo), la historia de su convivencia con su marido enfermo de coronavirus. Risas, lágrimas y ternura a partes iguales en dosis diarias.
+Este recopilatorio nos llega recién salidos del confinamiento, durante el cual David Ramírez nos ha traído la secuela espiritual de Tal Cual en [#COnviVIenDo](/etiquetas/conviviendo), la historia de su convivencia con su marido enfermo de coronavirus. Risas, lágrimas y ternura a partes iguales en dosis diarias.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#humor](/tags/humor) [#tiradiaria](/tags/tiradiaria) [#davidramirez](/tags/davidramirez) [#orgullo](/tags/orgullo) [#muyfansdelpelazodelmaridodedavid](/tags/muyfansdelpelazodelmaridodedavid) [@norma_editorial](https://instagram.com/norma_editorial)
+[#comic](/etiquetas/comic) [#humor](/etiquetas/humor) [#tiradiaria](/etiquetas/tiradiaria) [#davidramirez](/etiquetas/davidramirez) [#orgullo](/etiquetas/orgullo) [#muyfansdelpelazodelmaridodedavid](/etiquetas/muyfansdelpelazodelmaridodedavid) [@norma_editorial](https://instagram.com/norma_editorial)

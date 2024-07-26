@@ -33,4 +33,4 @@ Una joyita para lectores fans de Bowie y una demostración de que el inglés es,
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#davidbowie](/tags/davidbowie) [#bowie](/tags/bowie) [#comic](/tags/comic) [#musica](/tags/musica) [#glam](/tags/glam) [#ziggystardust](/tags/ziggystardust) [#cifi](/tags/cifi) [#biografia](/tags/biografia) [#mikeallred](/tags/mikeallred) [#redrocket7](/tags/redrocket7) [#vidaenmartes](/tags/vidaenmartes) [@norma_editorial](https://instagram.com/norma_editorial)
+[#davidbowie](/etiquetas/davidbowie) [#bowie](/etiquetas/bowie) [#comic](/etiquetas/comic) [#musica](/etiquetas/musica) [#glam](/etiquetas/glam) [#ziggystardust](/etiquetas/ziggystardust) [#cifi](/etiquetas/cifi) [#biografia](/etiquetas/biografia) [#mikeallred](/etiquetas/mikeallred) [#redrocket7](/etiquetas/redrocket7) [#vidaenmartes](/etiquetas/vidaenmartes) [@norma_editorial](https://instagram.com/norma_editorial)

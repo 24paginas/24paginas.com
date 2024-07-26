@@ -17,7 +17,7 @@ author: 24paginas
 
 {% gallery "35564708_263572891043416_4664545808731865088_n_17958764755032922.jpg" "36746294_1321061511359895_3065223674169655296_n_17958095620021127.jpg" %}
 
-Mr. Milagro [#6](/tags/6)
+Mr. Milagro [#6](/etiquetas/6)
 
 Fuera de la discusión sobre si [@tomking_tk](https://instagram.com/tomking_tk) es un genio o un vendemotos hay algo que no deja espacio a dudas: su capacidad para desarrollar lo cotidiano dentro de un ambiente superheroico.
 

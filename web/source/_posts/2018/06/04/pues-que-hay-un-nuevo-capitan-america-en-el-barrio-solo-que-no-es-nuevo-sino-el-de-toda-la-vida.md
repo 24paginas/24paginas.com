@@ -23,7 +23,7 @@ author: neverbot
 
 Pues que hay un nuevo Capitán América en el barrio. Sólo que no es nuevo, sino el de toda la vida.
 
-Y como últimamente soy el señor al que no le gusta nada y está todo el día con el [#mimimi](/tags/mimimi), pues esto va a ser corto.
+Y como últimamente soy el señor al que no le gusta nada y está todo el día con el [#mimimi](/etiquetas/mimimi), pues esto va a ser corto.
 
 Yo a esto digo sí.
 

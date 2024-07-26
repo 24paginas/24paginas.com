@@ -30,4 +30,4 @@ Un experimento interesante de edición que cuenta además con estupendas histori
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#cifi](/tags/cifi) [#scifi](/tags/scifi) [#supervivencia](/tags/supervivencia) [#jefflemire](/tags/jefflemire) [#enlasnavesespaialessuelehabermuypocoespacio](/tags/enlasnavesespaialessuelehabermuypocoespacio) [@tkopresents](https://instagram.com/tkopresents) [@radar_comics](https://instagram.com/radar_comics)
+[#comic](/etiquetas/comic) [#cifi](/etiquetas/cifi) [#scifi](/etiquetas/scifi) [#supervivencia](/etiquetas/supervivencia) [#jefflemire](/etiquetas/jefflemire) [#enlasnavesespaialessuelehabermuypocoespacio](/etiquetas/enlasnavesespaialessuelehabermuypocoespacio) [@tkopresents](https://instagram.com/tkopresents) [@radar_comics](https://instagram.com/radar_comics)

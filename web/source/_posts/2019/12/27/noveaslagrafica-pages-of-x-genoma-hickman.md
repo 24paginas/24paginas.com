@@ -25,7 +25,7 @@ author: 24paginas
 
 {% gallery "79212880_2624899491165211_4339243716711025071_n_18081449185177279.jpg" %}
 
-[#NOVEASLAgrafica](/tags/noveaslagrafica): Pages of X, Genoma Hickman.
+[#NOVEASLAgrafica](/etiquetas/noveaslagrafica): Pages of X, Genoma Hickman.
 
 Con la doble miniserie mutante en su ecuador (esta misma semana os contaremos impresiones sobre los terceros números y su cambio de numeración), hacemos un repaso a la estructura de la misma.
 
@@ -33,4 +33,4 @@ Es conocida la tendencia de Hickman a mezclar recursos en sus obras, y ya os hem
 
 Un repaso simplificado que daría seguramente para mucho más, pero que demuestra la capacidad del guionista (y antiguo diseñador) para sacarle jugo al medio.
 
-[#comic](/tags/comic) [#marvel](/tags/marvel) [#xmen](/tags/xmen) [#houseofx](/tags/houseofx) [#dinastiadex](/tags/dinastiadex) [#powersofx](/tags/powersofx) [#potenciasdex](/tags/potenciasdex) [#hickman](/tags/hickman) [#mutantes](/tags/mutantes) [#magneto](/tags/magneto) [#ciplope](/tags/ciplope) [#lobezno](/tags/lobezno) [#krakoa](/tags/krakoa) [#moira](/tags/moira) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@pepelarraz](https://instagram.com/pepelarraz) [@rbsilva_comics](https://instagram.com/rbsilva_comics) [@martegraciacolor](https://instagram.com/martegraciacolor) [@hellomuller](https://instagram.com/hellomuller)
+[#comic](/etiquetas/comic) [#marvel](/etiquetas/marvel) [#xmen](/etiquetas/xmen) [#houseofx](/etiquetas/houseofx) [#dinastiadex](/etiquetas/dinastiadex) [#powersofx](/etiquetas/powersofx) [#potenciasdex](/etiquetas/potenciasdex) [#hickman](/etiquetas/hickman) [#mutantes](/etiquetas/mutantes) [#magneto](/etiquetas/magneto) [#ciplope](/etiquetas/ciplope) [#lobezno](/etiquetas/lobezno) [#krakoa](/etiquetas/krakoa) [#moira](/etiquetas/moira) [@paninicomicsespana](https://instagram.com/paninicomicsespana) [@pepelarraz](https://instagram.com/pepelarraz) [@rbsilva_comics](https://instagram.com/rbsilva_comics) [@martegraciacolor](https://instagram.com/martegraciacolor) [@hellomuller](https://instagram.com/hellomuller)

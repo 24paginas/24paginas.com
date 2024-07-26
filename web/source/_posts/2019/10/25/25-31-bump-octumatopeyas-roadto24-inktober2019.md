@@ -22,7 +22,7 @@ author: uncientovolando
 
 {% gallery "75458054_115020319920903_8390160496411705688_n_17873724289476326.jpg" %}
 
-25/31. BUMP! [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+25/31. BUMP! [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
 Ya solo queda una semana para pasar página y volver a la ¿normalidad? En unos días dejaremos de lado este experimento de lettering y os ofreceremos nuestra habituales reseñas y secciones.
 

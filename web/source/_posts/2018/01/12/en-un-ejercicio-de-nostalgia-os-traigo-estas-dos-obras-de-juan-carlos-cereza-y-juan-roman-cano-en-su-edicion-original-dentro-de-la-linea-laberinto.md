@@ -32,7 +32,7 @@ author: hecdruiz
 
 En un ejercicio de nostalgia os traigo estas dos obras de Juan Carlos Cereza y Juan Román Cano en su edición original dentro de la línea Laberinto, que en su momento publicó [@planetadcomic](https://instagram.com/planetadcomic) y posteriormente fueron recopiladas por parte de Aleta hace unos tres años en un tomo.
 
-Ojo aquí, que estamos hablado de unos cómics con más de veinte años de antigüedad... [#vamosamorirtodos](/tags/vamosamorirtodos)
+Ojo aquí, que estamos hablado de unos cómics con más de veinte años de antigüedad... [#vamosamorirtodos](/etiquetas/vamosamorirtodos)
 
 A mi gusto inspirados en el Body Bags de Jason Pearson tanto en el arte como en  el estilo "badass" de los 90, hay que reconocer que son dos obras hijas de su tiempo. En este caso el trasfondo está ambientado en un ambiente cyberpunk distopíco, con megacorporaciones abusivas, opresión, tipos a cada cual más duro y muchos, muchos tiros. Otra cosa no pero tiros hay para dar y tomar.
 
@@ -44,4 +44,4 @@ Personalmente de las dos, Zeta es mi favorita y me hubiese gustado que tuviese m
 
 ([@hecdruiz](https://instagram.com/hecdruiz))
 
-[#blackhacker](/tags/blackhacker) [#zeta](/tags/zeta) [#comics](/tags/comics) [#tebeos](/tags/tebeos) [#linealaberinto](/tags/linealaberinto) [#laberinto](/tags/laberinto) [#aletaediciones](/tags/aletaediciones) #
+[#blackhacker](/etiquetas/blackhacker) [#zeta](/etiquetas/zeta) [#comics](/etiquetas/comics) [#tebeos](/etiquetas/tebeos) [#linealaberinto](/etiquetas/linealaberinto) [#laberinto](/etiquetas/laberinto) [#aletaediciones](/etiquetas/aletaediciones) #

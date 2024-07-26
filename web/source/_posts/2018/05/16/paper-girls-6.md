@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "31907812_254649795106178_5819219316398096384_n_17903932588198458.jpg" %}
 
-Paper Girls [#6](/tags/6)
+Paper Girls [#6](/etiquetas/6)
 
 Más Erin's ¿más diversión?
 

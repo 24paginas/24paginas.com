@@ -21,7 +21,7 @@ author: uncientovolando
 
 M21 Magazine.
 
-Esta semana pensaba traeros 2 revistas 2. Pero he pensado empezar con esta ya que la otra tiene cierta cantidad de [#lapromosio](/tags/lapromosio) y otro tanto de ego-trip.
+Esta semana pensaba traeros 2 revistas 2. Pero he pensado empezar con esta ya que la otra tiene cierta cantidad de [#lapromosio](/etiquetas/lapromosio) y otro tanto de ego-trip.
 
 Espero que sepáis perdonar el centralismo quienes nos leéis desde fuera de Madrid, ya que esta revista se centra de lleno en la historia y actualidad de la ciudad. M21 Magazine es la revista de la Emisora Escuela de la capital, es gratuita y se puede encontrar en papel en 400 puntos de la capitál, incluyendo bibliotecas públicas, o en formato digital en <www.m21radio.es/m21-magazine>.
 

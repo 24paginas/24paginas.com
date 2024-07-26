@@ -24,7 +24,7 @@ author: uncientovolando
 
 {% gallery "88151589_862679464165781_8465255050174430993_n_18130478323055542.jpg" "84469628_2617762665012933_2600669726262945089_n_18130445881062882.jpg" %}
 
-Historia del Universo Marvel [#4](/tags/4): Tiempos Modernos.
+Historia del Universo Marvel [#4](/etiquetas/4): Tiempos Modernos.
 
 Con esta cuarta entrega llegamos a la era moderna de Marvel, con algunos eventos de la segunda mitad de los 70 pero centrándonos sobretodo en las décadas de los 80 y 90.
 
@@ -34,4 +34,4 @@ Número especial para quienes, como yo y muchos de los que os dejáis caer por a
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#historiadeluniversomarvel](/tags/historiadeluniversomarvel) [#marvel](/tags/marvel) [#los4fantasticos](/tags/los4fantasticos) [#spiderman](/tags/spiderman) [#xmen](/tags/xmen) [#markwaid](/tags/markwaid) [#javirodriguez](/tags/javirodriguez) [#vengadores](/tags/vengadores) [#legacy](/tags/legacy) [#sagadelclon](/tags/sagadelclon) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#historiadeluniversomarvel](/etiquetas/historiadeluniversomarvel) [#marvel](/etiquetas/marvel) [#los4fantasticos](/etiquetas/los4fantasticos) [#spiderman](/etiquetas/spiderman) [#xmen](/etiquetas/xmen) [#markwaid](/etiquetas/markwaid) [#javirodriguez](/etiquetas/javirodriguez) [#vengadores](/etiquetas/vengadores) [#legacy](/etiquetas/legacy) [#sagadelclon](/etiquetas/sagadelclon) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

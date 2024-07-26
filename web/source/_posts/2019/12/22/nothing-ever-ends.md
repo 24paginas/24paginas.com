@@ -22,6 +22,6 @@ author: 24paginas
 
 Nothing ever ends...
 
-Volvemos de nuevo a [#Watchmen](/tags/watchmen), y a los memes que ha generado la serie, para hacer un repaso a (algunas) ediciones de la obra de Moore y Gibbons en nuestro país.
+Volvemos de nuevo a [#Watchmen](/etiquetas/watchmen), y a los memes que ha generado la serie, para hacer un repaso a (algunas) ediciones de la obra de Moore y Gibbons en nuestro país.
 
-[#meme](/tags/meme) [#comic](/tags/comic) [#watchmenhbo](/tags/watchmenhbo) [#tebeo](/tags/tebeo) [#zinco](/tags/zinco) [#alanmoore](/tags/alanmoore) [#davegibbons](/tags/davegibbons) [#dccomics](/tags/dccomics) [#drmanhattan](/tags/drmanhattan) [@planetadcomic](https://instagram.com/planetadcomic) [@eccediciones](https://instagram.com/eccediciones) [@norma_editorial](https://instagram.com/norma_editorial) [@glenatbd](https://instagram.com/glenatbd)
+[#meme](/etiquetas/meme) [#comic](/etiquetas/comic) [#watchmenhbo](/etiquetas/watchmenhbo) [#tebeo](/etiquetas/tebeo) [#zinco](/etiquetas/zinco) [#alanmoore](/etiquetas/alanmoore) [#davegibbons](/etiquetas/davegibbons) [#dccomics](/etiquetas/dccomics) [#drmanhattan](/etiquetas/drmanhattan) [@planetadcomic](https://instagram.com/planetadcomic) [@eccediciones](https://instagram.com/eccediciones) [@norma_editorial](https://instagram.com/norma_editorial) [@glenatbd](https://instagram.com/glenatbd)

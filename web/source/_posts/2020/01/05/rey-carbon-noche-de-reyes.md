@@ -26,4 +26,4 @@ Lectura aparentemente rápida pero que pide varias relecturas.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#max](/tags/max) [#reycarbon](/tags/reycarbon) [#surrealismo](/tags/surrealismo) [#nochedereyes](/tags/nochedereyes) [@edicioneslacupula](https://instagram.com/edicioneslacupula)
+[#comic](/etiquetas/comic) [#max](/etiquetas/max) [#reycarbon](/etiquetas/reycarbon) [#surrealismo](/etiquetas/surrealismo) [#nochedereyes](/etiquetas/nochedereyes) [@edicioneslacupula](https://instagram.com/edicioneslacupula)

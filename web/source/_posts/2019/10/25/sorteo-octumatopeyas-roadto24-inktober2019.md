@@ -23,7 +23,7 @@ author: 24paginas
 
 {% gallery "72479596_165331704658642_1505363965075773715_n_17920945924337192.jpg" %}
 
-SORTEO [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+SORTEO [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 ¿Quieres ganar el lettering de BAMF?
 
 Solo tienes que SEGUIRNOS y COMENTAR a este post etiquetando a un amigo por el que te teletransportarías al instante si necesita vuestra ayuda.

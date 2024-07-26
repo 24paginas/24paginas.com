@@ -24,4 +24,4 @@ En este caso, Generación-X Las Musas, en Madrid. No es una de las tiendas más 
 
 En la próxima tienda que paremos, hacemos más fotos :)
 
-[#24paginas](/tags/24paginas) [#24sporelmundo](/tags/24sporelmundo) [#veinticuatrosporelmundo](/tags/veinticuatrosporelmundo) [#tiendas](/tags/tiendas) [#tebeos](/tags/tebeos) [#comics](/tags/comics) [#generacionx](/tags/generacionx) [@genxlasmusas](https://instagram.com/genxlasmusas) [@genxcentral](https://instagram.com/genxcentral)
+[#24paginas](/etiquetas/24paginas) [#24sporelmundo](/etiquetas/24sporelmundo) [#veinticuatrosporelmundo](/etiquetas/veinticuatrosporelmundo) [#tiendas](/etiquetas/tiendas) [#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#generacionx](/etiquetas/generacionx) [@genxlasmusas](https://instagram.com/genxlasmusas) [@genxcentral](https://instagram.com/genxcentral)

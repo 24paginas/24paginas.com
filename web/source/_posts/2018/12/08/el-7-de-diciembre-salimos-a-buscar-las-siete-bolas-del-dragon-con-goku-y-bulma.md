@@ -32,4 +32,4 @@ Pocas cosas definen para mí el concepto de nostalgia cómo abrir un tebeo de Bo
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#24paginas](/tags/24paginas) [#advienticuatropaginas](/tags/advienticuatropaginas) [#dragonball](/tags/dragonball) [#boladedragon](/tags/boladedragon) [#goku](/tags/goku) [#gokuh](/tags/gokuh) [#bulma](/tags/bulma) [#shenron](/tags/shenron) [#akiratoriyama](/tags/akiratoriyama) [#planetadcomic](/tags/planetadcomic) [@planetadcomic](https://instagram.com/planetadcomic)
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#24paginas](/etiquetas/24paginas) [#advienticuatropaginas](/etiquetas/advienticuatropaginas) [#dragonball](/etiquetas/dragonball) [#boladedragon](/etiquetas/boladedragon) [#goku](/etiquetas/goku) [#gokuh](/etiquetas/gokuh) [#bulma](/etiquetas/bulma) [#shenron](/etiquetas/shenron) [#akiratoriyama](/etiquetas/akiratoriyama) [#planetadcomic](/etiquetas/planetadcomic) [@planetadcomic](https://instagram.com/planetadcomic)

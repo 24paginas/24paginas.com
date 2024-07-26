@@ -17,4 +17,4 @@ author: 24paginas
 
 {% gallery "67457297_161742504951814_8980477700262918632_n_17865551485445328.jpg" %}
 
-[#24paginas](/tags/24paginas) n° 22: Summer Edition.
+[#24paginas](/etiquetas/24paginas) n° 22: Summer Edition.

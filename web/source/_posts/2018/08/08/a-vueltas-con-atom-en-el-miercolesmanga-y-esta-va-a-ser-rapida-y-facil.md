@@ -22,7 +22,7 @@ author: hecdruiz
 
 {% gallery "38468339_258635118197505_2799813167931195392_n_17904981469217438.jpg" "38162643_238332670340105_5350165104778280960_n_17933119630168064.jpg" "37625850_220676078618241_6382913072255729664_n_17908543573201926.jpg" "38741040_239817456869549_8568614189659062272_n_17959756822072382.jpg" %}
 
-A vueltas con Atom en el [#miercolesmanga](/tags/miercolesmanga) y está va a ser rápida y fácil.
+A vueltas con Atom en el [#miercolesmanga](/etiquetas/miercolesmanga) y está va a ser rápida y fácil.
 
 Meh.
 

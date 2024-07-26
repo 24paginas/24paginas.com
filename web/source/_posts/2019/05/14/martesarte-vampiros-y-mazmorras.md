@@ -17,6 +17,6 @@ author: uncientovolando
 
 {% gallery "59345513_139835083759919_5185430216517335579_n_18064960636037803.jpg" %}
 
-[#martesarte](/tags/martesarte): Vampiros y Mazmorras.
+[#martesarte](/etiquetas/martesarte): Vampiros y Mazmorras.
 
-El pasado octubre [@elmonteys](https://instagram.com/elmonteys) dedicó su [#inktober](/tags/inktober) a repasar el bestiario de D&D y, como era de esperar, cada dibujo que ponía a la venta (¡2 al día!) volaba en segundos. Finalmente tuve una tirada de suerte y este vampiro fue invitado a mi casa. ([@uncientovolando](https://instagram.com/uncientovolando))
+El pasado octubre [@elmonteys](https://instagram.com/elmonteys) dedicó su [#inktober](/etiquetas/inktober) a repasar el bestiario de D&D y, como era de esperar, cada dibujo que ponía a la venta (¡2 al día!) volaba en segundos. Finalmente tuve una tirada de suerte y este vampiro fue invitado a mi casa. ([@uncientovolando](https://instagram.com/uncientovolando))

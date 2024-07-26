@@ -18,7 +18,7 @@ author: 24paginas
 
 {% gallery "44269247_536237176803200_6763070096292557874_n_17967881257084743.jpg" %}
 
-[#motivationalmonday](/tags/motivationalmonday): empezamos nueva sección con los [#FantasticFour](/tags/fantasticfour) de [@alexsantalo](https://instagram.com/alexsantalo).
+[#motivationalmonday](/etiquetas/motivationalmonday): empezamos nueva sección con los [#FantasticFour](/etiquetas/fantasticfour) de [@alexsantalo](https://instagram.com/alexsantalo).
 
 Para combatir los lunes que se hacen cuesta arriba, queremos traeros las piezas de arte que decoran nuestras paredes.
 

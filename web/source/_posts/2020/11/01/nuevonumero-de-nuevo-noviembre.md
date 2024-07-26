@@ -17,7 +17,7 @@ author: hecdruiz
 
 {% gallery "123142677_841656873310768_330544796927617279_n_17844641708449225.jpg" %}
 
-[#nuevonumero](/tags/nuevonumero): de nuevo noviembre.
+[#nuevonumero](/etiquetas/nuevonumero): de nuevo noviembre.
 
 Hace tres años –bueno, hará tres años mañana– lanzábamos tímidamente nuestra primera publicación, un repaso a las grapas con portada holográfica alternativa que [@hecdruiz](https://instagram.com/hecdruiz) había conseguido en su viaje a los USA.
 

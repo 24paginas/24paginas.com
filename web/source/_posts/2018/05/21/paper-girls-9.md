@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "32098104_1551078261681449_8591964320529645568_n_17885250436219294.jpg" %}
 
-Paper Girls [#9](/tags/9)
+Paper Girls [#9](/etiquetas/9)
 
 Conócete a ti misma
 

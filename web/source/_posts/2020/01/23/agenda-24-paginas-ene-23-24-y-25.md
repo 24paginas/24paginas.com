@@ -39,4 +39,4 @@ Os  que si tenéis algún evento sobre cómic que queráis incluir, gratis total
 
 Salud y tebeos.
 
-[#agenda](/tags/agenda) [#evento](/tags/evento) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#madrid](/tags/madrid) [#rumble](/tags/rumble) [#taxus](/tags/taxus) [#dccomics](/tags/dccomics) [#greenlantern](/tags/greenlantern) [#dibujantes](/tags/dibujantes) [#comicsespañol](/tags/comicsespanol) [#superheroes](/tags/superheroes) [#mitologia](/tags/mitologia) [@eccediciones](https://instagram.com/eccediciones) [@dolmeneditorial](https://instagram.com/dolmeneditorial)
+[#agenda](/etiquetas/agenda) [#evento](/etiquetas/evento) [#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#madrid](/etiquetas/madrid) [#rumble](/etiquetas/rumble) [#taxus](/etiquetas/taxus) [#dccomics](/etiquetas/dccomics) [#greenlantern](/etiquetas/greenlantern) [#dibujantes](/etiquetas/dibujantes) [#comicsespañol](/etiquetas/comicsespanol) [#superheroes](/etiquetas/superheroes) [#mitologia](/etiquetas/mitologia) [@eccediciones](https://instagram.com/eccediciones) [@dolmeneditorial](https://instagram.com/dolmeneditorial)

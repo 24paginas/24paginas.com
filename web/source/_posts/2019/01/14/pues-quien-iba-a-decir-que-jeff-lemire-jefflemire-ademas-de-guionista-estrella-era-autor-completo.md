@@ -27,4 +27,4 @@ Un señor chungo en un pueblo perdido, alcohol, drogas, pasados turbios. Uno cas
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#24paginas](/tags/24paginas) [#jefflemire](/tags/jefflemire) [#untipoduro](/tags/untipoduro) [#roughneck](/tags/roughneck) [#astiberri](/tags/astiberri) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#24paginas](/etiquetas/24paginas) [#jefflemire](/etiquetas/jefflemire) [#untipoduro](/etiquetas/untipoduro) [#roughneck](/etiquetas/roughneck) [#astiberri](/etiquetas/astiberri) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

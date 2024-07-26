@@ -25,9 +25,9 @@ author: uncientovolando
 
 {% gallery "71187734_161430905054241_2805116450965631378_n_17890052797417533.jpg" %}
 
-16/31. ギュアアッ [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+16/31. ギュアアッ [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
-Aprovechamos que hemos superado la mitad del [#inktober](/tags/inktober) y es [#miercolesmanga](/tags/miercolesmanga) para traer algo especial. Podríamos hablar del estupendo trabajo que están realizando desde [@cerditosdeguinea](https://instagram.com/cerditosdeguinea) pero nos lo reservamos para cuando hagamos la review de su estupendo [#RedRibbonRising](/tags/redribbonrising).
+Aprovechamos que hemos superado la mitad del [#inktober](/etiquetas/inktober) y es [#miercolesmanga](/etiquetas/miercolesmanga) para traer algo especial. Podríamos hablar del estupendo trabajo que están realizando desde [@cerditosdeguinea](https://instagram.com/cerditosdeguinea) pero nos lo reservamos para cuando hagamos la review de su estupendo [#RedRibbonRising](/etiquetas/redribbonrising).
 
 Pero la onomatopeya de hoy no les queda lejos, ya que pertenece al número 15 de Dragon Ball, con el enfrentamiento entre Jackie Chun (Muten Rōshi) y un Goku convertido en mono gigante en pleno torneo de artes marciales.
 

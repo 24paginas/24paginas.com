@@ -24,4 +24,4 @@ Pero cuidado, ser un superhéroe engancha.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#dialhforhero](/tags/dialhforhero) [#superman](/tags/superman) [#superheroes](/tags/superheroes) [@eccediciones](https://instagram.com/eccediciones)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#dialhforhero](/etiquetas/dialhforhero) [#superman](/etiquetas/superman) [#superheroes](/etiquetas/superheroes) [@eccediciones](https://instagram.com/eccediciones)

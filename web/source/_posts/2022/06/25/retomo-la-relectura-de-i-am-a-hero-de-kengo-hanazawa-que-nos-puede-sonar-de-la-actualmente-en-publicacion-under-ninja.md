@@ -21,4 +21,4 @@ Retomo la relectura de I am a hero de Kengo Hanazawa (que nos puede sonar de la 
 
 A la tercera va la vencida.
 
-[#iamahero](/tags/iamahero) [#kengohanazawa](/tags/kengohanazawa) [#underninja](/tags/underninja) [#manga](/tags/manga) [#norma](/tags/norma) [#normaeditorial](/tags/normaeditorial) [#normaedmanga](/tags/normaedmanga) [@normaedmanga](https://instagram.com/normaedmanga)
+[#iamahero](/etiquetas/iamahero) [#kengohanazawa](/etiquetas/kengohanazawa) [#underninja](/etiquetas/underninja) [#manga](/etiquetas/manga) [#norma](/etiquetas/norma) [#normaeditorial](/etiquetas/normaeditorial) [#normaedmanga](/etiquetas/normaedmanga) [@normaedmanga](https://instagram.com/normaedmanga)

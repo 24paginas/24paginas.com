@@ -23,7 +23,7 @@ author: hecdruiz
 
 {% gallery "23498910_366743137108209_6206712567218307072_n_17890934848089773.jpg" %}
 
-Aprovechando que me pasé por el evento de [#LosProfesionales](/tags/losprofesionales) os traigo una pequeña reseña de dos joyas que tengo en mi poder con las que descubrí al fantástico [@davizzzz](https://instagram.com/davizzzz)
+Aprovechando que me pasé por el evento de [#LosProfesionales](/etiquetas/losprofesionales) os traigo una pequeña reseña de dos joyas que tengo en mi poder con las que descubrí al fantástico [@davizzzz](https://instagram.com/davizzzz)
 
 Tanto Amarillo Enamorado, como sobretodo Espiral (polaroids), son historias de sentimientos, divertidas y con su toque de acción. Pero a la vez también son ligeras y sobretodo con una calidad en los diálogos que hace que enseguida conectes con los personajes y te lleguen a la patata.
 

@@ -25,7 +25,7 @@ author: hecdruiz
 
 DIE: que rueden esos dados.
 
-Nueva [#roleseña](/tags/rolesena). Que no se diga que no le damos continuidad a las secciones (je). Una historia que podría resumirse en “el típico manga isekai a la americana”. Vamos, adolescentes del mundo real viajan al mundo de fantasía a vivir aventuras. Esta vez con un girito de tuerca añadido.
+Nueva [#roleseña](/etiquetas/rolesena). Que no se diga que no le damos continuidad a las secciones (je). Una historia que podría resumirse en “el típico manga isekai a la americana”. Vamos, adolescentes del mundo real viajan al mundo de fantasía a vivir aventuras. Esta vez con un girito de tuerca añadido.
 
 Supongo que si no eres lector de manga o de dicho género pueda resultar un planteamiento sorprendente o innovador.. pero yo esperaba algo más aparte de tanta referencia constante que me ha llegado a resultar hasta cansina por tirar de las típicas. Por lo menos el final del tomo anima a seguir con su correspondiente cliffhanger, pero si el segundo va en esta línea seguramente me baje.
 

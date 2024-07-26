@@ -27,7 +27,7 @@ author: hecdruiz
 
 {% gallery "67135131_485216565610914_5142742608877844677_n_17847637984558347.jpg" "66338683_395893187948104_2537999374221693589_n_17848591615528319.jpg" "67441700_2357716071183180_2086930442845547958_n_17864522971457149.jpg" "66481388_464727337640297_3926281612299181709_n_17848619419538460.jpg" %}
 
-Psst, que a pesar de la hora hoy toca [#viernesvintage](/tags/viernesvintage) con [#Spiderman](/tags/spiderman), [#Veneno](/tags/veneno) y [@toddmcfarlane](https://instagram.com/toddmcfarlane), ¡ahí es ná!
+Psst, que a pesar de la hora hoy toca [#viernesvintage](/etiquetas/viernesvintage) con [#Spiderman](/etiquetas/spiderman), [#Veneno](/etiquetas/veneno) y [@toddmcfarlane](https://instagram.com/toddmcfarlane), ¡ahí es ná!
 
 Otro viernes, otra grapita facsimil de estas que está sacando [@paninicomicsespana](https://instagram.com/paninicomicsespana), y que me siguen redescubriendo momentos pasados que te suben el nostalgiómetro. Aunque esta para mi tiene un sabor especialmente agridulce.
 

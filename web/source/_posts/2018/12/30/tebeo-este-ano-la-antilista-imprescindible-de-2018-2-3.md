@@ -24,7 +24,7 @@ Tebeo este año: La antilista imprescindible de 2018 (2/3).
 
 Faltan 2 días para terminar el año y quedamos 2 de los 3 que escribimos en este canal, así que he pensado en terminar el año por mi parte, aprovechando que son unas fechas llenas de ilusión, para traeros el momento comiquero que más ilusión me produjo el 2018.
 
-Cuando la nostalgia y la infancia de uno están por medio es complicado ser objetivo. Y en mi caso, como a muchos otros, hablar de [#DragonBall](/tags/dragonball) no es otra cosa sino apelar a ambas cosas.
+Cuando la nostalgia y la infancia de uno están por medio es complicado ser objetivo. Y en mi caso, como a muchos otros, hablar de [#DragonBall](/etiquetas/dragonball) no es otra cosa sino apelar a ambas cosas.
 
 Mi ilusionometro ya explotó en 2017 cuando volvieron a publicar la MÍTICA Serie Roja por parte de [@planetadcomic](https://instagram.com/planetadcomic) (gracias infinitas), pero hubo una cosa que a muchos nos dejó con la mosca detrás de la oreja. Un inquietante "1 de 5" que acompañaba por dentro a la numeración, con lo que ello implicaba. Rumores mil, miedo y ver como se llegaba al "5 de 5" y no se confirmaba nada.
 

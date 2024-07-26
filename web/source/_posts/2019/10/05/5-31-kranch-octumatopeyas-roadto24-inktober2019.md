@@ -19,7 +19,7 @@ author: uncientovolando
 
 {% gallery "69691612_229505048016658_5102948022876908089_n_17845360402686290.jpg" %}
 
-5/31. KRANCH 🔨[#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+5/31. KRANCH 🔨[#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
 Hoy encadenamos dos errores. El primero, que ayer marcamos como 5/31 el dibujo del día 4, el otro que la tinta no estaba suficientemente seca antes de colorear el lettering de hoy... aunque tras aprovechar las manchas para intentar hacer un efecto de ruptura no ha quedado TAN MAL.
 

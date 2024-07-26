@@ -17,7 +17,7 @@ author: 24paginas
 
 {% gallery "99084713_241077206991550_7520580885489884039_n_17867942068788788.jpg" "97913823_103237754684731_9113529476452786571_n_17944468051351515.jpg" %}
 
-What a fill-in [#01](/tags/01): Cassandra Darke, de Possy Simmonds.
+What a fill-in [#01](/etiquetas/01): Cassandra Darke, de Possy Simmonds.
 
 Posy Simmonds tiene cierta predilección por los títulos con nombre y apellido. Después de "Gemma Bovery" y "Tamara Drewe" (ambas novelas gráficas antes que películas) , ha optado por una protagonista cuya encarnación cinematográfica difícilmente podrá ser Gemma Arterton, al menos en los próximos 30 años.
 Cassandra Darke es una galerista londinense con mal carácter que afronta el final de su vida con menos comodidades de las que esperaba. Y un sórdido hallazgo en su propia casa empieza a tambalear sus últimas certezas.
@@ -26,6 +26,6 @@ Simmonds mezcla intriga, realismo y crítica social para construir una novela n
 
 ([@sobre.textos](https://instagram.com/sobre.textos))
 
-NOTA: [#whatafillin](/tags/whatafillin) es una nueva sección en la que invitamos a amigos y conocidos como firmas, y firmes, invitadas. En este caso contamos con [@sobre.textos](https://instagram.com/sobre.textos), editora estupenda, lectora incansable y MUCHO más. Visitad su perfil!
+NOTA: [#whatafillin](/etiquetas/whatafillin) es una nueva sección en la que invitamos a amigos y conocidos como firmas, y firmes, invitadas. En este caso contamos con [@sobre.textos](https://instagram.com/sobre.textos), editora estupenda, lectora incansable y MUCHO más. Visitad su perfil!
 
-[#comic](/tags/comic) [#novelagrafica](/tags/novelagrafica) [#policiaco](/tags/policiaco) [#slicesoflife](/tags/slicesoflife) [@ediciones_salamandra](https://instagram.com/ediciones_salamandra)
+[#comic](/etiquetas/comic) [#novelagrafica](/etiquetas/novelagrafica) [#policiaco](/etiquetas/policiaco) [#slicesoflife](/etiquetas/slicesoflife) [@ediciones_salamandra](https://instagram.com/ediciones_salamandra)

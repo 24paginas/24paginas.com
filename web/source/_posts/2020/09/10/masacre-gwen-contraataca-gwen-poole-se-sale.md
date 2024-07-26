@@ -31,4 +31,4 @@ Y luego está David, ay [@davidbaldeoncomic](https://instagram.com/davidbaldeon
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#marvel](/tags/marvel) [#gwenpool](/tags/gwenpool) [#deadpool](/tags/deadpool) [#spiderman](/tags/spiderman) [#jeffthelandshark](/tags/jeffthelandshark) [#atomarporsacolacuartapared](/tags/atomarporsacolacuartapared) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#marvel](/etiquetas/marvel) [#gwenpool](/etiquetas/gwenpool) [#deadpool](/etiquetas/deadpool) [#spiderman](/etiquetas/spiderman) [#jeffthelandshark](/etiquetas/jeffthelandshark) [#atomarporsacolacuartapared](/etiquetas/atomarporsacolacuartapared) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

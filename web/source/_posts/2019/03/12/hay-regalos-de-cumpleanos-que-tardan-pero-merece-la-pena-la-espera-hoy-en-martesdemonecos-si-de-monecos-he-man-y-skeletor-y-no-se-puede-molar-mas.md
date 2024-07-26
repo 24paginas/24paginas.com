@@ -18,7 +18,7 @@ author: hecdruiz
 
 {% gallery "53186649_2218486731579524_4745713357431131945_n_18044325922020831.jpg" "52063739_812072062495534_5848962345936655759_n_18012988312181907.jpg" "52661234_2330815967195266_4202294999822593578_n_17978538064216095.jpg" %}
 
-Hay regalos de cumpleaños que tardan, pero merece la pena la espera. Hoy en [#martesdemoñecos](/tags/martesdemonecos)(si, de MOÑECOS): He-Man y Skeletor. Y no se puede molar más.
+Hay regalos de cumpleaños que tardan, pero merece la pena la espera. Hoy en [#martesdemoñecos](/etiquetas/martesdemonecos)(si, de MOÑECOS): He-Man y Skeletor. Y no se puede molar más.
 
 Por lo visto Super7 es una empresa que tiene varias líneas de moñeFIGURAS DE ACCIÓN!! ... Ejem, perdón. Decía, que tiene varias líneas de moñecos inspirados en la serie de He-Man y los Masters del Universo (si no sabes que es esto, disfruta de tu juventud).
 

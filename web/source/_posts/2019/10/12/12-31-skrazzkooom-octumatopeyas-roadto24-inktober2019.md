@@ -22,6 +22,6 @@ author: uncientovolando
 
 {% gallery "71018462_2500872203314008_607821523158611022_n_17879370922443410.jpg" %}
 
-12/31. SKRAZZKOOOM [#octumatopeyas](/tags/octumatopeyas) [#roadto24](/tags/roadto24) [#inktober2019](/tags/inktober2019)
+12/31. SKRAZZKOOOM [#octumatopeyas](/etiquetas/octumatopeyas) [#roadto24](/etiquetas/roadto24) [#inktober2019](/etiquetas/inktober2019)
 
 No está claro el funcionamiento de los rayos ópticos de Scott Summers, lo que sí está claro es que tan solo con su sonido es capaz de dejar a cualquiera impactado.

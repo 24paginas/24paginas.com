@@ -30,4 +30,4 @@ Creo que necesito ajustar mi medicación antes de seguir.
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeos](/tags/tebeos) [#invasionbritanica](/tags/invasionbritanica) [#grantmorrison](/tags/grantmorrison) [#vertigo](/tags/vertigo) [#patrullacondenada](/tags/patrullacondenada) [#doompatrol](/tags/doompatrol) [@eccediciones](https://instagram.com/eccediciones)
+[#comic](/etiquetas/comic) [#tebeos](/etiquetas/tebeos) [#invasionbritanica](/etiquetas/invasionbritanica) [#grantmorrison](/etiquetas/grantmorrison) [#vertigo](/etiquetas/vertigo) [#patrullacondenada](/etiquetas/patrullacondenada) [#doompatrol](/etiquetas/doompatrol) [@eccediciones](https://instagram.com/eccediciones)

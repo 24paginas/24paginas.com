@@ -32,4 +32,4 @@ La vida puede ser dura. Encuentra lo que te hace feliz y deja que luche a tu lad
 
 Edita: [@planetadcomic](https://instagram.com/planetadcomic).
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#murderfalcon](/tags/murderfalcon) [#mudics](/tags/mudics) [#heavy](/tags/heavy) [#metal](/tags/metal) [#guitarrazos](/tags/guitarrazos) 🤘🏻
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#murderfalcon](/etiquetas/murderfalcon) [#mudics](/etiquetas/mudics) [#heavy](/etiquetas/heavy) [#metal](/etiquetas/metal) [#guitarrazos](/etiquetas/guitarrazos) 🤘🏻

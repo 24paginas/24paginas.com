@@ -26,4 +26,4 @@ author: neverbot
 
 {% gallery "291628303_138179605237987_961769122836704980_n_17976022432593228.jpg" %}
 
-Grapas atrasadas para ir completando colecciones e intentar llegar a estar al día sin huecos entre medias en [#Thor](/tags/thor), [#DrExtraño](/tags/drextrano) y [#PatrullaX](/tags/patrullax).
+Grapas atrasadas para ir completando colecciones e intentar llegar a estar al día sin huecos entre medias en [#Thor](/etiquetas/thor), [#DrExtraño](/etiquetas/drextrano) y [#PatrullaX](/etiquetas/patrullax).

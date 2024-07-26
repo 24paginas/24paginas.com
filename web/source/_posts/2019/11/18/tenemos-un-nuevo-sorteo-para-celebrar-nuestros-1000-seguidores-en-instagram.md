@@ -22,10 +22,10 @@ author: 24paginas
 
 ¡Tenemos un nuevo SORTEO para celebrar nuestros 1000 seguidores en INSTAGRAM! 🎁
 
-Queremos agradeceros vuestro apoyo y hemos preparado, junto a [@omega_center_estrella](https://instagram.com/omega_center_estrella), este estupendo pack que incluye: - Dinastía de X [#1](/tags/1) firmado por el mismísimo [@pepelarraz](https://instagram.com/pepelarraz).
+Queremos agradeceros vuestro apoyo y hemos preparado, junto a [@omega_center_estrella](https://instagram.com/omega_center_estrella), este estupendo pack que incluye: - Dinastía de X [#1](/etiquetas/1) firmado por el mismísimo [@pepelarraz](https://instagram.com/pepelarraz).
 
 - Chapa de 24 páginas.
-- Set de [#OmegaCards](/tags/omegacards), la colección de cromos de autores que han firmado en la tienda.
+- Set de [#OmegaCards](/etiquetas/omegacards), la colección de cromos de autores que han firmado en la tienda.
 - Funko SORPRESA.
 
 Para participar tienes que:

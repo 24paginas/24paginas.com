@@ -21,7 +21,7 @@ author: uncientovolando
 
 {% gallery "87240559_119572942944346_6431148179167297653_n_18131554453011352.jpg" %}
 
-Estela Plateada Negro [#4](/tags/4): Let’s kill Hitl... Galactus.
+Estela Plateada Negro [#4](/etiquetas/4): Let’s kill Hitl... Galactus.
 
 Queda un número para el final de la miniserie y Estela Plateada se enfrenta a una encrucijada moral del tamaño de, Bueno, Galactus. En medio de su viaje huyendo de la oscuridad se ha encontrado con la oportunidad de cambiar el universo para siempre, pero ¿es eso lo que quiere?
 
@@ -31,4 +31,4 @@ Nuevos momentos de introspección con Norrin cuestionando su papel no solo como 
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#tebeo](/tags/tebeo) [#silversurfer](/tags/silversurfer) [#estelaplateada](/tags/estelaplateada) [#galactus](/tags/galactus) [#marvel](/tags/marvel) [#cifi](/tags/cifi) [#espacio](/tags/espacio) [#misrecuerdosdeestelaplateada](/tags/misrecuerdosdeestelaplateada) [@dcates](https://instagram.com/dcates) [#traddmoore](/tags/traddmoore) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#silversurfer](/etiquetas/silversurfer) [#estelaplateada](/etiquetas/estelaplateada) [#galactus](/etiquetas/galactus) [#marvel](/etiquetas/marvel) [#cifi](/etiquetas/cifi) [#espacio](/etiquetas/espacio) [#misrecuerdosdeestelaplateada](/etiquetas/misrecuerdosdeestelaplateada) [@dcates](https://instagram.com/dcates) [#traddmoore](/etiquetas/traddmoore) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

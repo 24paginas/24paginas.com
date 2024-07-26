@@ -24,7 +24,7 @@ author: hecdruiz
 
 {% gallery "46234028_379149076160565_2661925362769127930_n_17942792017210593.jpg" "47003027_342300403264311_6625129949884100978_n_18006003535027537.jpg" "45271191_392401598255387_1793520998781408741_n_17944954366204840.jpg" "44607851_120223172252576_93683410380844307_n_18005343547056811.jpg" "45510928_146361589666867_3596491601935889753_n_17982930793086904.jpg" "45409873_342747533203448_3548614274023063183_n_17913410029260806.jpg" %}
 
-Para este [#viernesvintage](/tags/viernesvintage) toca acercarnos a los Masters del Universo (MOTU para los amigos) en esta colección sólo apta para fans acérrimos de Eternia que nos trae [@eccediciones](https://instagram.com/eccediciones).
+Para este [#viernesvintage](/etiquetas/viernesvintage) toca acercarnos a los Masters del Universo (MOTU para los amigos) en esta colección sólo apta para fans acérrimos de Eternia que nos trae [@eccediciones](https://instagram.com/eccediciones).
 
 Obviamente para el público al que iba dirigido, y para la época, era más que de sobra, pero a día de hoy los argumentos resultan simplistas hasta lo ridículo y el dibujo no hay prácticamente por donde cogerlo. Pero por contra hay otras muchas cosas que, para los seguidores de este universo que crecimos con ello, hacen que esta colección valga la pena.
 

@@ -30,7 +30,7 @@ Pasamos de color a blanco y negro (exceptuando páginas concretas con algunas no
 
 Aquí Santiago García y Pepo Pérez nos traen un volumen que escora un poco más hacia el costumbrismo y el slice-of-life (un poco, tampoco nos rasguemos las vestiduras) y completa una saga deliciosa que nos deja con ganas de más.
 
-A ver si con el anuncio de la serie de tv se animan a crear un cuarto número y [#astiberri](/tags/astiberri) incluye también las tiras publicadas en la revista El Manglar, que hasta donde llega mi conocimiento no se han recopilado en ningún sitio.
+A ver si con el anuncio de la serie de tv se animan a crear un cuarto número y [#astiberri](/etiquetas/astiberri) incluye también las tiras publicadas en la revista El Manglar, que hasta donde llega mi conocimiento no se han recopilado en ningún sitio.
 
 A tope con El Vecino.
 

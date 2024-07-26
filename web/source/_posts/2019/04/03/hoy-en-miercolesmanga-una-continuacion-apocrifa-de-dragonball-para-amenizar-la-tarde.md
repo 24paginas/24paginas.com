@@ -29,7 +29,7 @@ author: neverbot
 
 {% gallery "54731533_342449106254250_5304285885436117508_n_17985654718208515.jpg" "54447019_472000400005500_362008883598184403_n_17873160496337558.jpg" "54277673_346020309591782_8128673505143302667_n_18018808318146338.jpg" "54800542_816181642076955_8493994105824582459_n_17950366780264028.jpg" "54800708_2175436799205647_6995709175560791846_n_17984711950222723.jpg" %}
 
-Hoy, en [#miercolesmanga](/tags/miercolesmanga), una continuación apócrifa de [#DragonBall](/tags/dragonball) para amenizar la tarde.
+Hoy, en [#miercolesmanga](/etiquetas/miercolesmanga), una continuación apócrifa de [#DragonBall](/etiquetas/dragonball) para amenizar la tarde.
 
 Corría el año 99 cuando se publicó en España en la revista HobbyConsolas una ilustración fanmade con el título DragonBall AF, dibujada por un chaval de Alicante. De ahí empezó a saltar a otros países y páginas web en una Internet que no se parece mucho a lo que conocemos hoy. Otros fans hicieron sus propias ilustraciones, algunos sus propios tebeos, y el nombre de DragonBall AF acabó cogiendo fama.
 

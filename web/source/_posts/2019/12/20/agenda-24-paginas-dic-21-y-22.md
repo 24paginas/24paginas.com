@@ -28,4 +28,4 @@ Y el domingo, para los que estén en Gijón, Alfonso Zapico ([@zapigram](https:/
 
 Salud y tebeos.
 
-[#agenda](/tags/agenda) [#evento](/tags/evento) [#comic](/tags/comic) [#tebeo](/tags/tebeo) [#murcia](/tags/murcia) [#gijon](/tags/gijon) [#taxus](/tags/taxus) [#baladadelnorte](/tags/baladadelnorte) [@dolmeneditorial](https://instagram.com/dolmeneditorial) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)
+[#agenda](/etiquetas/agenda) [#evento](/etiquetas/evento) [#comic](/etiquetas/comic) [#tebeo](/etiquetas/tebeo) [#murcia](/etiquetas/murcia) [#gijon](/etiquetas/gijon) [#taxus](/etiquetas/taxus) [#baladadelnorte](/etiquetas/baladadelnorte) [@dolmeneditorial](https://instagram.com/dolmeneditorial) [@astiberri_ediciones](https://instagram.com/astiberri_ediciones)

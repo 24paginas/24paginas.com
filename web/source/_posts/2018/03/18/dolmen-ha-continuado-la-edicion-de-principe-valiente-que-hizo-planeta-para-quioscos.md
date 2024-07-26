@@ -38,4 +38,4 @@ También han empezado a editar en Dolmen desde el principio (1937) en otro forma
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#principevaliente](/tags/principevaliente) [#princevaliant](/tags/princevaliant) [#halfoster](/tags/halfoster) [#planetadeagostini](/tags/planetadeagostini) [#planetadcomic](/tags/planetadcomic) [#dolmeneditorial](/tags/dolmeneditorial) [@dolmeneditorial](https://instagram.com/dolmeneditorial)
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#principevaliente](/etiquetas/principevaliente) [#princevaliant](/etiquetas/princevaliant) [#halfoster](/etiquetas/halfoster) [#planetadeagostini](/etiquetas/planetadeagostini) [#planetadcomic](/etiquetas/planetadcomic) [#dolmeneditorial](/etiquetas/dolmeneditorial) [@dolmeneditorial](https://instagram.com/dolmeneditorial)

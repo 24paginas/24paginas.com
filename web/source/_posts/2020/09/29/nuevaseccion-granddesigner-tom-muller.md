@@ -22,7 +22,7 @@ author: 24paginas
 
 {% gallery "120222667_194976975355751_1720500138861040955_n_17939209909396728.jpg" "120344623_401618927494391_3260497839423331253_n_17851629815302075.jpg" %}
 
-[#NUEVASECCION](/tags/nuevaseccion) [#GrandDesigner](/tags/granddesigner): Tom Muller.
+[#NUEVASECCION](/etiquetas/nuevaseccion) [#GrandDesigner](/etiquetas/granddesigner): Tom Muller.
 
 Como comentábamos en la reseña del libro de logos de Rian Hughes, creemos que hay una necesidad de poner en valor la labor de los diseñadores en el mundo del cómic. Aunque lo importante sea la historía (o para muchos el arte), el acabado de la obra varía mucho dependiendo del cariño y profesionalidad vertida en la edición de la obra. Sea una novela gráfica o una grapilla mensual.
 

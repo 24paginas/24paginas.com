@@ -18,7 +18,7 @@ author: 24paginas
 
 {% gallery "95433032_2808221769286110_3334920933108242815_n_17860465639842691.jpg" %}
 
-[#nuevonumero](/tags/nuevonumero): Como agua de mayo.
+[#nuevonumero](/etiquetas/nuevonumero): Como agua de mayo.
 
 Ya estamos más cerca de que las librerías vuelvan a abrir y que podamos volver a comprar cómics, mientras tanto seguimos con lecturas pendientes en nuestras pilas y relecturas.
 

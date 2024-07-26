@@ -31,10 +31,10 @@ Para colmo el dibujo de [@mahmudasrar](https://instagram.com/mahmudasrar) que a 
 
 Además el rediseño de uniformes no me termina de convencer. No son malos ni mucho menos, pero lo del logo en mitad del vientre no lo veo ni un poquito. Por otra parte creo que Tormenta es la que ha obtenido el mejor, clásico pero con un aire fresco que le va genial. En cambio lo de Namor no tiene nombre, con chistecito incluido. Y ya en el de Lobezna (que mal me suena en español), simplemente no hacía falta el cambio, pero si lo vas a cambiar al menos asegúrate de que funciona mejor que lo anterior( y si no es así, no toques, pa que tocas).
 
-Vamos, que lo mejor de este número es sin ninguna duda las magníficas portadas, tanto la de [#TravisCharest](/tags/travischarest), al que siempre se echa de menos, y la versión [#youngguns2018](/tags/youngguns2018) de nuestro idolatrado [@pepelarraz](https://instagram.com/pepelarraz). Bueno, vale, y la barba de Kurt, porque las barbas siempre BIEN.
+Vamos, que lo mejor de este número es sin ninguna duda las magníficas portadas, tanto la de [#TravisCharest](/etiquetas/travischarest), al que siempre se echa de menos, y la versión [#youngguns2018](/etiquetas/youngguns2018) de nuestro idolatrado [@pepelarraz](https://instagram.com/pepelarraz). Bueno, vale, y la barba de Kurt, porque las barbas siempre BIEN.
 
-Por suerte ha saltado ya la fantástica noticia de que en breve llegará a los lápices [@carmencarneroart](https://instagram.com/carmencarneroart) y desde esta, nuestra humilde parcelita de internet, estamos ya con el [#hypemodeon](/tags/hypemodeon).
+Por suerte ha saltado ya la fantástica noticia de que en breve llegará a los lápices [@carmencarneroart](https://instagram.com/carmencarneroart) y desde esta, nuestra humilde parcelita de internet, estamos ya con el [#hypemodeon](/etiquetas/hypemodeon).
 
-Y sólo por eso ya merece la pena continuar con la serie y rezar por que los guiones remonten. A ver si con [#extermination](/tags/extermination), el nuevo evento mutante que se viene, y del que ya se han visto cositas muy bonicas, hacen mesa limpia de una vez y levantan la franquicia mutante. Que le viene haciendo falta desde hace ya ni se sabe.
+Y sólo por eso ya merece la pena continuar con la serie y rezar por que los guiones remonten. A ver si con [#extermination](/etiquetas/extermination), el nuevo evento mutante que se viene, y del que ya se han visto cositas muy bonicas, hacen mesa limpia de una vez y levantan la franquicia mutante. Que le viene haciendo falta desde hace ya ni se sabe.
 
 ([@hecdruiz](https://instagram.com/hecdruiz)).

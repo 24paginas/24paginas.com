@@ -24,7 +24,7 @@ author: uncientovolando
 
 La Espada de las Eras | Avalon: El Imperio Contraataca.
 
-Casi un año hemos tenido que esperar desde que norma sacase el primer número de "La Espada de las Eras" dentro del [#diadelcomicgratis](/tags/diadelcomicgratis).
+Casi un año hemos tenido que esperar desde que norma sacase el primer número de "La Espada de las Eras" dentro del [#diadelcomicgratis](/etiquetas/diadelcomicgratis).
 Un coctel de fantasía y ciencia ficción que bebe de los mitos artúricos pero también de quienes se han inspirado en ellos, desde batallas épicas dignas de la Tierra Media a legados propios de Star Wars.
 
 Pero el punto fuerte del cómic está en el dibujo, el chileno Gabriel Rodríguez ([@gr_comics](https://instagram.com/gr_comics)) que hace que todo encaje a la perfección con un dibujo limpio y detallado, con cierto aroma a álbum de aventuras europeo potenciado por los colores de Lovern Kindzierski.

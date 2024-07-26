@@ -39,4 +39,4 @@ Vais a tener que convencerme en los comentarios de que esto mejora mucho, porque
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#manga](/tags/manga) [#24paginas](/tags/24paginas) [#takukuwabara](/tags/takukuwabara) [#driftingdragons](/tags/driftingdragons) [#milkywayediciones](/tags/milkywayediciones) [#k](/tags/k)ûteidragons
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#manga](/etiquetas/manga) [#24paginas](/etiquetas/24paginas) [#takukuwabara](/etiquetas/takukuwabara) [#driftingdragons](/etiquetas/driftingdragons) [#milkywayediciones](/etiquetas/milkywayediciones) [#k](/etiquetas/k)ûteidragons

@@ -31,4 +31,4 @@ Admito comentarios que me callen la boca si opináis distinto.
 
 ([@neverbot](https://instagram.com/neverbot))
 
-[#tebeos](/tags/tebeos) [#comics](/tags/comics) [#seth](/tags/seth) [#lavidaesbuenasinoterindes](/tags/lavidaesbuenasinoterindes) [#sinsentido](/tags/sinsentido) [#sins](/tags/sins)_entido
+[#tebeos](/etiquetas/tebeos) [#comics](/etiquetas/comics) [#seth](/etiquetas/seth) [#lavidaesbuenasinoterindes](/etiquetas/lavidaesbuenasinoterindes) [#sinsentido](/etiquetas/sinsentido) [#sins](/etiquetas/sins)_entido

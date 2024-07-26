@@ -26,7 +26,7 @@ author: uncientovolando
 
 {% gallery "101439874_300610217614084_2381278501600627821_n_18145675069058665.jpg" "102365963_251602216266040_255278282402241744_n_17881308115626221.jpg" "101780308_2715259248796799_2338030044928493921_n_17909896936445060.jpg" "102670593_845041916020988_2080106232187410081_n_17876375410683076.jpg" "101981308_169064117923522_2831903617167729766_n_17855725919022816.jpg" "101713840_2429087650716359_3303490257674998141_n_17872201612740249.jpg" "101412396_1430870737085070_1866536830816543006_n_17851285985083298.jpg" "101261076_283165779736662_2664905510378791538_n_17965351570314682.jpg" "101505749_888926781613781_237084273500538471_n_18031880014265385.jpg" "101945630_2686187361668453_3674420460650117598_n_18089931097168270.jpg" %}
 
-[#relecturasconfinadas](/tags/relecturasconfinadas): Daredevil, de Waid, Ribera, Martín, Samnee, Rodríguez y compañía.
+[#relecturasconfinadas](/etiquetas/relecturasconfinadas): Daredevil, de Waid, Ribera, Martín, Samnee, Rodríguez y compañía.
 
 El DD de Mark Waid, y esa INMENSA en cantidad y calidad lista de artistas, es desde que salió uno de mis lugares felices dentro de la ficción en viñetas. No soy un lector habitual de Daredevil, más allá de los clásicos de Miller, pero esta etapa fue directa a la lista de lecturas imprescindibles. .
 Puede que tenga que ver con el tono, esa visión (pun intended) más luminosa del héroe que no deja de lado sus rincones oscuros y la herencia de etapas anteriores. El "Matt feliz", aunque tenga algo de disfraz, me hace feliz a mí también. Es más humano, más cercano, quiere hacer las cosas bien, arreglar las cagadas que ha dejado por el camino.
@@ -40,4 +40,4 @@ Por el camino nos encontramos, además, con una galería espectacular de dibujan
 
 ([@uncientovolando](https://instagram.com/uncientovolando))
 
-[#comic](/tags/comic) [#marvel](/tags/marvel) [#daredevil](/tags/daredevil) [#mattmurdock](/tags/mattmurdock) [#sentidoradar](/tags/sentidoradar) [#eldiablodehellskitchen](/tags/eldiablodehellskitchen) [@paninicomicsespana](https://instagram.com/paninicomicsespana)
+[#comic](/etiquetas/comic) [#marvel](/etiquetas/marvel) [#daredevil](/etiquetas/daredevil) [#mattmurdock](/etiquetas/mattmurdock) [#sentidoradar](/etiquetas/sentidoradar) [#eldiablodehellskitchen](/etiquetas/eldiablodehellskitchen) [@paninicomicsespana](https://instagram.com/paninicomicsespana)

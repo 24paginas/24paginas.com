@@ -24,7 +24,7 @@ author: neverbot
 
 El 9 de Diciembre, le damos 9 grapas a Grant Morrison para que redefina el universo DC.
 
-En "El Multiverso" (Multiversity en inglés, cosa curiosa), [#Morrison](/tags/morrison) aprovechaba para contarnos cosas de aquí y de allá, con poca enjundia y poca cohesión, y juntándolo todo para redefinir (otra vez) el multiverso DC tras [#52](/tags/52) y [#New52](/tags/new52). Diseñó un mapa 'tó chulesco' donde tenían cabida todas las existencias, dimensiones, realidades y rarezas varias de la editorial DC y... tardaron cuatro telediarios en confirmar que en realidad también puede haber varios multiversos, y que ¡sorpresa! también hay cosas debajo del mapa (makes no sense). Y con todas las historias nacidas desde Metal, yo ya estoy completamente perdido.
+En "El Multiverso" (Multiversity en inglés, cosa curiosa), [#Morrison](/etiquetas/morrison) aprovechaba para contarnos cosas de aquí y de allá, con poca enjundia y poca cohesión, y juntándolo todo para redefinir (otra vez) el multiverso DC tras [#52](/etiquetas/52) y [#New52](/etiquetas/new52). Diseñó un mapa 'tó chulesco' donde tenían cabida todas las existencias, dimensiones, realidades y rarezas varias de la editorial DC y... tardaron cuatro telediarios en confirmar que en realidad también puede haber varios multiversos, y que ¡sorpresa! también hay cosas debajo del mapa (makes no sense). Y con todas las historias nacidas desde Metal, yo ya estoy completamente perdido.
 
 Una pena por un lado, porque a mi me encantan estas cosas del "worldbuilding" súper cohesionado, pero por otra parte al final hay más libertad para que cada uno cuente lo que le dé la gana con los personajes que quiera. Cuestión de gustos.
 
