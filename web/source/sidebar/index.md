@@ -5,7 +5,7 @@ date: 2022-02-20 11:56:47
 
 ### Otras cosas que pueden molar, o no
 
-- [![](/sidebar/banner-24s-por-el-mundo.jpg)](/articulos/veinticuatrosporelmundo) [Por el mundo](/articulos/veinticuatrosporelmundo)
+- [![](/sidebar/banner-24s-por-el-mundo.jpg)](/articulos/veinticuatros-por-el-mundo) [Por el mundo](/articulos/veinticuatros-por-el-mundo)
 
 - [![](/sidebar/banner-manga.jpg)](/etiquetas/manga) [Manga en 24páginas](/etiquetas/manga)
 
