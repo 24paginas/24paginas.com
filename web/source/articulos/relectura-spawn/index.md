@@ -32,6 +32,20 @@ Como detalles interesantes, aparecen ya **Sam y Twitch**, dos policías que comi
 
 {% endyear %}
 
+{% year "#16-18" "Spawn Reflejos" "12/93 #16 al 2/94 #18 (Image), 08/95 España (Planeta-DeAgostini/forum)" %}
+
+![spawn-reflejos](./index/spawn-reflejos.jpg){.left width=50%}
+
+La única vez que Spawn se ha publicado con el sello de cómics forum, o al menos eso creo recordar, ya que siempre se editó bajo el sello World Comics.
+
+Al llegar al número 16 de la serie regular, aprovechando una mínima etapa donde entró **Grant Morrison** a los guiones, un novato **Greg Capullo** empezaba con Spawn sustituyendo a McFarlane por primera vez desde el inicio de la serie.
+
+Las tres grapas que incluye nunca se han publicado de forma independiente en castellano, siempre en formato tomo, para mi desgracia como coleccionista.
+
+[Post original](/2019/06/08/para-el-viernesvintage-la-unica-vez-que-spawn-se-ha-publicado-con-el-sello-de-comics-forum/).
+
+{% endyear %}
+
 {% year "#22" "El mes X de Image" "10/94 #25 USA (Image), 02/96 España (Planeta-DeAgostini/World Comics)" %}
 
 ![Spawn #22](./index/spawn-22.jpg)
