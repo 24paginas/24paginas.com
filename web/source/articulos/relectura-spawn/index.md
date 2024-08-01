@@ -32,7 +32,19 @@ Como detalles interesantes, aparecen ya **Sam y Twitch**, dos policías que comi
 
 {% endyear %}
 
-{% year "#16-18" "Spawn Reflejos" "12/93 #16 al 2/94 #18 (Image), 08/95 España (Planeta-DeAgostini/forum)" %}
+{% year "#2-4" "Presentación del personaje" "7/92 #2 al 9/92 #4 USA (Image), 6/94 al 8/94 España (Planeta-DeAgostini/World Comics)" %}
+
+![Spawn 2, 3, 4](./index/spawn-2-3-4.jpg)
+
+Con los números 2, 3 y 4 terminaría la puesta en situación del personaje. Todd McFarlane nos presenta una guerra entre el cielo y el infierno, en la que Spawn ha sido reclutado por parte de estos últimos, y le han metido en una situación de la que va a tener difícil escapatoria.
+
+Ha vuelto a la vida con una serie de poderes que, cuando se agoten, producirán una segunda muerte y la definitiva pérdida de su alma. Y aquí empezamos a jugar.
+
+[Post original](/2024/08/01/relectura-de-spawn-termina-la-presentacion/).
+
+{% endyear %}
+
+{% year "#16-18" "Spawn Reflejos" "12/93 #16 al 2/94 #18 USA (Image), 08/95 España (Planeta-DeAgostini/forum)" %}
 
 ![spawn-reflejos](./index/spawn-reflejos.jpg){.left width=50%}
 
