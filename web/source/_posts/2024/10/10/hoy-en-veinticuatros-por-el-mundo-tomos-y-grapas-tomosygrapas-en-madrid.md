@@ -3,6 +3,8 @@ title: "Hoy, en veinticuatros por el mundo, Tomos y Grapas (@tomosygrapas) en Ma
 date: 2024-10-10 14:14:33
 media: 
   - 444224328.jpg
+  - 462535260.jpg
+  - 462436498.jpg
 tags: 
   - tomosygrapas
   - librerias
@@ -14,7 +16,7 @@ template: instagram
 author: neverbot
 ---
 
-{% gallery "444224328.jpg" %}
+{% gallery "444224328.jpg" "462535260.jpg" "462436498.jpg" %}
 
 Hoy, en veinticuatros por el mundo, Tomos y Grapas ([@tomosygrapas](https://instagram.com/tomosygrapas)) en Madrid.
 
