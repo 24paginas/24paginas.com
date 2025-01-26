@@ -10,3 +10,10 @@
   to = "https://24paginas.com/:splat"
   status = 301
   force = true
+
+# redirect tags -> etiquetas
+[[redirects]]
+  from = "https://24paginas.com/tags/*"
+  to = "https://24paginas.com/etiquetas/:splat"
+  status = 301
+  force = true
