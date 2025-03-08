@@ -58,7 +58,7 @@ Las tres grapas que incluye nunca se han publicado de forma independiente en cas
 
 {% endyear %}
 
-{% year "#22" "El mes X de Image" "10/94 #25 USA (Image), 02/96 España (Planeta-DeAgostini/World Comics)" %}
+{% year "#22" "El mes X de Image" "10/94 #25 USA (Image), 02/96 España (Planeta-DeAgostini/World Comics)" "last" %}
 
 ![Spawn #22](./index/spawn-22.jpg)
 
