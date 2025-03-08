@@ -60,6 +60,7 @@ export default [
         // for themes
         ...globals.browser,
         ...globals.jquery,
+        hexo: true,
       },
       parserOptions: {
         requireConfigFile: false,
