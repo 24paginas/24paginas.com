@@ -19,6 +19,7 @@
     "hexo-fontawesome": "github:hexojs/hexo-fontawesome",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
+    "hexo-gallery-slider": "^1.2.7",
     "hexo-generator-feed": "^4.0.0",
     "hexo-generator-index": "^4.0.0",
     "hexo-generator-sitemap": "^3.0.1",
