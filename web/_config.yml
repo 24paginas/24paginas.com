@@ -205,6 +205,6 @@ sitemap:
   template: ./sitemap_template.xml
   template_txt: ./sitemap_template.txt
   rel: true
-  tags: true
+  tags: false
   categories: true
   
