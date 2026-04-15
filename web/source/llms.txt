@@ -1,0 +1,21 @@
+# 24 páginas
+
+> Blog de cómics y tebeos en español. Reseñas, artículos y contenido sobre el mundo del cómic.
+
+24paginas.com es un blog en español dedicado al mundo del cómic, activo desde 2017. Incluye reseñas, artículos de opinión, calendarios de adviento temáticos y secciones dedicadas a autores y series.
+
+## Secciones
+
+- [Acerca de](https://24paginas.com/acerca-de/): Información sobre el blog
+- [Artículos](https://24paginas.com/articulos/): Artículos destacados y series especiales
+- [Archivo](https://24paginas.com/archives/): Archivo completo de entradas por fecha
+- [Categorías](https://24paginas.com/categorias/): Índice de categorías
+- [Etiquetas](https://24paginas.com/etiquetas/): Índice de etiquetas
+- [RSS](https://24paginas.com/atom.xml): Feed Atom/RSS
+- [Sitemap](https://24paginas.com/sitemap.xml): Mapa del sitio XML
+
+## Optional
+
+- [Manga](https://24paginas.com/etiquetas/manga/): Entradas sobre manga
+- [Relectura de Spawn](https://24paginas.com/articulos/relectura-spawn/): Serie de relectura del cómic Spawn
+- [Autor del mes](https://24paginas.com/etiquetas/autordelmes/): Sección destacando un autor de cómics cada mes
