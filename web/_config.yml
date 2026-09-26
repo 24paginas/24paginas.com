@@ -206,5 +206,5 @@ sitemap:
   template_txt: ./sitemap_template.txt
   rel: true
   tags: false
-  categories: true
+  categories: false
   
