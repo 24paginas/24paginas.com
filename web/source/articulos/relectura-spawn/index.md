@@ -3,7 +3,7 @@ title: Guía de lectura / relectura de Spawn
 date: 2024-07-27 10:27:07
 language:
 template: article
-tag: spawn
+tag:
 ---
 
 Empezamos relectura de Spawn. ¿Estamos locos? Estamos locos.
@@ -69,5 +69,3 @@ No había pasado mucho desde la fundación de Image, y tras crossovers, artistas
 {% endyear %}
 
 {% endtimeline %}
-
-Y, a partir de aquí, todos los *posts* etiquetados como **Spawn** que se han publicado en la web.
