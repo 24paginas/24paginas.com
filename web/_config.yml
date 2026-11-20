@@ -139,6 +139,8 @@ pagination_dir: page
 ## include:/exclude: options only apply to the 'source/' folder
 include:
 exclude:
+  # kept in the repo as a backup, not used by any page
+  - images/24p-first-banner.png
 ignore:
 
 # Extensions
