@@ -3,7 +3,7 @@ title: intro
 date: 2022-02-20 11:56:47
 ---
 
-{% base_asset_img logo-intro.png %}
+{% base_asset_img logo-intro.webp %}
 
 *{% fa_inline chevron-down fas %}*{ .chevron-down }
 
