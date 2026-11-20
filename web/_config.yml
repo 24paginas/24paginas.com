@@ -210,3 +210,13 @@ sitemap:
   tags: false
   categories: false
   
+# hexo-gallery-slider: texts for its buttons, the screen reader status and the
+# alt text it builds from the post title
+gallery_slider:
+  labels:
+    previous: Foto anterior
+    next: Foto siguiente
+    goTo: Ir a la foto {n}
+    position: foto {n} de {total}
+    enlarge: Ampliar foto
+    close: Cerrar
